@@ -1,0 +1,327 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: 4kmedia  [http://www.crunchyroll.com/user/4kmedia]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 480
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,EquitanSans-Regular,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,25,1
+Style: note,Arial,20,&H0014F2F5,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Yu-Gi-Oh Yellow,Trebuchet MS,28,&H0000FFFF,&H0000FFFF,&H00232323,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+Style: Yu-Gi-Oh,Trebuchet MS,28,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:11.40,0:00:19.83,Default,,0000,0000,0000,,A light so bright that it can’t be hidden\NBreaks the silence and resurrects in this world
+Dialogue: 0,0:00:21.45,0:00:30.84,Default,,0000,0000,0000,,The dry land quakes violently\NSparks clash as we risk our lives
+Dialogue: 0,0:00:32.19,0:00:38.39,Default,,0000,0000,0000,,Let a miracle occur, just one more time
+Dialogue: 0,0:00:38.39,0:00:45.44,Default,,0000,0000,0000,,The power to regain the pages of memories I lost long ago
+Dialogue: 0,0:00:46.35,0:00:53.65,Default,,0000,0000,0000,,The trusting heart pierces the darkness\NSearch for the place where the soul rests
+Dialogue: 0,0:00:53.65,0:00:59.71,Default,,0000,0000,0000,,The sharp glint in my unblinking eye burns
+Dialogue: 0,0:01:00.08,0:01:07.42,Default,,0000,0000,0000,,Two souls - light and shadow\NTo the future shown in the crystal
+Dialogue: 0,0:01:07.42,0:01:13.77,Default,,0000,0000,0000,,Now moving  Overflowing in red  eyes
+Dialogue: 0,0:01:27.44,0:01:35.13,Default,,0000,0000,0000,,Kaiba barged into the KC Grand Prix finals to duel Sieg for Kaiba Corporation’s honor.
+Dialogue: 0,0:01:35.36,0:01:39.78,Default,,0000,0000,0000,,He was cornered by the same Goddess combo that punished Jonouchi.
+Dialogue: 0,0:01:39.78,0:01:43.33,Default,,0000,0000,0000,,But Kaiba’s confidence never wavered.
+Dialogue: 0,0:01:43.33,0:01:47.28,Default,,0000,0000,0000,,In the end, he defeated Sieg with an overwhelming attack.
+Dialogue: 0,0:01:47.28,0:01:49.00,Default,,0000,0000,0000,,Like he always does.
+Dialogue: 0,0:01:51.04,0:01:57.05,Default,,0000,0000,0000,,Duel King Decider Match\NYugi vs Leon
+Dialogue: 0,0:02:01.93,0:02:07.94,Default,,0000,0000,0000,,I hate to see Kaiba win, but we can’t let that punk get what he wants.
+Dialogue: 0,0:02:07.94,0:02:12.94,Default,,0000,0000,0000,,He did all that for revenge.  How annoying.
+Dialogue: 0,0:02:13.31,0:02:16.69,Default,,0000,0000,0000,,He’s a great duelist.
+Dialogue: 0,0:02:16.69,0:02:19.95,Default,,0000,0000,0000,,So why did he resort to this?
+Dialogue: 0,0:02:21.86,0:02:23.45,Default,,0000,0000,0000,,My other self?
+Dialogue: 0,0:02:25.30,0:02:26.54,Default,,0000,0000,0000,,Kaiba…
+Dialogue: 0,0:02:26.54,0:02:32.13,Default,,0000,0000,0000,,You showed your fighting spirit in this duel.
+Dialogue: 0,0:02:32.13,0:02:36.09,Default,,0000,0000,0000,,Yugi, I got rid of the rat.
+Dialogue: 0,0:02:36.09,0:02:40.05,Default,,0000,0000,0000,,So you better have a duel worthy of the Duel King.
+Dialogue: 0,0:02:43.54,0:02:44.64,Default,,0000,0000,0000,,Big brother!
+Dialogue: 0,0:02:45.06,0:02:47.61,Default,,0000,0000,0000,,You’re awesome!
+Dialogue: 0,0:02:47.61,0:02:54.87,Default,,0000,0000,0000,,Now our rivals around the world know that it’s foolish to fight against Kaiba Corporation.
+Dialogue: 0,0:02:54.87,0:02:57.85,Default,,0000,0000,0000,,So it wasn’t a complete waste of time.
+Dialogue: 0,0:03:00.47,0:03:01.58,Default,,0000,0000,0000,,Isono!
+Dialogue: 0,0:03:02.29,0:03:04.94,Default,,0000,0000,0000,,Prepare Yugi’s duel immediately.
+Dialogue: 0,0:03:04.94,0:03:08.64,Default,,0000,0000,0000,,Yes, sir!  But what should we do about him?
+Dialogue: 0,0:03:08.64,0:03:10.18,Default,,0000,0000,0000,,Leave him.
+Dialogue: 0,0:03:10.18,0:03:12.67,Default,,0000,0000,0000,,He can’t do anything anymore!
+Dialogue: 0,0:03:18.95,0:03:19.84,Default,,0000,0000,0000,,Big brother!
+Dialogue: 0,0:03:21.19,0:03:25.26,Default,,0000,0000,0000,,Show him Kaiba Corporation’s success!
+Dialogue: 0,0:03:26.37,0:03:28.52,Default,,0000,0000,0000,,As a reintroduction...
+Dialogue: 0,0:03:28.52,0:03:34.49,Default,,0000,0000,0000,,The first king of Kaiba Corporation’s KC Grand Prix is...
+Dialogue: 0,0:03:36.46,0:03:38.23,Default,,0000,0000,0000,,Leon Wilson!
+Dialogue: 0,0:03:41.51,0:03:47.54,Default,,0000,0000,0000,,He’s been granted the highest honor given to any duelist!
+Dialogue: 0,0:03:48.07,0:03:52.34,Default,,0000,0000,0000,,The right to challenge the Duel King, Yugi Muto!
+Dialogue: 0,0:03:53.04,0:03:57.42,Default,,0000,0000,0000,,An intense battle is about to begin!
+Dialogue: 0,0:04:09.88,0:04:13.19,Default,,0000,0000,0000,,This is the final arena - Blue-Eyes Castle.
+Dialogue: 0,0:04:13.19,0:04:16.06,Default,,0000,0000,0000,,Wow!  We got VIP seats!
+Dialogue: 0,0:04:16.06,0:04:18.38,Default,,0000,0000,0000,,Are you sure, Mokuba?
+Dialogue: 0,0:04:18.38,0:04:21.37,Default,,0000,0000,0000,,You didn’t have to give us these seats.
+Dialogue: 0,0:04:21.37,0:04:22.20,Default,,0000,0000,0000,,I’m sure!
+Dialogue: 0,0:04:22.20,0:04:26.43,Default,,0000,0000,0000,,I put you in a lot of trouble, and you helped me out.
+Dialogue: 0,0:04:26.43,0:04:29.87,Default,,0000,0000,0000,,This is the best spot to cheer for Yugi.
+Dialogue: 0,0:04:29.87,0:04:31.72,Default,,0000,0000,0000,,Thank you, Mokuba.
+Dialogue: 0,0:04:31.72,0:04:33.71,Default,,0000,0000,0000,,It’s finally starting.
+Dialogue: 0,0:04:33.71,0:04:36.70,Default,,0000,0000,0000,,The battle to decide the true Duel King.
+Dialogue: 0,0:04:36.70,0:04:37.65,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:04:40.25,0:04:43.15,Default,,0000,0000,0000,,My other self, it’s time.
+Dialogue: 0,0:04:43.15,0:04:44.13,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:04:44.13,0:04:48.01,Default,,0000,0000,0000,,Since Leon is our opponent, it should be a fun duel.
+Dialogue: 0,0:04:49.12,0:04:52.41,Default,,0000,0000,0000,,Give it your all, and you’ll have no regrets.
+Dialogue: 0,0:04:58.65,0:05:00.32,Default,,0000,0000,0000,,Let’s go, partner!
+Dialogue: 0,0:05:35.31,0:05:40.19,Default,,0000,0000,0000,,Viewers worldwide, can you feel the excitement and passion?
+Dialogue: 0,0:05:40.19,0:05:44.07,Default,,0000,0000,0000,,And hear the cheers for both duelists?
+Dialogue: 0,0:05:44.07,0:05:49.06,Default,,0000,0000,0000,,The Duel King, Yugi Muto is making his entrance!
+Dialogue: 0,0:06:01.92,0:06:05.38,Default,,0000,0000,0000,,Yugi, I made it this far.
+Dialogue: 0,0:06:05.84,0:06:08.68,Default,,0000,0000,0000,,Dueling you is my dream.
+Dialogue: 0,0:06:08.68,0:06:13.31,Default,,0000,0000,0000,,I kept dueling so I could achieve this dream.
+Dialogue: 0,0:06:13.31,0:06:15.31,Default,,0000,0000,0000,,But today…
+Dialogue: 0,0:06:15.31,0:06:20.46,Default,,0000,0000,0000,,A historic duel to determine the Duel King will now begin!
+Dialogue: 0,0:06:20.46,0:06:23.27,Default,,0000,0000,0000,,Will the challenger Leon Wilson win?
+Dialogue: 0,0:06:23.27,0:06:25.94,Default,,0000,0000,0000,,Or will it be Yugi Muto?
+Dialogue: 0,0:06:28.99,0:06:30.57,Default,,0000,0000,0000,,Let’s have a great duel.
+Dialogue: 0,0:06:34.17,0:06:35.20,Default,,0000,0000,0000,,Leon?
+Dialogue: 0,0:06:38.57,0:06:40.61,Default,,0000,0000,0000,,Both duelists are in position.
+Dialogue: 0,0:06:40.61,0:06:44.92,Default,,0000,0000,0000,,And a special guest will start the duel!
+Dialogue: 0,0:06:44.92,0:06:46.51,Default,,0000,0000,0000,,Is it me?
+Dialogue: 0,0:06:46.51,0:06:49.55,Default,,0000,0000,0000,,Of course not!  It’s my big brother!
+Dialogue: 0,0:06:54.02,0:06:55.21,Default,,0000,0000,0000,,Kaiba...
+Dialogue: 0,0:06:56.01,0:07:02.65,Default,,0000,0000,0000,,The KC Grand Prix is brought to you by Kaiba Corporation.
+Dialogue: 0,0:07:02.65,0:07:06.78,Default,,0000,0000,0000,,Sheesh.  Kaiba is showing off again.
+Dialogue: 0,0:07:06.78,0:07:08.11,Default,,0000,0000,0000,,It’s only natural.
+Dialogue: 0,0:07:08.11,0:07:13.18,Default,,0000,0000,0000,,This duel tournament is an important event for Kaiba Corporation’s future.
+Dialogue: 0,0:07:13.18,0:07:18.16,Default,,0000,0000,0000,,But I think Kaiba would rather duel Yugi than stand up there.
+Dialogue: 0,0:07:18.16,0:07:23.82,Default,,0000,0000,0000,,Yeah.  My brother is more worthy of dueling Yugi than anyone else.
+Dialogue: 0,0:07:23.82,0:07:27.12,Default,,0000,0000,0000,,But he’s standing there for Kaiba Corporation-
+Dialogue: 0,0:07:27.12,0:07:30.84,Default,,0000,0000,0000,,No, he’s standing there for our dream.
+Dialogue: 0,0:07:30.84,0:07:35.35,Default,,0000,0000,0000,,You’re right.  As a duelist, I know how it feels to want to battle Yugi.
+Dialogue: 0,0:07:35.35,0:07:37.33,Default,,0000,0000,0000,,I want to duel him too.
+Dialogue: 0,0:07:37.33,0:07:41.23,Default,,0000,0000,0000,,But Leon was the one who won.
+Dialogue: 0,0:07:41.23,0:07:42.52,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:07:42.52,0:07:47.48,Default,,0000,0000,0000,,For all the duelists who lost, I want him to do his best.
+Dialogue: 0,0:07:47.48,0:07:52.74,Default,,0000,0000,0000,,Among the duelists chosen worldwide, these two survived their fierce battles!
+Dialogue: 0,0:07:52.74,0:07:56.59,Default,,0000,0000,0000,,You should feel honored to be standing here!
+Dialogue: 0,0:07:56.59,0:08:03.17,Default,,0000,0000,0000,,Show the world a battle worthy of the Duel King title!
+Dialogue: 0,0:08:03.17,0:08:06.13,Default,,0000,0000,0000,,Now seize victory!
+Dialogue: 0,0:08:06.13,0:08:09.21,Default,,0000,0000,0000,,Start the duel!
+Dialogue: 0,0:08:09.21,0:08:10.67,Default,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:08:13.47,0:08:14.84,Default,,0000,0000,0000,,I go first!
+Dialogue: 0,0:08:14.84,0:08:16.51,Default,,0000,0000,0000,,I draw!
+Dialogue: 0,0:08:16.51,0:08:20.18,Default,,0000,0000,0000,,I summon Forest Wolf in attack position!
+Dialogue: 0,0:08:23.41,0:08:24.97,Default,,0000,0000,0000,,Forest Wolf?
+Dialogue: 0,0:08:24.97,0:08:26.38,Default,,0000,0000,0000,,What kind of card is that?
+Dialogue: 0,0:08:26.38,0:08:27.23,Default,,0000,0000,0000,,It’s...
+Dialogue: 0,0:08:29.39,0:08:30.83,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:08:30.83,0:08:32.20,Default,,0000,0000,0000,,My turn!
+Dialogue: 0,0:08:32.20,0:08:33.39,Default,,0000,0000,0000,,I draw!
+Dialogue: 0,0:08:33.85,0:08:36.75,Default,,0000,0000,0000,,I activate a spell card from my hand!
+Dialogue: 0,0:08:36.75,0:08:38.17,Default,,0000,0000,0000,,Polymerization!
+Dialogue: 0,0:08:39.27,0:08:42.29,Default,,0000,0000,0000,,I Fusion Summon using two monsters in my hand!
+Dialogue: 0,0:08:42.29,0:08:47.15,Default,,0000,0000,0000,,I fuse Gazelle the King of Mythical Beasts and Berfomet!
+Dialogue: 0,0:08:49.63,0:08:53.17,Default,,0000,0000,0000,,I summon Chimera the Flying Mythical Beast!
+Dialogue: 0,0:08:53.17,0:08:56.05,Default,,0000,0000,0000,,Chimera attacks Forest Wolf!
+Dialogue: 0,0:09:03.52,0:09:06.27,Default,,0000,0000,0000,,Nice!  Yugi got the first hit!
+Dialogue: 0,0:09:07.16,0:09:08.85,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:09:08.85,0:09:11.07,Default,,0000,0000,0000,,Yugi, you really are incredible.
+Dialogue: 0,0:09:12.07,0:09:16.67,Default,,0000,0000,0000,,Now that I’m actually dueling you, I sense your overwhelming strength.
+Dialogue: 0,0:09:16.67,0:09:21.03,Default,,0000,0000,0000,,I’ve admired you and dreamed of dueling you.
+Dialogue: 0,0:09:21.03,0:09:25.21,Default,,0000,0000,0000,,Though this isn’t how I pictured it, my dream has come true!
+Dialogue: 0,0:09:25.21,0:09:28.04,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:09:28.04,0:09:30.99,Default,,0000,0000,0000,,I summon Little Red Riding Hood in defense position!
+Dialogue: 0,0:09:35.03,0:09:36.45,Default,,0000,0000,0000,,How cute!
+Dialogue: 0,0:09:36.45,0:09:39.64,Default,,0000,0000,0000,,Leon’s deck has a lot of cards like that.
+Dialogue: 0,0:09:39.64,0:09:42.61,Default,,0000,0000,0000,,Yeah.  It’s like a Fairy Tale Deck.
+Dialogue: 0,0:09:42.61,0:09:45.47,Default,,0000,0000,0000,,It may look cute, but don’t let that fool you!
+Dialogue: 0,0:09:45.47,0:09:47.06,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:09:47.06,0:09:51.15,Default,,0000,0000,0000,,You can’t understand unless you dueled him.
+Dialogue: 0,0:09:51.15,0:09:52.36,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:09:52.36,0:09:55.32,Default,,0000,0000,0000,,What?  He’s not setting a card?
+Dialogue: 0,0:09:55.32,0:09:57.18,Default,,0000,0000,0000,,Something’s not right.
+Dialogue: 0,0:09:57.18,0:10:00.41,Default,,0000,0000,0000,,He’s acting different than in our duel.
+Dialogue: 0,0:10:00.41,0:10:02.12,Default,,0000,0000,0000,,Leon Wilson…
+Dialogue: 0,0:10:03.27,0:10:07.24,Default,,0000,0000,0000,,I watched all the duelists, so I’ve seen his duels.
+Dialogue: 0,0:10:07.24,0:10:10.15,Default,,0000,0000,0000,,Something’s different about him now.
+Dialogue: 0,0:10:10.15,0:10:13.67,Default,,0000,0000,0000,,Has he been holding back this entire time?
+Dialogue: 0,0:10:13.67,0:10:16.42,Default,,0000,0000,0000,,What’s going on with Leon?
+Dialogue: 0,0:10:17.97,0:10:19.39,Default,,0000,0000,0000,,Partner?
+Dialogue: 0,0:10:19.40,0:10:23.40,Default,,0000,0000,0000,,He’s been enjoying his duel so far, but now…
+Dialogue: 0,0:10:23.40,0:10:26.18,Default,,0000,0000,0000,,Yeah.  Something’s different.
+Dialogue: 0,0:10:27.11,0:10:31.73,Default,,0000,0000,0000,,When Leon was enjoying his duels, he wasn’t making those eyes.
+Dialogue: 0,0:10:31.73,0:10:34.48,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:10:39.19,0:10:40.78,Default,,0000,0000,0000,,What’s this?
+Dialogue: 0,0:10:40.78,0:10:42.53,Default,,0000,0000,0000,,It can’t be!
+Dialogue: 0,0:10:42.53,0:10:46.07,Default,,0000,0000,0000,,I must inform Master Seto immediately!
+Dialogue: 0,0:11:10.72,0:11:15.39,Default,,0000,0000,0000,,I summon Obnoxious Celtic Guard in attack position!
+Dialogue: 0,0:11:20.49,0:11:24.19,Default,,0000,0000,0000,,Obnoxious Celtic Guard attacks Little Red Riding Hood!
+Dialogue: 0,0:11:34.34,0:11:37.84,Default,,0000,0000,0000,,Nice!  Yugi landed another attack!
+Dialogue: 0,0:11:38.30,0:11:42.03,Default,,0000,0000,0000,,I feel bad for Leon, but this’ll be over soon!
+Dialogue: 0,0:11:42.03,0:11:43.97,Default,,0000,0000,0000,,It won’t be that easy.
+Dialogue: 0,0:11:45.08,0:11:48.42,Default,,0000,0000,0000,,Leon’s monsters all have effects.
+Dialogue: 0,0:11:48.42,0:11:50.99,Default,,0000,0000,0000,,Little Red Riding Hood’s effect activates!
+Dialogue: 0,0:11:51.64,0:11:58.82,Default,,0000,0000,0000,,When it’s destroyed in battle, I can Special Summon a Level 4 or lower Warrior!
+Dialogue: 0,0:11:58.82,0:12:03.12,Default,,0000,0000,0000,,I summon Forest Hunter in attack position!
+Dialogue: 0,0:12:04.22,0:12:07.77,Default,,0000,0000,0000,,When Forest Hunter is summoned...
+Dialogue: 0,0:12:07.77,0:12:13.78,Default,,0000,0000,0000,,...I can remove one Beast or Beast-Warrior from play!
+Dialogue: 0,0:12:15.40,0:12:16.09,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:12:16.09,0:12:20.72,Default,,0000,0000,0000,,Forest Hunter, remove Chimera from play!
+Dialogue: 0,0:12:24.76,0:12:26.05,Default,,0000,0000,0000,,Fire!
+Dialogue: 0,0:12:33.51,0:12:34.79,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:12:34.79,0:12:39.62,Default,,0000,0000,0000,,I told you that Leon’s deck has powers we don’t know about.
+Dialogue: 0,0:12:39.62,0:12:43.78,Default,,0000,0000,0000,,And he’s acting different than when he dueled me.
+Dialogue: 0,0:12:43.78,0:12:45.58,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:12:45.58,0:12:48.24,Default,,0000,0000,0000,,Maybe he’s just nervous.
+Dialogue: 0,0:12:48.24,0:12:52.66,Default,,0000,0000,0000,,When he dueled me, he was enjoying the duel.
+Dialogue: 0,0:12:52.66,0:12:58.84,Default,,0000,0000,0000,,But he’s not having fun now, even though he’s getting to duel Yugi.
+Dialogue: 0,0:12:59.28,0:13:01.30,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:13:01.30,0:13:02.92,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:13:04.12,0:13:10.04,Default,,0000,0000,0000,,It was my dream to duel you, a true duelist that I admire.
+Dialogue: 0,0:13:10.04,0:13:15.94,Default,,0000,0000,0000,,But I’m now dueling you to fulfill my mission!
+Dialogue: 0,0:13:16.71,0:13:18.11,Default,,0000,0000,0000,,His mission?
+Dialogue: 0,0:13:18.52,0:13:20.59,Default,,0000,0000,0000,,Big trouble, Master Seto!
+Dialogue: 0,0:13:20.59,0:13:22.00,Default,,0000,0000,0000,,Look at this!
+Dialogue: 0,0:13:23.08,0:13:27.83,Default,,0000,0000,0000,,I kept running background checks on our duelists and found this!
+Dialogue: 0,0:13:28.37,0:13:29.97,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:13:29.97,0:13:32.50,Default,,0000,0000,0000,,So you finally know, Kaiba.
+Dialogue: 0,0:13:33.65,0:13:36.14,Default,,0000,0000,0000,,So this is your doing, Sieg.
+Dialogue: 0,0:13:36.14,0:13:39.34,Default,,0000,0000,0000,,Yes.  Everything is going as planned.
+Dialogue: 0,0:13:39.34,0:13:44.84,Default,,0000,0000,0000,,Another child of the Schroeders entered under a false name.
+Dialogue: 0,0:13:46.26,0:13:51.72,Default,,0000,0000,0000,,Yes.  He’s my brother and a dueling prodigy.
+Dialogue: 0,0:13:52.40,0:13:54.77,Default,,0000,0000,0000,,Leonheart von Schroeder.
+Dialogue: 0,0:13:55.27,0:13:58.18,Default,,0000,0000,0000,,Leon, playtime is over!
+Dialogue: 0,0:13:58.18,0:14:00.77,Default,,0000,0000,0000,,Show them your true power!
+Dialogue: 0,0:14:00.77,0:14:02.73,Default,,0000,0000,0000,,Okay, brother!
+Dialogue: 0,0:14:02.73,0:14:04.10,Default,,0000,0000,0000,,Brother?
+Dialogue: 0,0:14:04.10,0:14:06.53,Default,,0000,0000,0000,,Leon, what’s going on?
+Dialogue: 0,0:14:07.00,0:14:08.49,Default,,0000,0000,0000,,Leon…
+Dialogue: 0,0:14:08.49,0:14:13.50,Default,,0000,0000,0000,,You were satisfied with beating me, so you forgot to follow through.
+Dialogue: 0,0:14:13.50,0:14:17.04,Default,,0000,0000,0000,,But I had another plan ready.
+Dialogue: 0,0:14:17.04,0:14:23.01,Default,,0000,0000,0000,,Kaiba Corporation put a lot of work into this event, and the whole world is watching.
+Dialogue: 0,0:14:23.01,0:14:28.26,Default,,0000,0000,0000,,And my brother Leonheart will defeat the Duel King, Yugi Muto.
+Dialogue: 0,0:14:28.26,0:14:31.32,Default,,0000,0000,0000,,What will the viewers think?
+Dialogue: 0,0:14:31.32,0:14:36.13,Default,,0000,0000,0000,,They’ll never forget about the Schroeders.
+Dialogue: 0,0:14:36.13,0:14:41.40,Default,,0000,0000,0000,,And soon, Schroeder Company will announce its newest game.
+Dialogue: 0,0:14:42.61,0:14:48.82,Default,,0000,0000,0000,,Since everyone will know about the Schroeders, they’ll buy our new game!
+Dialogue: 0,0:14:48.82,0:14:53.25,Default,,0000,0000,0000,,So you’re stealing my company’s strategy.
+Dialogue: 0,0:14:54.53,0:14:58.16,Default,,0000,0000,0000,,You finally understand my plan, Kaiba.
+Dialogue: 0,0:14:58.16,0:15:02.88,Default,,0000,0000,0000,,I didn’t care if I win or lose a duel.
+Dialogue: 0,0:15:02.88,0:15:08.42,Default,,0000,0000,0000,,As long as I prove that I’m a greater businessman than you.
+Dialogue: 0,0:15:08.42,0:15:11.42,Default,,0000,0000,0000,,Stop insulting dueling!
+Dialogue: 0,0:15:11.42,0:15:12.87,Default,,0000,0000,0000,,You’re the worst!
+Dialogue: 0,0:15:12.87,0:15:15.23,Default,,0000,0000,0000,,Master Seto, shall we stop the duel?
+Dialogue: 0,0:15:15.23,0:15:20.18,Default,,0000,0000,0000,,You can’t disqualify Leonheart, like you did with me.
+Dialogue: 0,0:15:20.18,0:15:22.40,Default,,0000,0000,0000,,This duel has already begun.
+Dialogue: 0,0:15:22.40,0:15:27.14,Default,,0000,0000,0000,,If you stop it, the KC Grand Prix fails during its main event.
+Dialogue: 0,0:15:27.14,0:15:29.44,Default,,0000,0000,0000,,You’ll lose face.
+Dialogue: 0,0:15:29.44,0:15:32.87,Default,,0000,0000,0000,,Even though I would prefer that.
+Dialogue: 0,0:15:36.70,0:15:39.74,Default,,0000,0000,0000,,It’s going as planned?  You fool!
+Dialogue: 0,0:15:40.44,0:15:45.97,Default,,0000,0000,0000,,Yugi Muto is the only person in the world that I acknowledge to be my rival!
+Dialogue: 0,0:15:45.97,0:15:49.01,Default,,0000,0000,0000,,Your brother has no chance to defeat him!
+Dialogue: 0,0:15:49.01,0:15:54.05,Default,,0000,0000,0000,,And your plan fails if Yugi doesn’t lose.
+Dialogue: 0,0:15:54.05,0:15:59.77,Default,,0000,0000,0000,,And I’m the only duelist who can defeat Yugi!
+Dialogue: 0,0:16:00.74,0:16:02.55,Default,,0000,0000,0000,,Such confidence.
+Dialogue: 0,0:16:02.55,0:16:03.65,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:16:03.65,0:16:05.06,Default,,0000,0000,0000,,That’s Kaiba for you.
+Dialogue: 0,0:16:05.06,0:16:07.73,Default,,0000,0000,0000,,Continue the duel!
+Dialogue: 0,0:16:07.73,0:16:13.07,Default,,0000,0000,0000,,You can stand here and watch your plan fail!
+Dialogue: 0,0:16:13.60,0:16:18.33,Default,,0000,0000,0000,,Yugi, I won’t allow you to lose to any duelist, other than me.
+Dialogue: 0,0:16:18.99,0:16:20.12,Default,,0000,0000,0000,,Kaiba…
+Dialogue: 0,0:16:20.12,0:16:21.89,Default,,0000,0000,0000,,Leonheart!
+Dialogue: 0,0:16:21.89,0:16:25.97,Default,,0000,0000,0000,,As a proud Schroeder, and as my brother…
+Dialogue: 0,0:16:25.97,0:16:28.38,Default,,0000,0000,0000,,Defeat Yugi Muto!
+Dialogue: 0,0:16:28.38,0:16:32.26,Default,,0000,0000,0000,,Live up to my parents’ expectations!
+Dialogue: 0,0:16:33.06,0:16:34.76,Default,,0000,0000,0000,,I know, brother.
+Dialogue: 0,0:16:34.76,0:16:37.14,Default,,0000,0000,0000,,Here I come, Yugi!
+Dialogue: 0,0:16:37.14,0:16:44.64,Default,,0000,0000,0000,,Leon...  I don’t think he always intended to deceive us.
+Dialogue: 0,0:16:44.64,0:16:46.40,Default,,0000,0000,0000,,Neither do I.
+Dialogue: 0,0:16:47.06,0:16:50.59,Default,,0000,0000,0000,,Leon!  Is this really what you want?
+Dialogue: 0,0:16:50.59,0:16:53.45,Default,,0000,0000,0000,,Is this the duel you wanted?
+Dialogue: 0,0:16:53.45,0:16:56.70,Default,,0000,0000,0000,,Aren’t you a true duelist?
+Dialogue: 0,0:16:56.70,0:16:59.35,Default,,0000,0000,0000,,Don’t let him trick you, Leonheart!
+Dialogue: 0,0:16:59.35,0:17:02.44,Default,,0000,0000,0000,,Defeat Yugi Muto with all your might!
+Dialogue: 0,0:17:02.44,0:17:08.29,Default,,0000,0000,0000,,When you win, you’ll be recognized as a true Schroeder!
+Dialogue: 0,0:17:08.29,0:17:11.09,Default,,0000,0000,0000,,Mother will be so happy!
+Dialogue: 0,0:17:11.09,0:17:13.22,Default,,0000,0000,0000,,Don’t forget that!
+Dialogue: 0,0:17:13.66,0:17:14.34,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:17:14.34,0:17:15.91,Default,,0000,0000,0000,,Leon...
+Dialogue: 0,0:17:15.91,0:17:19.18,Default,,0000,0000,0000,,Yugi, I understand what you’re saying.
+Dialogue: 0,0:17:19.18,0:17:22.72,Default,,0000,0000,0000,,I did become a duelist because I looked up to you.
+Dialogue: 0,0:17:22.72,0:17:25.70,Default,,0000,0000,0000,,But I want to help my brother!
+Dialogue: 0,0:17:25.70,0:17:30.83,Default,,0000,0000,0000,,After never having a place among the Schroeders, my brother now needs me.
+Dialogue: 0,0:17:30.83,0:17:33.58,Default,,0000,0000,0000,,That’s why I...
+Dialogue: 0,0:17:34.76,0:17:39.28,Default,,0000,0000,0000,,Sieg!  Siegfried, your tutor’s waiting.
+Dialogue: 0,0:17:39.91,0:17:41.42,Default,,0000,0000,0000,,Brother!
+Dialogue: 0,0:17:41.79,0:17:42.91,Default,,0000,0000,0000,,Teach me this!
+Dialogue: 0,0:17:42.91,0:17:44.45,Default,,0000,0000,0000,,Brother-
+Dialogue: 0,0:17:44.91,0:17:47.12,Default,,0000,0000,0000,,No, Leonheart.
+Dialogue: 0,0:17:47.12,0:17:50.24,Default,,0000,0000,0000,,Siegfried has to study.
+Dialogue: 0,0:17:50.24,0:17:50.88,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:17:50.88,0:17:58.50,Default,,0000,0000,0000,,Siegfried, carry on the Schroeder name and restore our honor.
+Dialogue: 0,0:17:58.50,0:18:00.42,Default,,0000,0000,0000,,Yes, Mother.
+Dialogue: 0,0:18:00.42,0:18:05.56,Default,,0000,0000,0000,,Leonheart, don’t distract Siegfried.  Understood?
+Dialogue: 0,0:18:06.35,0:18:08.14,Default,,0000,0000,0000,,Okay, Mother.
+Dialogue: 0,0:18:08.77,0:18:13.50,Default,,0000,0000,0000,,My brother was the hope for our family.
+Dialogue: 0,0:18:13.50,0:18:17.76,Default,,0000,0000,0000,,And he had the talent to live up to those expectations.
+Dialogue: 0,0:18:18.48,0:18:25.33,Default,,0000,0000,0000,,I was proud of my brother, but I couldn’t do anything for him.
+Dialogue: 0,0:18:28.66,0:18:34.38,Default,,0000,0000,0000,,But when I learned about Duel Monsters, it changed my life.
+Dialogue: 0,0:18:34.38,0:18:40.05,Default,,0000,0000,0000,,I was fixated on my favorite fairy tale cards and Yugi’s duels.
+Dialogue: 0,0:18:40.09,0:18:45.81,Default,,0000,0000,0000,,What I only imagined was now reality.
+Dialogue: 0,0:18:58.11,0:19:04.29,Default,,0000,0000,0000,,The more I learned about duels, the more I fell in love with this wonderful world.
+Dialogue: 0,0:19:04.29,0:19:05.38,Default,,0000,0000,0000,,I draw!
+Dialogue: 0,0:19:18.22,0:19:21.72,Default,,0000,0000,0000,,Leon Wilson wins!
+Dialogue: 0,0:19:29.02,0:19:30.36,Default,,0000,0000,0000,,Brother!
+Dialogue: 0,0:19:30.36,0:19:32.40,Default,,0000,0000,0000,,I-I can explain...
+Dialogue: 0,0:19:32.40,0:19:36.75,Default,,0000,0000,0000,,I know you’ve been entering tournaments for a while.
+Dialogue: 0,0:19:36.75,0:19:44.20,Default,,0000,0000,0000,,You used a computer to hack data and create a fake name and background.
+Dialogue: 0,0:19:44.20,0:19:45.91,Default,,0000,0000,0000,,I checked you out.
+Dialogue: 0,0:19:45.91,0:19:47.94,Default,,0000,0000,0000,,I-I’m sorry.
+Dialogue: 0,0:19:47.94,0:19:50.72,Default,,0000,0000,0000,,I wanted to be a duelist!
+Dialogue: 0,0:19:50.72,0:19:54.59,Default,,0000,0000,0000,,But if asked our parents, they’d object.
+Dialogue: 0,0:19:54.59,0:19:57.42,Default,,0000,0000,0000,,I’m not angry.
+Dialogue: 0,0:19:58.14,0:20:02.96,Default,,0000,0000,0000,,In fact, I’m happy that I have a wonderful brother.
+Dialogue: 0,0:20:03.68,0:20:09.14,Default,,0000,0000,0000,,Leonheart, you have exceptional computer and hacking skills.
+Dialogue: 0,0:20:09.14,0:20:14.31,Default,,0000,0000,0000,,But what the Schroeders need even more is your dueling talent.
+Dialogue: 0,0:20:14.71,0:20:16.82,Default,,0000,0000,0000,,You need me?
+Dialogue: 0,0:20:17.28,0:20:22.45,Default,,0000,0000,0000,,Yes.  It’s time to use your strength to help the Schroeders.
+Dialogue: 0,0:20:22.45,0:20:25.06,Default,,0000,0000,0000,,Brother, I’ll do anything!
+Dialogue: 0,0:20:25.06,0:20:28.44,Default,,0000,0000,0000,,Anything to help you!
+Dialogue: 0,0:20:36.69,0:20:43.18,Default,,0000,0000,0000,,So to help my brother, I’ll defeat you, Yugi!
+Dialogue: 0,0:20:43.18,0:20:44.14,Default,,0000,0000,0000,,Leon…
+Dialogue: 0,0:20:44.78,0:20:47.98,Default,,0000,0000,0000,,This doesn’t feel right.
+Dialogue: 0,0:20:47.98,0:20:51.91,Default,,0000,0000,0000,,My other self, I don’t want to duel him.
+Dialogue: 0,0:20:51.91,0:20:53.77,Default,,0000,0000,0000,,But Leon means business.
+Dialogue: 0,0:20:53.77,0:20:56.27,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:20:56.27,0:21:00.29,Default,,0000,0000,0000,,I summon Iron Hans in attack position!
+Dialogue: 0,0:21:00.92,0:21:08.13,Default,,0000,0000,0000,,When it’s summoned, I can Special Summon Iron Knight from my deck!
+Dialogue: 0,0:21:09.31,0:21:10.63,Default,,0000,0000,0000,,Just watch.
+Dialogue: 0,0:21:10.63,0:21:15.62,Default,,0000,0000,0000,,If my brother needs me, I’ll win for him!
+Dialogue: 0,0:21:16.28,0:21:18.38,Default,,0000,0000,0000,,I Special Summon Iron Knight!
+Dialogue: 0,0:21:25.38,0:21:27.80,Default,,0000,0000,0000,,Good, Leonheart.
+Dialogue: 0,0:21:30.68,0:21:32.65,Default,,0000,0000,0000,,Let’s fight!
+Dialogue: 0,0:21:53.56,0:22:08.18,Default,,0000,0000,0000,,Right now, we don’t need a map
+Dialogue: 0,0:22:08.34,0:22:23.90,Default,,0000,0000,0000,,The miracle that tore through the darkness is in my hand
+Dialogue: 0,0:22:24.62,0:22:29.74,Default,,0000,0000,0000,,Without a goal in mind
+Dialogue: 0,0:22:31.06,0:22:38.31,Default,,0000,0000,0000,,We just step towards our dream
+Dialogue: 0,0:22:38.70,0:22:43.95,Default,,0000,0000,0000,,EYE’S  As you sense it
+Dialogue: 0,0:22:44.14,0:22:52.42,Default,,0000,0000,0000,,Your eye will find it
+Dialogue: 0,0:22:52.78,0:22:58.23,Default,,0000,0000,0000,,Oh! EYE’S  What you wish for
+Dialogue: 0,0:22:59.02,0:23:06.37,Default,,0000,0000,0000,,Will touch your soul
+Dialogue: 0,0:23:06.56,0:23:09.63,Default,,0000,0000,0000,,In a duel
+Dialogue: 0,0:23:17.85,0:23:22.63,Default,,0000,0000,0000,,It’s the climax of the KC Grand Prix to determine the Duel King!
+Dialogue: 0,0:23:22.63,0:23:27.34,Default,,0000,0000,0000,,I can’t believe Leon is Sieg’s brother!
+Dialogue: 0,0:23:27.34,0:23:32.55,Default,,0000,0000,0000,,He was having fun dueling, but he’s now hostile towards Yugi.
+Dialogue: 0,0:23:32.55,0:23:35.56,Default,,0000,0000,0000,,Is this really what you want, Leon?
+Dialogue: 0,0:23:35.56,0:23:40.90,Default,,0000,0000,0000,,And what’s that card he received from Sieg?
+Dialogue: 0,0:23:40.90,0:23:44.43,Default,,0000,0000,0000,,Next time on Yu-Gi-Oh!:\NGolden Castle of Stromberg
+Dialogue: 0,0:23:44.43,0:23:45.92,Default,,0000,0000,0000,,Duel, standby!
+Dialogue: 0,0:23:45.92,0:23:47.92,Default,,0000,0000,0000,,

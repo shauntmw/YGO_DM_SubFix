@@ -1,0 +1,290 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: 4kmedia  [http://www.crunchyroll.com/user/4kmedia]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 480
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,EquitanSans-Regular,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,25,1
+Style: note,Arial,20,&H0014F2F5,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Yu-Gi-Oh Yellow,Trebuchet MS,28,&H0000FFFF,&H0000FFFF,&H00232323,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+Style: Yu-Gi-Oh,Trebuchet MS,28,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:17.41,0:00:23.48,Default,,0000,0000,0000,,Before I knew it, I abandoned happiness to survive
+Dialogue: 0,0:00:24.15,0:00:30.62,Default,,0000,0000,0000,,Lying to myself, I danced clinging on to illusions
+Dialogue: 0,0:00:31.30,0:00:37.05,Default,,0000,0000,0000,,At the edge of my vision when I close my eyes
+Dialogue: 0,0:00:37.70,0:00:43.06,Default,,0000,0000,0000,,I was searching for your smile
+Dialogue: 0,0:00:44.23,0:00:50.64,Default,,0000,0000,0000,,With our memories fading
+Dialogue: 0,0:00:51.15,0:00:57.72,Default,,0000,0000,0000,,We hold on to our dreams and run  Yeah
+Dialogue: 0,0:00:58.12,0:01:04.62,Default,,0000,0000,0000,,These feelings that I shut away in my heart
+Dialogue: 0,0:01:05.21,0:01:11.92,Default,,0000,0000,0000,,I’ll now grasp them again
+Dialogue: 0,0:01:30.36,0:01:32.90,Default,,0000,0000,0000,,Yugi, why aren’t you attacking?
+Dialogue: 0,0:01:32.90,0:01:38.20,Default,,0000,0000,0000,,You’re playing into Dartz’s hands if you feel bad for your Mirror Knight friends!
+Dialogue: 0,0:01:38.72,0:01:46.33,Default,,0000,0000,0000,,You know that if we lose, your friends nor the world have a future!
+Dialogue: 0,0:01:46.33,0:01:50.00,Default,,0000,0000,0000,,What?  The third Seal of Orichalcos?
+Dialogue: 0,0:01:50.00,0:01:52.60,Default,,0000,0000,0000,,It’ll activate its true power?
+Dialogue: 0,0:01:54.05,0:02:00.05,Default,,0000,0000,0000,,The Three Seals of Orichalcos
+Dialogue: 0,0:02:05.06,0:02:07.03,Default,,0000,0000,0000,,Orichalcos Tritos!
+Dialogue: 0,0:02:07.03,0:02:11.77,Default,,0000,0000,0000,,This card will complete The Seal of Orichalcos!
+Dialogue: 0,0:02:18.98,0:02:21.86,Default,,0000,0000,0000,,The third Seal of Orichalcos...
+Dialogue: 0,0:02:22.66,0:02:28.85,Default,,0000,0000,0000,,Orichalcos Deuteros’s effect restores my life points!
+Dialogue: 0,0:02:30.91,0:02:33.20,Default,,0000,0000,0000,,Dartz regained life points again!
+Dialogue: 0,0:02:33.60,0:02:37.81,Default,,0000,0000,0000,,Orichalcos Malevolence activates its effect!
+Dialogue: 0,0:02:41.75,0:02:49.46,Default,,0000,0000,0000,,Orichalcos Malevolence’s effect switches your monster from defense to attack position.
+Dialogue: 0,0:02:49.46,0:02:50.59,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:02:50.59,0:02:51.61,Default,,0000,0000,0000,,Kaiba!
+Dialogue: 0,0:02:51.95,0:02:54.73,Default,,0000,0000,0000,,Orichalcos Malevolence attacks!
+Dialogue: 0,0:02:55.68,0:02:57.89,Default,,0000,0000,0000,,If Kaiba takes this attack...
+Dialogue: 0,0:02:57.89,0:02:59.86,Default,,0000,0000,0000,,…his life points will...
+Dialogue: 0,0:03:00.15,0:03:03.39,Default,,0000,0000,0000,,I activate my spell card, Shrink!
+Dialogue: 0,0:03:08.66,0:03:15.38,Default,,0000,0000,0000,,Orichalcos Tritos negates spell and trap cards used against my monsters.
+Dialogue: 0,0:03:15.78,0:03:20.22,Default,,0000,0000,0000,,Seto, your silly tricks won’t work on me anymore.
+Dialogue: 0,0:03:20.56,0:03:28.58,Default,,0000,0000,0000,,He raised his monsters’ attack points, recovered his life points, and negated spell and trap cards.
+Dialogue: 0,0:03:28.58,0:03:30.74,Default,,0000,0000,0000,,It’s an impregnable defense!
+Dialogue: 0,0:03:30.74,0:03:32.43,Default,,0000,0000,0000,,Farewell, Seto.
+Dialogue: 0,0:03:32.43,0:03:34.59,Default,,0000,0000,0000,,Orichalcos Malevolence!
+Dialogue: 0,0:03:34.59,0:03:36.41,Default,,0000,0000,0000,,Element Of Crime!
+Dialogue: 0,0:03:38.90,0:03:39.82,Default,,0000,0000,0000,,Big brother!
+Dialogue: 0,0:03:39.82,0:03:42.69,Default,,0000,0000,0000,,I activate my trap, Ambush Shield!
+Dialogue: 0,0:03:44.11,0:03:46.74,Default,,0000,0000,0000,,I tribute Big Shield Gardna!
+Dialogue: 0,0:03:48.35,0:03:54.81,Default,,0000,0000,0000,,I add its 2600 defense points to Different Dimension Dragon’s attack points!
+Dialogue: 0,0:03:57.68,0:04:00.40,Default,,0000,0000,0000,,Different Dimension Dragon’s attack points…
+Dialogue: 0,0:04:00.40,0:04:02.46,Default,,0000,0000,0000,,…are now more than his monster’s!
+Dialogue: 0,0:04:02.46,0:04:06.63,Default,,0000,0000,0000,,Strike back, Different Dimension Dragon!
+Dialogue: 0,0:04:06.63,0:04:08.93,Default,,0000,0000,0000,,Rainbow Burst!
+Dialogue: 0,0:04:20.94,0:04:25.45,Default,,0000,0000,0000,,Orichalcos Kyutora activates its effect!
+Dialogue: 0,0:04:26.50,0:04:32.95,Default,,0000,0000,0000,,Even if we raise our attack points, he takes no damage as long as he has that monster.
+Dialogue: 0,0:04:34.61,0:04:38.91,Default,,0000,0000,0000,,I see.  You sacrificed your monster to save Seto.
+Dialogue: 0,0:04:38.91,0:04:42.45,Default,,0000,0000,0000,,Is that the power of your bond?
+Dialogue: 0,0:04:42.45,0:04:46.20,Default,,0000,0000,0000,,But Nameless Pharaoh, due to this trap...
+Dialogue: 0,0:04:46.20,0:04:50.41,Default,,0000,0000,0000,,You lost the monster protecting you!
+Dialogue: 0,0:04:51.44,0:04:54.83,Default,,0000,0000,0000,,I’ll let you reunite with your friends.
+Dialogue: 0,0:04:54.83,0:04:56.46,Default,,0000,0000,0000,,Mirror Knights!
+Dialogue: 0,0:04:56.46,0:05:01.90,Default,,0000,0000,0000,,Inside the triple Seal of Orichalcos, you can’t disobey me.
+Dialogue: 0,0:05:01.90,0:05:04.78,Default,,0000,0000,0000,,Attack Nameless Pharaoh!
+Dialogue: 0,0:05:10.65,0:05:11.83,Default,,0000,0000,0000,,Partner...
+Dialogue: 0,0:05:15.52,0:05:16.45,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:05:16.45,0:05:19.62,Default,,0000,0000,0000,,Keep squirming, Nameless Pharaoh!
+Dialogue: 0,0:05:26.71,0:05:27.87,Default,,0000,0000,0000,,Yugi Boy...
+Dialogue: 0,0:05:28.45,0:05:30.81,Default,,0000,0000,0000,,Can you hear me?
+Dialogue: 0,0:05:30.81,0:05:31.97,Default,,0000,0000,0000,,Pegasus?
+Dialogue: 0,0:05:32.49,0:05:36.42,Default,,0000,0000,0000,,Use the nameless card I gave you.
+Dialogue: 0,0:05:36.42,0:05:38.35,Default,,0000,0000,0000,,Nameless card?
+Dialogue: 0,0:05:38.73,0:05:44.03,Default,,0000,0000,0000,,I created a new card and hid it in this room.
+Dialogue: 0,0:05:50.84,0:05:53.45,Default,,0000,0000,0000,,You mean that card.
+Dialogue: 0,0:05:54.06,0:05:59.77,Default,,0000,0000,0000,,That card holds the power to free the legendary dragons from their seal.
+Dialogue: 0,0:05:59.77,0:06:02.79,Default,,0000,0000,0000,,Free the legendary dragons?
+Dialogue: 0,0:06:02.79,0:06:04.64,Default,,0000,0000,0000,,Mirror Knight Pegasus!
+Dialogue: 0,0:06:08.31,0:06:09.75,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:06:11.18,0:06:12.59,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:06:12.95,0:06:15.98,Default,,0000,0000,0000,,I’m...fine.
+Dialogue: 0,0:06:20.77,0:06:24.82,Default,,0000,0000,0000,,The nameless card that Pegasus mentioned.
+Dialogue: 0,0:06:25.15,0:06:28.99,Default,,0000,0000,0000,,I do have that card in my deck.
+Dialogue: 0,0:06:28.99,0:06:34.75,Default,,0000,0000,0000,,But “free the legendary dragon from their seal?”  What does he mean?
+Dialogue: 0,0:06:35.06,0:06:39.18,Default,,0000,0000,0000,,I set a card and end my turn.
+Dialogue: 0,0:06:39.70,0:06:43.43,Default,,0000,0000,0000,,Seto, draw for the last time!
+Dialogue: 0,0:06:44.55,0:06:46.63,Default,,0000,0000,0000,,He’s right.
+Dialogue: 0,0:06:46.63,0:06:48.79,Default,,0000,0000,0000,,I only have 600 life points.
+Dialogue: 0,0:06:49.18,0:06:54.27,Default,,0000,0000,0000,,If I don’t do something this turn, I’ll lose.
+Dialogue: 0,0:06:55.17,0:06:59.21,Default,,0000,0000,0000,,I’m going to lose here?
+Dialogue: 0,0:07:06.23,0:07:07.91,Default,,0000,0000,0000,,Amelda...
+Dialogue: 0,0:07:09.68,0:07:12.84,Default,,0000,0000,0000,,You said you would’ve saved your brother.
+Dialogue: 0,0:07:12.84,0:07:16.66,Default,,0000,0000,0000,,But can you really save him?
+Dialogue: 0,0:07:16.66,0:07:17.71,Default,,0000,0000,0000,,I can.
+Dialogue: 0,0:07:17.71,0:07:19.51,Default,,0000,0000,0000,,Then show me.
+Dialogue: 0,0:07:20.19,0:07:21.66,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:07:21.95,0:07:25.81,Default,,0000,0000,0000,,Amelda, you entrusted me with the future.
+Dialogue: 0,0:07:25.81,0:07:29.17,Default,,0000,0000,0000,,And I have my own road to glory.
+Dialogue: 0,0:07:29.17,0:07:33.30,Default,,0000,0000,0000,,I won’t let it be destroyed!
+Dialogue: 0,0:07:33.30,0:07:38.90,Default,,0000,0000,0000,,Open your eyes and see how I duel!
+Dialogue: 0,0:07:39.58,0:07:41.77,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:07:50.36,0:07:52.16,Default,,0000,0000,0000,,I drew it!
+Dialogue: 0,0:07:52.16,0:07:55.59,Default,,0000,0000,0000,,The card in my deck that will turn this around!
+Dialogue: 0,0:07:55.59,0:07:59.74,Default,,0000,0000,0000,,Come!  The legendary dragon Critias!
+Dialogue: 0,0:08:06.31,0:08:07.97,Default,,0000,0000,0000,,Critias!
+Dialogue: 0,0:08:07.97,0:08:16.98,Default,,0000,0000,0000,,Yugi, if my guess is correct, the set card you can’t activate is Mirror Force!
+Dialogue: 0,0:08:16.98,0:08:17.92,Default,,0000,0000,0000,,Kaiba...
+Dialogue: 0,0:08:17.92,0:08:20.59,Default,,0000,0000,0000,,I’ll bring out its power!
+Dialogue: 0,0:08:20.59,0:08:22.06,Default,,0000,0000,0000,,Critias!
+Dialogue: 0,0:08:22.06,0:08:25.30,Default,,0000,0000,0000,,Merge with Mirror Force!
+Dialogue: 0,0:08:37.22,0:08:38.43,Default,,0000,0000,0000,,Come out!
+Dialogue: 0,0:08:38.71,0:08:40.62,Default,,0000,0000,0000,,Mirror Force Dragon!
+Dialogue: 0,0:08:44.97,0:08:46.87,Default,,0000,0000,0000,,Mirror Force Dragon!
+Dialogue: 0,0:08:46.87,0:08:53.26,Default,,0000,0000,0000,,Yugi, we can’t win as long as those Mirror Knights are on the field.
+Dialogue: 0,0:08:53.26,0:08:54.49,Default,,0000,0000,0000,,Kaiba...
+Dialogue: 0,0:08:54.49,0:09:01.07,Default,,0000,0000,0000,,If you can’t sever the bond with your friends, I’ll do it for you!
+Dialogue: 0,0:09:01.07,0:09:02.69,Default,,0000,0000,0000,,Mirror Force Dragon!
+Dialogue: 0,0:09:02.69,0:09:05.87,Default,,0000,0000,0000,,Attack Mirror Knight Pegasus!
+Dialogue: 0,0:09:06.70,0:09:09.15,Default,,0000,0000,0000,,Mirror Burst!
+Dialogue: 0,0:09:15.14,0:09:18.40,Default,,0000,0000,0000,,No good!  Pegasus still has his mirror shield!
+Dialogue: 0,0:09:18.40,0:09:22.53,Default,,0000,0000,0000,,Actually, my brother deliberately chose the one with the shield!
+Dialogue: 0,0:09:24.14,0:09:25.45,Default,,0000,0000,0000,,That’s right!
+Dialogue: 0,0:09:25.83,0:09:29.46,Default,,0000,0000,0000,,I activate Mirror Force Dragon’s effect!
+Dialogue: 0,0:09:34.50,0:09:36.90,Default,,0000,0000,0000,,The reflected energy…
+Dialogue: 0,0:09:36.90,0:09:39.76,Default,,0000,0000,0000,,…is being absorbed by Mirror Force Dragon!
+Dialogue: 0,0:09:43.55,0:09:51.06,Default,,0000,0000,0000,,Mirror Force Dragon’s effect reflects the damage back to all your monsters!
+Dialogue: 0,0:09:51.06,0:09:52.21,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:09:52.47,0:09:54.14,Default,,0000,0000,0000,,So what’ll happen to them?
+Dialogue: 0,0:09:56.99,0:09:59.01,Default,,0000,0000,0000,,To your own friends?
+Dialogue: 0,0:09:59.01,0:10:04.97,Default,,0000,0000,0000,,Mokuba and I have thoroughly seen your so-called darkness of the heart.
+Dialogue: 0,0:10:05.53,0:10:10.39,Default,,0000,0000,0000,,To the darkest depths of the heart, even though we didn’t want to.
+Dialogue: 0,0:10:10.39,0:10:13.85,Default,,0000,0000,0000,,We overcome it to make it this far!
+Dialogue: 0,0:10:13.85,0:10:17.51,Default,,0000,0000,0000,,My heart has the light to open the future!
+Dialogue: 0,0:10:17.51,0:10:19.33,Default,,0000,0000,0000,,That’s all I need!
+Dialogue: 0,0:10:20.85,0:10:22.22,Default,,0000,0000,0000,,Kaiba...
+Dialogue: 0,0:10:22.22,0:10:27.45,Default,,0000,0000,0000,,If they’re true duelists, they wouldn’t mind perishing here.
+Dialogue: 0,0:10:28.81,0:10:32.87,Default,,0000,0000,0000,,Mow them all down, Mirror Force Dragon!
+Dialogue: 0,0:10:38.51,0:10:41.11,Default,,0000,0000,0000,,Genocide Big Bang!
+Dialogue: 0,0:10:52.00,0:10:54.55,Default,,0000,0000,0000,,Partner!  Everyone!
+Dialogue: 0,0:10:54.96,0:10:57.97,Default,,0000,0000,0000,,It’s fine.
+Dialogue: 0,0:11:00.84,0:11:03.26,Default,,0000,0000,0000,,Kaiba Boy, thanks.
+Dialogue: 0,0:11:07.45,0:11:08.73,Default,,0000,0000,0000,,Yugi...
+Dialogue: 0,0:11:11.60,0:11:13.71,Default,,0000,0000,0000,,I see, Seto.
+Dialogue: 0,0:11:13.71,0:11:16.47,Default,,0000,0000,0000,,I underestimated you.
+Dialogue: 0,0:11:16.47,0:11:24.49,Default,,0000,0000,0000,,But before Orichalcos Kyutora is destroyed, its effect absorbs the damage I would’ve taken.
+Dialogue: 0,0:11:25.09,0:11:26.69,Default,,0000,0000,0000,,Everyone…
+Dialogue: 0,0:11:26.69,0:11:29.89,Default,,0000,0000,0000,,All his monsters are now gone.
+Dialogue: 0,0:11:30.13,0:11:31.85,Default,,0000,0000,0000,,Are you sure?
+Dialogue: 0,0:11:39.38,0:11:44.55,Default,,0000,0000,0000,,Orichalcos Kyutora, show your true form!
+Dialogue: 0,0:11:54.73,0:11:57.61,Default,,0000,0000,0000,,What is that?
+Dialogue: 0,0:12:14.95,0:12:15.92,Default,,0000,0000,0000,,That’s...
+Dialogue: 0,0:12:16.65,0:12:20.09,Default,,0000,0000,0000,,This is Orichalcos Kyutora’s evolved form.
+Dialogue: 0,0:12:20.09,0:12:22.23,Default,,0000,0000,0000,,Orichalcos Shunoros!
+Dialogue: 0,0:12:22.95,0:12:25.57,Default,,0000,0000,0000,,Orichalcos Shunoros...
+Dialogue: 0,0:12:25.57,0:12:32.63,Default,,0000,0000,0000,,Its attack points are equal to all the damage Orichalcos Kyutora absorbed.
+Dialogue: 0,0:12:32.63,0:12:37.13,Default,,0000,0000,0000,,So Orichalcos Shunoros’s attack points are…
+Dialogue: 0,0:12:38.17,0:12:39.52,Default,,0000,0000,0000,,20,000?
+Dialogue: 0,0:12:39.52,0:12:41.11,Default,,0000,0000,0000,,Unbelievable!
+Dialogue: 0,0:12:41.11,0:12:42.44,Default,,0000,0000,0000,,No way...
+Dialogue: 0,0:12:42.44,0:12:44.78,Default,,0000,0000,0000,,That’s too crazy!
+Dialogue: 0,0:12:44.78,0:12:46.89,Default,,0000,0000,0000,,Why are you surprised?
+Dialogue: 0,0:12:46.89,0:12:49.49,Default,,0000,0000,0000,,You’re the ones who raised it!
+Dialogue: 0,0:12:50.02,0:12:55.12,Default,,0000,0000,0000,,Your hatred created Orichalcos Shunoros!
+Dialogue: 0,0:12:55.56,0:12:57.55,Default,,0000,0000,0000,,Our hatred?
+Dialogue: 0,0:12:57.55,0:13:03.17,Default,,0000,0000,0000,,Shunoros loses attack points equal to the points of the monster it fights.
+Dialogue: 0,0:13:03.17,0:13:06.51,Default,,0000,0000,0000,,I activate Orichalcos Shunoros’s effect!
+Dialogue: 0,0:13:06.51,0:13:07.48,Default,,0000,0000,0000,,Come out!
+Dialogue: 0,0:13:07.48,0:13:09.90,Default,,0000,0000,0000,,Orichalcos Dexia!
+Dialogue: 0,0:13:09.90,0:13:12.71,Default,,0000,0000,0000,,Orichalcos Aristeros!
+Dialogue: 0,0:13:15.64,0:13:21.65,Default,,0000,0000,0000,,Orichalcos Dexia can’t be destroyed as long as Shunoros is on the field.
+Dialogue: 0,0:13:21.65,0:13:28.64,Default,,0000,0000,0000,,It always has 300 more attack points than the monster it’s battling.
+Dialogue: 0,0:13:28.64,0:13:31.72,Default,,0000,0000,0000,,It’s Shunoros’s ultimate sword.
+Dialogue: 0,0:13:31.99,0:13:37.73,Default,,0000,0000,0000,,Orichalcos Aristeros can’t be destroyed as long as Shunoros is on the field.
+Dialogue: 0,0:13:37.73,0:13:41.69,Default,,0000,0000,0000,,It always has 300 more attack points than yours.
+Dialogue: 0,0:13:41.69,0:13:43.73,Default,,0000,0000,0000,,It stops all attacks.
+Dialogue: 0,0:13:43.73,0:13:46.74,Default,,0000,0000,0000,,It’s Shunoros’s ultimate shield.
+Dialogue: 0,0:13:47.04,0:13:53.55,Default,,0000,0000,0000,,When these two activate, their points are subtracted from Shunoros’s attack points.
+Dialogue: 0,0:13:54.00,0:13:57.15,Default,,0000,0000,0000,,Shunoros is in the back.
+Dialogue: 0,0:13:57.15,0:14:01.49,Default,,0000,0000,0000,,We can’t attack it unless we destroy the two in the front first.
+Dialogue: 0,0:14:01.87,0:14:04.42,Default,,0000,0000,0000,,I activate my trap.
+Dialogue: 0,0:14:04.42,0:14:06.59,Default,,0000,0000,0000,,Martyr Curse!
+Dialogue: 0,0:14:06.59,0:14:17.47,Default,,0000,0000,0000,,When my card is destroyed, it seals your monster’s effects and forces it to battle my monster.
+Dialogue: 0,0:14:17.47,0:14:22.84,Default,,0000,0000,0000,,The monster I choose to battle is Mirror Force Dragon!
+Dialogue: 0,0:14:23.76,0:14:28.47,Default,,0000,0000,0000,,Mirror Force Dragon’s effects don’t work on Shunoros.
+Dialogue: 0,0:14:28.47,0:14:31.25,Default,,0000,0000,0000,,It’s truly over this time, Seto!
+Dialogue: 0,0:14:31.85,0:14:34.37,Default,,0000,0000,0000,,Orichalcos Shunoros attacks!
+Dialogue: 0,0:14:42.87,0:14:44.53,Default,,0000,0000,0000,,Photon Ring!
+Dialogue: 0,0:14:55.97,0:14:57.00,Default,,0000,0000,0000,,Kaiba!
+Dialogue: 0,0:15:01.04,0:15:02.21,Default,,0000,0000,0000,,Big brother!
+Dialogue: 0,0:15:11.11,0:15:12.39,Default,,0000,0000,0000,,Kaiba!
+Dialogue: 0,0:15:19.19,0:15:23.28,Default,,0000,0000,0000,,I activate... my trap...
+Dialogue: 0,0:15:29.55,0:15:31.33,Default,,0000,0000,0000,,Wish of Final Effort.
+Dialogue: 0,0:15:31.33,0:15:41.45,Default,,0000,0000,0000,,When my monster is destroyed, it restores life points equal to its attack points...
+Dialogue: 0,0:15:42.79,0:15:43.89,Default,,0000,0000,0000,,Kaiba!
+Dialogue: 0,0:15:44.34,0:15:45.82,Default,,0000,0000,0000,,Kaiba!
+Dialogue: 0,0:15:45.82,0:15:47.17,Default,,0000,0000,0000,,Big brother!
+Dialogue: 0,0:15:47.89,0:15:49.76,Default,,0000,0000,0000,,Big brother!
+Dialogue: 0,0:15:50.08,0:15:51.13,Default,,0000,0000,0000,,Kaiba!
+Dialogue: 0,0:15:51.61,0:15:55.49,Default,,0000,0000,0000,,Yugi, I paid you back.
+Dialogue: 0,0:15:55.49,0:15:58.54,Default,,0000,0000,0000,,Don’t let my corpse stop you.
+Dialogue: 0,0:16:00.27,0:16:01.40,Default,,0000,0000,0000,,Kaiba!
+Dialogue: 0,0:16:03.38,0:16:07.04,Default,,0000,0000,0000,,Seto, you’re sacrificed to my god!
+Dialogue: 0,0:16:08.40,0:16:10.04,Default,,0000,0000,0000,,Kaiba!
+Dialogue: 0,0:16:24.83,0:16:28.13,Default,,0000,0000,0000,,A shell with no soul is useless!
+Dialogue: 0,0:16:30.06,0:16:31.05,Default,,0000,0000,0000,,Big brother!
+Dialogue: 0,0:16:34.07,0:16:35.16,Default,,0000,0000,0000,,Kaiba!
+Dialogue: 0,0:16:35.16,0:16:36.01,Default,,0000,0000,0000,,Kaiba!
+Dialogue: 0,0:16:36.37,0:16:38.68,Default,,0000,0000,0000,,Big brother, open your eyes!
+Dialogue: 0,0:16:39.29,0:16:41.62,Default,,0000,0000,0000,,Open your eyes, big brother!
+Dialogue: 0,0:16:42.05,0:16:46.29,Default,,0000,0000,0000,,No matter how loud you scream, Seto can’t hear you.
+Dialogue: 0,0:16:46.74,0:16:49.71,Default,,0000,0000,0000,,His soul is no longer there.
+Dialogue: 0,0:16:50.13,0:16:55.03,Default,,0000,0000,0000,,Dammit!  Give my brother’s soul back!
+Dialogue: 0,0:17:02.70,0:17:03.53,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:17:31.19,0:17:32.64,Default,,0000,0000,0000,,Can you hear it?
+Dialogue: 0,0:17:32.64,0:17:36.83,Default,,0000,0000,0000,,My god is happy after receiving Seto’s sacrifice.
+Dialogue: 0,0:17:38.20,0:17:41.78,Default,,0000,0000,0000,,I won’t let you sacrifice my brother’s soul!
+Dialogue: 0,0:17:51.17,0:17:53.91,Default,,0000,0000,0000,,Anzu!  Mokuba!  Honda!
+Dialogue: 0,0:18:06.27,0:18:07.44,Default,,0000,0000,0000,,Everyone...
+Dialogue: 0,0:18:08.02,0:18:12.03,Default,,0000,0000,0000,,Don’t worry.  Their souls are fine.
+Dialogue: 0,0:18:12.03,0:18:16.96,Default,,0000,0000,0000,,But you have no friends for support anymore.
+Dialogue: 0,0:18:17.35,0:18:18.32,Default,,0000,0000,0000,,Dartz!
+Dialogue: 0,0:18:18.32,0:18:25.78,Default,,0000,0000,0000,,Since it’s the end, I’ll tell you why I decided to destroy this world.
+Dialogue: 0,0:18:25.78,0:18:29.73,Default,,0000,0000,0000,,It’s because of you, Nameless Pharaoh.
+Dialogue: 0,0:18:29.73,0:18:30.53,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:18:31.11,0:18:37.33,Default,,0000,0000,0000,,Because you decided to return to this world after 3,000 years.
+Dialogue: 0,0:18:37.33,0:18:40.95,Default,,0000,0000,0000,,You know about my missing past?
+Dialogue: 0,0:18:51.87,0:18:55.47,Default,,0000,0000,0000,,This is an ancient Egyptian city.
+Dialogue: 0,0:19:05.98,0:19:09.43,Default,,0000,0000,0000,,That’s me 3,000 years ago.
+Dialogue: 0,0:19:09.83,0:19:13.62,Default,,0000,0000,0000,,Traitor!  You sullied this sacred temple!
+Dialogue: 0,0:19:13.62,0:19:15.36,Default,,0000,0000,0000,,You stay back!
+Dialogue: 0,0:19:17.87,0:19:20.55,Default,,0000,0000,0000,,God is justice.
+Dialogue: 0,0:19:20.55,0:19:22.87,Default,,0000,0000,0000,,God’s name is...
+Dialogue: 0,0:19:29.97,0:19:33.60,Default,,0000,0000,0000,,One of the three gods - Obelisk!
+Dialogue: 0,0:19:35.33,0:19:38.00,Default,,0000,0000,0000,,Take this!  God’s hammer!
+Dialogue: 0,0:19:38.00,0:19:40.19,Default,,0000,0000,0000,,God Hand Crusher!
+Dialogue: 0,0:19:45.31,0:19:46.93,Default,,0000,0000,0000,,What a battle!
+Dialogue: 0,0:19:46.93,0:19:50.37,Default,,0000,0000,0000,,3,000 years ago in ancient Egypt...
+Dialogue: 0,0:19:50.37,0:19:55.94,Default,,0000,0000,0000,,...they gathered to free Duel Monsters and darkened their souls.
+Dialogue: 0,0:19:56.39,0:20:00.47,Default,,0000,0000,0000,,If people’s souls will be darkened again...
+Dialogue: 0,0:20:00.47,0:20:09.01,Default,,0000,0000,0000,,...I must revive the god of Orichalcos and destroy the world, just like I did at Atlantis 10,000 years ago.
+Dialogue: 0,0:20:09.01,0:20:11.95,Default,,0000,0000,0000,,That’s what the stars say.
+Dialogue: 0,0:20:36.40,0:20:41.15,Default,,0000,0000,0000,,The Millennium Puzzle showed me this vision of ancient Egypt.
+Dialogue: 0,0:20:41.15,0:20:46.82,Default,,0000,0000,0000,,Those who had darkness in their hearts fought each other and perished.
+Dialogue: 0,0:20:47.21,0:20:49.84,Default,,0000,0000,0000,,We perished?
+Dialogue: 0,0:20:50.53,0:20:55.49,Default,,0000,0000,0000,,But after 3,000 years, something surprising happened.
+Dialogue: 0,0:20:59.29,0:21:05.27,Default,,0000,0000,0000,,Those who had strong souls that could control the dark resurrected.
+Dialogue: 0,0:21:05.27,0:21:08.48,Default,,0000,0000,0000,,Drawn by your cursed soul.
+Dialogue: 0,0:21:09.32,0:21:11.75,Default,,0000,0000,0000,,My cursed soul?
+Dialogue: 0,0:21:11.75,0:21:14.29,Default,,0000,0000,0000,,Why, Nameless Pharaoh?
+Dialogue: 0,0:21:14.29,0:21:17.47,Default,,0000,0000,0000,,Why did you resurrect now?
+Dialogue: 0,0:21:17.77,0:21:18.91,Default,,0000,0000,0000,,Because...
+Dialogue: 0,0:21:18.91,0:21:20.99,Default,,0000,0000,0000,,There’s only one answer.
+Dialogue: 0,0:21:20.99,0:21:24.52,Default,,0000,0000,0000,,You’ll bring the history of mankind to an end.
+Dialogue: 0,0:21:24.52,0:21:27.48,Default,,0000,0000,0000,,It’s your destiny, you cursed Pharaoh!
+Dialogue: 0,0:21:27.48,0:21:28.59,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:21:29.21,0:21:34.33,Default,,0000,0000,0000,,Nameless Pharaoh, dark souls always gather around you.
+Dialogue: 0,0:21:34.33,0:21:37.94,Default,,0000,0000,0000,,You’re the source of darkness.
+Dialogue: 0,0:21:37.94,0:21:42.89,Default,,0000,0000,0000,,This 10,000-year history will end with your sacrifice!
+Dialogue: 0,0:21:56.41,0:22:05.02,Default,,0000,0000,0000,,The streets flow by, colored in red
+Dialogue: 0,0:22:05.67,0:22:13.18,Default,,0000,0000,0000,,If you notice your pain, it changes to joy
+Dialogue: 0,0:22:15.12,0:22:24.55,Default,,0000,0000,0000,,People learn of friendship every time they wipe their tears
+Dialogue: 0,0:22:25.16,0:22:33.99,Default,,0000,0000,0000,,With the warm strength you gave me, I’ll change them into kindness
+Dialogue: 0,0:22:34.64,0:22:43.38,Default,,0000,0000,0000,,My overflowing emotions don’t stop
+Dialogue: 0,0:22:43.59,0:22:48.61,Default,,0000,0000,0000,,I’ll live feeling them
+Dialogue: 0,0:22:49.22,0:22:53.76,Default,,0000,0000,0000,,For me to be me
+Dialogue: 0,0:22:53.76,0:23:02.25,Default,,0000,0000,0000,,Overflowing friendship heals me
+Dialogue: 0,0:23:03.11,0:23:07.57,Default,,0000,0000,0000,,Our chance meeting was real
+Dialogue: 0,0:23:08.41,0:23:17.66,Default,,0000,0000,0000,,We’ll both understand that someday
+Dialogue: 0,0:23:36.35,0:23:39.83,Default,,0000,0000,0000,,With Kaiba’s defeat, Yugi fights alone.
+Dialogue: 0,0:23:39.83,0:23:43.51,Default,,0000,0000,0000,,Dartz says Yugi is the cause of the world’s destruction.
+Dialogue: 0,0:23:43.51,0:23:47.13,Default,,0000,0000,0000,,Due to emotional pressure and strength difference...
+Dialogue: 0,0:23:47.13,0:23:51.25,Default,,0000,0000,0000,,...Yugi is losing the will to fight.
+Dialogue: 0,0:23:47.11,0:23:49.84,Default,,0000,0000,0000,,Please!  Someone help him!
+Dialogue: 0,0:23:47.10,0:23:51.46,Default,,0000,0000,0000,,Oh yeah!  What about the nameless card Pegasus gave him?
+Dialogue: 0,0:23:47.11,0:23:50.37,Default,,0000,0000,0000,,Next time on Yu-Gi-Oh!:\NResurrect!\NThe Three Legendary Knights
+Dialogue: 0,0:23:50.37,0:23:52.04,Default,,0000,0000,0000,,Duel, standby!
+Dialogue: 0,0:23:52.04,0:23:54.04,Default,,0000,0000,0000,,

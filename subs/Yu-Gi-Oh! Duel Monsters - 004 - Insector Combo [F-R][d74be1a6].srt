@@ -1,0 +1,310 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: 4kmedia  [http://www.crunchyroll.com/user/4kmedia]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 480
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,EquitanSans-Regular,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,25,1
+Style: Yu-Gi-Oh Yellow,Trebuchet MS,28,&H0000FFFF,&H0000FFFF,&H00232323,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+Style: Yu-Gi-Oh,Trebuchet MS,28,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:03.59,0:00:11.13,Default,,0000,0000,0000,,The history of gaming extends 5,000 \Nyears into the past to ancient Egypt.
+Dialogue: 0,0:00:11.13,0:00:15.63,Default,,0000,0000,0000,,Ancient games foretold the \Nfutures of men and kings.
+Dialogue: 0,0:00:15.63,0:00:19.11,Default,,0000,0000,0000,,They were magic ceremonies that \Ndetermined a person’s fate.
+Dialogue: 0,0:00:19.91,0:00:23.33,Default,,0000,0000,0000,,These ceremonies were known \Nas the “Shadow Games.”
+Dialogue: 0,0:00:23.91,0:00:26.90,Default,,0000,0000,0000,,In the present, a young boy \Nsolves the Millennium Puzzle.
+Dialogue: 0,0:00:26.90,0:00:30.12,Default,,0000,0000,0000,,He becomes the heir to the Shadow Games.
+Dialogue: 0,0:00:33.88,0:00:38.21,Default,,0000,0000,0000,,This boy possesses two hearts - \None of light and one of darkness.
+Dialogue: 0,0:00:38.48,0:00:42.12,Default,,0000,0000,0000,,He is known as “Yu-Gi-Oh.”
+Dialogue: 0,0:00:45.15,0:00:50.22,Default,,0000,0000,0000,,I can’t finish reading the magazine pages
+Dialogue: 0,0:00:52.14,0:00:57.13,Default,,0000,0000,0000,,I get the feeling that I must read it
+Dialogue: 0,0:00:59.02,0:01:03.88,Default,,0000,0000,0000,,Game cartridges are stacked \Nin the corner of the room
+Dialogue: 0,0:01:05.84,0:01:10.58,Default,,0000,0000,0000,,Is there no meaning if I don’t play them?
+Dialogue: 0,0:01:12.81,0:01:15.97,Default,,0000,0000,0000,,You’re on the other side of the table
+Dialogue: 0,0:01:15.97,0:01:19.05,Default,,0000,0000,0000,,I’m talking to you, but...
+Dialogue: 0,0:01:19.60,0:01:26.27,Default,,0000,0000,0000,,You don’t change your \Nfacial expression at all
+Dialogue: 0,0:01:26.92,0:01:32.48,Default,,0000,0000,0000,,Even though I’m this close to you
+Dialogue: 0,0:01:32.48,0:01:39.78,Default,,0000,0000,0000,,These feelings don’t reach \Nyou, don’t reach you
+Dialogue: 0,0:01:39.78,0:01:46.24,Default,,0000,0000,0000,,What is truly precious?
+Dialogue: 0,0:01:48.45,0:01:54.01,Default,,0000,0000,0000,,Insector Combo
+Dialogue: 0,0:02:01.34,0:02:03.74,Default,,0000,0000,0000,,Yugi, we’re here.
+Dialogue: 0,0:02:03.74,0:02:05.64,Default,,0000,0000,0000,,That’s Duelist Kingdom.
+Dialogue: 0,0:02:28.83,0:02:33.02,Default,,0000,0000,0000,,Anzu, what if they check \Nfor Star Chips again?
+Dialogue: 0,0:02:33.02,0:02:35.21,Default,,0000,0000,0000,,We’re stowaways!
+Dialogue: 0,0:02:35.21,0:02:37.62,Default,,0000,0000,0000,,Don’t worry.  They won’t check again.
+Dialogue: 0,0:02:37.62,0:02:40.31,Default,,0000,0000,0000,,It’s more suspicious if you act nervous.
+Dialogue: 0,0:02:48.86,0:02:50.03,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:02:52.06,0:02:55.36,Default,,0000,0000,0000,,You should relax.
+Dialogue: 0,0:02:56.30,0:02:57.83,Default,,0000,0000,0000,,Thank you, I will.
+Dialogue: 0,0:03:02.66,0:03:05.06,Default,,0000,0000,0000,,My heart almost stopped.
+Dialogue: 0,0:03:05.06,0:03:08.15,Default,,0000,0000,0000,,You act tough, but you’re really a coward.
+Dialogue: 0,0:03:08.15,0:03:12.71,Default,,0000,0000,0000,,All right!  We all made it ashore-
+Dialogue: 0,0:03:15.59,0:03:18.55,Default,,0000,0000,0000,,I’m sorry, Jonouchi.  It’s my fault.
+Dialogue: 0,0:03:18.55,0:03:20.74,Default,,0000,0000,0000,,This is how.
+Dialogue: 0,0:03:20.74,0:03:21.99,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:03:22.34,0:03:25.35,Default,,0000,0000,0000,,Grandpa gave me those precious cards!
+Dialogue: 0,0:03:25.35,0:03:26.72,Default,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:03:28.89,0:03:30.98,Default,,0000,0000,0000,,Forget about it, Yugi.
+Dialogue: 0,0:03:30.98,0:03:36.63,Default,,0000,0000,0000,,But I won’t forgive that guy for \Nthrowing your precious cards overboard.
+Dialogue: 0,0:03:37.82,0:03:41.28,Default,,0000,0000,0000,,Haga, I will never forgive you!
+Dialogue: 0,0:03:43.78,0:03:49.39,Default,,0000,0000,0000,,Attention all duelists, let’s \Ngather at the castle gate.
+Dialogue: 0,0:03:49.79,0:03:52.26,Default,,0000,0000,0000,,That’s Pegasus’s castle.
+Dialogue: 0,0:03:52.26,0:03:54.04,Default,,0000,0000,0000,,All right, let’s go!
+Dialogue: 0,0:04:03.34,0:04:05.22,Default,,0000,0000,0000,,Huh?  What?
+Dialogue: 0,0:04:05.22,0:04:07.14,Default,,0000,0000,0000,,What is it, Anzu?
+Dialogue: 0,0:04:07.14,0:04:09.02,Default,,0000,0000,0000,,I saw Bakura over there.
+Dialogue: 0,0:04:09.02,0:04:11.02,Default,,0000,0000,0000,,Bakura?
+Dialogue: 0,0:04:11.42,0:04:12.96,Default,,0000,0000,0000,,Again?
+Dialogue: 0,0:04:12.96,0:04:14.35,Default,,0000,0000,0000,,Again?
+Dialogue: 0,0:04:17.32,0:04:20.61,Default,,0000,0000,0000,,He’s not here.  Am I seeing things?
+Dialogue: 0,0:04:20.61,0:04:22.14,Default,,0000,0000,0000,,Let’s go.
+Dialogue: 0,0:04:22.14,0:04:23.61,Default,,0000,0000,0000,,Uh, okay.
+Dialogue: 0,0:04:31.16,0:04:33.66,Default,,0000,0000,0000,,Whoa!  Look who’s here!
+Dialogue: 0,0:04:33.66,0:04:38.63,Default,,0000,0000,0000,,The Japan champion Insector Haga \Nand the runner-up Dinosaur Ryuzaki!
+Dialogue: 0,0:04:38.63,0:04:42.17,Default,,0000,0000,0000,,And that’s Ryota Kajiki!  \NHe took third place!
+Dialogue: 0,0:04:42.17,0:04:45.66,Default,,0000,0000,0000,,Since Kaiba isn’t here, one of \Nthose three is likely to win.
+Dialogue: 0,0:04:45.66,0:04:49.34,Default,,0000,0000,0000,,But I heard that Yugi, the guy \Nwho beat Kaiba, is here too.
+Dialogue: 0,0:04:49.34,0:04:52.94,Default,,0000,0000,0000,,If he’s strong enough to defeat \NKaiba, he must be amazing.
+Dialogue: 0,0:04:52.94,0:04:54.99,Default,,0000,0000,0000,,I wonder what he’s like.
+Dialogue: 0,0:04:55.82,0:04:57.31,Default,,0000,0000,0000,,Everyone!
+Dialogue: 0,0:04:57.31,0:05:01.86,Default,,0000,0000,0000,,Pegasus will now explain the duel rules.
+Dialogue: 0,0:05:09.54,0:05:12.83,Default,,0000,0000,0000,,Pegasus finally makes his appearance.
+Dialogue: 0,0:05:20.11,0:05:23.43,Default,,0000,0000,0000,,You cannot escape me.
+Dialogue: 0,0:05:25.38,0:05:31.56,Default,,0000,0000,0000,,Let’s meet again at the Kingdom if you \Nwant to reclaim what’s most dear to you.
+Dialogue: 0,0:05:39.66,0:05:41.27,Default,,0000,0000,0000,,Grandpa!
+Dialogue: 0,0:05:43.03,0:05:48.53,Default,,0000,0000,0000,,Pegasus used his dark powers to \Ncapture my grandfather’s soul.
+Dialogue: 0,0:05:49.70,0:05:52.03,Default,,0000,0000,0000,,You showed up, Yugi boy.
+Dialogue: 0,0:05:52.03,0:05:56.67,Default,,0000,0000,0000,,Welcome to Duelist Kingdom!
+Dialogue: 0,0:06:01.75,0:06:04.76,Default,,0000,0000,0000,,I will now explain the rules.
+Dialogue: 0,0:06:04.76,0:06:09.74,Default,,0000,0000,0000,,Duel Monsters cards must \Nbe used in all duels.
+Dialogue: 0,0:06:09.74,0:06:14.27,Default,,0000,0000,0000,,You begin with 2000 life points, \Nand direct attacks are forbidden.
+Dialogue: 0,0:06:14.27,0:06:20.94,Default,,0000,0000,0000,,Battle using your strongest card decks.
+Dialogue: 0,0:06:20.94,0:06:27.78,Default,,0000,0000,0000,,Everyone should have received a \NDueling Glove and two Star Chips.
+Dialogue: 0,0:06:27.78,0:06:32.28,Default,,0000,0000,0000,,The wristband has ten holes \Nwhere you can insert Star Chips.
+Dialogue: 0,0:06:32.28,0:06:35.79,Default,,0000,0000,0000,,Insert your Star Chips into them.
+Dialogue: 0,0:06:35.79,0:06:39.27,Default,,0000,0000,0000,,These Star Chips are proof \Nthat you are a true duelist.
+Dialogue: 0,0:06:39.27,0:06:43.14,Default,,0000,0000,0000,,You will wager these Chips in your duels.
+Dialogue: 0,0:06:43.14,0:06:47.46,Default,,0000,0000,0000,,I get it.  The loser of a duel \Ngives a Star Chip to the winner.
+Dialogue: 0,0:06:47.46,0:06:51.26,Default,,0000,0000,0000,,Once you lose all your Chips, \Nyou can no longer duel.
+Dialogue: 0,0:06:51.26,0:06:55.83,Default,,0000,0000,0000,,Since Jonouchi and I divided our \NStar Chips, we each have one.
+Dialogue: 0,0:06:56.27,0:06:59.78,Default,,0000,0000,0000,,The entire island is your \Ndueling battleground.
+Dialogue: 0,0:06:59.78,0:07:03.67,Default,,0000,0000,0000,,In this battle royal, only duelists who have \Nten Star Chips
+Dialogue: 0,0:07:03.67,0:07:06.28,Default,,0000,0000,0000,,will be allowed to enter this gate.
+Dialogue: 0,0:07:06.72,0:07:09.51,Default,,0000,0000,0000,,The duels will begin in just one hour.
+Dialogue: 0,0:07:09.51,0:07:12.25,Default,,0000,0000,0000,,There is a 48-hour time limit.
+Dialogue: 0,0:07:12.25,0:07:16.33,Default,,0000,0000,0000,,At that time, all duelists with \Nless than ten Star Chips will lose
+Dialogue: 0,0:07:16.33,0:07:19.19,Default,,0000,0000,0000,,and be forced off this island.
+Dialogue: 0,0:07:19.81,0:07:23.98,Default,,0000,0000,0000,,Duelists, good luck!
+Dialogue: 0,0:07:25.85,0:07:28.42,Default,,0000,0000,0000,,I promise to enter this castle!
+Dialogue: 0,0:07:30.53,0:07:36.84,Default,,0000,0000,0000,,Yugi boy, you’ll have to fight your way \Nthrough the island duels if you want to battle me.
+Dialogue: 0,0:07:39.73,0:07:41.24,Default,,0000,0000,0000,,Just wait, Grandpa.
+Dialogue: 0,0:07:41.24,0:07:45.10,Default,,0000,0000,0000,,I promise to break Pegasus’s shadow power!
+Dialogue: 0,0:07:47.19,0:07:49.08,Default,,0000,0000,0000,,I’m sorry, Yugi.
+Dialogue: 0,0:07:49.25,0:07:52.09,Default,,0000,0000,0000,,You gave up one of your \Nprecious Star Chips for me.
+Dialogue: 0,0:07:52.09,0:07:57.05,Default,,0000,0000,0000,,It’s okay.  You have your own \Nreasons why you need to win.
+Dialogue: 0,0:07:57.05,0:07:58.21,Default,,0000,0000,0000,,Yugi.
+Dialogue: 0,0:07:58.21,0:08:02.37,Default,,0000,0000,0000,,Jonouchi, fight hard for your sister.
+Dialogue: 0,0:08:02.37,0:08:04.89,Default,,0000,0000,0000,,We have your back.
+Dialogue: 0,0:08:04.89,0:08:06.51,Default,,0000,0000,0000,,You guys.
+Dialogue: 0,0:08:06.51,0:08:11.29,Default,,0000,0000,0000,,Yugi, we can’t afford to lose our first duel.
+Dialogue: 0,0:08:11.29,0:08:12.26,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:08:18.37,0:08:21.22,Default,,0000,0000,0000,,The duels have begun!
+Dialogue: 0,0:08:23.85,0:08:25.52,Default,,0000,0000,0000,,What’s your plan, Yugi?
+Dialogue: 0,0:08:25.52,0:08:30.05,Default,,0000,0000,0000,,I’ve already decided to battle Haga first.
+Dialogue: 0,0:08:30.05,0:08:31.85,Default,,0000,0000,0000,,That’s the spirit!
+Dialogue: 0,0:08:31.85,0:08:33.41,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:08:35.66,0:08:37.33,Default,,0000,0000,0000,,Haga!
+Dialogue: 0,0:08:39.23,0:08:42.29,Default,,0000,0000,0000,,Haga, you cheater!  You’re running away?
+Dialogue: 0,0:08:42.29,0:08:43.54,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:08:48.05,0:08:50.14,Default,,0000,0000,0000,,Wait, Haga!
+Dialogue: 0,0:08:53.49,0:08:55.13,Default,,0000,0000,0000,,Keep running!
+Dialogue: 0,0:08:55.13,0:08:58.45,Default,,0000,0000,0000,,This is gross.  How far is he going to run?
+Dialogue: 0,0:08:58.45,0:09:01.99,Default,,0000,0000,0000,,Having the entire island be the \Nbattleground is a crazy idea.
+Dialogue: 0,0:09:01.99,0:09:07.07,Default,,0000,0000,0000,,I’ve been wondering why the entire \Nisland is the battleground too.
+Dialogue: 0,0:09:07.07,0:09:11.03,Default,,0000,0000,0000,,Why would you need this \Nmuch space for a card game?
+Dialogue: 0,0:09:11.93,0:09:13.21,Default,,0000,0000,0000,,Unless...
+Dialogue: 0,0:09:13.21,0:09:18.31,Default,,0000,0000,0000,,Did you know that there will be \Nnew dueling rules at the Kingdom?
+Dialogue: 0,0:09:18.81,0:09:21.59,Default,,0000,0000,0000,,New rules at Duelist Kingdom...
+Dialogue: 0,0:09:21.59,0:09:24.81,Default,,0000,0000,0000,,This is what Haga meant.
+Dialogue: 0,0:09:26.57,0:09:28.02,Default,,0000,0000,0000,,Haga!
+Dialogue: 0,0:09:29.21,0:09:33.82,Default,,0000,0000,0000,,Yugi, I challenge you to a duel here!
+Dialogue: 0,0:09:34.99,0:09:38.06,Default,,0000,0000,0000,,I’ll never forgive you!
+Dialogue: 0,0:09:48.04,0:09:53.04,Default,,0000,0000,0000,,Haga, I applaud you for willing to battle me.
+Dialogue: 0,0:09:53.04,0:09:56.82,Default,,0000,0000,0000,,If I beat you first, the rest will be easy.
+Dialogue: 0,0:09:57.25,0:09:58.83,Default,,0000,0000,0000,,Bring it on.
+Dialogue: 0,0:10:00.83,0:10:03.00,Default,,0000,0000,0000,,Start the duel!
+Dialogue: 0,0:10:03.77,0:10:05.00,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:10:07.00,0:10:08.62,Default,,0000,0000,0000,,What’s this?
+Dialogue: 0,0:10:48.43,0:10:53.08,Default,,0000,0000,0000,,This is the Kingdom’s battle \Narena - the Duel Ring!
+Dialogue: 0,0:10:53.08,0:10:53.93,Default,,0000,0000,0000,,This?
+Dialogue: 0,0:10:54.16,0:10:56.94,Default,,0000,0000,0000,,These things are set up all over the island?
+Dialogue: 0,0:10:57.16,0:10:59.25,Default,,0000,0000,0000,,Let’s begin.
+Dialogue: 0,0:11:05.88,0:11:08.48,Default,,0000,0000,0000,,You’re already down to one Star Chip.
+Dialogue: 0,0:11:08.48,0:11:12.65,Default,,0000,0000,0000,,If I take it from you, you’re \Nout of the tournament.
+Dialogue: 0,0:11:12.65,0:11:16.49,Default,,0000,0000,0000,,I wager one Star Chip.
+Dialogue: 0,0:11:16.49,0:11:18.39,Default,,0000,0000,0000,,No, you’ll wager two.
+Dialogue: 0,0:11:18.39,0:11:19.56,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:11:19.56,0:11:22.40,Default,,0000,0000,0000,,It’s all on the line between us.
+Dialogue: 0,0:11:22.60,0:11:27.33,Default,,0000,0000,0000,,Then what will you wager for \Nmy extra Star Chip, Yugi?
+Dialogue: 0,0:11:27.33,0:11:30.08,Default,,0000,0000,0000,,My life as a duelist.
+Dialogue: 0,0:11:30.08,0:11:32.28,Default,,0000,0000,0000,,I’ll wager this card deck.
+Dialogue: 0,0:11:32.28,0:11:35.78,Default,,0000,0000,0000,,Ooh, interesting.  Fine.
+Dialogue: 0,0:11:37.00,0:11:41.32,Default,,0000,0000,0000,,If I knew I was getting your deck, I \Nshouldn’t have thrown away your Exodia.
+Dialogue: 0,0:11:41.32,0:11:42.35,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:11:42.35,0:11:44.80,Default,,0000,0000,0000,,Squash that annoying insect!
+Dialogue: 0,0:11:44.80,0:11:47.80,Default,,0000,0000,0000,,Everybody!  There’s a \Nduel starting over here!
+Dialogue: 0,0:11:47.80,0:11:51.35,Default,,0000,0000,0000,,It’s the Japan champion Insector \NHaga and...  Who’s that?
+Dialogue: 0,0:11:51.73,0:11:55.19,Default,,0000,0000,0000,,That’s Yugi Muto, the \Nduelist who defeated Kaiba.
+Dialogue: 0,0:11:55.52,0:12:00.53,Default,,0000,0000,0000,,I’m his best friend Jonouchi Katsuya, \Nand these are our merry sidekicks.
+Dialogue: 0,0:12:01.17,0:12:04.80,Default,,0000,0000,0000,,Haga vs Yugi?  It’s a \Nbattle between the elites!
+Dialogue: 0,0:12:04.80,0:12:06.73,Default,,0000,0000,0000,,Here I go, Yugi!
+Dialogue: 0,0:12:11.92,0:12:13.61,Default,,0000,0000,0000,,Duel!
+Dialogue: 0,0:12:17.04,0:12:21.38,Default,,0000,0000,0000,,I play Killer Needle in attack position.
+Dialogue: 0,0:12:27.13,0:12:30.25,Default,,0000,0000,0000,,I play Mammoth Graveyard.
+Dialogue: 0,0:12:34.80,0:12:37.47,Default,,0000,0000,0000,,Our monsters’ attack points are equal.
+Dialogue: 0,0:12:37.90,0:12:38.85,Default,,0000,0000,0000,,Battle!
+Dialogue: 0,0:12:40.12,0:12:43.03,Default,,0000,0000,0000,,Killer Needle counterattacks!
+Dialogue: 0,0:12:48.68,0:12:51.52,Default,,0000,0000,0000,,Killer Needle destroys your Mammoth!
+Dialogue: 0,0:12:51.70,0:12:55.97,Default,,0000,0000,0000,,They had equal attack points, \Nbut my monster was destroyed.
+Dialogue: 0,0:12:57.08,0:13:02.13,Default,,0000,0000,0000,,Yugi, you don’t know why I chose \Nto battle you in this forest.
+Dialogue: 0,0:13:02.13,0:13:04.03,Default,,0000,0000,0000,,Maybe I should tell you.
+Dialogue: 0,0:13:04.20,0:13:10.10,Default,,0000,0000,0000,,Pegasus only told me the \NKingdom’s new rules in advance.
+Dialogue: 0,0:13:10.10,0:13:12.80,Default,,0000,0000,0000,,Look closely at the field in this Duel Ring.
+Dialogue: 0,0:13:12.80,0:13:17.76,Default,,0000,0000,0000,,It displays a replica of \Nthe region surrounding us.
+Dialogue: 0,0:13:17.76,0:13:24.58,Default,,0000,0000,0000,,Our battlefield is 80% \Nforest and 20% wasteland.
+Dialogue: 0,0:13:24.58,0:13:29.48,Default,,0000,0000,0000,,This forest field is the perfect \Nhabitat for my insects.
+Dialogue: 0,0:13:29.48,0:13:33.72,Default,,0000,0000,0000,,Therefore, Insect cards gain \Na Field Power Source Bonus.
+Dialogue: 0,0:13:33.72,0:13:39.27,Default,,0000,0000,0000,,Their attack and defense \Npoints increase by 30%.
+Dialogue: 0,0:13:39.27,0:13:43.20,Default,,0000,0000,0000,,I see.  The Duel Ring has those \Nfield effects from the beginning.
+Dialogue: 0,0:13:43.44,0:13:48.71,Default,,0000,0000,0000,,Yugi, there’s no way you can \Nwin against my Insect cards!
+Dialogue: 0,0:13:49.22,0:13:51.44,Default,,0000,0000,0000,,What’s so funny, Yugi?
+Dialogue: 0,0:13:51.44,0:13:55.35,Default,,0000,0000,0000,,Haga, look at your Insect monster.
+Dialogue: 0,0:13:55.35,0:13:56.57,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:14:00.23,0:14:02.17,Default,,0000,0000,0000,,My Killer Needle!
+Dialogue: 0,0:14:03.68,0:14:09.03,Default,,0000,0000,0000,,Oh no!  Yugi’s Mammoth Graveyard is perfect \Nfor the wasteland that makes up 20% of the field.
+Dialogue: 0,0:14:09.03,0:14:12.73,Default,,0000,0000,0000,,It gained a power bonus \Nfrom the field as well.
+Dialogue: 0,0:14:12.73,0:14:19.41,Default,,0000,0000,0000,,Haga, I figured out the new rule the moment \NI stood on this platform.  Too bad for you.
+Dialogue: 0,0:14:19.76,0:14:22.74,Default,,0000,0000,0000,,He figured out the Kingdom’s new rules?
+Dialogue: 0,0:14:22.74,0:14:29.12,Default,,0000,0000,0000,,I wondered why Pegasus would need an \Nisland to duel for the longest time.
+Dialogue: 0,0:14:29.12,0:14:32.96,Default,,0000,0000,0000,,But when I saw this \Ndisplay, I figured it out.
+Dialogue: 0,0:14:32.96,0:14:40.44,Default,,0000,0000,0000,,The battlefield can give a Field Power Source \NBonus to a monster card, making it more powerful.
+Dialogue: 0,0:14:40.44,0:14:44.53,Default,,0000,0000,0000,,So where you choose to battle on \Nthis island becomes important.
+Dialogue: 0,0:14:44.76,0:14:53.01,Default,,0000,0000,0000,,Haga, I only figured it out because \Nyou led me into this forest.  Thanks.
+Dialogue: 0,0:14:54.16,0:14:58.19,Default,,0000,0000,0000,,Impressive, Yugi.  You figured it out.
+Dialogue: 0,0:14:58.19,0:15:01.28,Default,,0000,0000,0000,,But Field Power isn’t the \Nonly new rule in the Kingdom.
+Dialogue: 0,0:15:01.28,0:15:05.04,Default,,0000,0000,0000,,There are other rules you know nothing about.
+Dialogue: 0,0:15:05.04,0:15:06.59,Default,,0000,0000,0000,,Go, Yugi!
+Dialogue: 0,0:15:06.59,0:15:09.12,Default,,0000,0000,0000,,Finish him quick!
+Dialogue: 0,0:15:09.76,0:15:12.65,Default,,0000,0000,0000,,I play Hercules Beetle.
+Dialogue: 0,0:15:15.08,0:15:19.80,Default,,0000,0000,0000,,The forest’s Field Power raises \Nits attack points by 30%.
+Dialogue: 0,0:15:19.98,0:15:24.01,Default,,0000,0000,0000,,The field is 80% forest, \Nand the rest is wasteland.
+Dialogue: 0,0:15:24.01,0:15:27.40,Default,,0000,0000,0000,,But I don’t have any cards in my \Nhand that are good on this field.
+Dialogue: 0,0:15:27.40,0:15:29.31,Default,,0000,0000,0000,,I’ll go with a combo!
+Dialogue: 0,0:15:29.52,0:15:32.93,Default,,0000,0000,0000,,I play Feral Imp in attack position!
+Dialogue: 0,0:15:35.32,0:15:40.97,Default,,0000,0000,0000,,I add the spell card Horn of the Unicorn, \Ngiving it 700 more attack points.
+Dialogue: 0,0:15:45.24,0:15:47.95,Default,,0000,0000,0000,,You think you can win with that?
+Dialogue: 0,0:15:47.95,0:15:51.37,Default,,0000,0000,0000,,Battle!  Go, Hercules Beetle!
+Dialogue: 0,0:15:53.05,0:15:54.60,Default,,0000,0000,0000,,Feral Imp, Electric Shock!
+Dialogue: 0,0:15:59.80,0:16:02.32,Default,,0000,0000,0000,,Electric Shock didn’t work at all!
+Dialogue: 0,0:16:02.32,0:16:03.40,Default,,0000,0000,0000,,What’s going on?
+Dialogue: 0,0:16:03.40,0:16:08.15,Default,,0000,0000,0000,,Do monsters with a Field Power Bonus \Ngain magic resistance as well?
+Dialogue: 0,0:16:08.15,0:16:14.12,Default,,0000,0000,0000,,Exactly!  Spells that power up monsters are \Nmeaningless against monsters with magic resitance.
+Dialogue: 0,0:16:14.12,0:16:17.16,Default,,0000,0000,0000,,They can only use their innate abilities.
+Dialogue: 0,0:16:17.36,0:16:24.30,Default,,0000,0000,0000,,Hercules Beetle has 1950 attack points, but \NFeral Imp’s original attack points are only 1300.
+Dialogue: 0,0:16:24.43,0:16:27.81,Default,,0000,0000,0000,,That difference will be deducted \Nfrom your life points.
+Dialogue: 0,0:16:29.30,0:16:35.04,Default,,0000,0000,0000,,Insect cards have low attack points, but the \NField Power Bonus makes them pretty powerful.
+Dialogue: 0,0:16:35.04,0:16:37.81,Default,,0000,0000,0000,,This place is perfect for that bug!
+Dialogue: 0,0:16:37.81,0:16:39.71,Default,,0000,0000,0000,,Hang in there, Yugi!
+Dialogue: 0,0:16:39.88,0:16:42.72,Default,,0000,0000,0000,,Yugi, it’s your turn.
+Dialogue: 0,0:16:42.96,0:16:47.12,Default,,0000,0000,0000,,I don’t have a card in my hand \Nthat can beat his Hercules Beetle.
+Dialogue: 0,0:16:47.12,0:16:49.84,Default,,0000,0000,0000,,I’ll play a monster in defense \Nposition and end my turn.
+Dialogue: 0,0:16:49.84,0:16:54.36,Default,,0000,0000,0000,,If you’re already on the \Nrun, my victory is assured.
+Dialogue: 0,0:16:54.36,0:16:58.35,Default,,0000,0000,0000,,Beating Kaiba must have been a fluke.
+Dialogue: 0,0:16:58.35,0:17:00.50,Default,,0000,0000,0000,,Here comes my special combo!
+Dialogue: 0,0:17:00.50,0:17:03.13,Default,,0000,0000,0000,,I play Basic Insect!
+Dialogue: 0,0:17:05.80,0:17:09.26,Default,,0000,0000,0000,,The Field Power Source Bonus powers it up.
+Dialogue: 0,0:17:09.26,0:17:11.95,Default,,0000,0000,0000,,I equip it with Laser Cannon Armor.
+Dialogue: 0,0:17:12.85,0:17:16.72,Default,,0000,0000,0000,,And Lev. 2 Power Boost \Ntriples my weapon’s power.
+Dialogue: 0,0:17:16.72,0:17:19.45,Default,,0000,0000,0000,,These weapons power it up by four!
+Dialogue: 0,0:17:19.64,0:17:23.73,Default,,0000,0000,0000,,Haga used this combo attack \Nto win the Japan tournament!
+Dialogue: 0,0:17:23.73,0:17:25.45,Default,,0000,0000,0000,,Attack!
+Dialogue: 0,0:17:33.92,0:17:36.04,Default,,0000,0000,0000,,So you had a Griffore.
+Dialogue: 0,0:17:36.04,0:17:39.36,Default,,0000,0000,0000,,You’re no match for me from the start.
+Dialogue: 0,0:17:39.36,0:17:40.68,Default,,0000,0000,0000,,I place this in defense position!
+Dialogue: 0,0:17:40.68,0:17:43.73,Default,,0000,0000,0000,,My cards, hang on and survive!
+Dialogue: 0,0:17:44.48,0:17:46.64,Default,,0000,0000,0000,,It’s probably another weak card.
+Dialogue: 0,0:17:46.64,0:17:50.82,Default,,0000,0000,0000,,You don’t have any cards that can \Nstand up to my Insect combo attack.
+Dialogue: 0,0:17:51.04,0:17:54.55,Default,,0000,0000,0000,,But simply defeating your \Nweaklings isn’t fun.
+Dialogue: 0,0:17:54.55,0:17:58.26,Default,,0000,0000,0000,,I’ll set this mystery card on the field.
+Dialogue: 0,0:17:58.26,0:18:00.32,Default,,0000,0000,0000,,Jonouchi, what’s that card?
+Dialogue: 0,0:18:00.32,0:18:02.29,Default,,0000,0000,0000,,Is it a trap card?
+Dialogue: 0,0:18:03.36,0:18:11.21,Default,,0000,0000,0000,,When Yugi declares his attack, this trap \Ncard Parasite Worm will destroy all his monsters.
+Dialogue: 0,0:18:11.94,0:18:14.24,Default,,0000,0000,0000,,He’s preventing me from attacking.
+Dialogue: 0,0:18:14.24,0:18:17.44,Default,,0000,0000,0000,,I can only set a card and try to survive.
+Dialogue: 0,0:18:17.44,0:18:20.68,Default,,0000,0000,0000,,It looks like you set a \Nspell card in desperation.
+Dialogue: 0,0:18:20.68,0:18:25.83,Default,,0000,0000,0000,,Watch, Yugi.  I’ll fill the \Nfield with my Insect army!
+Dialogue: 0,0:18:32.13,0:18:34.73,Default,,0000,0000,0000,,There’s more!
+Dialogue: 0,0:18:36.64,0:18:38.76,Default,,0000,0000,0000,,You’re not going to attack?
+Dialogue: 0,0:18:38.76,0:18:41.63,Default,,0000,0000,0000,,Or else, I’ll keep getting \Nmore monsters every turn.
+Dialogue: 0,0:18:41.63,0:18:45.14,Default,,0000,0000,0000,,It’s no good.  I don’t have \Nany monster cards in my hand.
+Dialogue: 0,0:18:45.32,0:18:48.40,Default,,0000,0000,0000,,If he doesn’t do something, he’ll \Nhave to face more and more enemies!
+Dialogue: 0,0:18:48.40,0:18:51.73,Default,,0000,0000,0000,,Yeah, but Yugi is prevented from attacking!
+Dialogue: 0,0:18:52.96,0:18:56.12,Default,,0000,0000,0000,,Today is your last day as a duelist.
+Dialogue: 0,0:18:56.12,0:18:59.82,Default,,0000,0000,0000,,I’ll commemorate it with \Na giant insect parade.
+Dialogue: 0,0:18:59.82,0:19:02.12,Default,,0000,0000,0000,,My cards, I’m counting on you.
+Dialogue: 0,0:19:02.12,0:19:03.95,Default,,0000,0000,0000,,Dark Magician.
+Dialogue: 0,0:19:03.95,0:19:08.83,Default,,0000,0000,0000,,This is one of my trump \Ncards, but I can’t attack.
+Dialogue: 0,0:19:08.96,0:19:10.52,Default,,0000,0000,0000,,I play a card in defense position.
+Dialogue: 0,0:19:10.52,0:19:15.36,Default,,0000,0000,0000,,No matter what card you play, it’s \Npowerless against my Insect army.
+Dialogue: 0,0:19:15.36,0:19:18.36,Default,,0000,0000,0000,,Go, Basic Insect Laser Cannon!
+Dialogue: 0,0:19:18.36,0:19:20.97,Default,,0000,0000,0000,,Your target is that card!
+Dialogue: 0,0:19:21.55,0:19:23.33,Default,,0000,0000,0000,,Attack!
+Dialogue: 0,0:19:25.52,0:19:27.45,Default,,0000,0000,0000,,What’s so funny?
+Dialogue: 0,0:19:27.68,0:19:30.68,Default,,0000,0000,0000,,Haga, you said “attack.”
+Dialogue: 0,0:19:30.68,0:19:32.05,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:19:32.76,0:19:36.53,Default,,0000,0000,0000,,Did you forget that I also set a card?
+Dialogue: 0,0:19:36.53,0:19:38.42,Default,,0000,0000,0000,,Don’t tell me it’s a trap card!
+Dialogue: 0,0:19:38.59,0:19:42.28,Default,,0000,0000,0000,,Oh yes.  Since you declared an attack,
+Dialogue: 0,0:19:42.28,0:19:45.95,Default,,0000,0000,0000,,it acted \Nas a switch to activate my trap card Mirror Force.
+Dialogue: 0,0:19:46.68,0:19:48.57,Default,,0000,0000,0000,,Don’t shoot!
+Dialogue: 0,0:19:56.15,0:19:59.80,Default,,0000,0000,0000,,My Insect army...
+Dialogue: 0,0:20:01.93,0:20:03.08,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:20:03.08,0:20:04.20,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:20:04.20,0:20:08.82,Default,,0000,0000,0000,,Yugi saw right through my strategy.
+Dialogue: 0,0:20:09.04,0:20:13.48,Default,,0000,0000,0000,,Looks like it was a fluke that \Nyou became Japan’s champion.
+Dialogue: 0,0:20:13.48,0:20:17.66,Default,,0000,0000,0000,,You misread my cards and fell \Nvictim to your own plan.
+Dialogue: 0,0:20:18.04,0:20:23.03,Default,,0000,0000,0000,,To put it simply: Haga, you have no skills.
+Dialogue: 0,0:20:26.24,0:20:29.56,Default,,0000,0000,0000,,He did it!  He’ll easily \Ndefeat Haga in this duel!
+Dialogue: 0,0:20:29.56,0:20:32.28,Default,,0000,0000,0000,,What?  We don’t know who’ll win yet?
+Dialogue: 0,0:20:32.28,0:20:34.21,Default,,0000,0000,0000,,Hey!  It’s Mai Kujaku!
+Dialogue: 0,0:20:34.21,0:20:35.82,Default,,0000,0000,0000,,She’s so arrogant!
+Dialogue: 0,0:20:35.82,0:20:39.04,Default,,0000,0000,0000,,Whoa!  The worm turned into a cocoon!
+Dialogue: 0,0:20:39.04,0:20:44.55,Default,,0000,0000,0000,,Yugi struggles against the Cocoon of \NEvolution combo, a combo that no one has ever defeated.
+Dialogue: 0,0:20:44.55,0:20:47.02,Default,,0000,0000,0000,,If the Cocoon hatches, Yugi will be...
+Dialogue: 0,0:20:47.02,0:20:50.80,Default,,0000,0000,0000,,Next time on Yu-Gi-Oh!:\NPerfectly Ultimate Great Moth
+Dialogue: 0,0:20:50.80,0:20:52.85,Default,,0000,0000,0000,,Duel, standby!
+Dialogue: 0,0:20:54.95,0:21:03.35,Default,,0000,0000,0000,,The flask glistens
+Dialogue: 0,0:21:04.39,0:21:11.20,Default,,0000,0000,0000,,Wait for me in the science classroom
+Dialogue: 0,0:21:11.69,0:21:20.17,Default,,0000,0000,0000,,If we put our cold hands together
+Dialogue: 0,0:21:20.88,0:21:27.95,Default,,0000,0000,0000,,And rub them together, they become warm
+Dialogue: 0,0:21:29.65,0:21:33.78,Default,,0000,0000,0000,,Shower of happiness
+Dialogue: 0,0:21:34.07,0:21:37.89,Default,,0000,0000,0000,,I will shower you with it
+Dialogue: 0,0:21:38.22,0:21:46.17,Default,,0000,0000,0000,,I will support you even when you feel lonely
+Dialogue: 0,0:21:46.37,0:21:50.41,Default,,0000,0000,0000,,Shower of happiness
+Dialogue: 0,0:21:50.67,0:21:54.53,Default,,0000,0000,0000,,You are not alone
+Dialogue: 0,0:21:54.91,0:22:01.25,Default,,0000,0000,0000,,You’re protected by a \Ngiant ring of friendship

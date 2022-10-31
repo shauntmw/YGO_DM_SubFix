@@ -1,0 +1,323 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: 4kmedia  [http://www.crunchyroll.com/user/4kmedia]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 480
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,EquitanSans-Regular,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,25,1
+Style: 5Ds,Arial Unicode MS,24,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0030,1
+Style: 5Ds song,Arial Unicode MS,24,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0015,1
+Style: Credits 2,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,300,300,0,0,1,2,2,2,0010,0010,0018,1
+Style: Yu-Gi-Oh Yellow,Trebuchet MS,28,&H0000FFFF,&H0000FFFF,&H00232323,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+Style: Yu-Gi-Oh,Trebuchet MS,28,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:16.98,0:00:23.12,Default,,0000,0000,0000,,Before I knew it, I abandoned happiness to survive
+Dialogue: 0,0:00:23.87,0:00:30.26,Default,,0000,0000,0000,,Lying to myself, I danced clinging on to illusions
+Dialogue: 0,0:00:31.04,0:00:37.05,Default,,0000,0000,0000,,At the edge of my vision when I close my eyes
+Dialogue: 0,0:00:37.05,0:00:42.91,Default,,0000,0000,0000,,I was searching for your smile
+Dialogue: 0,0:00:43.81,0:00:50.28,Default,,0000,0000,0000,,With our memories fading
+Dialogue: 0,0:00:50.82,0:00:57.36,Default,,0000,0000,0000,,We hold on to our dreams and run  Yeah
+Dialogue: 0,0:00:57.69,0:01:04.26,Default,,0000,0000,0000,,These feelings that I shut away in my heart
+Dialogue: 0,0:01:04.62,0:01:11.49,Default,,0000,0000,0000,,I’ll now grasp them again
+Dialogue: 0,0:01:30.32,0:01:36.16,Default,,0000,0000,0000,,When the other Yugi lost his duel against Rafael, he lost Yugi’s soul.
+Dialogue: 0,0:01:36.43,0:01:41.00,Default,,0000,0000,0000,,I know how bad you feel, but sulking doesn’t help.
+Dialogue: 0,0:01:41.33,0:01:45.12,Default,,0000,0000,0000,,Let’s uncover Doma’s secrets and recover the captured souls!
+Dialogue: 0,0:01:45.79,0:01:50.02,Default,,0000,0000,0000,,But I’m worried about Haga and Ryuzaki.  They’ve vanished.
+Dialogue: 0,0:01:50.02,0:01:53.41,Default,,0000,0000,0000,,Did they betray us and join Doma?
+Dialogue: 0,0:01:54.23,0:02:00.23,Default,,0000,0000,0000,,Runaway Train Duel
+Dialogue: 0,0:02:04.92,0:02:07.00,Default,,0000,0000,0000,,We’ll go on ahead.
+Dialogue: 0,0:02:07.00,0:02:09.48,Default,,0000,0000,0000,,Take care of Professor Hopkins and Rebecca.
+Dialogue: 0,0:02:09.48,0:02:11.36,Default,,0000,0000,0000,,Yeah.  Leave it to me.
+Dialogue: 0,0:02:11.36,0:02:14.65,Default,,0000,0000,0000,,We’ll catch up when the Professor is healed.
+Dialogue: 0,0:02:14.65,0:02:18.07,Default,,0000,0000,0000,,We’re counting on you.  We can’t do much without the Professor.
+Dialogue: 0,0:02:19.70,0:02:21.44,Default,,0000,0000,0000,,I’m going too!
+Dialogue: 0,0:02:21.44,0:02:23.49,Default,,0000,0000,0000,,I’ll save my darling!
+Dialogue: 0,0:02:23.49,0:02:24.79,Default,,0000,0000,0000,,Stop, Rebecca.
+Dialogue: 0,0:02:24.79,0:02:25.97,Default,,0000,0000,0000,,But!
+Dialogue: 0,0:02:25.97,0:02:27.52,Default,,0000,0000,0000,,That’s enough.
+Dialogue: 0,0:02:27.52,0:02:30.29,Default,,0000,0000,0000,,Yugi’s the one who’s suffering the most.
+Dialogue: 0,0:02:40.51,0:02:42.26,Default,,0000,0000,0000,,You don’t get it, Grandpa!
+Dialogue: 0,0:02:53.32,0:02:54.59,Default,,0000,0000,0000,,Yugi...
+Dialogue: 0,0:02:56.54,0:02:57.49,Default,,0000,0000,0000,,It’s time.
+Dialogue: 0,0:02:57.49,0:02:58.76,Default,,0000,0000,0000,,See ya.
+Dialogue: 0,0:02:58.98,0:03:00.41,Default,,0000,0000,0000,,Take care.
+Dialogue: 0,0:03:31.85,0:03:32.76,Default,,0000,0000,0000,,Yugi...
+Dialogue: 0,0:03:38.77,0:03:40.90,Default,,0000,0000,0000,,Hey, Yugi!  Look!
+Dialogue: 0,0:03:40.90,0:03:42.50,Default,,0000,0000,0000,,Isn’t it beautiful?
+Dialogue: 0,0:03:44.42,0:03:46.84,Default,,0000,0000,0000,,I wonder what Florida’s like!
+Dialogue: 0,0:03:46.84,0:03:50.66,Default,,0000,0000,0000,,Aww!  I should’ve brought my swimsuit!
+Dialogue: 0,0:03:54.22,0:03:56.40,Default,,0000,0000,0000,,Hey, are you hungry?
+Dialogue: 0,0:03:56.40,0:03:59.80,Default,,0000,0000,0000,,Should I see if the dining car is open?
+Dialogue: 0,0:04:06.22,0:04:07.52,Default,,0000,0000,0000,,Yugi...
+Dialogue: 0,0:04:18.70,0:04:21.42,Default,,0000,0000,0000,,Cheer up, Yugi!
+Dialogue: 0,0:04:21.42,0:04:26.71,Default,,0000,0000,0000,,I know you’re hurting, but you can’t mourn forever.
+Dialogue: 0,0:04:26.94,0:04:31.54,Default,,0000,0000,0000,,Let’s all discuss how to get the other Yugi back.  Okay?
+Dialogue: 0,0:04:34.83,0:04:35.53,Default,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:04:36.99,0:04:38.19,Default,,0000,0000,0000,,Yugi...
+Dialogue: 0,0:04:45.42,0:04:48.27,Default,,0000,0000,0000,,Nothing you say will work, Anzu.
+Dialogue: 0,0:04:48.48,0:04:53.14,Default,,0000,0000,0000,,This incident hit Yugi hard.
+Dialogue: 0,0:04:53.14,0:04:54.56,Default,,0000,0000,0000,,Leave him be.
+Dialogue: 0,0:04:56.08,0:05:03.45,Default,,0000,0000,0000,,I, Katsuya Jonouchi, will save the other Yugi!
+Dialogue: 0,0:05:04.04,0:05:05.60,Default,,0000,0000,0000,,Jonouchi...
+Dialogue: 0,0:05:11.32,0:05:16.46,Default,,0000,0000,0000,,I couldn’t stop my dark urges.
+Dialogue: 0,0:05:16.46,0:05:18.40,Default,,0000,0000,0000,,I lost sight of myself.
+Dialogue: 0,0:05:19.26,0:05:22.61,Default,,0000,0000,0000,,This will finish it, Rafael.
+Dialogue: 0,0:05:22.61,0:05:25.55,Default,,0000,0000,0000,,I tribute Dark Magician Girl!
+Dialogue: 0,0:05:26.87,0:05:27.77,Default,,0000,0000,0000,,Take this!
+Dialogue: 0,0:05:32.84,0:05:34.91,Default,,0000,0000,0000,,As a result...
+Dialogue: 0,0:05:38.79,0:05:42.25,Default,,0000,0000,0000,,Don’t look at me like that!
+Dialogue: 0,0:05:42.25,0:05:46.74,Default,,0000,0000,0000,,Nameless Pharaoh, feel the rage of your monsters!
+Dialogue: 0,0:05:46.74,0:05:49.30,Default,,0000,0000,0000,,Guardian Eatos attacks!
+Dialogue: 0,0:05:52.41,0:05:54.83,Default,,0000,0000,0000,,Forbidden Gospel!
+Dialogue: 0,0:06:10.18,0:06:11.45,Default,,0000,0000,0000,,Partner!
+Dialogue: 0,0:06:12.53,0:06:13.39,Default,,0000,0000,0000,,Partner!
+Dialogue: 0,0:06:13.39,0:06:18.11,Default,,0000,0000,0000,,I lost something more valuable than my own life.
+Dialogue: 0,0:06:21.73,0:06:22.99,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:06:25.30,0:06:29.60,Default,,0000,0000,0000,,I’m sorry, partner.
+Dialogue: 0,0:06:34.40,0:06:36.78,Default,,0000,0000,0000,,Yugi hasn’t come back yet.
+Dialogue: 0,0:06:37.40,0:06:39.78,Default,,0000,0000,0000,,Anyway, something’s weird.
+Dialogue: 0,0:06:41.01,0:06:42.56,Default,,0000,0000,0000,,Haven’t you noticed?
+Dialogue: 0,0:06:42.56,0:06:46.22,Default,,0000,0000,0000,,Yugi’s not the only one who hasn’t returned.
+Dialogue: 0,0:06:46.22,0:06:51.05,Default,,0000,0000,0000,,Every passenger in this car is gone.
+Dialogue: 0,0:07:19.26,0:07:20.96,Default,,0000,0000,0000,,Nobody’s here too.
+Dialogue: 0,0:07:20.96,0:07:22.42,Default,,0000,0000,0000,,What about the next car?
+Dialogue: 0,0:07:29.40,0:07:30.83,Default,,0000,0000,0000,,No one’s here either!
+Dialogue: 0,0:07:39.43,0:07:40.71,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:07:40.71,0:07:43.05,Default,,0000,0000,0000,,Something’s weird with this train!
+Dialogue: 0,0:07:43.05,0:07:46.86,Default,,0000,0000,0000,,All the other passengers are gone.
+Dialogue: 0,0:07:48.15,0:07:50.79,Default,,0000,0000,0000,,Even though we haven’t made any stops.
+Dialogue: 0,0:07:50.79,0:07:52.48,Default,,0000,0000,0000,,This is impossible.
+Dialogue: 0,0:07:52.48,0:07:54.87,Default,,0000,0000,0000,,Do you think they’re behind this?
+Dialogue: 0,0:07:57.02,0:07:58.79,Default,,0000,0000,0000,,Wait, Yugi!
+Dialogue: 0,0:08:12.43,0:08:13.71,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:08:14.39,0:08:15.64,Default,,0000,0000,0000,,Anzu!
+Dialogue: 0,0:08:19.52,0:08:20.33,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:08:20.96,0:08:22.12,Default,,0000,0000,0000,,Anzu!
+Dialogue: 0,0:08:23.04,0:08:25.35,Default,,0000,0000,0000,,Honda!  Jonouchi!
+Dialogue: 0,0:08:25.35,0:08:26.34,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:08:26.77,0:08:30.03,Default,,0000,0000,0000,,Yugi, we have to stop the train!
+Dialogue: 0,0:08:30.03,0:08:31.29,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:08:37.00,0:08:39.43,Default,,0000,0000,0000,,Damn!  What’s happening?
+Dialogue: 0,0:08:42.44,0:08:44.87,Default,,0000,0000,0000,,Did Doma do this?
+Dialogue: 0,0:08:45.77,0:08:47.81,Default,,0000,0000,0000,,Yugi...  Anzu...
+Dialogue: 0,0:08:52.13,0:08:53.41,Default,,0000,0000,0000,,Who’s there?
+Dialogue: 0,0:08:54.37,0:08:56.01,Default,,0000,0000,0000,,Dinosaur Ryuzaki!
+Dialogue: 0,0:08:57.28,0:09:01.32,Default,,0000,0000,0000,,Phew, it’s just you.  Don’t scare me!
+Dialogue: 0,0:09:01.32,0:09:05.26,Default,,0000,0000,0000,,Jonouchi, I have business with you.
+Dialogue: 0,0:09:06.40,0:09:07.69,Default,,0000,0000,0000,,Business?
+Dialogue: 0,0:09:08.32,0:09:11.63,Default,,0000,0000,0000,,I’m here for your soul.
+Dialogue: 0,0:09:17.66,0:09:18.94,Default,,0000,0000,0000,,Anybody there?
+Dialogue: 0,0:09:19.44,0:09:21.87,Default,,0000,0000,0000,,Please stop the train!
+Dialogue: 0,0:09:21.87,0:09:24.04,Default,,0000,0000,0000,,Engineer!  Anyone!
+Dialogue: 0,0:09:24.04,0:09:25.31,Default,,0000,0000,0000,,Stop the train!
+Dialogue: 0,0:09:31.91,0:09:34.76,Default,,0000,0000,0000,,Any way to get to the driver’s seat?
+Dialogue: 0,0:09:36.37,0:09:37.82,Default,,0000,0000,0000,,Yugi.
+Dialogue: 0,0:09:40.25,0:09:42.18,Default,,0000,0000,0000,,This is the only path.
+Dialogue: 0,0:09:42.18,0:09:43.46,Default,,0000,0000,0000,,Be careful.
+Dialogue: 0,0:09:46.90,0:09:48.12,Default,,0000,0000,0000,,You’re...
+Dialogue: 0,0:09:52.32,0:09:53.57,Default,,0000,0000,0000,,Insector Haga!
+Dialogue: 0,0:09:54.17,0:09:57.01,Default,,0000,0000,0000,,Haga?  What’s he doing here?
+Dialogue: 0,0:09:58.78,0:10:01.18,Default,,0000,0000,0000,,Yugi, duel me.
+Dialogue: 0,0:10:01.87,0:10:03.11,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:10:06.04,0:10:08.37,Default,,0000,0000,0000,,Haga, don’t tell me you’re...
+Dialogue: 0,0:10:10.37,0:10:14.59,Default,,0000,0000,0000,,I’m not the same as I used to be.
+Dialogue: 0,0:10:22.53,0:10:24.77,Default,,0000,0000,0000,,That’s Doma’s!
+Dialogue: 0,0:10:24.77,0:10:27.71,Default,,0000,0000,0000,,Ryuzaki!  You joined them?
+Dialogue: 0,0:10:44.20,0:10:47.39,Default,,0000,0000,0000,,Why did you join Doma?
+Dialogue: 0,0:10:47.39,0:10:50.88,Default,,0000,0000,0000,,To defeat Yugi, of course.
+Dialogue: 0,0:10:50.88,0:10:52.14,Default,,0000,0000,0000,,Haga!
+Dialogue: 0,0:10:52.14,0:10:53.66,Default,,0000,0000,0000,,Let’s duel, Yugi!
+Dialogue: 0,0:10:54.33,0:10:55.86,Default,,0000,0000,0000,,Wait a sec!
+Dialogue: 0,0:10:56.76,0:10:57.68,Default,,0000,0000,0000,,Anzu!
+Dialogue: 0,0:10:58.00,0:10:59.46,Default,,0000,0000,0000,,It’s dangerous here!
+Dialogue: 0,0:10:59.46,0:11:03.33,Default,,0000,0000,0000,,Haga!  Do you know what you’re doing?
+Dialogue: 0,0:11:03.33,0:11:05.56,Default,,0000,0000,0000,,I won’t let you duel!
+Dialogue: 0,0:11:05.56,0:11:06.17,Default,,0000,0000,0000,,Anzu!
+Dialogue: 0,0:11:06.17,0:11:10.85,Default,,0000,0000,0000,,Ooh, scary!  I like quiet girls better.
+Dialogue: 0,0:11:12.27,0:11:13.55,Default,,0000,0000,0000,,Say what!
+Dialogue: 0,0:11:13.55,0:11:17.15,Default,,0000,0000,0000,,Sorry, but I have no business with you.
+Dialogue: 0,0:11:17.15,0:11:20.03,Default,,0000,0000,0000,,It’s with the Nameless Pharaoh!
+Dialogue: 0,0:11:20.03,0:11:21.29,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:11:21.29,0:11:25.95,Default,,0000,0000,0000,,I heard you have two personalities.
+Dialogue: 0,0:11:27.44,0:11:31.90,Default,,0000,0000,0000,,Don’t you want to know where the other Yugi is?
+Dialogue: 0,0:11:31.90,0:11:33.09,Default,,0000,0000,0000,,You know?
+Dialogue: 0,0:11:33.09,0:11:34.33,Default,,0000,0000,0000,,Tell me!
+Dialogue: 0,0:11:34.33,0:11:37.58,Default,,0000,0000,0000,,Duel me if you want to know.
+Dialogue: 0,0:11:37.58,0:11:39.97,Default,,0000,0000,0000,,I’ll tell you if you win.
+Dialogue: 0,0:11:41.60,0:11:43.94,Default,,0000,0000,0000,,Haga!  You punk!
+Dialogue: 0,0:11:45.88,0:11:47.88,Default,,0000,0000,0000,,Let’s duel, Yugi!
+Dialogue: 0,0:11:49.84,0:11:53.03,Default,,0000,0000,0000,,Here I go!  Let’s duel, Jonouchi!
+Dialogue: 0,0:11:53.39,0:11:56.87,Default,,0000,0000,0000,,You’re the one who detached the train!
+Dialogue: 0,0:11:56.87,0:11:58.56,Default,,0000,0000,0000,,Why did you do that?
+Dialogue: 0,0:11:58.78,0:12:00.50,Default,,0000,0000,0000,,What happened to Yugi and Anzu?
+Dialogue: 0,0:12:00.50,0:12:04.93,Default,,0000,0000,0000,,Yugi?  He’s probably dueling Haga.
+Dialogue: 0,0:12:07.93,0:12:07.93,Default,,0000,0000,0000,,What?  Haga also joined Doma?
+Dialogue: 0,0:12:07.93,0:12:10.87,Default,,0000,0000,0000,,Damn!  Not just Mai, but Haga and Ryuzaki too!
+Dialogue: 0,0:12:10.87,0:12:15.31,Default,,0000,0000,0000,,I have unfinished business with you, Jonouchi.
+Dialogue: 0,0:12:17.09,0:12:19.74,Default,,0000,0000,0000,,Let’s end it today!
+Dialogue: 0,0:12:20.46,0:12:26.07,Default,,0000,0000,0000,,Whatever!  Do you know what it means to join Doma?
+Dialogue: 0,0:12:26.07,0:12:28.69,Default,,0000,0000,0000,,They’re trying to destroy the world!
+Dialogue: 0,0:12:28.69,0:12:32.89,Default,,0000,0000,0000,,Be quiet!  I don’t care!
+Dialogue: 0,0:12:32.89,0:12:35.86,Default,,0000,0000,0000,,I just want to defeat you!
+Dialogue: 0,0:12:35.86,0:12:37.49,Default,,0000,0000,0000,,Standby already!
+Dialogue: 0,0:12:38.14,0:12:40.13,Default,,0000,0000,0000,,This is ridiculous.
+Dialogue: 0,0:12:40.13,0:12:43.36,Default,,0000,0000,0000,,Let’s leave him and go after Yugi.
+Dialogue: 0,0:12:43.36,0:12:44.07,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:12:44.07,0:12:46.64,Default,,0000,0000,0000,,I won’t let you!  I’m serious!
+Dialogue: 0,0:12:46.64,0:12:48.41,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:12:51.83,0:12:53.11,Default,,0000,0000,0000,,I already have it!
+Dialogue: 0,0:12:53.11,0:12:55.29,Default,,0000,0000,0000,,The Seal of Orichalcos!
+Dialogue: 0,0:12:55.29,0:12:56.72,Default,,0000,0000,0000,,Stop, Ryuzaki!
+Dialogue: 0,0:12:56.72,0:13:00.89,Default,,0000,0000,0000,,If you use it, the loser will lose his soul!
+Dialogue: 0,0:13:03.89,0:13:03.89,Default,,0000,0000,0000,,I activate The Seal of Orichalcos.
+Dialogue: 0,0:13:06.04,0:13:07.52,Default,,0000,0000,0000,,Don’t do it!
+Dialogue: 0,0:13:19.99,0:13:21.03,Default,,0000,0000,0000,,Honda!
+Dialogue: 0,0:13:24.35,0:13:27.65,Default,,0000,0000,0000,,I’m overflowing with power!
+Dialogue: 0,0:13:28.78,0:13:30.08,Default,,0000,0000,0000,,Ryuzaki!  How could you!
+Dialogue: 0,0:13:30.83,0:13:34.75,Default,,0000,0000,0000,,Seriously?  Ryuzaki used it?
+Dialogue: 0,0:13:35.27,0:13:39.42,Default,,0000,0000,0000,,No one can leave the seal until there’s a winner.
+Dialogue: 0,0:13:39.42,0:13:40.69,Default,,0000,0000,0000,,And the loser will...
+Dialogue: 0,0:13:43.69,0:13:43.69,Default,,0000,0000,0000,,I told you I was serious.
+Dialogue: 0,0:13:44.13,0:13:47.44,Default,,0000,0000,0000,,You idiot!
+Dialogue: 0,0:13:58.28,0:14:00.21,Default,,0000,0000,0000,,Don’t, Yugi!
+Dialogue: 0,0:14:00.21,0:14:01.90,Default,,0000,0000,0000,,Stay back, Anzu.
+Dialogue: 0,0:14:01.90,0:14:03.15,Default,,0000,0000,0000,,Yugi...
+Dialogue: 0,0:14:03.48,0:14:08.59,Default,,0000,0000,0000,,Yugi is in no state to have a rational duel.
+Dialogue: 0,0:14:08.80,0:14:11.52,Default,,0000,0000,0000,,I’ll go first.  I draw.
+Dialogue: 0,0:14:14.54,0:14:17.46,Default,,0000,0000,0000,,I’ll use this card.
+Dialogue: 0,0:14:18.39,0:14:20.40,Default,,0000,0000,0000,,The Seal of Orichalcos!
+Dialogue: 0,0:14:20.40,0:14:22.60,Default,,0000,0000,0000,,Tell me, Yugi.
+Dialogue: 0,0:14:22.60,0:14:25.67,Default,,0000,0000,0000,,How did it feel to use this card?
+Dialogue: 0,0:14:25.67,0:14:30.26,Default,,0000,0000,0000,,Did it feel good when your heart’s darkness spread throughout your body?
+Dialogue: 0,0:14:32.98,0:14:35.01,Default,,0000,0000,0000,,I’m just kidding.
+Dialogue: 0,0:14:35.01,0:14:38.07,Default,,0000,0000,0000,,Don’t make such a scary face, Yugi.
+Dialogue: 0,0:14:38.07,0:14:41.19,Default,,0000,0000,0000,,I’ll know how it feels when I use it now.
+Dialogue: 0,0:14:41.89,0:14:46.62,Default,,0000,0000,0000,,Don’t!  Do you know what’ll happen if you use it?
+Dialogue: 0,0:14:46.63,0:14:49.03,Default,,0000,0000,0000,,I’m using it because I do know!
+Dialogue: 0,0:14:56.34,0:14:57.52,Default,,0000,0000,0000,,Anzu!
+Dialogue: 0,0:15:05.55,0:15:06.81,Default,,0000,0000,0000,,Anzu!
+Dialogue: 0,0:15:10.93,0:15:12.18,Default,,0000,0000,0000,,Yugi...
+Dialogue: 0,0:15:18.90,0:15:22.64,Default,,0000,0000,0000,,So this is the power of the Orichalcos!
+Dialogue: 0,0:15:25.73,0:15:27.00,Default,,0000,0000,0000,,It’s begun.
+Dialogue: 0,0:15:27.00,0:15:31.44,Default,,0000,0000,0000,,Yes.  I don’t know how well they’ll do.
+Dialogue: 0,0:15:31.44,0:15:35.87,Default,,0000,0000,0000,,It’ll be good if they win and capture the Pharaoh’s soul.
+Dialogue: 0,0:15:35.87,0:15:40.17,Default,,0000,0000,0000,,Even if they lose, we’ll still get their souls.
+Dialogue: 0,0:15:43.01,0:15:47.25,Default,,0000,0000,0000,,Just wait, partner.  I promise to save you!
+Dialogue: 0,0:15:49.01,0:15:50.70,Default,,0000,0000,0000,,Come out, Pheromone Wasp!
+Dialogue: 0,0:15:54.72,0:16:00.60,Default,,0000,0000,0000,,Due to The Seal of Orichalcos, Pheromone Wasp gains 500 attack points.
+Dialogue: 0,0:16:03.60,0:16:03.60,Default,,0000,0000,0000,,I set two cards.
+Dialogue: 0,0:16:04.27,0:16:05.55,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:16:05.55,0:16:08.09,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:16:09.97,0:16:12.71,Default,,0000,0000,0000,,I summon Obnoxious Celtic Guard!
+Dialogue: 0,0:16:16.35,0:16:18.04,Default,,0000,0000,0000,,Here I go, Haga!
+Dialogue: 0,0:16:19.71,0:16:22.29,Default,,0000,0000,0000,,Haga has two set cards.
+Dialogue: 0,0:16:22.70,0:16:24.72,Default,,0000,0000,0000,,Don’t lose your cool, Yugi!
+Dialogue: 0,0:16:24.72,0:16:29.01,Default,,0000,0000,0000,,Obnoxious Celtic Guard attacks Pheromone Wasp!
+Dialogue: 0,0:16:29.73,0:16:33.82,Default,,0000,0000,0000,,That won’t work!  I flip over my set card!
+Dialogue: 0,0:16:33.82,0:16:36.43,Default,,0000,0000,0000,,I activate the trap card, Mimesis!
+Dialogue: 0,0:16:36.43,0:16:37.67,Default,,0000,0000,0000,,Mimesis?
+Dialogue: 0,0:16:37.67,0:16:42.47,Default,,0000,0000,0000,,Yes.  When an Insect is attacked...
+Dialogue: 0,0:16:42.47,0:16:47.08,Default,,0000,0000,0000,,...I can replace it with a Level 4 or lower monster in my hand.
+Dialogue: 0,0:16:47.42,0:16:50.98,Default,,0000,0000,0000,,Mimesis returns Pheromone Wasp to my hand.
+Dialogue: 0,0:16:50.98,0:16:54.55,Default,,0000,0000,0000,,And I Special Summon Parasite Caterpillar!
+Dialogue: 0,0:16:54.55,0:16:57.99,Default,,0000,0000,0000,,What?  It changed into Parasite Caterpillar?
+Dialogue: 0,0:17:02.84,0:17:04.76,Default,,0000,0000,0000,,I tricked you, Yugi!
+Dialogue: 0,0:17:04.76,0:17:09.07,Default,,0000,0000,0000,,Parasite Caterpillar infects the monster that destroyed it!
+Dialogue: 0,0:17:14.24,0:17:17.43,Default,,0000,0000,0000,,I’ll torture you little by little.
+Dialogue: 0,0:17:19.01,0:17:22.93,Default,,0000,0000,0000,,Jonouchi!  I’m willing to risk my life!
+Dialogue: 0,0:17:22.93,0:17:26.18,Default,,0000,0000,0000,,If you’re a duelist, you’ll accept this battle!
+Dialogue: 0,0:17:26.40,0:17:29.10,Default,,0000,0000,0000,,Ryuzaki...  Fine!
+Dialogue: 0,0:17:29.10,0:17:30.80,Default,,0000,0000,0000,,I’ll say nothing more!
+Dialogue: 0,0:17:30.80,0:17:32.66,Default,,0000,0000,0000,,I’ll duel you!
+Dialogue: 0,0:17:32.66,0:17:33.77,Default,,0000,0000,0000,,Jonouchi!
+Dialogue: 0,0:17:35.24,0:17:37.79,Default,,0000,0000,0000,,But I’m giving it my all!  Got it?
+Dialogue: 0,0:17:37.79,0:17:39.24,Default,,0000,0000,0000,,Of course!
+Dialogue: 0,0:17:39.24,0:17:41.73,Default,,0000,0000,0000,,I won’t forgive you if you go easy!
+Dialogue: 0,0:17:42.37,0:17:46.25,Default,,0000,0000,0000,,This duel isn’t to defeat Ryuzaki.
+Dialogue: 0,0:17:46.25,0:17:48.92,Default,,0000,0000,0000,,This duel is to save him!
+Dialogue: 0,0:17:49.39,0:17:50.40,Default,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:17:50.40,0:17:53.67,Default,,0000,0000,0000,,I Special Summon Gilasaurus!
+Dialogue: 0,0:17:57.35,0:17:59.78,Default,,0000,0000,0000,,What?  Special Summon?
+Dialogue: 0,0:17:59.78,0:18:06.40,Default,,0000,0000,0000,,Yeah.  I’m allowed to Special Summon it!
+Dialogue: 0,0:18:06.40,0:18:07.66,Default,,0000,0000,0000,,Here’s another one!
+Dialogue: 0,0:18:07.88,0:18:11.09,Default,,0000,0000,0000,,I Special Summon Gilasaurus!
+Dialogue: 0,0:18:11.92,0:18:13.80,Default,,0000,0000,0000,,Another Special Summon?
+Dialogue: 0,0:18:13.80,0:18:14.53,Default,,0000,0000,0000,,Jonouchi!
+Dialogue: 0,0:18:15.40,0:18:16.70,Default,,0000,0000,0000,,And one more!
+Dialogue: 0,0:18:16.94,0:18:19.24,Default,,0000,0000,0000,,I summon Kaitoptera!
+Dialogue: 0,0:18:20.22,0:18:24.87,Default,,0000,0000,0000,,What?  He instantly summoned three monsters!
+Dialogue: 0,0:18:24.87,0:18:30.04,Default,,0000,0000,0000,,And Orichalcos’s effect raises their attack points by 500!
+Dialogue: 0,0:18:32.54,0:18:36.67,Default,,0000,0000,0000,,You had two monsters to Special Summon in your opening hand?
+Dialogue: 0,0:18:36.67,0:18:38.49,Default,,0000,0000,0000,,You’re really lucky!
+Dialogue: 0,0:18:38.49,0:18:42.68,Default,,0000,0000,0000,,You fool!  You’re one to talk - you always rely on luck!
+Dialogue: 0,0:18:42.68,0:18:43.93,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:18:44.14,0:18:45.70,Default,,0000,0000,0000,,He is right.
+Dialogue: 0,0:18:45.70,0:18:49.31,Default,,0000,0000,0000,,Honda!  Whose side are you on?
+Dialogue: 0,0:18:49.31,0:18:50.60,Default,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:18:50.82,0:18:56.54,Default,,0000,0000,0000,,I’m not done.  I set a card and end my turn.
+Dialogue: 0,0:18:57.70,0:18:59.48,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:18:59.74,0:19:04.67,Default,,0000,0000,0000,,He already has three monsters with 1900 attack points.  Damn.
+Dialogue: 0,0:19:04.67,0:19:08.72,Default,,0000,0000,0000,,I summon Panther Warrior!
+Dialogue: 0,0:19:11.90,0:19:14.80,Default,,0000,0000,0000,,It can’t attack unless I tribute another monster.
+Dialogue: 0,0:19:14.80,0:19:17.28,Default,,0000,0000,0000,,But it has more attack points than his monsters.
+Dialogue: 0,0:19:17.28,0:19:19.69,Default,,0000,0000,0000,,So he can’t attack me either.
+Dialogue: 0,0:19:20.53,0:19:23.00,Default,,0000,0000,0000,,Scapegoat?  Okay!
+Dialogue: 0,0:19:23.00,0:19:26.90,Default,,0000,0000,0000,,I set a card and end my turn!
+Dialogue: 0,0:19:28.84,0:19:31.27,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:19:31.27,0:19:33.81,Default,,0000,0000,0000,,I’ll summon this again.
+Dialogue: 0,0:19:33.81,0:19:35.54,Default,,0000,0000,0000,,Pheromone Wasp!
+Dialogue: 0,0:19:37.99,0:19:42.04,Default,,0000,0000,0000,,I have Obnoxious Celtic Guard on my field.
+Dialogue: 0,0:19:42.04,0:19:46.82,Default,,0000,0000,0000,,But Parasite Caterpillar infected it, so it can’t defend.
+Dialogue: 0,0:19:49.82,0:19:49.82,Default,,0000,0000,0000,,Take this direct attack!
+Dialogue: 0,0:19:56.05,0:19:57.30,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:19:59.12,0:20:02.88,Default,,0000,0000,0000,,When Pheromone Wasp attacks you directly...
+Dialogue: 0,0:20:02.88,0:20:11.06,Default,,0000,0000,0000,,...at the end of the Battle Phase, I can Special Summon a Level 4 or lower Insect from my deck!
+Dialogue: 0,0:20:12.31,0:20:17.39,Default,,0000,0000,0000,,Due to Pheromone Wasp’s effect, I Special Summon Leghul!
+Dialogue: 0,0:20:22.37,0:20:26.53,Default,,0000,0000,0000,,And I activate the Continuous Spell, Insect Barrier!
+Dialogue: 0,0:20:30.76,0:20:35.97,Default,,0000,0000,0000,,As long as it’s active, your Insects can’t attack.
+Dialogue: 0,0:20:37.91,0:20:42.58,Default,,0000,0000,0000,,But Yugi doesn’t have any Insects on his field.
+Dialogue: 0,0:20:44.18,0:20:52.55,Default,,0000,0000,0000,,Your infected monster transforms into Poison Butterfly - a giant Insect - in three turns!
+Dialogue: 0,0:20:52.55,0:20:53.16,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:20:53.16,0:20:58.80,Default,,0000,0000,0000,,And it shaves 500 life points every turn.
+Dialogue: 0,0:20:58.80,0:21:02.68,Default,,0000,0000,0000,,But Poison Butterfly has 2700 attack points.
+Dialogue: 0,0:21:02.68,0:21:06.18,Default,,0000,0000,0000,,I don’t want it to attack me.
+Dialogue: 0,0:21:06.18,0:21:08.87,Default,,0000,0000,0000,,So I’m preparing in advance.
+Dialogue: 0,0:21:08.87,0:21:10.61,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:21:12.31,0:21:16.95,Default,,0000,0000,0000,,Insector Haga is much stronger than before.
+Dialogue: 0,0:21:16.95,0:21:19.25,Default,,0000,0000,0000,,Is this due to the Orichalcos?
+Dialogue: 0,0:21:19.71,0:21:20.99,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:21:21.20,0:21:22.97,Default,,0000,0000,0000,,Just wait, partner!
+Dialogue: 0,0:21:22.97,0:21:25.52,Default,,0000,0000,0000,,I promise to save you!
+Dialogue: 0,0:21:26.17,0:21:28.16,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:21:53.33,0:22:02.24,Default,,0000,0000,0000,,The streets flow by, colored in red
+Dialogue: 0,0:22:02.74,0:22:10.85,Default,,0000,0000,0000,,If you notice your pain, it changes to joy
+Dialogue: 0,0:22:12.31,0:22:21.74,Default,,0000,0000,0000,,People learn of friendship every time they wipe their tears
+Dialogue: 0,0:22:22.35,0:22:31.26,Default,,0000,0000,0000,,With the warm strength you gave me, I’ll change them into kindness
+Dialogue: 0,0:22:31.83,0:22:40.29,Default,,0000,0000,0000,,My overflowing emotions don’t stop
+Dialogue: 0,0:22:41.07,0:22:45.80,Default,,0000,0000,0000,,I’ll live feeling them
+Dialogue: 0,0:22:46.41,0:22:50.98,Default,,0000,0000,0000,,For me to be me
+Dialogue: 0,0:22:50.98,0:22:59.44,Default,,0000,0000,0000,,Overflowing friendship heals me
+Dialogue: 0,0:23:00.12,0:23:05.08,Default,,0000,0000,0000,,Our chance meeting was real
+Dialogue: 0,0:23:05.60,0:23:14.81,Default,,0000,0000,0000,,We’ll both understand that someday
+Dialogue: 0,0:23:18.37,0:23:22.25,Default,,0000,0000,0000,,Insector Haga awaited Yugi on top of a runaway train.
+Dialogue: 0,0:23:22.25,0:23:27.05,Default,,0000,0000,0000,,And Dinosaur Ryuzaki challenged Jonouchi, who was separated from us.
+Dialogue: 0,0:23:27.05,0:23:32.42,Default,,0000,0000,0000,,With decks powered up by Doma, they corner Yugi and Jonouchi.
+Dialogue: 0,0:23:32.42,0:23:36.39,Default,,0000,0000,0000,,Yugi is in no condition to duel composed!
+Dialogue: 0,0:23:36.39,0:23:40.36,Default,,0000,0000,0000,,Calm down, Yugi!  Don’t let Haga provoke you!
+Dialogue: 0,0:23:40.36,0:23:44.14,Default,,0000,0000,0000,,Next time on Yu-Gi-Oh!:\NPower Up Deck!\NHaga & Ryuzaki
+Dialogue: 0,0:23:44.14,0:23:45.94,Default,,0000,0000,0000,,Duel, standby!

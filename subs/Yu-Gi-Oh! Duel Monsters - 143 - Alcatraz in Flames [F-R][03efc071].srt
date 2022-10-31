@@ -1,0 +1,305 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: 4kmedia  [http://www.crunchyroll.com/user/4kmedia]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 480
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,EquitanSans-Regular,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,25,1
+Style: 5Ds,Trebuchet MS,24,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0030,1
+Style: 5Ds song,Trebuchet MS,24,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0015,1
+Style: Credits 2,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,300,300,0,0,1,2,2,2,0010,0010,0018,1
+Style: Yu-Gi-Oh Yellow,Trebuchet MS,28,&H0000FFFF,&H0000FFFF,&H00232323,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+Style: Yu-Gi-Oh,Trebuchet MS,28,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:17.33,0:00:23.46,Default,,0000,0000,0000,,Before I knew it, I abandoned happiness to survive
+Dialogue: 0,0:00:24.13,0:00:30.60,Default,,0000,0000,0000,,Lying to myself, I danced clinging on to illusions
+Dialogue: 0,0:00:31.26,0:00:37.01,Default,,0000,0000,0000,,At the edge of my vision when I close my eyes
+Dialogue: 0,0:00:37.67,0:00:43.02,Default,,0000,0000,0000,,I was searching for your smile
+Dialogue: 0,0:00:44.19,0:00:50.61,Default,,0000,0000,0000,,With our memories fading
+Dialogue: 0,0:00:51.11,0:00:57.69,Default,,0000,0000,0000,,We hold on to our dreams and run  Yeah
+Dialogue: 0,0:00:58.07,0:01:04.59,Default,,0000,0000,0000,,These feelings that I shut away in my heart
+Dialogue: 0,0:01:05.16,0:01:11.88,Default,,0000,0000,0000,,I’ll now grasp them again
+Dialogue: 0,0:01:30.06,0:01:32.11,Default,,0000,0000,0000,,All right!  Yugi won!
+Dialogue: 0,0:01:32.11,0:01:34.28,Default,,0000,0000,0000,,He won the Battle City Tournament!
+Dialogue: 0,0:01:34.28,0:01:37.74,Default,,0000,0000,0000,,Marik’s dark side is gone, and Mai and Bakura are back to normal.
+Dialogue: 0,0:01:37.74,0:01:41.80,Default,,0000,0000,0000,,Yugi has all the God Cards.  What a happy ending!
+Dialogue: 0,0:01:41.80,0:01:43.04,Default,,0000,0000,0000,,Huh?  What?
+Dialogue: 0,0:01:43.04,0:01:44.77,Default,,0000,0000,0000,,Blow up the island?
+Dialogue: 0,0:01:44.77,0:01:47.72,Default,,0000,0000,0000,,Kaiba!  Don’t be a sore loser!
+Dialogue: 0,0:01:47.72,0:01:50.63,Default,,0000,0000,0000,,The Battle Ship’s engines aren’t working, so we can’t leave!
+Dialogue: 0,0:01:50.63,0:01:53.37,Default,,0000,0000,0000,,What’ll happen to us?
+Dialogue: 0,0:01:53.96,0:02:00.01,Default,,0000,0000,0000,,Alcatraz in Flames
+Dialogue: 0,0:02:00.37,0:02:01.39,Default,,0000,0000,0000,,Kaiba!
+Dialogue: 0,0:02:01.39,0:02:03.30,Default,,0000,0000,0000,,Mr. Seto!
+Dialogue: 0,0:02:03.30,0:02:04.79,Default,,0000,0000,0000,,Mokuba!
+Dialogue: 0,0:02:04.79,0:02:08.53,Default,,0000,0000,0000,,C’mon, you two!  Stop sulking and come on out!
+Dialogue: 0,0:02:08.53,0:02:10.95,Default,,0000,0000,0000,,Stop joking around!
+Dialogue: 0,0:02:11.37,0:02:15.36,Default,,0000,0000,0000,,They may be planning to stay on this island and die!
+Dialogue: 0,0:02:15.36,0:02:16.83,Default,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:02:16.83,0:02:21.12,Default,,0000,0000,0000,,But we’re also in danger if the Battle Ship’s engines aren’t fixed.
+Dialogue: 0,0:02:21.12,0:02:26.89,Default,,0000,0000,0000,,Yeah.  We have to find Kaiba so that he’ll stop the timer.
+Dialogue: 0,0:02:27.27,0:02:28.81,Default,,0000,0000,0000,,Let’s search.
+Dialogue: 0,0:02:28.81,0:02:30.61,Default,,0000,0000,0000,,This isn’t a big island.
+Dialogue: 0,0:02:30.61,0:02:31.92,Default,,0000,0000,0000,,We’ll find them.
+Dialogue: 0,0:02:31.92,0:02:33.17,Default,,0000,0000,0000,,You’re right.
+Dialogue: 0,0:02:46.52,0:02:51.77,Default,,0000,0000,0000,,Yugi, I dueled you on top of this tower and lost.
+Dialogue: 0,0:02:58.78,0:03:02.81,Default,,0000,0000,0000,,Kaiba!  Hate cannot lead to true victory!
+Dialogue: 0,0:03:02.81,0:03:05.87,Default,,0000,0000,0000,,Use this defeat to overcome your hate.
+Dialogue: 0,0:03:15.55,0:03:17.85,Default,,0000,0000,0000,,The card I received from a friend...
+Dialogue: 0,0:03:17.85,0:03:21.38,Default,,0000,0000,0000,,My friend’s power brought me victory!
+Dialogue: 0,0:03:22.47,0:03:24.19,Default,,0000,0000,0000,,A friend’s power...
+Dialogue: 0,0:03:25.93,0:03:28.93,Default,,0000,0000,0000,,Big brother, I entered the password.
+Dialogue: 0,0:03:45.70,0:03:46.78,Default,,0000,0000,0000,,No good?
+Dialogue: 0,0:03:46.78,0:03:48.29,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:03:51.26,0:03:56.40,Default,,0000,0000,0000,,Battle City was not only my fight to become the Duel King...
+Dialogue: 0,0:03:56.40,0:04:01.30,Default,,0000,0000,0000,,...but also a fight against my hate towards Gozaburo.
+Dialogue: 0,0:04:01.97,0:04:04.90,Default,,0000,0000,0000,,My hatred may have summoned him.
+Dialogue: 0,0:04:04.90,0:04:09.05,Default,,0000,0000,0000,,He came back from the dead to confront me.
+Dialogue: 0,0:04:11.23,0:04:13.69,Default,,0000,0000,0000,,Welcome, Seto.
+Dialogue: 0,0:04:14.73,0:04:18.61,Default,,0000,0000,0000,,I wanted to have a nice, long talk with you.
+Dialogue: 0,0:04:19.49,0:04:20.78,Default,,0000,0000,0000,,Don’t make me laugh.
+Dialogue: 0,0:04:20.78,0:04:22.93,Default,,0000,0000,0000,,Don’t be like that.
+Dialogue: 0,0:04:22.93,0:04:24.99,Default,,0000,0000,0000,,We have plenty of time.
+Dialogue: 0,0:04:24.99,0:04:30.73,Default,,0000,0000,0000,,Even if I had a million hours, there’s only one thing I want to say to you.
+Dialogue: 0,0:04:30.95,0:04:33.97,Default,,0000,0000,0000,,Send us back to the real world!
+Dialogue: 0,0:04:38.38,0:04:42.47,Default,,0000,0000,0000,,Why don’t we decide it in a game?
+Dialogue: 0,0:04:42.95,0:04:49.06,Default,,0000,0000,0000,,Just like when you asked me to adopt you.
+Dialogue: 0,0:04:54.06,0:04:57.52,Default,,0000,0000,0000,,Seto!
+Dialogue: 0,0:05:00.06,0:05:04.45,Default,,0000,0000,0000,,Gozaburo!  I won’t lose to you!
+Dialogue: 0,0:05:22.76,0:05:25.82,Default,,0000,0000,0000,,But he was just a crazy ghost.
+Dialogue: 0,0:05:26.17,0:05:29.26,Default,,0000,0000,0000,,I thoroughly pummeled him.
+Dialogue: 0,0:05:29.63,0:05:36.03,Default,,0000,0000,0000,,And the symbol of Kaiba Corporation’s military business will now sink into the ocean.
+Dialogue: 0,0:05:37.13,0:05:38.27,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:05:39.69,0:05:43.28,Default,,0000,0000,0000,,Have I really defeated him?
+Dialogue: 0,0:05:44.84,0:05:47.63,Default,,0000,0000,0000,,What’s wrong?  Hurry up.
+Dialogue: 0,0:05:49.16,0:05:52.37,Default,,0000,0000,0000,,The road I should take...
+Dialogue: 0,0:06:00.45,0:06:05.09,Default,,0000,0000,0000,,A long time ago, I shared my dream with Mokuba.
+Dialogue: 0,0:06:05.63,0:06:07.17,Default,,0000,0000,0000,,Finished, Mokuba!
+Dialogue: 0,0:06:07.17,0:06:09.23,Default,,0000,0000,0000,,A sand amusement park!
+Dialogue: 0,0:06:09.23,0:06:11.60,Default,,0000,0000,0000,,Wow!  It’s amazing, big brother!
+Dialogue: 0,0:06:11.60,0:06:13.60,Default,,0000,0000,0000,,You’re always amazing!
+Dialogue: 0,0:06:14.70,0:06:16.57,Default,,0000,0000,0000,,This is nothing.
+Dialogue: 0,0:06:17.39,0:06:18.79,Default,,0000,0000,0000,,Listen, Mokuba.
+Dialogue: 0,0:06:18.79,0:06:22.86,Default,,0000,0000,0000,,My dream is to build amusement parks all over the world.
+Dialogue: 0,0:06:22.86,0:06:27.11,Default,,0000,0000,0000,,Not out of sand, but real ones.
+Dialogue: 0,0:06:27.11,0:06:32.35,Default,,0000,0000,0000,,And orphans like the kids here can play for free!
+Dialogue: 0,0:06:32.35,0:06:34.20,Default,,0000,0000,0000,,So everyone can play!
+Dialogue: 0,0:06:34.20,0:06:35.20,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:06:40.63,0:06:46.57,Default,,0000,0000,0000,,Just like Alcatraz, my soul may have been buried under debris.
+Dialogue: 0,0:06:46.57,0:06:48.35,Default,,0000,0000,0000,,Brother, hurry!
+Dialogue: 0,0:06:54.31,0:06:58.02,Default,,0000,0000,0000,,My road lies under the debris!
+Dialogue: 0,0:07:09.86,0:07:12.83,Default,,0000,0000,0000,,Only 13 minutes left!
+Dialogue: 0,0:07:12.83,0:07:15.29,Default,,0000,0000,0000,,What?  13 minutes?
+Dialogue: 0,0:07:15.29,0:07:16.24,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:07:17.03,0:07:18.77,Default,,0000,0000,0000,,What’s wrong with you?
+Dialogue: 0,0:07:18.77,0:07:20.89,Default,,0000,0000,0000,,Go stop the timer!
+Dialogue: 0,0:07:20.89,0:07:23.25,Default,,0000,0000,0000,,The Battle Ship can’t fly yet!
+Dialogue: 0,0:07:23.25,0:07:28.46,Default,,0000,0000,0000,,Only Mr. Seto and Mr. Mokuba know how to stop the timer.
+Dialogue: 0,0:07:28.46,0:07:30.59,Default,,0000,0000,0000,,Damn!  Kaiba!
+Dialogue: 0,0:07:32.42,0:07:37.32,Default,,0000,0000,0000,,Do you really think Kaiba will drown in the ocean with this island?
+Dialogue: 0,0:07:37.32,0:07:38.81,Default,,0000,0000,0000,,There’s no way.
+Dialogue: 0,0:07:39.50,0:07:41.06,Default,,0000,0000,0000,,My other self...
+Dialogue: 0,0:07:41.06,0:07:46.31,Default,,0000,0000,0000,,Kaiba always looks ahead to the future.
+Dialogue: 0,0:07:46.31,0:07:51.32,Default,,0000,0000,0000,,I bet he has his own way of leaving the island.
+Dialogue: 0,0:07:51.73,0:07:53.32,Default,,0000,0000,0000,,I hope so.
+Dialogue: 0,0:07:53.72,0:07:55.23,Default,,0000,0000,0000,,There’s no time.
+Dialogue: 0,0:07:55.23,0:07:56.95,Default,,0000,0000,0000,,Let’s return to the Battle Ship.
+Dialogue: 0,0:07:56.95,0:08:01.71,Default,,0000,0000,0000,,You’re right.  Maybe they already returned.
+Dialogue: 0,0:08:01.71,0:08:04.89,Default,,0000,0000,0000,,And the engines may be fixed, too.
+Dialogue: 0,0:08:04.89,0:08:05.71,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:08:11.43,0:08:13.47,Default,,0000,0000,0000,,Otogi!  Are the engines working?
+Dialogue: 0,0:08:13.47,0:08:16.55,Default,,0000,0000,0000,,No!  Not yet!
+Dialogue: 0,0:08:16.55,0:08:18.07,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:08:18.41,0:08:20.18,Default,,0000,0000,0000,,Only 10 minutes left.
+Dialogue: 0,0:08:20.18,0:08:22.56,Default,,0000,0000,0000,,Damn!  What’s taking so long?
+Dialogue: 0,0:08:22.56,0:08:25.02,Default,,0000,0000,0000,,You can’t fix the engines!
+Dialogue: 0,0:08:25.02,0:08:27.65,Default,,0000,0000,0000,,Be quiet!  Maybe it needs a kick!
+Dialogue: 0,0:08:33.57,0:08:36.01,Default,,0000,0000,0000,,That helicopter came for Jonouchi.
+Dialogue: 0,0:08:36.01,0:08:38.53,Default,,0000,0000,0000,,It’s still here!  How lucky!
+Dialogue: 0,0:08:41.77,0:08:44.11,Default,,0000,0000,0000,,Abandon ship!  Hurry!
+Dialogue: 0,0:08:44.11,0:08:46.42,Default,,0000,0000,0000,,The island will soon explode!
+Dialogue: 0,0:08:50.55,0:08:55.96,Default,,0000,0000,0000,,I never thought the helicopter that would take you to the hospital would come in handy.
+Dialogue: 0,0:08:55.96,0:08:57.62,Default,,0000,0000,0000,,Less than a minute!
+Dialogue: 0,0:08:59.15,0:09:00.69,Default,,0000,0000,0000,,We have no choice.
+Dialogue: 0,0:09:00.90,0:09:02.02,Default,,0000,0000,0000,,Take off!
+Dialogue: 0,0:09:05.52,0:09:07.27,Default,,0000,0000,0000,,Thirty seconds.
+Dialogue: 0,0:09:13.26,0:09:14.28,Default,,0000,0000,0000,,Kaiba...
+Dialogue: 0,0:09:15.03,0:09:16.11,Default,,0000,0000,0000,,Mokuba...
+Dialogue: 0,0:09:16.11,0:09:17.62,Default,,0000,0000,0000,,Ten seconds!
+Dialogue: 0,0:09:20.00,0:09:21.55,Default,,0000,0000,0000,,It’s going to explode!
+Dialogue: 0,0:09:27.00,0:09:29.00,Default,,0000,0000,0000,,Kaiba!  Mokuba!
+Dialogue: 0,0:09:32.26,0:09:33.97,Default,,0000,0000,0000,,The Duel Tower!
+Dialogue: 0,0:09:40.64,0:09:42.85,Default,,0000,0000,0000,,The Battle Ship...
+Dialogue: 0,0:09:45.35,0:09:47.98,Default,,0000,0000,0000,,The island is sinking.
+Dialogue: 0,0:09:54.99,0:09:56.49,Default,,0000,0000,0000,,That’s...!
+Dialogue: 0,0:10:00.49,0:10:02.70,Default,,0000,0000,0000,,Blue-Eyes White Dragon!
+Dialogue: 0,0:10:07.71,0:10:09.71,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:10:10.48,0:10:12.21,Default,,0000,0000,0000,,Well?  Amazed?
+Dialogue: 0,0:10:12.21,0:10:14.50,Default,,0000,0000,0000,,I-It is amazing.
+Dialogue: 0,0:10:14.50,0:10:16.03,Default,,0000,0000,0000,,Unbelievable.
+Dialogue: 0,0:10:16.03,0:10:18.91,Default,,0000,0000,0000,,He’s a real idiot.
+Dialogue: 0,0:10:18.91,0:10:21.22,Default,,0000,0000,0000,,Well, I’m glad they’re OK.
+Dialogue: 0,0:10:21.22,0:10:24.76,Default,,0000,0000,0000,,Big brother, they’re on a helicopter.
+Dialogue: 0,0:10:25.49,0:10:28.31,Default,,0000,0000,0000,,Because the Battle Ship hates them.
+Dialogue: 0,0:10:28.31,0:10:29.85,Default,,0000,0000,0000,,Kaiba!
+Dialogue: 0,0:10:30.53,0:10:33.72,Default,,0000,0000,0000,,We almost died because of you!
+Dialogue: 0,0:10:33.72,0:10:35.40,Default,,0000,0000,0000,,And you dare mock us?
+Dialogue: 0,0:10:36.36,0:10:42.59,Default,,0000,0000,0000,,My brother is going to America for his World Kaiba Land Project.
+Dialogue: 0,0:10:42.58,0:10:45.49,Default,,0000,0000,0000,,World Kaiba Land Project?
+Dialogue: 0,0:10:45.78,0:10:48.23,Default,,0000,0000,0000,,I’ll invite you eventually.
+Dialogue: 0,0:10:48.60,0:10:49.54,Default,,0000,0000,0000,,Kaiba...
+Dialogue: 0,0:10:51.47,0:10:55.05,Default,,0000,0000,0000,,Kaiba, that’s your new road.
+Dialogue: 0,0:10:59.71,0:11:02.98,Default,,0000,0000,0000,,Yugi, our battle will never end.
+Dialogue: 0,0:11:03.20,0:11:04.52,Default,,0000,0000,0000,,Kaiba!
+Dialogue: 0,0:11:09.27,0:11:10.06,Default,,0000,0000,0000,,Let’s go, Mokuba!
+Dialogue: 0,0:11:10.06,0:11:13.19,Default,,0000,0000,0000,,On our way to America!
+Dialogue: 0,0:11:26.68,0:11:30.21,Default,,0000,0000,0000,,Kaiba left to achieve his new dream!
+Dialogue: 0,0:11:30.21,0:11:30.88,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:11:30.88,0:11:35.21,Default,,0000,0000,0000,,And my other self will begin his journey to find his memories.
+Dialogue: 0,0:11:35.54,0:11:38.81,Default,,0000,0000,0000,,All right!  Let’s return to Domino City!
+Dialogue: 0,0:11:41.84,0:11:44.32,Default,,0000,0000,0000,,Kaiba Lands all over the world...
+Dialogue: 0,0:11:44.89,0:11:46.82,Default,,0000,0000,0000,,I can’t wait, big brother!
+Dialogue: 0,0:11:48.48,0:11:50.83,Default,,0000,0000,0000,,I wish he could see it...
+Dialogue: 0,0:12:35.12,0:12:42.24,Default,,0000,0000,0000,,Thanks to you, Marik is finally free of the darkness in his heart.
+Dialogue: 0,0:12:42.60,0:12:44.20,Default,,0000,0000,0000,,Thank you, Pharaoh.
+Dialogue: 0,0:12:46.15,0:12:51.89,Default,,0000,0000,0000,,The three of us will start a new life as the Ishtar family.
+Dialogue: 0,0:12:52.18,0:12:55.26,Default,,0000,0000,0000,,Pharaoh.  And Yugi the vessel.
+Dialogue: 0,0:12:55.50,0:12:58.97,Default,,0000,0000,0000,,You’ll visit Egypt someday.
+Dialogue: 0,0:12:58.97,0:13:02.27,Default,,0000,0000,0000,,When you do, let’s travel together as friends.
+Dialogue: 0,0:13:02.48,0:13:03.50,Default,,0000,0000,0000,,Sure.
+Dialogue: 0,0:13:04.38,0:13:08.51,Default,,0000,0000,0000,,Egypt...  To where the other Yugi must return...
+Dialogue: 0,0:13:08.76,0:13:13.01,Default,,0000,0000,0000,,We may not be together for much longer.
+Dialogue: 0,0:13:13.26,0:13:17.01,Default,,0000,0000,0000,,Everyone, I hope our paths cross again.
+Dialogue: 0,0:13:20.12,0:13:21.57,Default,,0000,0000,0000,,Goodbye.
+Dialogue: 0,0:13:21.57,0:13:22.74,Default,,0000,0000,0000,,See you, Marik.
+Dialogue: 0,0:13:22.74,0:13:23.52,Default,,0000,0000,0000,,Take care!
+Dialogue: 0,0:13:36.32,0:13:40.37,Default,,0000,0000,0000,,Well, I’m going back to America too.
+Dialogue: 0,0:13:40.37,0:13:41.38,Default,,0000,0000,0000,,Otogi!
+Dialogue: 0,0:13:41.38,0:13:47.52,Default,,0000,0000,0000,,After hearing about the World Kaiba Land Project, I can’t sit around and do nothing.
+Dialogue: 0,0:13:47.52,0:13:50.88,Default,,0000,0000,0000,,I have to think of a new plan for DDM.
+Dialogue: 0,0:13:51.54,0:13:53.44,Default,,0000,0000,0000,,Bye, Shizuka.
+Dialogue: 0,0:13:53.44,0:13:54.94,Default,,0000,0000,0000,,Bye.
+Dialogue: 0,0:13:59.72,0:14:01.72,Default,,0000,0000,0000,,His cell phone number!
+Dialogue: 0,0:14:01.72,0:14:04.20,Default,,0000,0000,0000,,How dare you, Otogi!
+Dialogue: 0,0:14:04.92,0:14:06.13,Default,,0000,0000,0000,,See you again!
+Dialogue: 0,0:14:09.57,0:14:10.63,Default,,0000,0000,0000,,Good luck!
+Dialogue: 0,0:14:12.66,0:14:14.64,Default,,0000,0000,0000,,Everyone left.
+Dialogue: 0,0:14:16.17,0:14:19.71,Default,,0000,0000,0000,,Yeah.  They all have their own goals.
+Dialogue: 0,0:14:19.71,0:14:21.64,Default,,0000,0000,0000,,Traveling their own paths.
+Dialogue: 0,0:14:22.00,0:14:25.90,Default,,0000,0000,0000,,I wonder what my path is...
+Dialogue: 0,0:14:25.90,0:14:29.65,Default,,0000,0000,0000,,Don’t worry.  You’ll find it eventually.
+Dialogue: 0,0:14:29.86,0:14:32.90,Default,,0000,0000,0000,,You’re right, Shizuka!
+Dialogue: 0,0:14:35.74,0:14:37.14,Default,,0000,0000,0000,,Honda!
+Dialogue: 0,0:14:39.24,0:14:40.80,Default,,0000,0000,0000,,Well, I’m leaving too.
+Dialogue: 0,0:14:41.38,0:14:42.86,Default,,0000,0000,0000,,Mai.
+Dialogue: 0,0:14:42.86,0:14:44.80,Default,,0000,0000,0000,,You’re leaving too?
+Dialogue: 0,0:14:45.72,0:14:49.37,Default,,0000,0000,0000,,I’ve always been a wanderer.
+Dialogue: 0,0:14:49.82,0:14:55.81,Default,,0000,0000,0000,,Battle City is over, so I have no reason to stay in this city.
+Dialogue: 0,0:14:56.04,0:15:02.09,Default,,0000,0000,0000,,Mai, you always lifted my spirits.
+Dialogue: 0,0:15:04.68,0:15:06.72,Default,,0000,0000,0000,,He’ll be fine.
+Dialogue: 0,0:15:06.72,0:15:08.69,Default,,0000,0000,0000,,He’s a good guy.
+Dialogue: 0,0:15:09.06,0:15:11.63,Default,,0000,0000,0000,,He’s nice and courageous.
+Dialogue: 0,0:15:12.08,0:15:17.30,Default,,0000,0000,0000,,Even during Duelist Kingdom, he risked his life for you.
+Dialogue: 0,0:15:17.86,0:15:23.79,Default,,0000,0000,0000,,When you remove your bandages, I’m sure he’ll live up to your expectations.
+Dialogue: 0,0:15:23.79,0:15:24.97,Default,,0000,0000,0000,,Mai!
+Dialogue: 0,0:15:26.03,0:15:27.98,Default,,0000,0000,0000,,I might be overpraising him.
+Dialogue: 0,0:15:28.62,0:15:31.35,Default,,0000,0000,0000,,Thank you very much.
+Dialogue: 0,0:15:33.41,0:15:35.66,Default,,0000,0000,0000,,I’m the one who should thank you.
+Dialogue: 0,0:15:36.58,0:15:41.69,Default,,0000,0000,0000,,You looked after me when I was unconscious.
+Dialogue: 0,0:15:41.69,0:15:43.02,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:15:43.75,0:15:44.36,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:15:45.93,0:15:48.70,Default,,0000,0000,0000,,Next time we meet, I won’t lose!
+Dialogue: 0,0:15:48.96,0:15:50.26,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:15:59.89,0:16:00.92,Default,,0000,0000,0000,,Bye.
+Dialogue: 0,0:16:01.44,0:16:04.42,Default,,0000,0000,0000,,Take care!  Bye bye!
+Dialogue: 0,0:16:05.34,0:16:06.34,Default,,0000,0000,0000,,Mai...
+Dialogue: 0,0:16:06.58,0:16:08.68,Default,,0000,0000,0000,,What’s wrong with you?
+Dialogue: 0,0:16:09.01,0:16:11.49,Default,,0000,0000,0000,,Get it together!
+Dialogue: 0,0:16:15.68,0:16:16.54,Default,,0000,0000,0000,,Mai!
+Dialogue: 0,0:16:19.64,0:16:21.20,Default,,0000,0000,0000,,Umm...  Well...
+Dialogue: 0,0:16:21.57,0:16:27.49,Default,,0000,0000,0000,,When I was with all of you, I had so much fun that I lost track of time.
+Dialogue: 0,0:16:27.72,0:16:28.70,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:16:29.37,0:16:34.22,Default,,0000,0000,0000,,Your friendship is too bright for me.
+Dialogue: 0,0:16:37.10,0:16:38.22,Default,,0000,0000,0000,,Good luck.
+Dialogue: 0,0:16:38.22,0:16:40.18,Default,,0000,0000,0000,,You too.
+Dialogue: 0,0:16:47.48,0:16:49.74,Default,,0000,0000,0000,,Until next time.
+Dialogue: 0,0:16:49.74,0:16:51.14,Default,,0000,0000,0000,,Later.
+Dialogue: 0,0:17:01.98,0:17:04.93,Default,,0000,0000,0000,,Jonouchi, you’ve grown.
+Dialogue: 0,0:17:05.16,0:17:07.62,Default,,0000,0000,0000,,You’re already a true duelist.
+Dialogue: 0,0:17:08.24,0:17:10.97,Default,,0000,0000,0000,,You may be ahead of me now.
+Dialogue: 0,0:17:15.18,0:17:18.10,Default,,0000,0000,0000,,But I’m not done yet!
+Dialogue: 0,0:17:21.70,0:17:27.22,Default,,0000,0000,0000,,Everyone has started traveling their own roads, so I’ll travel mine too.
+Dialogue: 0,0:17:37.37,0:17:39.34,Default,,0000,0000,0000,,Good.  It’s ready!
+Dialogue: 0,0:17:53.28,0:17:56.30,Default,,0000,0000,0000,,It’s early.  Where are you going?
+Dialogue: 0,0:17:57.14,0:17:59.09,Default,,0000,0000,0000,,Well, you know...
+Dialogue: 0,0:18:02.86,0:18:05.90,Default,,0000,0000,0000,,Okay.  Be careful.
+Dialogue: 0,0:18:27.82,0:18:30.84,Default,,0000,0000,0000,,This is your chance for payback.
+Dialogue: 0,0:18:30.84,0:18:32.79,Default,,0000,0000,0000,,Punch them!
+Dialogue: 0,0:18:32.96,0:18:36.46,Default,,0000,0000,0000,,Stop it!  I won’t hit my friends!
+Dialogue: 0,0:18:39.10,0:18:41.04,Default,,0000,0000,0000,,This is how.
+Dialogue: 0,0:18:41.05,0:18:41.77,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:18:42.60,0:18:43.96,Default,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:18:43.96,0:18:44.96,Default,,0000,0000,0000,,Jonouchi!
+Dialogue: 0,0:18:46.23,0:18:48.35,Default,,0000,0000,0000,,Yugi, I promise to retrieve them.
+Dialogue: 0,0:18:51.58,0:18:55.42,Default,,0000,0000,0000,,I can’t leave the Puzzle behind.
+Dialogue: 0,0:18:56.94,0:18:59.78,Default,,0000,0000,0000,,Fulcrum, leverage and load point!
+Dialogue: 0,0:19:09.15,0:19:12.07,Default,,0000,0000,0000,,Jonouchi, this is your card.
+Dialogue: 0,0:19:14.30,0:19:19.01,Default,,0000,0000,0000,,Yugi, I can’t take that Red-Eyes right now.
+Dialogue: 0,0:19:22.26,0:19:26.04,Default,,0000,0000,0000,,I want to become a true duelist.
+Dialogue: 0,0:19:26.32,0:19:30.24,Default,,0000,0000,0000,,No, not “want.”  I “will” become a true duelist during Battle City.
+Dialogue: 0,0:19:30.50,0:19:39.74,Default,,0000,0000,0000,,Yugi, when I keep winning and become a true duelist, I want you to duel me again.
+Dialogue: 0,0:19:41.24,0:19:42.50,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:19:42.50,0:19:45.25,Default,,0000,0000,0000,,Let’s duel when that time comes, Jonouchi.
+Dialogue: 0,0:19:48.10,0:19:56.76,Default,,0000,0000,0000,,Jonouchi, you’re a dear friend who taught me that I wasn’t alone and gave me courage.
+Dialogue: 0,0:19:57.26,0:19:58.71,Default,,0000,0000,0000,,Yugi...
+Dialogue: 0,0:20:00.90,0:20:02.30,Default,,0000,0000,0000,,Jonouchi...
+Dialogue: 0,0:20:02.93,0:20:04.51,Default,,0000,0000,0000,,I love you.
+Dialogue: 0,0:20:08.27,0:20:10.19,Default,,0000,0000,0000,,This must be a joke.
+Dialogue: 0,0:20:10.42,0:20:16.56,Default,,0000,0000,0000,,If I lose, I’ll never reach Mai or Yugi!
+Dialogue: 0,0:20:25.61,0:20:26.84,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:20:27.26,0:20:29.82,Default,,0000,0000,0000,,Yugi.  I...
+Dialogue: 0,0:20:31.35,0:20:33.26,Default,,0000,0000,0000,,Gearfried...
+Dialogue: 0,0:20:38.42,0:20:40.18,Default,,0000,0000,0000,,I win.
+Dialogue: 0,0:20:53.14,0:20:58.98,Default,,0000,0000,0000,,But what can come after that?
+Dialogue: 0,0:21:00.42,0:21:02.86,Default,,0000,0000,0000,,Please don’t die.
+Dialogue: 0,0:21:05.04,0:21:08.32,Default,,0000,0000,0000,,What’s a true duelist?
+Dialogue: 0,0:21:11.04,0:21:12.95,Default,,0000,0000,0000,,Jonouchi?
+Dialogue: 0,0:21:18.92,0:21:20.86,Default,,0000,0000,0000,,You’re early, Jonouchi.
+Dialogue: 0,0:21:21.71,0:21:24.54,Default,,0000,0000,0000,,It was morning when I finished my deck.
+Dialogue: 0,0:21:24.88,0:21:26.14,Default,,0000,0000,0000,,Same here.
+Dialogue: 0,0:21:32.36,0:21:33.89,Default,,0000,0000,0000,,Let’s do this, Yugi!
+Dialogue: 0,0:21:33.89,0:21:36.40,Default,,0000,0000,0000,,Our Battle City isn’t over yet!
+Dialogue: 0,0:21:36.40,0:21:37.40,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:21:41.30,0:21:42.69,Default,,0000,0000,0000,,Duel!
+Dialogue: 0,0:21:51.84,0:21:56.51,Default,,0000,0000,0000,,After Battle City ended, everyone traveled their own path.
+Dialogue: 0,0:21:56.51,0:22:01.34,Default,,0000,0000,0000,,After gathering the three God Cards to unlock his memories...
+Dialogue: 0,0:22:01.34,0:22:04.89,Default,,0000,0000,0000,,...the other Yugi will soon begin his journey.
+Dialogue: 0,0:22:04.89,0:22:10.24,Default,,0000,0000,0000,,I feel nostalgic about all the moments I spent with Yugi in Domino City.
+Dialogue: 0,0:22:10.24,0:22:14.37,Default,,0000,0000,0000,,Will we go our separate ways?  Or...
+Dialogue: 0,0:22:14.37,0:22:16.28,Default,,0000,0000,0000,,Next time on Yu-Gi-Oh:\NSigns
+Dialogue: 0,0:22:14.28,0:22:16.14,Default,,0000,0000,0000,,Duel, standby!
+Dialogue: 0,0:22:23.07,0:22:31.98,Default,,0000,0000,0000,,The streets flow by, colored in red
+Dialogue: 0,0:22:32.48,0:22:40.13,Default,,0000,0000,0000,,If you notice your pain, it changes to joy
+Dialogue: 0,0:22:42.05,0:22:51.48,Default,,0000,0000,0000,,People learn of friendship every time they wipe their tears
+Dialogue: 0,0:22:52.10,0:23:01.00,Default,,0000,0000,0000,,With the warm strength you gave me, I’ll change them into kindness
+Dialogue: 0,0:23:01.73,0:23:10.03,Default,,0000,0000,0000,,My overflowing emotions don’t stop
+Dialogue: 0,0:23:10.81,0:23:15.54,Default,,0000,0000,0000,,I’ll live feeling them
+Dialogue: 0,0:23:16.15,0:23:20.72,Default,,0000,0000,0000,,For me to be me
+Dialogue: 0,0:23:20.72,0:23:29.18,Default,,0000,0000,0000,,Overflowing friendship heals me
+Dialogue: 0,0:23:29.86,0:23:34.82,Default,,0000,0000,0000,,Our chance meeting was real
+Dialogue: 0,0:23:35.34,0:23:44.48,Default,,0000,0000,0000,,We’ll both understand that someday

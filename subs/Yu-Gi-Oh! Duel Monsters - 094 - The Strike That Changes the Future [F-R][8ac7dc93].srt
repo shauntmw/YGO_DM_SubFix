@@ -1,0 +1,367 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: 4kmedia  [http://www.crunchyroll.com/user/4kmedia]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 480
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,EquitanSans-Regular,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,25,1
+Style: 5Ds,Trebuchet MS,24,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0030,1
+Style: 5Ds song,Trebuchet MS,24,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0015,1
+Style: Yu-Gi-Oh Yellow,Trebuchet MS,28,&H0000FFFF,&H0000FFFF,&H00232323,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+Style: Yu-Gi-Oh,Trebuchet MS,28,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:10.12,0:00:15.99,Default,,0000,0000,0000,,Full energy is troubled because there’s no place to go
+Dialogue: 0,0:00:16.45,0:00:22.21,Default,,0000,0000,0000,,A slight shake destroys boredom
+Dialogue: 0,0:00:22.58,0:00:28.67,Default,,0000,0000,0000,,I Ride, On the White Line  OH, OH, OH
+Dialogue: 0,0:00:28.67,0:00:34.51,Default,,0000,0000,0000,,Sit Down  At the place I trust  OH, OH, OH
+Dialogue: 0,0:00:34.51,0:00:37.80,Default,,0000,0000,0000,,We can go even if we’re lost
+Dialogue: 0,0:00:37.80,0:00:43.94,Default,,0000,0000,0000,,Everyone receives freedom and passion
+Dialogue: 0,0:00:43.94,0:00:50.11,Default,,0000,0000,0000,,We were born to shine, and our journey continues
+Dialogue: 0,0:00:50.11,0:00:56.32,Default,,0000,0000,0000,,Your soul is the key that supports our uncertain days
+Dialogue: 0,0:00:56.32,0:01:02.25,Default,,0000,0000,0000,,The best growth creates an unstoppable WILD DRIVE
+Dialogue: 0,0:01:02.25,0:01:08.54,Default,,0000,0000,0000,,We still quietly knock on the door
+Dialogue: 0,0:01:19.76,0:01:22.54,Default,,0000,0000,0000,,Swords of Revealing Light’s effect is over!
+Dialogue: 0,0:01:22.54,0:01:24.02,Default,,0000,0000,0000,,Get ready!
+Dialogue: 0,0:01:27.13,0:01:30.82,Default,,0000,0000,0000,,I can hear God’s pulse from my deck.
+Dialogue: 0,0:01:32.57,0:01:33.90,Default,,0000,0000,0000,,I draw!
+Dialogue: 0,0:01:37.81,0:01:39.62,Default,,0000,0000,0000,,God is in my hand!
+Dialogue: 0,0:01:39.62,0:01:40.99,Default,,0000,0000,0000,,Obelisk...
+Dialogue: 0,0:01:41.62,0:01:45.10,Default,,0000,0000,0000,,Des Feral Imp!  Attack her directly!
+Dialogue: 0,0:01:50.33,0:01:52.19,Default,,0000,0000,0000,,The future is infinite!
+Dialogue: 0,0:01:52.19,0:01:54.90,Default,,0000,0000,0000,,The past is nothing more than a set of footprints!
+Dialogue: 0,0:01:54.90,0:01:58.65,Default,,0000,0000,0000,,The past means nothing to me!
+Dialogue: 0,0:01:58.65,0:02:03.10,Default,,0000,0000,0000,,Including the moment when you gave me the God Card, Ishizu!
+Dialogue: 0,0:02:03.10,0:02:07.35,Default,,0000,0000,0000,,But God will not lead you to victory.
+Dialogue: 0,0:02:08.38,0:02:10.39,Default,,0000,0000,0000,,Listen, Ishizu!
+Dialogue: 0,0:02:10.39,0:02:13.18,Default,,0000,0000,0000,,The future doesn’t guide me!
+Dialogue: 0,0:02:13.18,0:02:16.98,Default,,0000,0000,0000,,The road that I take becomes the future!
+Dialogue: 0,0:02:19.07,0:02:25.08,Default,,0000,0000,0000,,The Strike That Changes the Future
+Dialogue: 0,0:02:32.79,0:02:36.96,Default,,0000,0000,0000,,Ishizu, remember that I didn’t choose the God.
+Dialogue: 0,0:02:37.76,0:02:39.51,Default,,0000,0000,0000,,God chose me.
+Dialogue: 0,0:02:39.51,0:02:42.45,Default,,0000,0000,0000,,No, you weren’t chosen.
+Dialogue: 0,0:02:42.45,0:02:46.56,Default,,0000,0000,0000,,Obelisk will lead you to defeat.
+Dialogue: 0,0:02:46.96,0:02:52.02,Default,,0000,0000,0000,,Even though she’s in big trouble, she doesn’t look worried.
+Dialogue: 0,0:02:52.02,0:02:55.73,Default,,0000,0000,0000,,Is she calm because she actually saw the future?
+Dialogue: 0,0:02:55.73,0:02:57.44,Default,,0000,0000,0000,,That’s impossible!
+Dialogue: 0,0:02:57.44,0:03:00.24,Default,,0000,0000,0000,,I don’t understand Ishizu’s strategy.
+Dialogue: 0,0:03:00.24,0:03:04.50,Default,,0000,0000,0000,,Her main cards are in the graveyard.
+Dialogue: 0,0:03:04.81,0:03:05.79,Default,,0000,0000,0000,,Graveyard...
+Dialogue: 0,0:03:09.39,0:03:14.72,Default,,0000,0000,0000,,If Marik and Ishizu are siblings, Ishizu is also a gravekeeper.
+Dialogue: 0,0:03:15.32,0:03:17.94,Default,,0000,0000,0000,,Keep the grave...  Keep...
+Dialogue: 0,0:03:19.19,0:03:23.28,Default,,0000,0000,0000,,Does this keyword hold the secret to Ishizu’s deck?
+Dialogue: 0,0:03:24.01,0:03:26.93,Default,,0000,0000,0000,,I’ll corner you further this turn.
+Dialogue: 0,0:03:28.34,0:03:34.31,Default,,0000,0000,0000,,Kaiba is digging his own grave, so he’ll suffer even more.
+Dialogue: 0,0:03:45.43,0:03:46.65,Default,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:03:46.65,0:03:48.45,Default,,0000,0000,0000,,I flip over my set card!
+Dialogue: 0,0:03:48.45,0:03:51.41,Default,,0000,0000,0000,,Virus Cannon activates!
+Dialogue: 0,0:03:52.83,0:03:54.08,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:03:56.75,0:03:59.26,Default,,0000,0000,0000,,Send her spell cards to her graveyard!
+Dialogue: 0,0:04:06.98,0:04:12.52,Default,,0000,0000,0000,,Ishizu, select ten spell cards in your deck and send them to the graveyard.
+Dialogue: 0,0:04:14.20,0:04:17.02,Default,,0000,0000,0000,,Your deck is completely destroyed.
+Dialogue: 0,0:04:17.02,0:04:22.70,Default,,0000,0000,0000,,You no longer have enough monster or spell cards to have a decent duel.
+Dialogue: 0,0:04:26.03,0:04:29.48,Default,,0000,0000,0000,,You still think I’m destined to lose?
+Dialogue: 0,0:04:30.20,0:04:32.92,Default,,0000,0000,0000,,Nothing has changed.
+Dialogue: 0,0:04:32.92,0:04:35.20,Default,,0000,0000,0000,,I predicted this would happen.
+Dialogue: 0,0:04:35.20,0:04:36.32,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:04:36.32,0:04:38.84,Default,,0000,0000,0000,,Still acting tough?
+Dialogue: 0,0:04:40.09,0:04:42.30,Default,,0000,0000,0000,,You’re the one who fell for a trap.
+Dialogue: 0,0:04:42.30,0:04:43.63,Default,,0000,0000,0000,,A gravekeeper’s trap.
+Dialogue: 0,0:04:43.63,0:04:44.54,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:04:44.54,0:04:46.55,Default,,0000,0000,0000,,A gravekeeper’s trap?
+Dialogue: 0,0:04:46.55,0:04:48.84,Default,,0000,0000,0000,,I’ll show you.
+Dialogue: 0,0:04:49.28,0:04:50.77,Default,,0000,0000,0000,,I flip over my card!
+Dialogue: 0,0:04:52.04,0:04:56.02,Default,,0000,0000,0000,,The trap card Exchange of the Spirit activates!
+Dialogue: 0,0:04:56.02,0:04:58.44,Default,,0000,0000,0000,,Exchange of the Spirit?
+Dialogue: 0,0:04:58.44,0:05:04.90,Default,,0000,0000,0000,,By paying 1000 life points, the cards in our graveyards swap with our decks.
+Dialogue: 0,0:05:05.28,0:05:08.78,Default,,0000,0000,0000,,The cards in our graveyards swap with our decks?
+Dialogue: 0,0:05:18.29,0:05:20.41,Default,,0000,0000,0000,,It’s proceeding smoothly.
+Dialogue: 0,0:05:21.61,0:05:23.67,Default,,0000,0000,0000,,No way!  My brother is...
+Dialogue: 0,0:05:23.67,0:05:26.13,Default,,0000,0000,0000,,Damn!  Big bro!
+Dialogue: 0,0:05:26.68,0:05:29.05,Default,,0000,0000,0000,,This was Ishizu’s strategy.
+Dialogue: 0,0:05:29.05,0:05:33.47,Default,,0000,0000,0000,,Kaiba’s deck dies while Ishizu’s deck revives.
+Dialogue: 0,0:05:33.47,0:05:37.90,Default,,0000,0000,0000,,This is why Ishizu kept sending cards to her graveyard.
+Dialogue: 0,0:05:37.90,0:05:39.60,Default,,0000,0000,0000,,How scary.
+Dialogue: 0,0:05:39.60,0:05:41.36,Default,,0000,0000,0000,,Understand now, Kaiba?
+Dialogue: 0,0:05:41.36,0:05:45.32,Default,,0000,0000,0000,,You’re the one whose deck is destroyed.
+Dialogue: 0,0:05:45.32,0:05:50.68,Default,,0000,0000,0000,,Since Kaiba destroyed Ishizu’s deck, her graveyard is full of cards.
+Dialogue: 0,0:05:50.68,0:05:54.66,Default,,0000,0000,0000,,And most of the cards are her main ones.
+Dialogue: 0,0:05:56.12,0:06:00.63,Default,,0000,0000,0000,,On the other hand, Kaiba only has six cards in his graveyard.
+Dialogue: 0,0:06:01.08,0:06:04.88,Default,,0000,0000,0000,,When he’s unable to draw on his 7th turn, he’ll lose.
+Dialogue: 0,0:06:04.88,0:06:06.80,Default,,0000,0000,0000,,My turn.
+Dialogue: 0,0:06:07.52,0:06:08.97,Default,,0000,0000,0000,,You...
+Dialogue: 0,0:06:08.97,0:06:10.58,Default,,0000,0000,0000,,I draw a card.
+Dialogue: 0,0:06:10.58,0:06:12.44,Default,,0000,0000,0000,,I summon Kelbek.
+Dialogue: 0,0:06:17.85,0:06:19.80,Default,,0000,0000,0000,,It’s over for Kaiba.
+Dialogue: 0,0:06:20.04,0:06:22.88,Default,,0000,0000,0000,,He can’t win with only six cards.
+Dialogue: 0,0:06:22.88,0:06:26.16,Default,,0000,0000,0000,,Ishizu really did see the future.
+Dialogue: 0,0:06:26.16,0:06:28.28,Default,,0000,0000,0000,,Or this wouldn’t have happened.
+Dialogue: 0,0:06:28.66,0:06:29.70,Default,,0000,0000,0000,,Kaiba...
+Dialogue: 0,0:06:29.70,0:06:34.66,Default,,0000,0000,0000,,I’ll never believe that I’ll lose!
+Dialogue: 0,0:06:35.16,0:06:37.80,Default,,0000,0000,0000,,I set one card.
+Dialogue: 0,0:06:38.06,0:06:39.58,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:06:43.50,0:06:45.08,Default,,0000,0000,0000,,Big brother!
+Dialogue: 0,0:06:45.08,0:06:45.92,Default,,0000,0000,0000,,Mokuba!
+Dialogue: 0,0:06:46.87,0:06:48.09,Default,,0000,0000,0000,,Big brother!
+Dialogue: 0,0:06:48.09,0:06:51.34,Default,,0000,0000,0000,,Mokuba, did you finish analyzing the card?
+Dialogue: 0,0:06:51.34,0:06:55.10,Default,,0000,0000,0000,,Not yet.  I was worried about you.
+Dialogue: 0,0:06:57.14,0:06:58.31,Default,,0000,0000,0000,,My turn!
+Dialogue: 0,0:06:59.92,0:07:02.96,Default,,0000,0000,0000,,That card is Virus Cannon.
+Dialogue: 0,0:07:05.44,0:07:07.88,Default,,0000,0000,0000,,I’m not guessing.
+Dialogue: 0,0:07:07.88,0:07:10.61,Default,,0000,0000,0000,,I’ve already experienced this future.
+Dialogue: 0,0:07:10.61,0:07:13.57,Default,,0000,0000,0000,,You can use that card anyway you like.
+Dialogue: 0,0:07:13.57,0:07:14.79,Default,,0000,0000,0000,,Of course I can!
+Dialogue: 0,0:07:14.79,0:07:17.05,Default,,0000,0000,0000,,Virus Cannon!
+Dialogue: 0,0:07:19.91,0:07:22.71,Default,,0000,0000,0000,,My Counter Trap activates.
+Dialogue: 0,0:07:24.16,0:07:26.09,Default,,0000,0000,0000,,The trap card Null and Void!
+Dialogue: 0,0:07:26.53,0:07:28.51,Default,,0000,0000,0000,,Discard Virus Cannon.
+Dialogue: 0,0:07:30.35,0:07:32.65,Default,,0000,0000,0000,,She knows my entire deck.
+Dialogue: 0,0:07:32.65,0:07:33.66,Default,,0000,0000,0000,,Big brother...
+Dialogue: 0,0:07:33.66,0:07:34.47,Default,,0000,0000,0000,,Kaiba...
+Dialogue: 0,0:07:34.85,0:07:37.38,Default,,0000,0000,0000,,Your next card will be Crush Card Virus.
+Dialogue: 0,0:07:37.38,0:07:40.14,Default,,0000,0000,0000,,But I won’t let you add it to your hand.
+Dialogue: 0,0:07:40.14,0:07:41.88,Default,,0000,0000,0000,,You...
+Dialogue: 0,0:07:42.23,0:07:43.56,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:07:43.56,0:07:49.18,Default,,0000,0000,0000,,Kaiba’s Des Feral Imp has more attack points than Ishizu’s monster.
+Dialogue: 0,0:07:49.18,0:07:51.18,Default,,0000,0000,0000,,Why didn’t he attack, Yugi?
+Dialogue: 0,0:07:51.40,0:07:53.98,Default,,0000,0000,0000,,Kaiba wants to summon Obelisk.
+Dialogue: 0,0:07:54.64,0:07:55.50,Default,,0000,0000,0000,,Say what?
+Dialogue: 0,0:07:55.84,0:07:57.03,Default,,0000,0000,0000,,The God Card?
+Dialogue: 0,0:07:57.39,0:08:00.71,Default,,0000,0000,0000,,It means he has that card in his hand.
+Dialogue: 0,0:08:00.71,0:08:04.63,Default,,0000,0000,0000,,If she gets three monsters on her field...
+Dialogue: 0,0:08:04.63,0:08:10.09,Default,,0000,0000,0000,,Seto, I know you have only one option left.
+Dialogue: 0,0:08:10.09,0:08:13.51,Default,,0000,0000,0000,,The spell card Soul Exchange.
+Dialogue: 0,0:08:13.51,0:08:18.18,Default,,0000,0000,0000,,You’re waiting for me to get three monsters on my field.
+Dialogue: 0,0:08:18.64,0:08:23.98,Default,,0000,0000,0000,,In order to summon Obelisk the Tormentor, the God that will lead you to defeat.
+Dialogue: 0,0:08:23.98,0:08:26.78,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:08:26.78,0:08:27.82,Default,,0000,0000,0000,,I summon Zolga!
+Dialogue: 0,0:08:35.18,0:08:37.54,Default,,0000,0000,0000,,This will lead to your defeat.
+Dialogue: 0,0:08:38.24,0:08:41.04,Default,,0000,0000,0000,,Seto, you have no way to win.
+Dialogue: 0,0:08:41.04,0:08:44.74,Default,,0000,0000,0000,,Can she actually see the future?
+Dialogue: 0,0:08:45.08,0:08:47.74,Default,,0000,0000,0000,,Has she seen my defeat?
+Dialogue: 0,0:08:48.25,0:08:48.95,Default,,0000,0000,0000,,Kaiba!
+Dialogue: 0,0:08:50.78,0:08:52.17,Default,,0000,0000,0000,,I can see it!
+Dialogue: 0,0:08:52.66,0:08:53.51,Default,,0000,0000,0000,,Yugi?
+Dialogue: 0,0:08:53.51,0:08:56.97,Default,,0000,0000,0000,,I see our road of battle that leads forever!
+Dialogue: 0,0:08:56.97,0:08:59.89,Default,,0000,0000,0000,,Use your cards to create your future!
+Dialogue: 0,0:08:59.89,0:09:01.85,Default,,0000,0000,0000,,That’s what a duelist does!
+Dialogue: 0,0:09:01.85,0:09:06.77,Default,,0000,0000,0000,,I see a future where we fight in Battle City!
+Dialogue: 0,0:09:11.30,0:09:13.74,Default,,0000,0000,0000,,Then wait for me, Yugi!
+Dialogue: 0,0:09:13.74,0:09:16.16,Default,,0000,0000,0000,,My turn isn’t over.
+Dialogue: 0,0:09:16.16,0:09:18.76,Default,,0000,0000,0000,,Zolga attacks Des Feral Imp!
+Dialogue: 0,0:09:19.24,0:09:20.91,Default,,0000,0000,0000,,Destruction Wind Cape!
+Dialogue: 0,0:09:21.50,0:09:23.83,Default,,0000,0000,0000,,Des Feral Imp is destroyed!
+Dialogue: 0,0:09:26.79,0:09:30.16,Default,,0000,0000,0000,,Kelbek attacks you directly!
+Dialogue: 0,0:09:33.88,0:09:35.21,Default,,0000,0000,0000,,How dare you!
+Dialogue: 0,0:09:36.34,0:09:40.26,Default,,0000,0000,0000,,I set a card and end my turn.
+Dialogue: 0,0:09:40.66,0:09:45.98,Default,,0000,0000,0000,,Ishizu’s set card is likely a trap that will destroy Crush Card Virus.
+Dialogue: 0,0:09:46.40,0:09:49.23,Default,,0000,0000,0000,,I know it’s a trap, but I still have to go for it.
+Dialogue: 0,0:09:49.23,0:09:50.74,Default,,0000,0000,0000,,How humiliating.
+Dialogue: 0,0:09:50.74,0:09:54.28,Default,,0000,0000,0000,,But my Obelisk will crush you to get my revenge!
+Dialogue: 0,0:09:56.15,0:09:57.74,Default,,0000,0000,0000,,My turn!
+Dialogue: 0,0:09:57.74,0:09:58.95,Default,,0000,0000,0000,,I draw!
+Dialogue: 0,0:09:58.95,0:10:01.98,Default,,0000,0000,0000,,I activate the trap card Null and Void!
+Dialogue: 0,0:10:03.45,0:10:04.29,Default,,0000,0000,0000,,I knew it.
+Dialogue: 0,0:10:06.37,0:10:09.27,Default,,0000,0000,0000,,She’s blocking Kaiba’s every move.
+Dialogue: 0,0:10:09.48,0:10:12.30,Default,,0000,0000,0000,,Ishizu knows what’s in his deck.
+Dialogue: 0,0:10:12.74,0:10:14.96,Default,,0000,0000,0000,,He’s in a no-win situation.
+Dialogue: 0,0:10:14.96,0:10:18.26,Default,,0000,0000,0000,,Kaiba, don’t give up on your future!
+Dialogue: 0,0:10:18.26,0:10:21.18,Default,,0000,0000,0000,,There’s no way my brother will lose!
+Dialogue: 0,0:10:21.18,0:10:24.64,Default,,0000,0000,0000,,I believe that you’ll win!
+Dialogue: 0,0:10:25.43,0:10:26.52,Default,,0000,0000,0000,,Mokuba...
+Dialogue: 0,0:10:27.55,0:10:29.06,Default,,0000,0000,0000,,Soul Exchange.
+Dialogue: 0,0:10:29.46,0:10:34.68,Default,,0000,0000,0000,,Both players can tribute their opponent’s monsters.
+Dialogue: 0,0:10:35.50,0:10:37.99,Default,,0000,0000,0000,,Ishizu has two monsters.
+Dialogue: 0,0:10:38.32,0:10:41.99,Default,,0000,0000,0000,,When she summons a third next turn...
+Dialogue: 0,0:10:42.61,0:10:46.12,Default,,0000,0000,0000,,...Soul Exchange will bring Obelisk!
+Dialogue: 0,0:10:47.00,0:10:48.98,Default,,0000,0000,0000,,I set a card!
+Dialogue: 0,0:10:49.90,0:10:51.42,Default,,0000,0000,0000,,I end my turn!
+Dialogue: 0,0:10:51.42,0:10:54.58,Default,,0000,0000,0000,,Kaiba has no monsters to defend with.
+Dialogue: 0,0:10:54.58,0:10:57.35,Default,,0000,0000,0000,,Ishizu’s next attack will finish him!
+Dialogue: 0,0:10:57.62,0:11:01.42,Default,,0000,0000,0000,,His set card must be Soul Exchange.
+Dialogue: 0,0:11:01.42,0:11:03.60,Default,,0000,0000,0000,,But Ishizu knows that.
+Dialogue: 0,0:11:04.54,0:11:06.52,Default,,0000,0000,0000,,Soul Exchange.
+Dialogue: 0,0:11:06.88,0:11:10.08,Default,,0000,0000,0000,,Your next turn will end of the game.
+Dialogue: 0,0:11:11.76,0:11:14.82,Default,,0000,0000,0000,,Just as I saw in my vision.
+Dialogue: 0,0:11:15.49,0:11:17.40,Default,,0000,0000,0000,,My turn.  I draw.
+Dialogue: 0,0:11:19.66,0:11:21.62,Default,,0000,0000,0000,,I set a card.
+Dialogue: 0,0:11:23.70,0:11:25.46,Default,,0000,0000,0000,,Play whatever you like.
+Dialogue: 0,0:11:25.46,0:11:28.18,Default,,0000,0000,0000,,But don’t forget to summon a monster.
+Dialogue: 0,0:11:28.53,0:11:32.11,Default,,0000,0000,0000,,Seto, the final trap will be the biggest.
+Dialogue: 0,0:11:32.32,0:11:35.12,Default,,0000,0000,0000,,The trap card Sacrifice’s Blast.
+Dialogue: 0,0:11:35.12,0:11:40.56,Default,,0000,0000,0000,,When I placed this card on the field, a bomb was placed inside one of my monsters.
+Dialogue: 0,0:11:44.73,0:11:49.93,Default,,0000,0000,0000,,If it’s tributed to summon a monster, that monster will be destroyed when it attacks.
+Dialogue: 0,0:11:50.14,0:11:52.04,Default,,0000,0000,0000,,Even if it’s a God.
+Dialogue: 0,0:11:53.10,0:11:55.08,Default,,0000,0000,0000,,I summon another monster!
+Dialogue: 0,0:11:57.86,0:12:00.31,Default,,0000,0000,0000,,Ishizu now has all the monsters I need!
+Dialogue: 0,0:12:00.56,0:12:04.30,Default,,0000,0000,0000,,How scary.  My sister is making this duel exciting.
+Dialogue: 0,0:12:04.30,0:12:06.68,Default,,0000,0000,0000,,Almost too much.
+Dialogue: 0,0:12:07.82,0:12:09.69,Default,,0000,0000,0000,,But is this a trap?
+Dialogue: 0,0:12:09.69,0:12:12.76,Default,,0000,0000,0000,,What if Ishizu expects Soul Exchange?
+Dialogue: 0,0:12:14.96,0:12:18.09,Default,,0000,0000,0000,,But my only choice is to bet on Obelisk!
+Dialogue: 0,0:12:18.53,0:12:20.00,Default,,0000,0000,0000,,I activate my set card!
+Dialogue: 0,0:12:20.32,0:12:22.77,Default,,0000,0000,0000,,Kelbek!  Agido!  Zolga!
+Dialogue: 0,0:12:22.77,0:12:26.45,Default,,0000,0000,0000,,Ishizu, I’m tributing your monsters!
+Dialogue: 0,0:12:26.45,0:12:28.19,Default,,0000,0000,0000,,I flip over my set card!
+Dialogue: 0,0:12:28.19,0:12:29.83,Default,,0000,0000,0000,,Soul Exchange!
+Dialogue: 0,0:12:31.50,0:12:32.64,Default,,0000,0000,0000,,I caught you.
+Dialogue: 0,0:12:35.88,0:12:38.46,Default,,0000,0000,0000,,I’ll let you see a God!
+Dialogue: 0,0:12:39.90,0:12:43.49,Default,,0000,0000,0000,,Come!  Obelisk the Tormentor!
+Dialogue: 0,0:13:14.27,0:13:16.00,Default,,0000,0000,0000,,He finally summoned it.
+Dialogue: 0,0:13:16.00,0:13:17.77,Default,,0000,0000,0000,,Nice, big brother!
+Dialogue: 0,0:13:17.77,0:13:21.01,Default,,0000,0000,0000,,This is Kaiba’s God Card...
+Dialogue: 0,0:13:21.01,0:13:22.59,Default,,0000,0000,0000,,Obelisk the Tormentor!
+Dialogue: 0,0:13:22.94,0:13:28.36,Default,,0000,0000,0000,,Next turn, my God’s attack will destroy the future you foretold!
+Dialogue: 0,0:13:30.29,0:13:31.93,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:13:32.44,0:13:36.30,Default,,0000,0000,0000,,When Obelisk attacks, your role comes to an end.
+Dialogue: 0,0:13:36.64,0:13:37.97,Default,,0000,0000,0000,,My turn!
+Dialogue: 0,0:13:38.45,0:13:40.69,Default,,0000,0000,0000,,Attack me.
+Dialogue: 0,0:13:40.92,0:13:42.53,Default,,0000,0000,0000,,Well, Ishizu?
+Dialogue: 0,0:13:42.75,0:13:47.45,Default,,0000,0000,0000,,Obelisk - the God of Destruction - will annihilate you and bring me victory!
+Dialogue: 0,0:13:48.15,0:13:51.89,Default,,0000,0000,0000,,The set card that was sent to the graveyard is an invisible trap.
+Dialogue: 0,0:13:51.89,0:13:54.48,Default,,0000,0000,0000,,The trap activates when it’s placed on the field.
+Dialogue: 0,0:13:55.07,0:13:58.44,Default,,0000,0000,0000,,Seto, the trap has already been activated.
+Dialogue: 0,0:14:04.19,0:14:08.77,Default,,0000,0000,0000,,Seto, you tributed Kelbek, Agito and Zolga.
+Dialogue: 0,0:14:08.77,0:14:13.54,Default,,0000,0000,0000,,By tributing my monsters, my trap will destroy your monster.
+Dialogue: 0,0:14:14.17,0:14:19.42,Default,,0000,0000,0000,,And you’ll take damage equal to your destroyed monster’s attack points.
+Dialogue: 0,0:14:21.74,0:14:25.55,Default,,0000,0000,0000,,The trap triggers when Obelisk attacks.
+Dialogue: 0,0:14:25.77,0:14:31.82,Default,,0000,0000,0000,,And you’ll lose, just as my Millennium Necklace showed me.
+Dialogue: 0,0:14:31.82,0:14:36.01,Default,,0000,0000,0000,,Ishizu, you have no monsters to defend with.
+Dialogue: 0,0:14:36.60,0:14:38.50,Default,,0000,0000,0000,,I’ll let you surrender.
+Dialogue: 0,0:14:41.13,0:14:44.96,Default,,0000,0000,0000,,Yugi, do you think Kaiba will win?
+Dialogue: 0,0:14:44.96,0:14:45.87,Default,,0000,0000,0000,,Yugi?
+Dialogue: 0,0:14:46.37,0:14:49.66,Default,,0000,0000,0000,,Can he really defeat Ishizu with this attack?
+Dialogue: 0,0:14:49.66,0:14:54.37,Default,,0000,0000,0000,,Why did Ishizu’s Millennium Necklace show that Kaiba will lose?
+Dialogue: 0,0:14:54.91,0:14:55.97,Default,,0000,0000,0000,,Yugi...
+Dialogue: 0,0:14:56.55,0:14:58.49,Default,,0000,0000,0000,,I have a bad feeling.
+Dialogue: 0,0:15:04.43,0:15:05.89,Default,,0000,0000,0000,,Well, Ishizu?
+Dialogue: 0,0:15:05.89,0:15:08.67,Default,,0000,0000,0000,,Prepared to take God’s attack?
+Dialogue: 0,0:15:08.93,0:15:13.47,Default,,0000,0000,0000,,That’s right.  Your only option is to attack with your God.
+Dialogue: 0,0:15:13.77,0:15:16.27,Default,,0000,0000,0000,,Just as I saw in my vision.
+Dialogue: 0,0:15:18.37,0:15:20.01,Default,,0000,0000,0000,,Go, God!
+Dialogue: 0,0:15:20.01,0:15:25.21,Default,,0000,0000,0000,,When Obelisk attacks, Sacrifice’s Blast activates.
+Dialogue: 0,0:15:25.75,0:15:28.12,Default,,0000,0000,0000,,Obelisk the Tormentor!  Attack!
+Dialogue: 0,0:15:35.11,0:15:35.79,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:15:41.79,0:15:43.89,Default,,0000,0000,0000,,That’s your future.
+Dialogue: 0,0:15:43.89,0:15:47.00,Default,,0000,0000,0000,,Now finish yourself.
+Dialogue: 0,0:15:47.25,0:15:48.93,Default,,0000,0000,0000,,This match is over.
+Dialogue: 0,0:15:49.63,0:15:53.57,Default,,0000,0000,0000,,As soon as Kaiba attacks...  Boom!
+Dialogue: 0,0:15:53.93,0:15:57.15,Default,,0000,0000,0000,,My sister is truly frightening.
+Dialogue: 0,0:15:58.31,0:15:58.81,Default,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:15:58.81,0:16:01.56,Default,,0000,0000,0000,,Obelisk the Tormentor!
+Dialogue: 0,0:16:01.56,0:16:02.35,Default,,0000,0000,0000,,It’s over.
+Dialogue: 0,0:16:03.77,0:16:05.11,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:16:08.99,0:16:10.45,Default,,0000,0000,0000,,The Millennium Rod!
+Dialogue: 0,0:16:12.12,0:16:12.12,Default,,0000,0000,0000,,Atta-
+Dialogue: 0,0:16:19.31,0:16:21.38,Default,,0000,0000,0000,,Kaiba stopped his attack?
+Dialogue: 0,0:16:21.82,0:16:23.50,Default,,0000,0000,0000,,What’s wrong, Kaiba?
+Dialogue: 0,0:16:23.50,0:16:24.24,Default,,0000,0000,0000,,Big brother!
+Dialogue: 0,0:16:35.76,0:16:37.54,Default,,0000,0000,0000,,What’s this?
+Dialogue: 0,0:16:43.12,0:16:44.98,Default,,0000,0000,0000,,What’s this vision?
+Dialogue: 0,0:16:45.41,0:16:47.36,Default,,0000,0000,0000,,What’s this sadness I feel?
+Dialogue: 0,0:16:49.25,0:16:51.73,Default,,0000,0000,0000,,Why did he stop his attack?
+Dialogue: 0,0:16:52.25,0:16:54.74,Default,,0000,0000,0000,,Is it due to the Millennium Rod?
+Dialogue: 0,0:17:00.72,0:17:01.85,Default,,0000,0000,0000,,Kaiba...
+Dialogue: 0,0:17:04.07,0:17:05.25,Default,,0000,0000,0000,,That tablet...
+Dialogue: 0,0:17:05.85,0:17:08.58,Default,,0000,0000,0000,,It’s Blue-Eyes White Dragon.
+Dialogue: 0,0:17:08.94,0:17:11.42,Default,,0000,0000,0000,,Why am I seeing this?
+Dialogue: 0,0:17:12.23,0:17:13.30,Default,,0000,0000,0000,,What’s this?
+Dialogue: 0,0:17:19.48,0:17:20.73,Default,,0000,0000,0000,,Blue-Eyes...
+Dialogue: 0,0:17:21.45,0:17:24.02,Default,,0000,0000,0000,,What do you want me to do?
+Dialogue: 0,0:17:27.19,0:17:29.54,Default,,0000,0000,0000,,I’ll take this as a sign!
+Dialogue: 0,0:17:29.95,0:17:32.47,Default,,0000,0000,0000,,I activate a spell card from my hand!
+Dialogue: 0,0:17:32.92,0:17:34.49,Default,,0000,0000,0000,,Silent Doom!
+Dialogue: 0,0:17:34.49,0:17:38.99,Default,,0000,0000,0000,,I summon Gadget Soldier from my graveyard in defense position!
+Dialogue: 0,0:17:40.71,0:17:44.52,Default,,0000,0000,0000,,Impossible!  I didn’t see this in my vision!
+Dialogue: 0,0:17:44.93,0:17:49.96,Default,,0000,0000,0000,,To summon Blue-Eyes from my hand, I need to tribute two monsters.
+Dialogue: 0,0:17:50.17,0:17:51.07,Default,,0000,0000,0000,,Therefore...
+Dialogue: 0,0:17:51.07,0:17:52.07,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:17:52.07,0:17:53.01,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:17:53.01,0:17:54.89,Default,,0000,0000,0000,,I tribute a God!
+Dialogue: 0,0:17:55.15,0:17:56.38,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:17:56.38,0:17:57.38,Default,,0000,0000,0000,,Is he serious?
+Dialogue: 0,0:17:57.38,0:17:58.65,Default,,0000,0000,0000,,Obelisk?
+Dialogue: 0,0:17:58.65,0:17:59.83,Default,,0000,0000,0000,,Tribute?
+Dialogue: 0,0:18:00.03,0:18:01.56,Default,,0000,0000,0000,,My pride...
+Dialogue: 0,0:18:01.56,0:18:03.23,Default,,0000,0000,0000,,My soul...
+Dialogue: 0,0:18:03.78,0:18:05.76,Default,,0000,0000,0000,,I decide my own future!
+Dialogue: 0,0:18:05.76,0:18:08.27,Default,,0000,0000,0000,,Obelisk!  Gadget Soldier!
+Dialogue: 0,0:18:10.53,0:18:13.41,Default,,0000,0000,0000,,Tribute yourselves for my servant!
+Dialogue: 0,0:18:14.07,0:18:17.08,Default,,0000,0000,0000,,He tributed Obelisk?  A God?
+Dialogue: 0,0:18:17.29,0:18:24.26,Default,,0000,0000,0000,,Ishizu, I’ll show you my servant that represents my pride and soul!
+Dialogue: 0,0:18:24.49,0:18:27.21,Default,,0000,0000,0000,,Come, Blue-Eyes White Dragon!
+Dialogue: 0,0:18:34.67,0:18:37.44,Default,,0000,0000,0000,,The future has changed!
+Dialogue: 0,0:18:42.05,0:18:43.32,Default,,0000,0000,0000,,Kaiba...
+Dialogue: 0,0:18:43.73,0:18:45.64,Default,,0000,0000,0000,,What did you see?
+Dialogue: 0,0:18:46.05,0:18:50.32,Default,,0000,0000,0000,,Seto, you truly are the master of the mythical white creature!
+Dialogue: 0,0:18:52.23,0:18:56.89,Default,,0000,0000,0000,,Ishizu, did Blue-Eyes appear in your vision?
+Dialogue: 0,0:18:58.98,0:19:00.78,Default,,0000,0000,0000,,Seems not.
+Dialogue: 0,0:19:01.41,0:19:03.33,Default,,0000,0000,0000,,I lose.
+Dialogue: 0,0:19:03.33,0:19:05.33,Default,,0000,0000,0000,,This is my future!
+Dialogue: 0,0:19:05.33,0:19:07.21,Default,,0000,0000,0000,,Go!  Blue-Eyes!
+Dialogue: 0,0:19:13.21,0:19:15.03,Default,,0000,0000,0000,,Open the way for my future!
+Dialogue: 0,0:19:15.03,0:19:17.88,Default,,0000,0000,0000,,Burst Stream of Destruction!
+Dialogue: 0,0:19:29.02,0:19:30.58,Default,,0000,0000,0000,,I win, Ishizu!
+Dialogue: 0,0:19:31.13,0:19:33.39,Default,,0000,0000,0000,,The winner is Master Seto!
+Dialogue: 0,0:19:33.61,0:19:35.11,Default,,0000,0000,0000,,Wow!
+Dialogue: 0,0:19:35.11,0:19:38.80,Default,,0000,0000,0000,,You were as great as I believed you’d be!
+Dialogue: 0,0:19:39.06,0:19:44.74,Default,,0000,0000,0000,,Kaiba, you showed me that the future isn’t written for a duelist.
+Dialogue: 0,0:19:44.99,0:19:48.81,Default,,0000,0000,0000,,But the master of the mythical white creature on the tablet...
+Dialogue: 0,0:19:48.81,0:19:51.53,Default,,0000,0000,0000,,The Millennium Rod’s glow...
+Dialogue: 0,0:19:51.89,0:19:54.75,Default,,0000,0000,0000,,The God Cards choose who wields them.
+Dialogue: 0,0:19:54.75,0:19:56.16,Default,,0000,0000,0000,,Who are you?
+Dialogue: 0,0:19:57.03,0:19:58.68,Default,,0000,0000,0000,,Impressive, Seto.
+Dialogue: 0,0:19:58.99,0:20:02.61,Default,,0000,0000,0000,,You’re now the true owner of a God Card.
+Dialogue: 0,0:20:03.33,0:20:04.76,Default,,0000,0000,0000,,But why?
+Dialogue: 0,0:20:05.21,0:20:09.26,Default,,0000,0000,0000,,There’s something that people should believe in beyond a God.
+Dialogue: 0,0:20:09.26,0:20:11.80,Default,,0000,0000,0000,,And that’s what I did.
+Dialogue: 0,0:20:11.80,0:20:16.89,Default,,0000,0000,0000,,Seto, I gained something important in this duel.
+Dialogue: 0,0:20:17.21,0:20:18.97,Default,,0000,0000,0000,,The light of hope.
+Dialogue: 0,0:20:20.17,0:20:23.74,Default,,0000,0000,0000,,That wasn’t in the future that the Millennium Necklace predicted.
+Dialogue: 0,0:20:24.27,0:20:28.68,Default,,0000,0000,0000,,Even if I won, I had little chance of saving Marik.
+Dialogue: 0,0:20:29.36,0:20:34.85,Default,,0000,0000,0000,,I was willing to risk my life for that sliver of hope.
+Dialogue: 0,0:20:35.16,0:20:37.86,Default,,0000,0000,0000,,To win and save my brother.
+Dialogue: 0,0:20:39.31,0:20:41.97,Default,,0000,0000,0000,,It’s getting interesting.
+Dialogue: 0,0:20:42.57,0:20:44.47,Default,,0000,0000,0000,,I lost.
+Dialogue: 0,0:20:44.69,0:20:47.97,Default,,0000,0000,0000,,But I learned that you can change the future.
+Dialogue: 0,0:20:48.56,0:20:53.40,Default,,0000,0000,0000,,And the people here have the power to save Marik.
+Dialogue: 0,0:20:55.86,0:21:00.01,Default,,0000,0000,0000,,Seto, people can change the future?
+Dialogue: 0,0:21:01.21,0:21:04.01,Default,,0000,0000,0000,,If you succumb to the future, there is no light.
+Dialogue: 0,0:21:11.78,0:21:13.22,Default,,0000,0000,0000,,Big brother!
+Dialogue: 0,0:21:17.43,0:21:20.56,Default,,0000,0000,0000,,Next, it’s time to finish our fight.
+Dialogue: 0,0:21:21.01,0:21:21.73,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:21:25.74,0:21:30.27,Default,,0000,0000,0000,,I will believe in the future that I cannot see.
+Dialogue: 0,0:21:39.44,0:21:42.65,Default,,0000,0000,0000,,With Kaiba’s win, we have our four semifinalists.
+Dialogue: 0,0:21:42.65,0:21:46.70,Default,,0000,0000,0000,,The Battle Ship flies toward the third duel arena.
+Dialogue: 0,0:21:46.70,0:21:49.96,Default,,0000,0000,0000,,But there are too many casualties in this battle!
+Dialogue: 0,0:21:49.96,0:21:52.12,Default,,0000,0000,0000,,Please tell me, Ishizu!
+Dialogue: 0,0:21:52.12,0:21:55.88,Default,,0000,0000,0000,,Why is Marik trying to kill everyone?
+Dialogue: 0,0:21:55.88,0:22:00.70,Default,,0000,0000,0000,,Ishizu begins to talk about Marik’s past and the Ishtars’ tragedy.
+Dialogue: 0,0:22:00.70,0:22:04.08,Default,,0000,0000,0000,,Next time on Yu-Gi-Oh!:\NIshtar Family’s Truth Revealed
+Dialogue: 0,0:22:02.08,0:22:03.64,Default,,0000,0000,0000,,Duel, standby!
+Dialogue: 0,0:22:06.73,0:22:14.61,Default,,0000,0000,0000,,The sun never sets\NIt rises forever
+Dialogue: 0,0:22:14.61,0:22:23.58,Default,,0000,0000,0000,,Don’t let a dream end as a dream
+Dialogue: 0,0:22:23.91,0:22:28.55,Default,,0000,0000,0000,,The straight rail and harsh route
+Dialogue: 0,0:22:28.55,0:22:32.52,Default,,0000,0000,0000,,Whether to go or not \Nall of yourself
+Dialogue: 0,0:22:32.95,0:22:40.49,Default,,0000,0000,0000,,I’m tired of counting on my fingers inside this cage
+Dialogue: 0,0:22:40.49,0:22:44.06,Default,,0000,0000,0000,,Respect! Boys  Show me how you act tough
+Dialogue: 0,0:22:44.06,0:22:48.83,Default,,0000,0000,0000,,Draw a map, even if it’s sloppy
+Dialogue: 0,0:22:48.83,0:22:58.94,Default,,0000,0000,0000,,And walk it without stopping
+Dialogue: 0,0:22:58.94,0:23:06.32,Default,,0000,0000,0000,,The sun never sets\NIf I can be like you
+Dialogue: 0,0:23:06.78,0:23:15.52,Default,,0000,0000,0000,,Create freedom by exceeding common ideas
+Dialogue: 0,0:23:15.52,0:23:23.50,Default,,0000,0000,0000,,I want to trust myself\NSometimes I’ll lose my way but
+Dialogue: 0,0:23:23.50,0:23:33.34,Default,,0000,0000,0000,,I hide it in my heart...\NSecret Paradise

@@ -1,0 +1,409 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: 4kmedia  [http://www.crunchyroll.com/user/4kmedia]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 480
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,EquitanSans-Regular,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,25,1
+Style: 5Ds,Trebuchet MS,24,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0030,1
+Style: 5Ds song,Trebuchet MS,24,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0015,1
+Style: Yu-Gi-Oh Yellow,Trebuchet MS,28,&H0000FFFF,&H0000FFFF,&H00232323,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+Style: Yu-Gi-Oh,Trebuchet MS,28,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:10.97,0:00:15.91,Default,,0000,0000,0000,,“I can’t overcome it”  “I’m annoyed”
+Dialogue: 0,0:00:16.64,0:00:20.66,Default,,0000,0000,0000,,Even if I break down those hurdles
+Dialogue: 0,0:00:20.66,0:00:28.88,Default,,0000,0000,0000,,No answer emerges
+Dialogue: 0,0:00:28.88,0:00:35.43,Default,,0000,0000,0000,,Am I being controlled?  Everyone on the field
+Dialogue: 0,0:00:35.43,0:00:40.35,Default,,0000,0000,0000,,Isn’t scared, go away, but...
+Dialogue: 0,0:00:40.35,0:00:44.08,Default,,0000,0000,0000,,The unseen road to the future
+Dialogue: 0,0:00:44.08,0:00:51.78,Default,,0000,0000,0000,,Cannot be chosen
+Dialogue: 0,0:00:52.18,0:00:55.07,Default,,0000,0000,0000,,Close your eyes and cut with your heart
+Dialogue: 0,0:00:55.07,0:00:58.79,Default,,0000,0000,0000,,just like cards, surely
+Dialogue: 0,0:00:58.79,0:01:03.62,Default,,0000,0000,0000,,It was promised  yes!  you are the winner
+Dialogue: 0,0:01:03.62,0:01:06.73,Default,,0000,0000,0000,,never lose!  Cut with your heart
+Dialogue: 0,0:01:06.73,0:01:09.88,Default,,0000,0000,0000,,just like cards, surely
+Dialogue: 0,0:01:09.88,0:01:17.31,Default,,0000,0000,0000,,Because a miracle will occur
+Dialogue: 0,0:01:23.10,0:01:28.65,Default,,0000,0000,0000,,Revenge Trap\NOut of Control!  Paracide
+Dialogue: 0,0:01:32.54,0:01:34.10,Default,,0000,0000,0000,,Jonouchi!
+Dialogue: 0,0:01:36.95,0:01:38.91,Default,,0000,0000,0000,,Hey, Yugi and Mai!
+Dialogue: 0,0:01:38.91,0:01:39.83,Default,,0000,0000,0000,,Hi!
+Dialogue: 0,0:01:40.79,0:01:42.29,Default,,0000,0000,0000,,You’re still alive.
+Dialogue: 0,0:01:42.29,0:01:46.25,Default,,0000,0000,0000,,Of course!  You should worry about yourself instead of me!
+Dialogue: 0,0:01:46.25,0:01:48.50,Default,,0000,0000,0000,,There’s no need for that.
+Dialogue: 0,0:01:50.00,0:01:51.80,Default,,0000,0000,0000,,You already gathered four?
+Dialogue: 0,0:01:51.80,0:01:53.40,Default,,0000,0000,0000,,You’re awesome, Mai!
+Dialogue: 0,0:01:53.40,0:01:56.30,Default,,0000,0000,0000,,I have three, and Jonouchi has two.
+Dialogue: 0,0:01:57.87,0:02:01.04,Default,,0000,0000,0000,,When we three get together, I’m always at the bottom.
+Dialogue: 0,0:02:01.87,0:02:05.47,Default,,0000,0000,0000,,The other duelists had at least one duel since yesterday.
+Dialogue: 0,0:02:05.47,0:02:07.35,Default,,0000,0000,0000,,That means half are eliminated.
+Dialogue: 0,0:02:07.35,0:02:11.06,Default,,0000,0000,0000,,Eight duelists will make the finals, so we can’t be wasting time.
+Dialogue: 0,0:02:11.06,0:02:12.35,Default,,0000,0000,0000,,I know!
+Dialogue: 0,0:02:12.57,0:02:15.19,Default,,0000,0000,0000,,I’ll go search for my prey.
+Dialogue: 0,0:02:15.19,0:02:17.86,Default,,0000,0000,0000,,Don’t you dare lose before the finals.
+Dialogue: 0,0:02:17.86,0:02:18.74,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:02:18.74,0:02:20.22,Default,,0000,0000,0000,,I’ll see you at the finals!
+Dialogue: 0,0:02:21.74,0:02:25.70,Default,,0000,0000,0000,,Maybe I’ll encounter today the God Card that Marik mentioned.
+Dialogue: 0,0:02:36.70,0:02:39.59,Default,,0000,0000,0000,,What?  Yugi already left?
+Dialogue: 0,0:02:39.59,0:02:42.28,Default,,0000,0000,0000,,Yeah.  He was in high spirits today.
+Dialogue: 0,0:02:42.28,0:02:44.89,Default,,0000,0000,0000,,Sheesh!  It’s because you were late, Honda!
+Dialogue: 0,0:02:44.89,0:02:48.68,Default,,0000,0000,0000,,My phone call with Shizuka lasted longer than I expected.
+Dialogue: 0,0:02:48.68,0:02:51.76,Default,,0000,0000,0000,,I wanted to hang up, but she wouldn’t let me.
+Dialogue: 0,0:02:51.76,0:02:53.10,Default,,0000,0000,0000,,Isn’t it the other way around?
+Dialogue: 0,0:02:53.61,0:02:56.40,Default,,0000,0000,0000,,It’ll be difficult to find him in the city.
+Dialogue: 0,0:02:56.40,0:03:00.32,Default,,0000,0000,0000,,In that case, it’ll be easier to find him if you have more people.
+Dialogue: 0,0:03:00.92,0:03:06.92,Default,,0000,0000,0000,,To become a true duelist, I can’t duel against weaklings.
+Dialogue: 0,0:03:07.32,0:03:11.29,Default,,0000,0000,0000,,But I can’t find anyone.
+Dialogue: 0,0:03:11.75,0:03:13.84,Default,,0000,0000,0000,,Hey, mister.
+Dialogue: 0,0:03:14.47,0:03:15.30,Default,,0000,0000,0000,,What’s up?
+Dialogue: 0,0:03:15.30,0:03:16.84,Default,,0000,0000,0000,,Can I have your autograph?
+Dialogue: 0,0:03:17.04,0:03:18.76,Default,,0000,0000,0000,,You’re a Battle City duelist, right?
+Dialogue: 0,0:03:19.24,0:03:23.09,Default,,0000,0000,0000,,I see!  I must be pretty famous!
+Dialogue: 0,0:03:23.18,0:03:25.36,Default,,0000,0000,0000,,You want my autograph that badly?
+Dialogue: 0,0:03:25.36,0:03:28.72,Default,,0000,0000,0000,,Yeah!  I’m getting autographs from every duelist I meet!
+Dialogue: 0,0:03:28.72,0:03:32.64,Default,,0000,0000,0000,,Because if one of them becomes the champion, it’ll be worth a lot of money!
+Dialogue: 0,0:03:34.21,0:03:36.98,Default,,0000,0000,0000,,Well...  He’s still my fan, after all.
+Dialogue: 0,0:03:36.98,0:03:39.15,Default,,0000,0000,0000,,That Duel Disk is awesome!
+Dialogue: 0,0:03:39.15,0:03:43.45,Default,,0000,0000,0000,,Right?  It proves that I’m a specially ranked duelist.
+Dialogue: 0,0:03:43.45,0:03:47.52,Default,,0000,0000,0000,,Mister, let me try it on for a little while!
+Dialogue: 0,0:03:47.52,0:03:47.95,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:03:47.95,0:03:50.16,Default,,0000,0000,0000,,C’mon!  Please!
+Dialogue: 0,0:03:50.16,0:03:52.81,Default,,0000,0000,0000,,I guess I can’t say “no” to a fan.
+Dialogue: 0,0:03:53.76,0:03:54.47,Default,,0000,0000,0000,,Here you go.
+Dialogue: 0,0:03:54.47,0:03:56.17,Default,,0000,0000,0000,,So cool!
+Dialogue: 0,0:03:56.17,0:03:58.40,Default,,0000,0000,0000,,Handle it with care.
+Dialogue: 0,0:03:58.40,0:04:03.20,Default,,0000,0000,0000,,It represents a duelist’s soul, so the only thing more important than my Duel Disk is my life!
+Dialogue: 0,0:04:03.84,0:04:06.80,Default,,0000,0000,0000,,Hey, punk!  Freeze!
+Dialogue: 0,0:04:07.30,0:04:09.23,Default,,0000,0000,0000,,I wonder where he is.
+Dialogue: 0,0:04:09.23,0:04:13.74,Default,,0000,0000,0000,,When searching on foot, you realize Domino City is a lot bigger than it seems.
+Dialogue: 0,0:04:13.96,0:04:15.15,Default,,0000,0000,0000,,Maybe not.
+Dialogue: 0,0:04:16.86,0:04:18.36,Default,,0000,0000,0000,,Jonouchi!
+Dialogue: 0,0:04:18.36,0:04:20.28,Default,,0000,0000,0000,,Why is he so angry?
+Dialogue: 0,0:04:22.36,0:04:23.24,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:04:23.24,0:04:24.86,Default,,0000,0000,0000,,The Duel Disk?
+Dialogue: 0,0:04:28.37,0:04:28.96,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:04:29.51,0:04:30.68,Default,,0000,0000,0000,,Let me go!
+Dialogue: 0,0:04:30.90,0:04:31.65,Default,,0000,0000,0000,,Honda!
+Dialogue: 0,0:04:31.65,0:04:33.08,Default,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:04:33.08,0:04:35.87,Default,,0000,0000,0000,,Why don’t you ask him!
+Dialogue: 0,0:04:36.98,0:04:41.38,Default,,0000,0000,0000,,I’m sorry.  I wanted to get revenge.
+Dialogue: 0,0:04:41.38,0:04:42.47,Default,,0000,0000,0000,,Revenge?
+Dialogue: 0,0:04:42.47,0:04:48.47,Default,,0000,0000,0000,,I came to watch the duels, but over at that park...
+Dialogue: 0,0:04:48.89,0:04:50.38,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:04:50.38,0:04:55.30,Default,,0000,0000,0000,,This guy took my rare cards, so I wanted to beat him a duel.
+Dialogue: 0,0:04:55.30,0:04:59.30,Default,,0000,0000,0000,,That’s no reason to steal someone else’s Duel Disk.
+Dialogue: 0,0:04:59.30,0:05:02.63,Default,,0000,0000,0000,,That makes you no different than the guy who took your cards.
+Dialogue: 0,0:05:02.63,0:05:03.82,Default,,0000,0000,0000,,I’m sorry.
+Dialogue: 0,0:05:03.82,0:05:06.36,Default,,0000,0000,0000,,Who took your cards?
+Dialogue: 0,0:05:06.36,0:05:10.28,Default,,0000,0000,0000,,Umm...  He had weird round glasses and a bowl haircut.
+Dialogue: 0,0:05:10.28,0:05:15.78,Default,,0000,0000,0000,,Evil eyes and a weird laugh.
+Dialogue: 0,0:05:15.78,0:05:17.78,Default,,0000,0000,0000,,Insector Haga!
+Dialogue: 0,0:05:17.78,0:05:20.92,Default,,0000,0000,0000,,He’s still up to his old tricks!
+Dialogue: 0,0:05:20.92,0:05:22.34,Default,,0000,0000,0000,,Unforgivable!
+Dialogue: 0,0:05:22.34,0:05:26.30,Default,,0000,0000,0000,,I’ve decided that Insector Haga will be my next opponent!
+Dialogue: 0,0:05:26.74,0:05:28.21,Default,,0000,0000,0000,,He’s in the park, right?
+Dialogue: 0,0:05:28.21,0:05:28.67,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:05:28.67,0:05:29.70,Default,,0000,0000,0000,,Jonouchi!
+Dialogue: 0,0:05:29.70,0:05:30.76,Default,,0000,0000,0000,,Wait up!
+Dialogue: 0,0:05:30.76,0:05:31.76,Default,,0000,0000,0000,,Bye bye.
+Dialogue: 0,0:05:32.34,0:05:34.13,Default,,0000,0000,0000,,Good luck, Mister!
+Dialogue: 0,0:05:41.36,0:05:44.35,Default,,0000,0000,0000,,Did you do as I said?
+Dialogue: 0,0:05:44.48,0:05:45.03,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:05:45.42,0:05:49.24,Default,,0000,0000,0000,,He was much easier to fool than I expected.
+Dialogue: 0,0:05:49.90,0:05:52.68,Default,,0000,0000,0000,,Now I can definitely crush Jonouchi.
+Dialogue: 0,0:05:53.08,0:05:54.72,Default,,0000,0000,0000,,His deck is...
+Dialogue: 0,0:05:56.08,0:05:58.67,Default,,0000,0000,0000,,Haga, you promised me a rare card!
+Dialogue: 0,0:05:58.67,0:06:01.09,Default,,0000,0000,0000,,Oh yeah.  Here you go.
+Dialogue: 0,0:06:01.09,0:06:03.27,Default,,0000,0000,0000,,Thanks-  Huh?
+Dialogue: 0,0:06:03.27,0:06:05.25,Default,,0000,0000,0000,,This is Gokibore!
+Dialogue: 0,0:06:05.25,0:06:06.51,Default,,0000,0000,0000,,It’s not a rare card!
+Dialogue: 0,0:06:07.50,0:06:10.00,Default,,0000,0000,0000,,You don’t deserve a rare card.
+Dialogue: 0,0:06:10.00,0:06:11.12,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:06:11.12,0:06:13.56,Default,,0000,0000,0000,,Take this instead!
+Dialogue: 0,0:06:16.82,0:06:19.98,Default,,0000,0000,0000,,I’ll defeat Jonouchi to bring Yugi to me.
+Dialogue: 0,0:06:20.67,0:06:24.61,Default,,0000,0000,0000,,I’ll pay him back in double for humiliating me at Duelist Kingdom!
+Dialogue: 0,0:06:25.61,0:06:28.74,Default,,0000,0000,0000,,Using my Super Insect Deck.
+Dialogue: 0,0:06:40.63,0:06:43.13,Default,,0000,0000,0000,,Kenta!  Where are you?
+Dialogue: 0,0:06:44.16,0:06:46.64,Default,,0000,0000,0000,,Shizuka, did someone come in here?
+Dialogue: 0,0:06:46.64,0:06:47.90,Default,,0000,0000,0000,,What’s going on?
+Dialogue: 0,0:06:47.90,0:06:52.40,Default,,0000,0000,0000,,A boy named Kenta doesn’t want to leave the hospital, so he’s running and hiding.
+Dialogue: 0,0:06:52.61,0:06:54.38,Default,,0000,0000,0000,,He doesn’t want to leave?
+Dialogue: 0,0:06:55.16,0:06:57.03,Default,,0000,0000,0000,,I don’t know why.
+Dialogue: 0,0:06:57.03,0:06:58.94,Default,,0000,0000,0000,,He’s such a troublemaker.
+Dialogue: 0,0:07:00.95,0:07:03.43,Default,,0000,0000,0000,,It’s safe to come out.
+Dialogue: 0,0:07:04.52,0:07:05.70,Default,,0000,0000,0000,,You knew I was here?
+Dialogue: 0,0:07:05.70,0:07:08.18,Default,,0000,0000,0000,,I can still sense when people are around.
+Dialogue: 0,0:07:08.64,0:07:10.74,Default,,0000,0000,0000,,Why didn’t you rat me out?
+Dialogue: 0,0:07:10.74,0:07:13.52,Default,,0000,0000,0000,,We should help each other when we’re in trouble.
+Dialogue: 0,0:07:13.78,0:07:16.78,Default,,0000,0000,0000,,Besides, I don’t get along with that nurse.
+Dialogue: 0,0:07:17.05,0:07:20.41,Default,,0000,0000,0000,,Then I want to help you too.
+Dialogue: 0,0:07:20.41,0:07:21.42,Default,,0000,0000,0000,,What should I do?
+Dialogue: 0,0:07:21.42,0:07:22.72,Default,,0000,0000,0000,,Hmm...
+Dialogue: 0,0:07:23.22,0:07:26.75,Default,,0000,0000,0000,,Can you tell me what’s on the computer?
+Dialogue: 0,0:07:27.24,0:07:30.21,Default,,0000,0000,0000,,Is this the Battle City homepage?
+Dialogue: 0,0:07:30.21,0:07:32.72,Default,,0000,0000,0000,,My brother is in the tournament.
+Dialogue: 0,0:07:33.14,0:07:36.31,Default,,0000,0000,0000,,Dammit!  Where did Haga go?
+Dialogue: 0,0:07:37.10,0:07:38.72,Default,,0000,0000,0000,,He’s not here anymore?
+Dialogue: 0,0:07:39.78,0:07:42.15,Default,,0000,0000,0000,,Long time no see, Jonouchi.
+Dialogue: 0,0:07:42.15,0:07:44.90,Default,,0000,0000,0000,,There you are, Insector Haga!
+Dialogue: 0,0:07:44.90,0:07:47.74,Default,,0000,0000,0000,,I was looking forward to meeting you again.
+Dialogue: 0,0:07:48.61,0:07:51.78,Default,,0000,0000,0000,,You threatened and stole a kid’s rare cards!
+Dialogue: 0,0:07:52.48,0:07:54.20,Default,,0000,0000,0000,,Is that what he said?
+Dialogue: 0,0:07:54.20,0:07:57.56,Default,,0000,0000,0000,,I’ll make sure you won’t do that again.
+Dialogue: 0,0:07:57.56,0:07:58.90,Default,,0000,0000,0000,,Wait, Honda.
+Dialogue: 0,0:07:59.36,0:08:02.00,Default,,0000,0000,0000,,I challenge you to a duel.
+Dialogue: 0,0:08:02.00,0:08:03.60,Default,,0000,0000,0000,,Wait a sec, Jonouchi!
+Dialogue: 0,0:08:03.60,0:08:05.60,Default,,0000,0000,0000,,You don’t have to duel him.
+Dialogue: 0,0:08:05.60,0:08:08.46,Default,,0000,0000,0000,,He’s a cheater who threw Yugi’s cards into the ocean!
+Dialogue: 0,0:08:10.21,0:08:15.54,Default,,0000,0000,0000,,Even though you hate me, I’m honored that a cute girl remembers me.
+Dialogue: 0,0:08:18.90,0:08:22.73,Default,,0000,0000,0000,,Jonouchi, let’s bet our Puzzle Card and two rare cards.
+Dialogue: 0,0:08:22.73,0:08:23.84,Default,,0000,0000,0000,,Two?
+Dialogue: 0,0:08:23.84,0:08:27.87,Default,,0000,0000,0000,,That means if Jonouchi loses this duel, he’s eliminated.
+Dialogue: 0,0:08:28.24,0:08:29.69,Default,,0000,0000,0000,,Don’t do it, Jonouchi!
+Dialogue: 0,0:08:29.69,0:08:32.15,Default,,0000,0000,0000,,What?  Are you scared?
+Dialogue: 0,0:08:32.15,0:08:33.49,Default,,0000,0000,0000,,Fine!
+Dialogue: 0,0:08:33.70,0:08:34.61,Default,,0000,0000,0000,,Jonouchi!
+Dialogue: 0,0:08:34.61,0:08:42.38,Default,,0000,0000,0000,,He lost to Yugi in his first duel at Duelist Kingdom, but he was once the Japan champion.
+Dialogue: 0,0:08:42.38,0:08:44.08,Default,,0000,0000,0000,,He’s a worthy opponent.
+Dialogue: 0,0:08:45.45,0:08:46.94,Default,,0000,0000,0000,,You fool.
+Dialogue: 0,0:08:46.94,0:08:50.00,Default,,0000,0000,0000,,You don’t know I messed with your deck.
+Dialogue: 0,0:08:50.00,0:08:53.34,Default,,0000,0000,0000,,When duelists meet in this city...
+Dialogue: 0,0:08:53.70,0:08:55.85,Default,,0000,0000,0000,,...it turns into Battle City!
+Dialogue: 0,0:09:03.64,0:09:04.85,Default,,0000,0000,0000,,Duel!
+Dialogue: 0,0:09:05.31,0:09:06.27,Default,,0000,0000,0000,,I go first!
+Dialogue: 0,0:09:07.01,0:09:09.30,Default,,0000,0000,0000,,Swordsman of Landstar in attack position!
+Dialogue: 0,0:09:11.36,0:09:13.53,Default,,0000,0000,0000,,And I set one card.
+Dialogue: 0,0:09:15.32,0:09:16.20,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:09:16.20,0:09:18.78,Default,,0000,0000,0000,,What a wimpy monster.
+Dialogue: 0,0:09:18.78,0:09:21.90,Default,,0000,0000,0000,,It can handle your bugs with no problem!
+Dialogue: 0,0:09:21.90,0:09:23.37,Default,,0000,0000,0000,,It’s my turn.
+Dialogue: 0,0:09:24.26,0:09:26.02,Default,,0000,0000,0000,,Come out, Flying Kamakiri #1!
+Dialogue: 0,0:09:28.84,0:09:31.25,Default,,0000,0000,0000,,Destroy Jonouchi’s monster!
+Dialogue: 0,0:09:33.17,0:09:35.22,Default,,0000,0000,0000,,I activate my set card!
+Dialogue: 0,0:09:35.90,0:09:38.22,Default,,0000,0000,0000,,Shield & Sword!
+Dialogue: 0,0:09:38.99,0:09:41.04,Default,,0000,0000,0000,,It swaps attack and defense points!
+Dialogue: 0,0:09:42.93,0:09:45.06,Default,,0000,0000,0000,,Flying Kamakiri #1 is destroyed!
+Dialogue: 0,0:09:46.34,0:09:47.20,Default,,0000,0000,0000,,How’s that!
+Dialogue: 0,0:09:48.75,0:09:49.94,Default,,0000,0000,0000,,Whatever.
+Dialogue: 0,0:09:49.94,0:09:52.53,Default,,0000,0000,0000,,When Flying Kamakiri #1 is sent to the graveyard...
+Dialogue: 0,0:09:52.53,0:09:56.95,Default,,0000,0000,0000,,...I can bring out a Wind Attribute monster with 1500 or fewer attack points.
+Dialogue: 0,0:09:56.95,0:10:01.66,Default,,0000,0000,0000,,I may have lost a few life points, but you haven’t defeated me yet.
+Dialogue: 0,0:10:01.66,0:10:05.66,Default,,0000,0000,0000,,Umm...  Katsuya Jonouchi, right?
+Dialogue: 0,0:10:05.66,0:10:06.46,Default,,0000,0000,0000,,That’s right.
+Dialogue: 0,0:10:07.50,0:10:10.90,Default,,0000,0000,0000,,He’s dueling the former Japan champion!
+Dialogue: 0,0:10:10.90,0:10:11.38,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:10:12.03,0:10:14.03,Default,,0000,0000,0000,,He’ll be fine.
+Dialogue: 0,0:10:14.03,0:10:18.26,Default,,0000,0000,0000,,My brother finished second at Duelist Kingdom.
+Dialogue: 0,0:10:18.26,0:10:19.30,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:10:19.83,0:10:20.85,Default,,0000,0000,0000,,That’s weird...
+Dialogue: 0,0:10:20.85,0:10:23.83,Default,,0000,0000,0000,,It says he’s a level 2 nobody.
+Dialogue: 0,0:10:26.82,0:10:27.73,Default,,0000,0000,0000,,My turn!
+Dialogue: 0,0:10:29.62,0:10:35.07,Default,,0000,0000,0000,,If I don’t do something now, Swordsman of Landstar will be destroyed next turn.
+Dialogue: 0,0:10:35.07,0:10:36.82,Default,,0000,0000,0000,,What’s the matter?
+Dialogue: 0,0:10:36.82,0:10:39.82,Default,,0000,0000,0000,,Are you already out of options?
+Dialogue: 0,0:10:40.78,0:10:42.20,Default,,0000,0000,0000,,Jonouchi...
+Dialogue: 0,0:10:43.53,0:10:45.10,Default,,0000,0000,0000,,Whatever!
+Dialogue: 0,0:10:45.33,0:10:48.08,Default,,0000,0000,0000,,I tribute Swordsman of Landstar.
+Dialogue: 0,0:10:48.45,0:10:51.10,Default,,0000,0000,0000,,I summon Jinzo!
+Dialogue: 0,0:10:52.77,0:10:54.83,Default,,0000,0000,0000,,Cyber Energy Shock!
+Dialogue: 0,0:10:59.36,0:11:01.64,Default,,0000,0000,0000,,2400 attack points?
+Dialogue: 0,0:11:01.64,0:11:03.60,Default,,0000,0000,0000,,Way to go, Jonouchi!
+Dialogue: 0,0:11:03.60,0:11:05.10,Default,,0000,0000,0000,,Keep it up!
+Dialogue: 0,0:11:05.10,0:11:06.60,Default,,0000,0000,0000,,My turn.
+Dialogue: 0,0:11:06.78,0:11:08.02,Default,,0000,0000,0000,,A monster in defense position.
+Dialogue: 0,0:11:09.00,0:11:10.44,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:11:11.12,0:11:12.93,Default,,0000,0000,0000,,I’ll stay on the offensive!
+Dialogue: 0,0:11:12.93,0:11:15.86,Default,,0000,0000,0000,,Jinzo, destroy that card!
+Dialogue: 0,0:11:20.53,0:11:21.36,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:11:24.03,0:11:25.46,Default,,0000,0000,0000,,I got you.
+Dialogue: 0,0:11:25.46,0:11:29.04,Default,,0000,0000,0000,,Kiseitai latches on to the monster that attacked it.
+Dialogue: 0,0:11:29.04,0:11:35.47,Default,,0000,0000,0000,,Every time it’s your turn, half your monster’s attack points are added to my life points.
+Dialogue: 0,0:11:35.47,0:11:36.34,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:11:37.25,0:11:38.26,Default,,0000,0000,0000,,That’s gross.
+Dialogue: 0,0:11:41.22,0:11:46.14,Default,,0000,0000,0000,,I’ll show you how terrifying my Super Insect Deck is!
+Dialogue: 0,0:12:00.36,0:12:04.57,Default,,0000,0000,0000,,I set a monster in defense position and end my turn.
+Dialogue: 0,0:12:05.11,0:12:06.03,Default,,0000,0000,0000,,My turn.
+Dialogue: 0,0:12:10.20,0:12:11.83,Default,,0000,0000,0000,,I gained 1200 life points.
+Dialogue: 0,0:12:11.83,0:12:13.75,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:12:14.16,0:12:16.29,Default,,0000,0000,0000,,Jinzo, attack!
+Dialogue: 0,0:12:22.34,0:12:23.47,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:12:23.47,0:12:25.89,Default,,0000,0000,0000,,What?  He gained life points again?
+Dialogue: 0,0:12:25.89,0:12:31.39,Default,,0000,0000,0000,,When Skull-Mark Ladybug goes to the graveyard, I gain 500 life points.
+Dialogue: 0,0:12:31.39,0:12:34.36,Default,,0000,0000,0000,,Now I have more life points than you.
+Dialogue: 0,0:12:34.90,0:12:38.28,Default,,0000,0000,0000,,There are many tricky insect monsters.
+Dialogue: 0,0:12:38.50,0:12:41.65,Default,,0000,0000,0000,,He’s playing right into Insector Haga’s hands.
+Dialogue: 0,0:12:42.97,0:12:44.23,Default,,0000,0000,0000,,My turn.
+Dialogue: 0,0:12:44.23,0:12:46.28,Default,,0000,0000,0000,,A monster in defense position.
+Dialogue: 0,0:12:46.28,0:12:48.45,Default,,0000,0000,0000,,It’s your turn.
+Dialogue: 0,0:12:48.45,0:12:50.37,Default,,0000,0000,0000,,I gain life points!
+Dialogue: 0,0:12:50.37,0:12:52.35,Default,,0000,0000,0000,,Defense position again?
+Dialogue: 0,0:12:52.35,0:12:55.04,Default,,0000,0000,0000,,Whenever I attack, he activates a weird effect.
+Dialogue: 0,0:12:55.04,0:12:59.96,Default,,0000,0000,0000,,But if I let my turns pass me by, Haga will keep gaining life points.
+Dialogue: 0,0:13:00.50,0:13:02.63,Default,,0000,0000,0000,,Who’s winning?
+Dialogue: 0,0:13:02.63,0:13:05.55,Default,,0000,0000,0000,,It looks like your brother is losing.
+Dialogue: 0,0:13:05.55,0:13:06.67,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:13:06.67,0:13:10.68,Default,,0000,0000,0000,,Your brother is unlucky to be matched up against a strong duelist.
+Dialogue: 0,0:13:11.33,0:13:15.36,Default,,0000,0000,0000,,I bet my brother knew his opponent was tough, but he challenged him anyways.
+Dialogue: 0,0:13:15.97,0:13:16.65,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:13:16.65,0:13:19.40,Default,,0000,0000,0000,,That’s his way.
+Dialogue: 0,0:13:19.63,0:13:23.95,Default,,0000,0000,0000,,Nothing ventured, nothing gained.
+Dialogue: 0,0:13:24.63,0:13:25.95,Default,,0000,0000,0000,,That’s pointless.
+Dialogue: 0,0:13:26.20,0:13:29.62,Default,,0000,0000,0000,,What’s impossible is impossible.
+Dialogue: 0,0:13:29.62,0:13:33.29,Default,,0000,0000,0000,,But my brother will still duel fair and square.
+Dialogue: 0,0:13:33.85,0:13:35.71,Default,,0000,0000,0000,,Believing in his own power.
+Dialogue: 0,0:13:35.71,0:13:37.36,Default,,0000,0000,0000,,My turn!
+Dialogue: 0,0:13:39.67,0:13:42.94,Default,,0000,0000,0000,,I summon Panther Warrior!
+Dialogue: 0,0:13:44.47,0:13:49.55,Default,,0000,0000,0000,,Panther Warrior can’t attack unless I tribute a monster on my field.
+Dialogue: 0,0:13:49.55,0:13:55.25,Default,,0000,0000,0000,,I’ll use that to my advantage to tribute Jinzo and attack!
+Dialogue: 0,0:14:01.97,0:14:05.55,Default,,0000,0000,0000,,Hooray!  Haga can’t gain life points anymore!
+Dialogue: 0,0:14:05.55,0:14:07.57,Default,,0000,0000,0000,,Nice thinking, Jonouchi.
+Dialogue: 0,0:14:08.71,0:14:14.75,Default,,0000,0000,0000,,You finally got rid of Kiseitai, but I regained more than enough life points.
+Dialogue: 0,0:14:15.23,0:14:21.67,Default,,0000,0000,0000,,And you’re happy that you destroyed Pinch Hopper, but its effect lets me summon a monster from my hand.
+Dialogue: 0,0:14:21.67,0:14:23.59,Default,,0000,0000,0000,,I summon Larvae Moth.
+Dialogue: 0,0:14:27.55,0:14:28.83,Default,,0000,0000,0000,,Dammit!
+Dialogue: 0,0:14:28.83,0:14:31.51,Default,,0000,0000,0000,,He always has a monster on his field!
+Dialogue: 0,0:14:32.91,0:14:38.48,Default,,0000,0000,0000,,No matter how many you insects you squish, my deck can bring out more!
+Dialogue: 0,0:14:39.13,0:14:41.40,Default,,0000,0000,0000,,I equip Cocoon of Evolution on Larvae Moth.
+Dialogue: 0,0:14:47.24,0:14:48.05,Default,,0000,0000,0000,,That’s...
+Dialogue: 0,0:14:51.44,0:14:52.35,Default,,0000,0000,0000,,That’s right.
+Dialogue: 0,0:14:52.35,0:14:57.71,Default,,0000,0000,0000,,I failed to summon its final form at Duelist Kingdom, but I’ll succeed this time!
+Dialogue: 0,0:14:57.71,0:15:01.22,Default,,0000,0000,0000,,Perfectly Ultimate Great Moth!
+Dialogue: 0,0:15:02.04,0:15:03.15,Default,,0000,0000,0000,,He won’t win.
+Dialogue: 0,0:15:03.56,0:15:05.91,Default,,0000,0000,0000,,This ex-champ is very tough.
+Dialogue: 0,0:15:06.29,0:15:09.67,Default,,0000,0000,0000,,His cards are much stronger than your brother’s.
+Dialogue: 0,0:15:09.91,0:15:11.83,Default,,0000,0000,0000,,But my brother hasn’t lost yet.
+Dialogue: 0,0:15:12.43,0:15:15.68,Default,,0000,0000,0000,,You really don’t know anything about cards.
+Dialogue: 0,0:15:15.68,0:15:17.60,Default,,0000,0000,0000,,He can’t win!
+Dialogue: 0,0:15:20.06,0:15:21.64,Default,,0000,0000,0000,,Jonouchi.
+Dialogue: 0,0:15:21.79,0:15:26.08,Default,,0000,0000,0000,,Perfectly Ultimate Great Moth will be born in five turns.
+Dialogue: 0,0:15:26.94,0:15:28.73,Default,,0000,0000,0000,,I have to destroy that Cocoon!
+Dialogue: 0,0:15:28.73,0:15:30.61,Default,,0000,0000,0000,,Too bad, Jonouchi.
+Dialogue: 0,0:15:30.75,0:15:34.04,Default,,0000,0000,0000,,You can’t stop Cocoon of Evolution.
+Dialogue: 0,0:15:34.04,0:15:37.32,Default,,0000,0000,0000,,You lost before this duel even started.
+Dialogue: 0,0:15:37.49,0:15:38.19,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:15:38.53,0:15:42.13,Default,,0000,0000,0000,,Take this!  The spell card Reckless Parasite!
+Dialogue: 0,0:15:42.41,0:15:47.21,Default,,0000,0000,0000,,This card will drive your deck’s Parasite Paracide crazy.
+Dialogue: 0,0:15:47.59,0:15:49.28,Default,,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:15:49.28,0:15:51.45,Default,,0000,0000,0000,,My deck doesn’t have insect cards.
+Dialogue: 0,0:15:53.25,0:15:54.07,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:15:58.85,0:16:05.05,Default,,0000,0000,0000,,Paracide implants a parasite in every monster you summon and transforms them into insects.
+Dialogue: 0,0:16:05.36,0:16:07.08,Default,,0000,0000,0000,,What is that?
+Dialogue: 0,0:16:07.08,0:16:11.08,Default,,0000,0000,0000,,Jonouchi, why are you using a card that helps your opponent?
+Dialogue: 0,0:16:11.08,0:16:14.49,Default,,0000,0000,0000,,Like I said, I never put this card in my deck-
+Dialogue: 0,0:16:14.68,0:16:15.33,Default,,0000,0000,0000,,Can it be?
+Dialogue: 0,0:16:15.70,0:16:18.73,Default,,0000,0000,0000,,You used that kid!
+Dialogue: 0,0:16:19.24,0:16:23.33,Default,,0000,0000,0000,,A great strategist prepares before the start of battle.
+Dialogue: 0,0:16:23.33,0:16:24.90,Default,,0000,0000,0000,,That’s cheating!
+Dialogue: 0,0:16:25.08,0:16:26.56,Default,,0000,0000,0000,,You’re dirty!
+Dialogue: 0,0:16:26.56,0:16:27.91,Default,,0000,0000,0000,,Oh really?
+Dialogue: 0,0:16:27.91,0:16:33.82,Default,,0000,0000,0000,,Can you call yourself a duelist if you don’t check your deck before the start of a duel?
+Dialogue: 0,0:16:34.10,0:16:34.99,Default,,0000,0000,0000,,You...
+Dialogue: 0,0:16:35.35,0:16:40.37,Default,,0000,0000,0000,,Insect monsters will fill up both of our fields.
+Dialogue: 0,0:16:41.55,0:16:45.26,Default,,0000,0000,0000,,I set a card and end my turn.
+Dialogue: 0,0:16:45.67,0:16:47.93,Default,,0000,0000,0000,,I’ll make you pay for tricking me!
+Dialogue: 0,0:16:48.33,0:16:52.60,Default,,0000,0000,0000,,My monsters may be insects, but they still have the same attack and defense points.
+Dialogue: 0,0:16:52.60,0:16:58.38,Default,,0000,0000,0000,,Oh, I forgot to mention that you can’t tribute monsters that are infected with a parasite.
+Dialogue: 0,0:16:58.38,0:16:59.07,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:16:59.27,0:17:02.74,Default,,0000,0000,0000,,You can no longer summon high Level monsters.
+Dialogue: 0,0:17:03.06,0:17:07.71,Default,,0000,0000,0000,,And Panther Warrior can’t attack without tributing, so it’s useless.
+Dialogue: 0,0:17:08.71,0:17:11.72,Default,,0000,0000,0000,,I summon Little-Winguard!
+Dialogue: 0,0:17:16.59,0:17:19.86,Default,,0000,0000,0000,,It’s smart to strengthen your defenses.
+Dialogue: 0,0:17:20.06,0:17:24.61,Default,,0000,0000,0000,,Actually, Little-Winguard attacks Cocoon of Evolution!
+Dialogue: 0,0:17:24.83,0:17:28.03,Default,,0000,0000,0000,,Your monster is too weak against Cocoon’s 2000 defense points.
+Dialogue: 0,0:17:28.03,0:17:30.82,Default,,0000,0000,0000,,Look at your field more carefully!
+Dialogue: 0,0:17:31.56,0:17:33.05,Default,,0000,0000,0000,,Oh no!
+Dialogue: 0,0:17:33.05,0:17:35.27,Default,,0000,0000,0000,,Cocoon of Evolution is in attack position!
+Dialogue: 0,0:17:35.73,0:17:36.73,Default,,0000,0000,0000,,That’s right.
+Dialogue: 0,0:17:36.73,0:17:40.99,Default,,0000,0000,0000,,Little-Winguard, attack Cocoon of Evolution!
+Dialogue: 0,0:17:42.28,0:17:43.68,Default,,0000,0000,0000,,Don’t do it!
+Dialogue: 0,0:17:43.68,0:17:44.72,Default,,0000,0000,0000,,Just kidding.
+Dialogue: 0,0:17:46.00,0:17:50.02,Default,,0000,0000,0000,,I flip over my Continuous Spell Insect Barrier!
+Dialogue: 0,0:17:55.07,0:18:00.59,Default,,0000,0000,0000,,I told you that all your monsters are now parasitic insect monsters.
+Dialogue: 0,0:18:00.59,0:18:04.73,Default,,0000,0000,0000,,So as long as I have this card, your attacks can’t reach me.
+Dialogue: 0,0:18:05.20,0:18:06.30,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:18:06.57,0:18:11.01,Default,,0000,0000,0000,,That means Jonouchi can’t summon high Level monsters nor attack!
+Dialogue: 0,0:18:11.41,0:18:14.63,Default,,0000,0000,0000,,Jonouchi’s deck is completely locked down.
+Dialogue: 0,0:18:14.92,0:18:18.27,Default,,0000,0000,0000,,That boy has scary strategies.
+Dialogue: 0,0:18:19.05,0:18:24.92,Default,,0000,0000,0000,,Jonouchi, four more turns until Perfectly Ultimate Great Moth emerges from its cocoon.
+Dialogue: 0,0:18:24.92,0:18:28.88,Default,,0000,0000,0000,,Wow.  He’s really going to summon Great Moth.
+Dialogue: 0,0:18:29.39,0:18:31.88,Default,,0000,0000,0000,,Is Great Moth strong?
+Dialogue: 0,0:18:31.88,0:18:35.80,Default,,0000,0000,0000,,There aren’t many monsters stronger than it.
+Dialogue: 0,0:18:36.02,0:18:37.19,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:18:37.86,0:18:39.44,Default,,0000,0000,0000,,It’s over for him.
+Dialogue: 0,0:18:39.64,0:18:40.62,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:18:40.75,0:18:44.67,Default,,0000,0000,0000,,Even if you believe in yourself, you can’t win against someone who’s stronger.
+Dialogue: 0,0:18:45.52,0:18:47.04,Default,,0000,0000,0000,,Big brother...
+Dialogue: 0,0:18:47.39,0:18:52.05,Default,,0000,0000,0000,,I don’t feel like waiting until Cocoon of Evolution opens up.
+Dialogue: 0,0:18:52.45,0:18:57.82,Default,,0000,0000,0000,,I’ll get rid of some of your life points so that Great Moth can defeat you with one strike.
+Dialogue: 0,0:18:58.33,0:19:03.79,Default,,0000,0000,0000,,Good!  He has to destroy all my monsters if he wants to damage my life points.
+Dialogue: 0,0:19:04.41,0:19:07.47,Default,,0000,0000,0000,,If Parasite Paracide is gone, I can turn the tables.
+Dialogue: 0,0:19:07.83,0:19:09.40,Default,,0000,0000,0000,,Leghul in attack position!
+Dialogue: 0,0:19:09.77,0:19:11.54,Default,,0000,0000,0000,,It attacks you directly!
+Dialogue: 0,0:19:13.81,0:19:15.19,Default,,0000,0000,0000,,A direct attack?
+Dialogue: 0,0:19:19.15,0:19:22.01,Default,,0000,0000,0000,,Leghul can attack you directly.
+Dialogue: 0,0:19:22.75,0:19:29.67,Default,,0000,0000,0000,,Did you expect me to do you a favor by getting rid of Parasite Paracide?
+Dialogue: 0,0:19:30.69,0:19:35.12,Default,,0000,0000,0000,,I switch all my monsters to defense position and end my turn.
+Dialogue: 0,0:19:35.12,0:19:36.72,Default,,0000,0000,0000,,That’s pointless.
+Dialogue: 0,0:19:37.01,0:19:39.43,Default,,0000,0000,0000,,Continue the countdown to your death!
+Dialogue: 0,0:19:39.79,0:19:42.12,Default,,0000,0000,0000,,Three turns until I summon Great Moth.
+Dialogue: 0,0:19:42.12,0:19:43.71,Default,,0000,0000,0000,,But before that...
+Dialogue: 0,0:19:43.71,0:19:46.06,Default,,0000,0000,0000,,Leghul, attack him directly!
+Dialogue: 0,0:19:51.88,0:19:53.51,Default,,0000,0000,0000,,Two turns left.
+Dialogue: 0,0:19:53.51,0:19:55.56,Default,,0000,0000,0000,,Leghul, attack him directly!
+Dialogue: 0,0:19:58.36,0:20:03.19,Default,,0000,0000,0000,,If you beg, I’m willing to reconsider my decision to summon Great Moth.
+Dialogue: 0,0:20:06.63,0:20:09.12,Default,,0000,0000,0000,,Stop talking, you cheater!
+Dialogue: 0,0:20:09.12,0:20:10.71,Default,,0000,0000,0000,,Stop, Honda.
+Dialogue: 0,0:20:10.71,0:20:14.06,Default,,0000,0000,0000,,Yugi taught me in the previous duel.
+Dialogue: 0,0:20:14.48,0:20:22.37,Default,,0000,0000,0000,,Even if the opponent cheats, a true duelist fights fair and square... and wins!
+Dialogue: 0,0:20:23.93,0:20:28.62,Default,,0000,0000,0000,,Yugi, I’ll become a true duelist during Battle City!
+Dialogue: 0,0:20:31.87,0:20:33.92,Default,,0000,0000,0000,,My monster in defense position!
+Dialogue: 0,0:20:35.75,0:20:39.26,Default,,0000,0000,0000,,I set one card and end my turn.
+Dialogue: 0,0:20:41.31,0:20:43.22,Default,,0000,0000,0000,,Turn Alligator’s Sword into a parasite!
+Dialogue: 0,0:20:43.22,0:20:44.80,Default,,0000,0000,0000,,You’re always on the defense.
+Dialogue: 0,0:20:44.80,0:20:46.37,Default,,0000,0000,0000,,So what?
+Dialogue: 0,0:20:47.34,0:20:50.80,Default,,0000,0000,0000,,I’ll keep going until I run out of life points!
+Dialogue: 0,0:20:50.80,0:20:52.74,Default,,0000,0000,0000,,I haven’t lost yet!
+Dialogue: 0,0:20:54.02,0:20:56.24,Default,,0000,0000,0000,,You don’t know when to give up.
+Dialogue: 0,0:20:56.24,0:20:59.78,Default,,0000,0000,0000,,I’ll show you that you have no chance to win.
+Dialogue: 0,0:20:59.78,0:21:01.35,Default,,0000,0000,0000,,It’s my turn.
+Dialogue: 0,0:21:01.71,0:21:04.65,Default,,0000,0000,0000,,Come out, Perfectly Ultimate Great Moth!
+Dialogue: 0,0:21:05.11,0:21:07.42,Default,,0000,0000,0000,,Show us your beauty!
+Dialogue: 0,0:21:17.67,0:21:19.34,Default,,0000,0000,0000,,So that’s Perfectly Ultimate...
+Dialogue: 0,0:21:19.78,0:21:20.63,Default,,0000,0000,0000,,...Great Moth!
+Dialogue: 0,0:21:37.23,0:21:40.44,Default,,0000,0000,0000,,Perfectly Ultimate Great Moth finally emerged.
+Dialogue: 0,0:21:40.44,0:21:45.20,Default,,0000,0000,0000,,But Parasite Paracide still has sealed away Jonouchi’s high Level monsters.
+Dialogue: 0,0:21:45.20,0:21:47.20,Default,,0000,0000,0000,,How is he supposed to fight back?
+Dialogue: 0,0:21:47.20,0:21:50.23,Default,,0000,0000,0000,,A Dice card?  That’s the ticket!
+Dialogue: 0,0:21:50.23,0:21:53.40,Default,,0000,0000,0000,,Great Moth is destroyed, but that joy lasts only for a moment.
+Dialogue: 0,0:21:53.40,0:21:56.37,Default,,0000,0000,0000,,He has a more powerful monster - Insect Queen!
+Dialogue: 0,0:21:56.37,0:21:58.13,Default,,0000,0000,0000,,Don’t give up, Jonouchi!
+Dialogue: 0,0:21:58.13,0:22:00.30,Default,,0000,0000,0000,,Fulfill your promise with Yugi!
+Dialogue: 0,0:22:00.30,0:22:03.23,Default,,0000,0000,0000,,Next time on Yu-Gi-Oh!:\NGearfried the Iron Knight\N
+Dialogue: 0,0:22:01.23,0:22:02.87,Default,,0000,0000,0000,,Duel, standby!
+Dialogue: 0,0:22:17.00,0:22:21.50,Default,,0000,0000,0000,,Even a long, long time ago
+Dialogue: 0,0:22:22.30,0:22:26.87,Default,,0000,0000,0000,,I feel like I’ve been here
+Dialogue: 0,0:22:27.41,0:22:36.55,Default,,0000,0000,0000,,The setting sun colors the classroom after school
+Dialogue: 0,0:22:36.85,0:22:48.06,Default,,0000,0000,0000,,We all laugh as you point out that I cut my bangs too short
+Dialogue: 0,0:22:50.93,0:22:55.57,Default,,0000,0000,0000,,Time passes bit by bit
+Dialogue: 0,0:22:56.24,0:23:00.84,Default,,0000,0000,0000,,The time when my bangs touch my eyelids
+Dialogue: 0,0:23:01.41,0:23:05.95,Default,,0000,0000,0000,,Will never change
+Dialogue: 0,0:23:06.61,0:23:11.22,Default,,0000,0000,0000,,The sunset envelops everyone
+Dialogue: 0,0:23:11.85,0:23:16.42,Default,,0000,0000,0000,,To be who I am
+Dialogue: 0,0:23:17.02,0:23:21.66,Default,,0000,0000,0000,,I’ve kept searching for something
+Dialogue: 0,0:23:22.33,0:23:26.37,Default,,0000,0000,0000,,The time that we’re now spending together
+Dialogue: 0,0:23:26.37,0:23:29.30,Default,,0000,0000,0000,,I learned that’s the answer
+Dialogue: 0,0:23:30.10,0:23:36.41,Default,,0000,0000,0000,,From now until forever...

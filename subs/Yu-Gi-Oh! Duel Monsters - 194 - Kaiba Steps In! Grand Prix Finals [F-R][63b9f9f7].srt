@@ -1,0 +1,296 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: 4kmedia  [http://www.crunchyroll.com/user/4kmedia]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 480
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,EquitanSans-Regular,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,25,1
+Style: note,Arial,20,&H0014F2F5,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Yu-Gi-Oh Yellow,Trebuchet MS,28,&H0000FFFF,&H0000FFFF,&H00232323,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+Style: Yu-Gi-Oh,Trebuchet MS,28,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:11.37,0:00:19.75,Default,,0000,0000,0000,,A light so bright that it can’t be hidden\NBreaks the silence and resurrects in this world
+Dialogue: 0,0:00:21.41,0:00:30.50,Default,,0000,0000,0000,,The dry land quakes violently\NSparks clash as we risk our lives
+Dialogue: 0,0:00:32.16,0:00:38.24,Default,,0000,0000,0000,,Let a miracle occur, just one more time
+Dialogue: 0,0:00:38.33,0:00:45.38,Default,,0000,0000,0000,,The power to regain the pages of memories I lost long ago
+Dialogue: 0,0:00:46.30,0:00:53.45,Default,,0000,0000,0000,,The trusting heart pierces the darkness\NSearch for the place where the soul rests
+Dialogue: 0,0:00:53.58,0:00:59.68,Default,,0000,0000,0000,,The sharp glint in my unblinking eye burns
+Dialogue: 0,0:00:59.98,0:01:07.13,Default,,0000,0000,0000,,Two souls - light and shadow\NTo the future shown in the crystal
+Dialogue: 0,0:01:07.32,0:01:13.74,Default,,0000,0000,0000,,Now moving  Overflowing in red  eyes
+Dialogue: 0,0:01:27.34,0:01:30.44,Default,,0000,0000,0000,,Talk about a false alarm.
+Dialogue: 0,0:01:30.44,0:01:33.64,Default,,0000,0000,0000,,Rebecca and Leon were having a great match.
+Dialogue: 0,0:01:33.64,0:01:36.64,Default,,0000,0000,0000,,But we arrived late because of Grandpa.
+Dialogue: 0,0:01:36.64,0:01:38.88,Default,,0000,0000,0000,,Rebecca fought well.
+Dialogue: 0,0:01:38.88,0:01:44.12,Default,,0000,0000,0000,,But Leon won and made the KC Grand Prix finals.
+Dialogue: 0,0:01:44.12,0:01:47.49,Default,,0000,0000,0000,,He’ll face Sieg Lloyd, the one who beat Jonouchi.
+Dialogue: 0,0:01:47.49,0:01:50.12,Default,,0000,0000,0000,,I wonder how they’ll duel?
+Dialogue: 0,0:01:50.96,0:01:56.96,Default,,0000,0000,0000,,Kaiba Steps In!\NGrand Prix Finals
+Dialogue: 0,0:02:26.57,0:02:33.40,Default,,0000,0000,0000,,Thru many victories, the two most powerful duelists have been chosen!
+Dialogue: 0,0:02:36.12,0:02:37.73,Default,,0000,0000,0000,,Introducing...
+Dialogue: 0,0:02:37.73,0:02:40.88,Default,,0000,0000,0000,,A Block winner, Sieg Lloyd!
+Dialogue: 0,0:02:44.23,0:02:47.65,Default,,0000,0000,0000,,B Block winner, Leon Wilson!
+Dialogue: 0,0:02:48.93,0:02:58.93,Default,,0000,0000,0000,,We’ll now begin the KC Grand Prix’s final match to determine who’s the greatest duelist!
+Dialogue: 0,0:03:31.84,0:03:33.32,Default,,0000,0000,0000,,What’s that?
+Dialogue: 0,0:03:33.32,0:03:34.21,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:38.56,0:03:40.42,Default,,0000,0000,0000,,Kaiba!
+Dialogue: 0,0:03:40.42,0:03:41.75,Default,,0000,0000,0000,,Kaiba!
+Dialogue: 0,0:03:41.75,0:03:42.96,Default,,0000,0000,0000,,Big brother!
+Dialogue: 0,0:03:49.12,0:03:51.65,Default,,0000,0000,0000,,You’re finally making your appearance.
+Dialogue: 0,0:03:57.35,0:03:59.32,Default,,0000,0000,0000,,Stop right there!
+Dialogue: 0,0:03:59.32,0:04:03.28,Default,,0000,0000,0000,,As this tournament’s sponsor, I’m canceling this match!
+Dialogue: 0,0:04:06.28,0:04:09.03,Default,,0000,0000,0000,,What’s Kaiba talking about?
+Dialogue: 0,0:04:09.03,0:04:10.23,Default,,0000,0000,0000,,What’s going on?
+Dialogue: 0,0:04:10.23,0:04:12.18,Default,,0000,0000,0000,,Canceled?
+Dialogue: 0,0:04:14.10,0:04:20.12,Default,,0000,0000,0000,,Leon Wilson wins by default, making him the KC Grand Prix’s first king!
+Dialogue: 0,0:04:20.50,0:04:22.47,Default,,0000,0000,0000,,Huh?  Me?
+Dialogue: 0,0:04:22.47,0:04:25.12,Default,,0000,0000,0000,,What’s going on, Mokuba?
+Dialogue: 0,0:04:25.12,0:04:26.90,Default,,0000,0000,0000,,I don’t know.
+Dialogue: 0,0:04:27.33,0:04:31.35,Default,,0000,0000,0000,,Please explain yourself, Mr. Kaiba.
+Dialogue: 0,0:04:31.35,0:04:33.84,Default,,0000,0000,0000,,I don’t need to explain.
+Dialogue: 0,0:04:33.84,0:04:38.10,Default,,0000,0000,0000,,Because you know why, Sieg Lloyd-
+Dialogue: 0,0:04:38.10,0:04:42.68,Default,,0000,0000,0000,,Or should I say Siegfried von Schroeder?
+Dialogue: 0,0:04:44.10,0:04:45.97,Default,,0000,0000,0000,,Schroeder?
+Dialogue: 0,0:04:45.97,0:04:48.39,Default,,0000,0000,0000,,Grandpa, isn’t Schroeder...
+Dialogue: 0,0:04:48.39,0:04:53.09,Default,,0000,0000,0000,,Yes.  Schroder Company is Europe’s #1 game entertainment company.
+Dialogue: 0,0:04:53.09,0:04:57.64,Default,,0000,0000,0000,,And top 5 in the world.
+Dialogue: 0,0:04:58.54,0:05:01.98,Default,,0000,0000,0000,,So it’s Kaiba Corporation’s rival?
+Dialogue: 0,0:05:02.97,0:05:10.86,Default,,0000,0000,0000,,Schroeder Company’s heir enters Kaiba Corporation’s tournament under a fake name.
+Dialogue: 0,0:05:10.86,0:05:16.23,Default,,0000,0000,0000,,At the same time, someone sabotages my amusement park.
+Dialogue: 0,0:05:19.31,0:05:20.64,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:05:25.70,0:05:30.94,Default,,0000,0000,0000,,I have a good idea what caused this, but I won’t bother investigating.
+Dialogue: 0,0:05:31.53,0:05:39.01,Default,,0000,0000,0000,,But Siegfried, it’s clear that you falsified your name and background!
+Dialogue: 0,0:05:39.75,0:05:47.12,Default,,0000,0000,0000,,That’s enough to ban you from the finals!
+Dialogue: 0,0:05:52.30,0:05:58.75,Default,,0000,0000,0000,,So Kaiba Corporation’s leader is a coward.
+Dialogue: 0,0:05:58.75,0:05:59.91,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:05:59.91,0:06:10.02,Default,,0000,0000,0000,,You’re scared that Schroeder Company’s next president will be the KC Grand Prix’s first champion.
+Dialogue: 0,0:06:10.02,0:06:15.95,Default,,0000,0000,0000,,Mr. Kaiba, our conversation is being broadcasted around the world.
+Dialogue: 0,0:06:15.97,0:06:18.97,Default,,0000,0000,0000,,You know what the fans will think?
+Dialogue: 0,0:06:18.97,0:06:27.59,Default,,0000,0000,0000,,Seto Kaiba is scared of Siegfried, so he disqualified him due to a minor infraction.
+Dialogue: 0,0:06:30.84,0:06:33.58,Default,,0000,0000,0000,,You misunderstand me.
+Dialogue: 0,0:06:33.58,0:06:35.64,Default,,0000,0000,0000,,I never said I’ll disqualify you.
+Dialogue: 0,0:06:36.54,0:06:42.58,Default,,0000,0000,0000,,I’ll prove that against me, your power is insignificant!
+Dialogue: 0,0:06:45.28,0:06:48.04,Default,,0000,0000,0000,,Kaiba vs Sieg?
+Dialogue: 0,0:06:48.04,0:06:49.96,Default,,0000,0000,0000,,This is unexpected.
+Dialogue: 0,0:06:51.25,0:06:53.40,Default,,0000,0000,0000,,You’ll take me on?
+Dialogue: 0,0:06:53.40,0:06:58.26,Default,,0000,0000,0000,,Isn’t this what you wanted, Siegfried?
+Dialogue: 0,0:06:58.26,0:07:00.37,Default,,0000,0000,0000,,Kaiba is dueling?
+Dialogue: 0,0:07:00.37,0:07:04.71,Default,,0000,0000,0000,,Of course!  There’s no way my brother wouldn’t duel!
+Dialogue: 0,0:07:04.71,0:07:06.10,Default,,0000,0000,0000,,Isono.
+Dialogue: 0,0:07:14.15,0:07:17.03,Default,,0000,0000,0000,,What’s wrong?  Scared?
+Dialogue: 0,0:07:17.03,0:07:20.86,Default,,0000,0000,0000,,Of course not.  I’m honored, Mr. Kaiba.
+Dialogue: 0,0:07:29.89,0:07:33.53,Default,,0000,0000,0000,,The winner chooses who goes first.
+Dialogue: 0,0:07:38.70,0:07:40.17,Default,,0000,0000,0000,,Tails.
+Dialogue: 0,0:07:40.17,0:07:41.92,Default,,0000,0000,0000,,Then I choose heads.
+Dialogue: 0,0:07:43.64,0:07:45.80,Default,,0000,0000,0000,,I win.
+Dialogue: 0,0:07:45.80,0:07:49.09,Default,,0000,0000,0000,,Fate loves me.
+Dialogue: 0,0:07:50.04,0:07:52.64,Default,,0000,0000,0000,,Fate?  It’s just a coin flip.
+Dialogue: 0,0:07:52.64,0:07:54.52,Default,,0000,0000,0000,,Choose who goes first.
+Dialogue: 0,0:07:54.52,0:07:56.29,Default,,0000,0000,0000,,I’ll go second.
+Dialogue: 0,0:07:56.29,0:07:57.52,Default,,0000,0000,0000,,Fine.
+Dialogue: 0,0:08:24.42,0:08:28.68,Default,,0000,0000,0000,,Crush him, big brother!
+Dialogue: 0,0:08:29.16,0:08:30.56,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:08:30.56,0:08:31.45,Default,,0000,0000,0000,,Leon!
+Dialogue: 0,0:08:31.45,0:08:36.32,Default,,0000,0000,0000,,I never thought this is how I’d end up dueling you.
+Dialogue: 0,0:08:36.32,0:08:40.30,Default,,0000,0000,0000,,But it’s your dream to duel Yugi, right?
+Dialogue: 0,0:08:40.30,0:08:41.90,Default,,0000,0000,0000,,Yeah…
+Dialogue: 0,0:08:43.23,0:08:45.56,Default,,0000,0000,0000,,Then don’t worry about it.
+Dialogue: 0,0:08:45.56,0:08:50.09,Default,,0000,0000,0000,,No matter how you got here, you earned the right to duel Yugi.
+Dialogue: 0,0:08:50.09,0:08:51.68,Default,,0000,0000,0000,,That’s right!
+Dialogue: 0,0:08:51.68,0:08:54.46,Default,,0000,0000,0000,,I wanted to duel Yugi too, you know!
+Dialogue: 0,0:08:54.46,0:08:56.34,Default,,0000,0000,0000,,S-Sorry.
+Dialogue: 0,0:08:56.34,0:09:00.46,Default,,0000,0000,0000,,Kaiba is as confident as ever.
+Dialogue: 0,0:09:00.46,0:09:03.80,Default,,0000,0000,0000,,But Sieg isn’t your everyday duelist.
+Dialogue: 0,0:09:04.94,0:09:06.24,Default,,0000,0000,0000,,You’re right.
+Dialogue: 0,0:09:07.06,0:09:11.18,Default,,0000,0000,0000,,Kaiba, as every duelist in the world watches...
+Dialogue: 0,0:09:11.18,0:09:17.60,Default,,0000,0000,0000,,...I’ll bury you and Kaiba Corporation forever, never to rise again.
+Dialogue: 0,0:09:17.60,0:09:22.05,Default,,0000,0000,0000,,Siegfried, you won’t get your way.
+Dialogue: 0,0:09:22.05,0:09:28.50,Default,,0000,0000,0000,,You’ll learn it’s foolish to challenge me.
+Dialogue: 0,0:09:29.34,0:09:30.46,Default,,0000,0000,0000,,Duel!
+Dialogue: 0,0:09:38.56,0:09:40.50,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:09:42.45,0:09:46.37,Default,,0000,0000,0000,,I summon X-Head Cannon in attack position!
+Dialogue: 0,0:09:47.00,0:09:50.98,Default,,0000,0000,0000,,I set two cards and end my turn.
+Dialogue: 0,0:09:50.98,0:09:53.32,Default,,0000,0000,0000,,My turn.  I draw.
+Dialogue: 0,0:09:53.32,0:09:57.82,Default,,0000,0000,0000,,Kaiba, the overture to one’s fate doesn’t always start in silence.
+Dialogue: 0,0:09:57.82,0:10:02.98,Default,,0000,0000,0000,,It may begin like a storm.
+Dialogue: 0,0:10:03.91,0:10:07.24,Default,,0000,0000,0000,,Such nonsense makes me sick.
+Dialogue: 0,0:10:07.24,0:10:09.00,Default,,0000,0000,0000,,Continue the duel!
+Dialogue: 0,0:10:09.00,0:10:10.46,Default,,0000,0000,0000,,Of course.
+Dialogue: 0,0:10:10.46,0:10:16.86,Default,,0000,0000,0000,,My beautiful war maidens are eager to send you to Valhalla.
+Dialogue: 0,0:10:16.86,0:10:21.00,Default,,0000,0000,0000,,I activate the spell card, Ride of the Valkyries from my hand.
+Dialogue: 0,0:10:21.00,0:10:24.97,Default,,0000,0000,0000,,It Special Summons all Valkyries in my hand!
+Dialogue: 0,0:10:24.97,0:10:26.14,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:10:26.14,0:10:32.14,Default,,0000,0000,0000,,Come out, Valkyrie Zweite, Valkyrie Erste and Valkyrie Dritte!
+Dialogue: 0,0:10:34.09,0:10:37.10,Default,,0000,0000,0000,,Valkyrie Zweite’s effect activates!
+Dialogue: 0,0:10:38.76,0:10:42.01,Default,,0000,0000,0000,,When it’s summoned, it destroys one of your monsters.
+Dialogue: 0,0:10:42.01,0:10:48.94,Default,,0000,0000,0000,,Then Valkyrie Erste’s effect removes one of your monsters in your graveyard from play.
+Dialogue: 0,0:10:48.94,0:10:53.56,Default,,0000,0000,0000,,And she can battle using that monster’s attack points this turn.
+Dialogue: 0,0:10:54.91,0:10:55.88,Default,,0000,0000,0000,,I’m not done!
+Dialogue: 0,0:10:55.88,0:10:58.43,Default,,0000,0000,0000,,Valkyrie Dritte’s effect activates!
+Dialogue: 0,0:10:59.04,0:11:04.37,Default,,0000,0000,0000,,It gains 100 attack points for every one of your monsters removed from play.
+Dialogue: 0,0:11:04.37,0:11:07.39,Default,,0000,0000,0000,,He already has three Valkyries!
+Dialogue: 0,0:11:07.39,0:11:10.07,Default,,0000,0000,0000,,Kaiba has no monsters to defend with.
+Dialogue: 0,0:11:10.07,0:11:14.32,Default,,0000,0000,0000,,If those three attack him directly, Kaiba will lose.
+Dialogue: 0,0:11:14.32,0:11:15.76,Default,,0000,0000,0000,,Big brother!
+Dialogue: 0,0:11:15.76,0:11:19.86,Default,,0000,0000,0000,,I didn’t expect to reach the finale before the overture ended.
+Dialogue: 0,0:11:19.86,0:11:21.44,Default,,0000,0000,0000,,Farewell, Kaiba.
+Dialogue: 0,0:11:21.44,0:11:22.95,Default,,0000,0000,0000,,Go to Valhalla!
+Dialogue: 0,0:11:22.95,0:11:27.03,Default,,0000,0000,0000,,First, Valkyrie Zweite attacks you directly!
+Dialogue: 0,0:11:44.14,0:11:46.65,Default,,0000,0000,0000,,I flip over my set card!
+Dialogue: 0,0:11:46.65,0:11:47.98,Default,,0000,0000,0000,,Negate Attack!
+Dialogue: 0,0:11:47.98,0:11:51.93,Default,,0000,0000,0000,,It negates your attack and ends the Battle Phase!
+Dialogue: 0,0:11:54.13,0:12:00.96,Default,,0000,0000,0000,,Nice!  Monsters summoned by Ride of the Valkyries return to the deck at the end of the turn.
+Dialogue: 0,0:12:02.03,0:12:04.77,Default,,0000,0000,0000,,That was a short overture.
+Dialogue: 0,0:12:04.77,0:12:06.40,Default,,0000,0000,0000,,C’mon!
+Dialogue: 0,0:12:06.40,0:12:09.33,Default,,0000,0000,0000,,Have those maidens retreat!
+Dialogue: 0,0:12:16.48,0:12:17.81,Default,,0000,0000,0000,,What’s that?
+Dialogue: 0,0:12:17.81,0:12:20.86,Default,,0000,0000,0000,,Kaiba, the overture has ended.
+Dialogue: 0,0:12:20.86,0:12:24.21,Default,,0000,0000,0000,,We’re now in the first movement.
+Dialogue: 0,0:12:24.21,0:12:27.68,Default,,0000,0000,0000,,Valkyrie Zweite, attacks him directly!
+Dialogue: 0,0:12:27.68,0:12:28.63,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:12:29.26,0:12:30.72,Default,,0000,0000,0000,,What’s going on?
+Dialogue: 0,0:12:30.72,0:12:34.21,Default,,0000,0000,0000,,The Valkyries should’ve returned to his deck!
+Dialogue: 0,0:12:34.21,0:12:35.32,Default,,0000,0000,0000,,Kaiba!
+Dialogue: 0,0:12:36.86,0:12:38.66,Default,,0000,0000,0000,,You skipped a turn!
+Dialogue: 0,0:12:40.28,0:12:45.09,Default,,0000,0000,0000,,Yes.  My Quick-Play Spell, Mischief of the Time Goddess’s effect.
+Dialogue: 0,0:12:45.09,0:12:50.17,Default,,0000,0000,0000,,I skip one turn, making it my Battle Phase again.
+Dialogue: 0,0:12:55.24,0:12:56.81,Default,,0000,0000,0000,,Big brother!
+Dialogue: 0,0:12:57.54,0:13:01.62,Default,,0000,0000,0000,,I flip over my set card, Magical Trick Mirror!
+Dialogue: 0,0:13:02.18,0:13:07.06,Default,,0000,0000,0000,,It lets me activate a spell card in your graveyard!
+Dialogue: 0,0:13:07.06,0:13:10.50,Default,,0000,0000,0000,,I activate Mischief of the Time Goddess!
+Dialogue: 0,0:13:10.50,0:13:11.67,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:13:14.60,0:13:16.04,Default,,0000,0000,0000,,Kaiba!
+Dialogue: 0,0:13:18.47,0:13:23.91,Default,,0000,0000,0000,,By skipping Sieg’s turn, it’s now Kaiba’s Battle Phase.
+Dialogue: 0,0:13:23.91,0:13:29.30,Default,,0000,0000,0000,,I have no monsters on my field, so I can’t attack during this Battle Phase.
+Dialogue: 0,0:13:29.30,0:13:34.02,Default,,0000,0000,0000,,But I can summon a new monster during my Main Phase.
+Dialogue: 0,0:13:34.02,0:13:37.44,Default,,0000,0000,0000,,I summon Z-Metal Tank in defense position!
+Dialogue: 0,0:13:39.79,0:13:44.92,Default,,0000,0000,0000,,And I Special Summon Clone Dragon from my hand in defense position!
+Dialogue: 0,0:13:47.10,0:13:53.04,Default,,0000,0000,0000,,I can Special Summon it when I successfully summon a monster.
+Dialogue: 0,0:13:53.04,0:13:56.31,Default,,0000,0000,0000,,It becomes a clone of the that monster!
+Dialogue: 0,0:13:59.91,0:14:01.85,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:14:04.28,0:14:09.22,Default,,0000,0000,0000,,Wow!  This duel’s only started, but it’s already a fierce battle!
+Dialogue: 0,0:14:09.22,0:14:12.99,Default,,0000,0000,0000,,But I think Kaiba’s on the losing end.
+Dialogue: 0,0:14:13.62,0:14:18.60,Default,,0000,0000,0000,,He still has three Valkyries on his field.
+Dialogue: 0,0:14:19.28,0:14:21.86,Default,,0000,0000,0000,,Don’t think you survived, Kaiba.
+Dialogue: 0,0:14:21.86,0:14:25.26,Default,,0000,0000,0000,,By skipping the End Phase of my first turn…
+Dialogue: 0,0:14:25.26,0:14:29.37,Default,,0000,0000,0000,,...my Valkyries can remain on my field instead of retreating.
+Dialogue: 0,0:14:29.37,0:14:32.98,Default,,0000,0000,0000,,It seems my war maidens don’t want to leave you.
+Dialogue: 0,0:14:33.84,0:14:37.59,Default,,0000,0000,0000,,How scary.  Just draw your card!
+Dialogue: 0,0:14:37.59,0:14:39.46,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:14:39.46,0:14:43.34,Default,,0000,0000,0000,,I activate Valkyrie’s Embrace from my hand!
+Dialogue: 0,0:14:43.75,0:14:47.85,Default,,0000,0000,0000,,And switch Valkyrie Dritte to defense position!
+Dialogue: 0,0:14:50.33,0:14:51.53,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:14:51.53,0:14:56.33,Default,,0000,0000,0000,,By switching a Valkyrie to defense position...
+Dialogue: 0,0:14:56.33,0:14:59.77,Default,,0000,0000,0000,,...Valkyrie’s Embrace remove one of your monsters from play!
+Dialogue: 0,0:15:01.70,0:15:09.91,Default,,0000,0000,0000,,Since another monster is removed from play, Valkyrie Dritte gains 100 attack points!
+Dialogue: 0,0:15:10.58,0:15:13.02,Default,,0000,0000,0000,,I’ll bury that fake!
+Dialogue: 0,0:15:13.02,0:15:16.99,Default,,0000,0000,0000,,Valkyrie Erste attacks Clone Dragon!
+Dialogue: 0,0:15:18.89,0:15:23.95,Default,,0000,0000,0000,,And Valkyrie Zweite attacks you directly!
+Dialogue: 0,0:15:24.99,0:15:26.44,Default,,0000,0000,0000,,Big brother!
+Dialogue: 0,0:15:30.60,0:15:32.21,Default,,0000,0000,0000,,Kaiba…
+Dialogue: 0,0:15:32.21,0:15:34.55,Default,,0000,0000,0000,,So this is all of Sieg’s skills.
+Dialogue: 0,0:15:34.55,0:15:37.05,Default,,0000,0000,0000,,No, he’s just getting started.
+Dialogue: 0,0:15:38.65,0:15:40.48,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:15:41.62,0:15:46.16,Default,,0000,0000,0000,,You don’t seem worried.  Or is it just an act?
+Dialogue: 0,0:15:46.16,0:15:51.13,Default,,0000,0000,0000,,I won’t react to each of your lame attacks.
+Dialogue: 0,0:15:51.13,0:15:55.57,Default,,0000,0000,0000,,I summon Pitch-Dark Dragon from my hand in defense position!
+Dialogue: 0,0:15:56.52,0:15:59.96,Default,,0000,0000,0000,,I set one card and end my turn.
+Dialogue: 0,0:16:01.43,0:16:04.04,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:16:04.04,0:16:09.57,Default,,0000,0000,0000,,I switch Valkyrie Dritte from defense to attack position!
+Dialogue: 0,0:16:09.57,0:16:13.84,Default,,0000,0000,0000,,Valkyrie Zweite attacks Pitch-Dark Dragon!
+Dialogue: 0,0:16:16.64,0:16:19.50,Default,,0000,0000,0000,,Kaiba lost another monster.
+Dialogue: 0,0:16:19.50,0:16:21.16,Default,,0000,0000,0000,,Will he be okay?
+Dialogue: 0,0:16:21.16,0:16:24.59,Default,,0000,0000,0000,,Knowing Kaiba, he must have a plan.
+Dialogue: 0,0:16:24.59,0:16:28.32,Default,,0000,0000,0000,,I flip over my set card, Flat Lv 4!
+Dialogue: 0,0:16:28.32,0:16:32.39,Default,,0000,0000,0000,,It activates when a monster is destroyed.
+Dialogue: 0,0:16:32.39,0:16:38.41,Default,,0000,0000,0000,,We both can Special Summon a Level 4 monster from our decks.
+Dialogue: 0,0:16:38.41,0:16:42.58,Default,,0000,0000,0000,,I Special Summon Y-Dragon Head in defense position!
+Dialogue: 0,0:16:43.34,0:16:49.01,Default,,0000,0000,0000,,I Special Summon Valkyrie Dritte in attack position.
+Dialogue: 0,0:16:49.01,0:16:54.22,Default,,0000,0000,0000,,Two monsters have been removed from play, so it gains 200 attack points.
+Dialogue: 0,0:16:54.22,0:16:58.52,Default,,0000,0000,0000,,Thanks for inviting another war maiden, Kaiba.
+Dialogue: 0,0:16:58.52,0:17:00.15,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:17:00.15,0:17:02.49,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:17:02.49,0:17:05.59,Default,,0000,0000,0000,,I activate Pot of Greed from my hand!
+Dialogue: 0,0:17:05.59,0:17:08.40,Default,,0000,0000,0000,,I draw two cards from my deck.
+Dialogue: 0,0:17:08.40,0:17:11.65,Default,,0000,0000,0000,,I activate Dimension Fusion from my hand.
+Dialogue: 0,0:17:11.65,0:17:14.47,Default,,0000,0000,0000,,By paying 2000 life points…
+Dialogue: 0,0:17:14.47,0:17:19.41,Default,,0000,0000,0000,,...we can Special Summon monsters that were removed from play!
+Dialogue: 0,0:17:19.41,0:17:21.08,Default,,0000,0000,0000,,What?  No way!
+Dialogue: 0,0:17:21.08,0:17:24.08,Default,,0000,0000,0000,,I see!  An X, Y, Z combo!
+Dialogue: 0,0:17:24.08,0:17:26.55,Default,,0000,0000,0000,,But it cost 2000 life points.
+Dialogue: 0,0:17:26.55,0:17:28.02,Default,,0000,0000,0000,,He paid too much.
+Dialogue: 0,0:17:28.02,0:17:32.19,Default,,0000,0000,0000,,I activate the Continuous Spell, Soul Absorption from my hand!
+Dialogue: 0,0:17:32.19,0:17:39.13,Default,,0000,0000,0000,,Every time a card is removed from play, I regain 500 life points.
+Dialogue: 0,0:17:41.01,0:17:47.82,Default,,0000,0000,0000,,I remove X-Head Cannon, Y-Dragon Head and Z-Metal Tank from play...
+Dialogue: 0,0:17:47.82,0:17:54.39,Default,,0000,0000,0000,,...to combine them and summon XYZ-Dragon Cannon!
+Dialogue: 0,0:17:56.88,0:17:58.36,Default,,0000,0000,0000,,Impressive.
+Dialogue: 0,0:17:58.36,0:18:05.90,Default,,0000,0000,0000,,He used XYZ-Dragon Cannon’s summoning requirements to minimize Dimension Fusion’s cost.
+Dialogue: 0,0:18:05.90,0:18:11.26,Default,,0000,0000,0000,,Kaiba can do this strategy because he knows everything about Duel Monsters.
+Dialogue: 0,0:18:12.08,0:18:13.93,Default,,0000,0000,0000,,Here I go, you fake duelist!
+Dialogue: 0,0:18:13.93,0:18:19.10,Default,,0000,0000,0000,,XYZ-Dragon Cannon attacks Valkyrie Dritte!
+Dialogue: 0,0:18:19.71,0:18:22.01,Default,,0000,0000,0000,,Hyper Destruction!
+Dialogue: 0,0:18:25.87,0:18:27.90,Default,,0000,0000,0000,,You did it, big brother!
+Dialogue: 0,0:18:27.90,0:18:31.17,Default,,0000,0000,0000,,Wow!  He made a comeback in just one turn!
+Dialogue: 0,0:18:31.17,0:18:33.58,Default,,0000,0000,0000,,That’s why he’s Kaiba!
+Dialogue: 0,0:18:34.74,0:18:37.14,Default,,0000,0000,0000,,That’s why he’s Kaiba...
+Dialogue: 0,0:18:37.91,0:18:40.00,Default,,0000,0000,0000,,That’s why he’s Seto Kaiba!
+Dialogue: 0,0:18:40.00,0:18:43.19,Default,,0000,0000,0000,,He’s revolutionizing game entertainment!
+Dialogue: 0,0:18:43.19,0:18:46.30,Default,,0000,0000,0000,,He truly is a genius.
+Dialogue: 0,0:18:57.39,0:19:01.84,Default,,0000,0000,0000,,I was just a step too late...
+Dialogue: 0,0:19:05.95,0:19:07.28,Default,,0000,0000,0000,,Kaiba...
+Dialogue: 0,0:19:09.22,0:19:12.15,Default,,0000,0000,0000,,Sieg’s expression has changed.
+Dialogue: 0,0:19:15.16,0:19:17.09,Default,,0000,0000,0000,,My turn.  I draw.
+Dialogue: 0,0:19:17.79,0:19:20.83,Default,,0000,0000,0000,,I activate Nibelung’s Treasure from my hand.
+Dialogue: 0,0:19:20.83,0:19:25.98,Default,,0000,0000,0000,,Jonouchi, that’s the card he used in your duel.
+Dialogue: 0,0:19:25.98,0:19:29.27,Default,,0000,0000,0000,,Yeah, it’s that annoying ring.
+Dialogue: 0,0:19:29.27,0:19:35.95,Default,,0000,0000,0000,,I take Nibelung’s Ring from my deck, place it on your field and equip it on XYZ-Dragon Cannon.
+Dialogue: 0,0:19:35.95,0:19:38.95,Default,,0000,0000,0000,,And I draw five cards.
+Dialogue: 0,0:19:38.95,0:19:47.05,Default,,0000,0000,0000,,And you no longer control the monster equipped with Nibelung’s Ring.
+Dialogue: 0,0:19:47.05,0:19:49.18,Default,,0000,0000,0000,,That’s not all.
+Dialogue: 0,0:19:49.18,0:19:52.34,Default,,0000,0000,0000,,Kaiba is forced to draw two cards next turn.
+Dialogue: 0,0:19:52.34,0:19:57.17,Default,,0000,0000,0000,,If he draws a monster card, he’ll have to send one to the graveyard.
+Dialogue: 0,0:19:57.17,0:20:03.62,Default,,0000,0000,0000,,I tribute Valkyrie Dritte to summon Fortune Chariot.
+Dialogue: 0,0:20:11.95,0:20:13.38,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:20:27.75,0:20:35.00,Default,,0000,0000,0000,,Once per turn, Fortune Chariot can equip on to a Valkyrie.
+Dialogue: 0,0:20:35.00,0:20:44.80,Default,,0000,0000,0000,,And by halving the equipped monster’s attack points, it can attack you directly.
+Dialogue: 0,0:20:46.26,0:20:47.22,Default,,0000,0000,0000,,Oh no...
+Dialogue: 0,0:20:47.22,0:20:51.65,Default,,0000,0000,0000,,Valkyrie Zweite attacks you directly!
+Dialogue: 0,0:20:57.04,0:20:58.26,Default,,0000,0000,0000,,Big brother!
+Dialogue: 0,0:21:06.47,0:21:07.47,Default,,0000,0000,0000,,Kaiba!
+Dialogue: 0,0:21:07.47,0:21:08.95,Default,,0000,0000,0000,,I’m not done.
+Dialogue: 0,0:21:08.95,0:21:12.53,Default,,0000,0000,0000,,I activate the Quick-Play Spell, Mystical Space Typhoon from my hand!
+Dialogue: 0,0:21:15.45,0:21:17.88,Default,,0000,0000,0000,,Soul Absorption is destroyed.
+Dialogue: 0,0:21:18.50,0:21:21.82,Default,,0000,0000,0000,,I set one card and end my turn.
+Dialogue: 0,0:21:21.82,0:21:26.26,Default,,0000,0000,0000,,Soul Absorption is destroyed, so you can’t regain life points.
+Dialogue: 0,0:21:26.26,0:21:32.92,Default,,0000,0000,0000,,And as long as I have Fortune Chariot, I can keep attacking you directly.
+Dialogue: 0,0:21:32.92,0:21:37.80,Default,,0000,0000,0000,,Kaiba, the Valkyries’ curse is just getting started.
+Dialogue: 0,0:21:53.60,0:22:08.22,Default,,0000,0000,0000,,Right now, we don’t need a map
+Dialogue: 0,0:22:08.38,0:22:23.94,Default,,0000,0000,0000,,The miracle that tore through the darkness is in my hand
+Dialogue: 0,0:22:24.66,0:22:29.78,Default,,0000,0000,0000,,Without a goal in mind
+Dialogue: 0,0:22:31.10,0:22:38.35,Default,,0000,0000,0000,,We just step towards our dream
+Dialogue: 0,0:22:38.74,0:22:43.99,Default,,0000,0000,0000,,EYE’S  As you sense it
+Dialogue: 0,0:22:44.18,0:22:52.46,Default,,0000,0000,0000,,Your eye will find it
+Dialogue: 0,0:22:52.82,0:22:58.27,Default,,0000,0000,0000,,Oh! EYE’S  What you wish for
+Dialogue: 0,0:22:59.06,0:23:06.41,Default,,0000,0000,0000,,Will touch your soul
+Dialogue: 0,0:23:06.60,0:23:09.67,Default,,0000,0000,0000,,In a duel
+Dialogue: 0,0:23:18.67,0:23:22.77,Default,,0000,0000,0000,,Sieg is the president of Kaiba’s rival company?
+Dialogue: 0,0:23:22.77,0:23:30.11,Default,,0000,0000,0000,,Kaiba took over for the finals, but Sieg’s Goddess Deck is powerful!
+Dialogue: 0,0:23:30.11,0:23:35.52,Default,,0000,0000,0000,,Due to the Valkyries’ attacks, Kaiba is in a pinch!
+Dialogue: 0,0:23:35.52,0:23:40.92,Default,,0000,0000,0000,,And Sieg is using the three Goddess combo that punished Jonouchi!
+Dialogue: 0,0:23:40.92,0:23:44.73,Default,,0000,0000,0000,,Next time on Yu-Gi-Oh!:\NValkyrie vs Blue-Eyes White Dragon
+Dialogue: 0,0:23:44.73,0:23:46.24,Default,,0000,0000,0000,,Duel, standby!
+Dialogue: 0,0:23:46.24,0:23:48.24,Default,,0000,0000,0000,,

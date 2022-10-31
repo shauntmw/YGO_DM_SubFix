@@ -1,0 +1,267 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: 4kmedia  [http://www.crunchyroll.com/user/4kmedia]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 480
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,EquitanSans-Regular,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,25,1
+Style: 5Ds,Arial Unicode MS,24,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0030,1
+Style: 5Ds song,Arial Unicode MS,24,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0015,1
+Style: Credits 2,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,300,300,0,0,1,2,2,2,0010,0010,0018,1
+Style: On screen text,Arial,20,&H0016E0E8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Yu-Gi-Oh Yellow,Trebuchet MS,28,&H0000FFFF,&H0000FFFF,&H00232323,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+Style: Yu-Gi-Oh,Trebuchet MS,28,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:15.00,0:00:20.87,Default,,0000,0000,0000,,Before I knew it, I abandoned happiness to survive
+Dialogue: 0,0:00:21.81,0:00:28.28,Default,,0000,0000,0000,,Lying to myself, I danced clinging on to illusions
+Dialogue: 0,0:00:29.06,0:00:34.76,Default,,0000,0000,0000,,At the edge of my vision when I close my eyes
+Dialogue: 0,0:00:35.36,0:00:40.93,Default,,0000,0000,0000,,I was searching for your smile
+Dialogue: 0,0:00:41.83,0:00:48.30,Default,,0000,0000,0000,,With our memories fading
+Dialogue: 0,0:00:48.84,0:00:55.38,Default,,0000,0000,0000,,We hold on to our dreams and run  Yeah
+Dialogue: 0,0:00:55.71,0:01:02.62,Default,,0000,0000,0000,,These feelings that I shut away in my heart
+Dialogue: 0,0:01:02.62,0:01:09.51,Default,,0000,0000,0000,,I’ll now grasp them again
+Dialogue: 0,0:01:29.73,0:01:33.43,Default,,0000,0000,0000,,Rebecca and Otogi challenge Valon to a duel.
+Dialogue: 0,0:01:33.43,0:01:38.16,Default,,0000,0000,0000,,But they’re no match for his Armor Deck, which is full of unknown abilities.
+Dialogue: 0,0:01:38.16,0:01:41.12,Default,,0000,0000,0000,,Is he targeting Jonouchi?
+Dialogue: 0,0:01:41.83,0:01:46.82,Default,,0000,0000,0000,,Meanwhile, Kaiba is flying to a Florida museum in his private jet.
+Dialogue: 0,0:01:46.82,0:01:52.69,Default,,0000,0000,0000,,When an aurora reappears in the sky, dark clouds are ahead.
+Dialogue: 0,0:01:53.96,0:01:59.97,Default,,0000,0000,0000,,Amelda’s Revenge\NDuel in the Sky
+Dialogue: 0,0:02:04.56,0:02:06.27,Default,,0000,0000,0000,,It’s nice and cold.
+Dialogue: 0,0:02:06.27,0:02:07.74,Default,,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:02:07.74,0:02:11.77,Default,,0000,0000,0000,,I’m fine.  The cold will numb the pain-
+Dialogue: 0,0:02:12.71,0:02:16.07,Default,,0000,0000,0000,,Don’t push yourself.  Let’s rest for a while.
+Dialogue: 0,0:02:16.07,0:02:17.91,Default,,0000,0000,0000,,Sorry, Yugi.
+Dialogue: 0,0:02:17.91,0:02:19.54,Default,,0000,0000,0000,,I know you’re in a hurry.
+Dialogue: 0,0:02:19.54,0:02:24.13,Default,,0000,0000,0000,,Don’t worry.  Jonouchi should be nearby.
+Dialogue: 0,0:02:40.43,0:02:43.93,Default,,0000,0000,0000,,Hey, Jonouchi.  You go first.
+Dialogue: 0,0:02:44.30,0:02:46.31,Default,,0000,0000,0000,,No, you first.
+Dialogue: 0,0:02:46.31,0:02:49.95,Default,,0000,0000,0000,,You said you weren’t scared of anything.
+Dialogue: 0,0:02:49.95,0:02:53.51,Default,,0000,0000,0000,,Except long, slimy stuff!
+Dialogue: 0,0:03:09.54,0:03:15.50,Default,,0000,0000,0000,,When Duel Monsters went on a rampage, auroras appeared worldwide.
+Dialogue: 0,0:03:22.97,0:03:24.01,Default,,0000,0000,0000,,Big brother?
+Dialogue: 0,0:03:24.38,0:03:26.01,Default,,0000,0000,0000,,What’s wrong, Captain?
+Dialogue: 0,0:03:27.07,0:03:29.48,Default,,0000,0000,0000,,Answer me, Captain!
+Dialogue: 0,0:03:29.48,0:03:30.96,Default,,0000,0000,0000,,I’ll go check!
+Dialogue: 0,0:03:41.68,0:03:43.90,Default,,0000,0000,0000,,That’s weird.  No one’s here.
+Dialogue: 0,0:03:44.35,0:03:45.26,Default,,0000,0000,0000,,Big brother...
+Dialogue: 0,0:03:46.19,0:03:47.80,Default,,0000,0000,0000,,What’s wrong, Kaiba?
+Dialogue: 0,0:03:47.80,0:03:49.62,Default,,0000,0000,0000,,Why are you panicking?
+Dialogue: 0,0:03:49.62,0:03:51.33,Default,,0000,0000,0000,,I know that voice!
+Dialogue: 0,0:03:51.33,0:03:52.12,Default,,0000,0000,0000,,That punk!
+Dialogue: 0,0:03:52.57,0:03:55.63,Default,,0000,0000,0000,,Seems you now understand your situation, Kaiba.
+Dialogue: 0,0:03:55.63,0:03:58.59,Default,,0000,0000,0000,,Amelda!  Where are you?  Show yourself!
+Dialogue: 0,0:03:58.59,0:04:00.39,Default,,0000,0000,0000,,Big brother!  The cockpit!
+Dialogue: 0,0:04:19.80,0:04:20.94,Default,,0000,0000,0000,,Big brother...
+Dialogue: 0,0:04:21.43,0:04:23.90,Default,,0000,0000,0000,,It’s on autopilot.
+Dialogue: 0,0:04:23.90,0:04:24.83,Default,,0000,0000,0000,,Kaiba.
+Dialogue: 0,0:04:27.33,0:04:30.04,Default,,0000,0000,0000,,I’m not there.  I’m over here.
+Dialogue: 0,0:04:30.62,0:04:32.16,Default,,0000,0000,0000,,He’s so annoying.
+Dialogue: 0,0:04:37.79,0:04:40.80,Default,,0000,0000,0000,,What are you doing?  I’m over here.
+Dialogue: 0,0:04:40.80,0:04:43.30,Default,,0000,0000,0000,,I’ll make you pay for this!
+Dialogue: 0,0:04:53.74,0:04:56.98,Default,,0000,0000,0000,,Nice to see you again, Seto Kaiba.
+Dialogue: 0,0:04:56.98,0:04:58.30,Default,,0000,0000,0000,,Amelda!
+Dialogue: 0,0:04:58.30,0:05:01.44,Default,,0000,0000,0000,,What did you do with the crew?
+Dialogue: 0,0:05:01.44,0:05:05.49,Default,,0000,0000,0000,,We don’t need extras on our stage.
+Dialogue: 0,0:05:05.49,0:05:08.49,Default,,0000,0000,0000,,They were never on board.
+Dialogue: 0,0:05:08.49,0:05:09.78,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:05:09.78,0:05:14.12,Default,,0000,0000,0000,,It was easy to do if you have the powers of Doma.
+Dialogue: 0,0:05:14.12,0:05:15.83,Default,,0000,0000,0000,,Now, Kaiba...
+Dialogue: 0,0:05:16.21,0:05:18.50,Default,,0000,0000,0000,,Let’s finish our duel.
+Dialogue: 0,0:05:20.59,0:05:23.46,Default,,0000,0000,0000,,Due to you, my brother...
+Dialogue: 0,0:05:23.85,0:05:26.13,Default,,0000,0000,0000,,Your company killed him!
+Dialogue: 0,0:05:27.56,0:05:29.10,Default,,0000,0000,0000,,Stop, Amelda!
+Dialogue: 0,0:05:29.10,0:05:32.89,Default,,0000,0000,0000,,It’s wrong for you and my brother to fight!
+Dialogue: 0,0:05:35.01,0:05:37.65,Default,,0000,0000,0000,,I told you that I’ll get my revenge.
+Dialogue: 0,0:05:37.65,0:05:38.98,Default,,0000,0000,0000,,Amelda...
+Dialogue: 0,0:05:39.63,0:05:45.37,Default,,0000,0000,0000,,No matter what your intentions, a duel picks a winner fairly.
+Dialogue: 0,0:05:45.37,0:05:47.73,Default,,0000,0000,0000,,The stronger one will win.
+Dialogue: 0,0:05:47.73,0:05:48.53,Default,,0000,0000,0000,,Big brother!
+Dialogue: 0,0:05:48.53,0:05:50.58,Default,,0000,0000,0000,,Please!  Don’t do this!
+Dialogue: 0,0:05:50.58,0:05:53.13,Default,,0000,0000,0000,,I accept your duel!
+Dialogue: 0,0:05:58.38,0:06:00.38,Default,,0000,0000,0000,,Good to hear.
+Dialogue: 0,0:06:00.38,0:06:05.53,Default,,0000,0000,0000,,Kaiba, I’ll offer your soul to Mirko’s grave!
+Dialogue: 0,0:06:10.79,0:06:12.22,Default,,0000,0000,0000,,Big brother...
+Dialogue: 0,0:06:13.89,0:06:15.19,Default,,0000,0000,0000,,Duel!
+Dialogue: 0,0:06:16.93,0:06:18.45,Default,,0000,0000,0000,,I’ll go first!
+Dialogue: 0,0:06:18.45,0:06:19.49,Default,,0000,0000,0000,,I draw!
+Dialogue: 0,0:06:19.85,0:06:23.71,Default,,0000,0000,0000,,I summon Science Soldier in defense position!
+Dialogue: 0,0:06:24.58,0:06:26.24,Default,,0000,0000,0000,,I end my turn!
+Dialogue: 0,0:06:26.24,0:06:28.20,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:06:28.67,0:06:32.73,Default,,0000,0000,0000,,I summon X-Head Cannon in attack position!
+Dialogue: 0,0:06:34.24,0:06:37.00,Default,,0000,0000,0000,,Attack Science Soldier!
+Dialogue: 0,0:06:43.46,0:06:48.97,Default,,0000,0000,0000,,Why do Amelda and my brother have to fight?
+Dialogue: 0,0:06:48.97,0:06:51.31,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:06:51.31,0:06:54.92,Default,,0000,0000,0000,,I summon Cyber Soldier of Darkworld in defense position.
+Dialogue: 0,0:06:55.88,0:07:00.48,Default,,0000,0000,0000,,I set a card and end my turn!
+Dialogue: 0,0:07:00.48,0:07:02.48,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:07:02.98,0:07:06.12,Default,,0000,0000,0000,,I summon Y-Dragon Head in attack position!
+Dialogue: 0,0:07:07.49,0:07:11.66,Default,,0000,0000,0000,,Y-Dragon Head attacks Cyber Soldier of Darkworld!
+Dialogue: 0,0:07:20.71,0:07:25.69,Default,,0000,0000,0000,,And X-Head Cannon attacks you directly!
+Dialogue: 0,0:07:37.46,0:07:41.14,Default,,0000,0000,0000,,I set a card and end my turn.
+Dialogue: 0,0:07:42.85,0:07:45.15,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:07:46.19,0:07:47.97,Default,,0000,0000,0000,,Impressive, Kaiba.
+Dialogue: 0,0:07:47.97,0:07:53.66,Default,,0000,0000,0000,,You already summoned two monsters and attacked me directly.
+Dialogue: 0,0:07:53.66,0:07:55.87,Default,,0000,0000,0000,,And there’s more to come, right?
+Dialogue: 0,0:07:55.87,0:07:59.11,Default,,0000,0000,0000,,If so, this room is too small.
+Dialogue: 0,0:07:59.11,0:08:01.62,Default,,0000,0000,0000,,Let’s fight somewhere more spacious.
+Dialogue: 0,0:08:01.62,0:08:05.59,Default,,0000,0000,0000,,Don’t tell me you drew that card!
+Dialogue: 0,0:08:08.81,0:08:10.09,Default,,0000,0000,0000,,Get back, Mokuba!
+Dialogue: 0,0:08:11.17,0:08:12.41,Default,,0000,0000,0000,,Get back!
+Dialogue: 0,0:08:14.18,0:08:17.05,Default,,0000,0000,0000,,I activate The Seal of Orichalcos!
+Dialogue: 0,0:09:02.39,0:09:03.77,Default,,0000,0000,0000,,You punk!
+Dialogue: 0,0:09:18.78,0:09:20.51,Default,,0000,0000,0000,,What’s this?
+Dialogue: 0,0:09:23.50,0:09:28.29,Default,,0000,0000,0000,,This dark card awakens dark souls.
+Dialogue: 0,0:09:28.29,0:09:33.54,Default,,0000,0000,0000,,I’ll show you the hell my brother and I lived through.
+Dialogue: 0,0:09:34.26,0:09:36.70,Default,,0000,0000,0000,,Amelda, you punk!
+Dialogue: 0,0:09:45.77,0:09:48.52,Default,,0000,0000,0000,,Big brother!  Amelda!
+Dialogue: 0,0:09:48.52,0:09:51.46,Default,,0000,0000,0000,,Where’d you go, big brother?
+Dialogue: 0,0:09:57.16,0:10:00.03,Default,,0000,0000,0000,,The plane’s flying down...  Can it be?
+Dialogue: 0,0:10:05.25,0:10:08.85,Default,,0000,0000,0000,,The autopilot is off!
+Dialogue: 0,0:10:12.17,0:10:14.69,Default,,0000,0000,0000,,No good!  It won’t fly up!
+Dialogue: 0,0:10:15.13,0:10:17.19,Default,,0000,0000,0000,,Right!  The control tower!
+Dialogue: 0,0:10:17.19,0:10:18.97,Default,,0000,0000,0000,,I’ll call the tower!
+Dialogue: 0,0:10:20.93,0:10:23.43,Default,,0000,0000,0000,,Please connect!
+Dialogue: 0,0:10:24.07,0:10:24.93,Default,,0000,0000,0000,,Please!
+Dialogue: 0,0:10:50.70,0:10:52.16,Default,,0000,0000,0000,,Where am I?
+Dialogue: 0,0:11:10.52,0:11:11.94,Default,,0000,0000,0000,,Hurry up.
+Dialogue: 0,0:11:11.94,0:11:12.63,Default,,0000,0000,0000,,Be careful.
+Dialogue: 0,0:11:12.63,0:11:13.82,Default,,0000,0000,0000,,Wait up!
+Dialogue: 0,0:11:23.26,0:11:24.63,Default,,0000,0000,0000,,I won’t be fooled.
+Dialogue: 0,0:11:24.63,0:11:29.71,Default,,0000,0000,0000,,Amelda is showing me this lame illusion.
+Dialogue: 0,0:11:32.37,0:11:36.05,Default,,0000,0000,0000,,Looks like he’s awake.
+Dialogue: 0,0:11:37.85,0:11:40.52,Default,,0000,0000,0000,,If you’re awake, leave.
+Dialogue: 0,0:11:40.52,0:11:43.02,Default,,0000,0000,0000,,This is our secret lair.
+Dialogue: 0,0:11:49.61,0:11:52.23,Default,,0000,0000,0000,,What’s that junk?
+Dialogue: 0,0:11:52.95,0:11:54.61,Default,,0000,0000,0000,,They’re not junk.
+Dialogue: 0,0:11:54.61,0:11:57.14,Default,,0000,0000,0000,,We picked them up around the city.
+Dialogue: 0,0:11:57.14,0:12:00.78,Default,,0000,0000,0000,,There’s still lots of useful things on the battlefield.
+Dialogue: 0,0:12:00.78,0:12:02.24,Default,,0000,0000,0000,,Dennis!
+Dialogue: 0,0:12:02.85,0:12:03.99,Default,,0000,0000,0000,,Battlefield...
+Dialogue: 0,0:12:09.91,0:12:11.54,Default,,0000,0000,0000,,Even those?
+Dialogue: 0,0:12:12.77,0:12:16.49,Default,,0000,0000,0000,,We give them to the soldiers protecting this city.
+Dialogue: 0,0:12:16.73,0:12:21.73,Default,,0000,0000,0000,,So that they’ll drive away the enemy and end the war quickly.
+Dialogue: 0,0:12:27.91,0:12:29.19,Default,,0000,0000,0000,,Chess?
+Dialogue: 0,0:12:29.19,0:12:31.27,Default,,0000,0000,0000,,You play chess?
+Dialogue: 0,0:12:32.53,0:12:34.66,Default,,0000,0000,0000,,What’s your name?
+Dialogue: 0,0:12:34.66,0:12:35.48,Default,,0000,0000,0000,,Ewan.
+Dialogue: 0,0:12:35.73,0:12:37.53,Default,,0000,0000,0000,,What are you doing, Ewan?
+Dialogue: 0,0:12:37.53,0:12:41.48,Default,,0000,0000,0000,,If you’re done eating, go to the city and get more stuff!
+Dialogue: 0,0:12:41.69,0:12:44.09,Default,,0000,0000,0000,,You gather the least out of us!
+Dialogue: 0,0:12:44.09,0:12:44.90,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:12:44.90,0:12:46.37,Default,,0000,0000,0000,,Just go.
+Dialogue: 0,0:12:54.90,0:12:58.53,Default,,0000,0000,0000,,I know this is only an illusion.
+Dialogue: 0,0:12:58.53,0:13:02.69,Default,,0000,0000,0000,,Amelda is trying to faze me.
+Dialogue: 0,0:13:03.84,0:13:04.75,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:13:28.71,0:13:30.60,Default,,0000,0000,0000,,What’s wrong?
+Dialogue: 0,0:13:36.81,0:13:42.93,Default,,0000,0000,0000,,Tony and Dennis lost their parents in the war.
+Dialogue: 0,0:13:42.93,0:13:48.27,Default,,0000,0000,0000,,But not just us.  Most of the kids in the city lost their parents.
+Dialogue: 0,0:13:48.80,0:13:54.01,Default,,0000,0000,0000,,But since I have Tony and Dennis, I don’t feel lonely.
+Dialogue: 0,0:13:55.49,0:13:59.99,Default,,0000,0000,0000,,Amelda, what are you trying to do to me?
+Dialogue: 0,0:13:59.99,0:14:02.13,Default,,0000,0000,0000,,You can play chess, right?
+Dialogue: 0,0:14:03.24,0:14:05.55,Default,,0000,0000,0000,,That was my chessboard.
+Dialogue: 0,0:14:06.15,0:14:08.28,Default,,0000,0000,0000,,Let’s play.
+Dialogue: 0,0:14:21.23,0:14:24.62,Default,,0000,0000,0000,,This big one’s king.  This is the queen.
+Dialogue: 0,0:14:25.19,0:14:28.29,Default,,0000,0000,0000,,Hmm...  I’ll move this here.
+Dialogue: 0,0:14:29.65,0:14:31.29,Default,,0000,0000,0000,,Stop it!
+Dialogue: 0,0:14:35.98,0:14:37.50,Default,,0000,0000,0000,,Checkmate.
+Dialogue: 0,0:14:38.11,0:14:39.65,Default,,0000,0000,0000,,Again?
+Dialogue: 0,0:14:39.65,0:14:41.67,Default,,0000,0000,0000,,You’re really tough!
+Dialogue: 0,0:14:43.90,0:14:45.43,Default,,0000,0000,0000,,It’s your turn.
+Dialogue: 0,0:14:48.32,0:14:49.81,Default,,0000,0000,0000,,Hurry up.
+Dialogue: 0,0:14:53.97,0:14:55.49,Default,,0000,0000,0000,,I knew it!
+Dialogue: 0,0:14:56.03,0:14:57.99,Default,,0000,0000,0000,,Then I’ll move this here!
+Dialogue: 0,0:15:08.13,0:15:10.57,Default,,0000,0000,0000,,That’s the church!
+Dialogue: 0,0:15:11.67,0:15:13.90,Default,,0000,0000,0000,,Tony!  Dennis!
+Dialogue: 0,0:15:29.66,0:15:31.65,Default,,0000,0000,0000,,Tony!  Dennis!
+Dialogue: 0,0:15:32.83,0:15:34.66,Default,,0000,0000,0000,,Stop!  It’s dangerous!
+Dialogue: 0,0:15:34.66,0:15:36.16,Default,,0000,0000,0000,,Tony!  Dennis!
+Dialogue: 0,0:15:36.65,0:15:38.10,Default,,0000,0000,0000,,Let me go!
+Dialogue: 0,0:15:38.10,0:15:39.16,Default,,0000,0000,0000,,Brother!
+Dialogue: 0,0:15:40.12,0:15:41.16,Default,,0000,0000,0000,,Mokuba!
+Dialogue: 0,0:16:09.82,0:16:11.92,Default,,0000,0000,0000,,This is an illusion!
+Dialogue: 0,0:16:11.92,0:16:14.10,Default,,0000,0000,0000,,I don’t believe in it, Amelda!
+Dialogue: 0,0:16:14.10,0:16:16.93,Default,,0000,0000,0000,,End this farce now!
+Dialogue: 0,0:16:20.46,0:16:21.93,Default,,0000,0000,0000,,Amelda!
+Dialogue: 0,0:16:36.95,0:16:38.61,Default,,0000,0000,0000,,Amelda!
+Dialogue: 0,0:16:42.71,0:16:43.97,Default,,0000,0000,0000,,Ewan.
+Dialogue: 0,0:16:45.20,0:16:47.20,Default,,0000,0000,0000,,Your illusion is lame!
+Dialogue: 0,0:16:47.20,0:16:50.68,Default,,0000,0000,0000,,It’s no illusion.  It really happened.
+Dialogue: 0,0:16:51.18,0:16:55.20,Default,,0000,0000,0000,,That child was shot by a tank and died.
+Dialogue: 0,0:16:55.55,0:16:56.65,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:16:56.65,0:16:59.77,Default,,0000,0000,0000,,That wasn’t unusual in this city.
+Dialogue: 0,0:16:59.77,0:17:02.71,Default,,0000,0000,0000,,My brother Mirko died too.
+Dialogue: 0,0:17:03.64,0:17:07.21,Default,,0000,0000,0000,,Let’s continue the game, Kaiba.
+Dialogue: 0,0:17:07.43,0:17:15.93,Default,,0000,0000,0000,,I used KC-1 Crayton and my trap card, Tank Corps to summon three Tokens.
+Dialogue: 0,0:17:15.93,0:17:18.46,Default,,0000,0000,0000,,And I attacked your Y-Dragon Head.
+Dialogue: 0,0:17:19.13,0:17:25.46,Default,,0000,0000,0000,,KC-1 Crayton gains 500 attack points per Token.
+Dialogue: 0,0:17:25.67,0:17:29.20,Default,,0000,0000,0000,,So you lose 2000 life points.
+Dialogue: 0,0:17:34.23,0:17:38.35,Default,,0000,0000,0000,,I set a card and end my turn!
+Dialogue: 0,0:17:38.92,0:17:41.25,Default,,0000,0000,0000,,Kaiba, it’s your turn.
+Dialogue: 0,0:18:03.23,0:18:04.60,Default,,0000,0000,0000,,My turn!
+Dialogue: 0,0:18:04.60,0:18:07.44,Default,,0000,0000,0000,,I activate the spell card, Monster Reborn!
+Dialogue: 0,0:18:08.01,0:18:10.45,Default,,0000,0000,0000,,I revive Y-Dragon Head!
+Dialogue: 0,0:18:11.41,0:18:14.95,Default,,0000,0000,0000,,And I summon Z-Metal Tank!
+Dialogue: 0,0:18:17.57,0:18:24.12,Default,,0000,0000,0000,,I combine X-Head Cannon, Y-Dragon Head and Z-Metal Tank!
+Dialogue: 0,0:18:36.89,0:18:40.17,Default,,0000,0000,0000,,I Special Summon XYZ-Dragon Cannon!
+Dialogue: 0,0:18:40.39,0:18:44.18,Default,,0000,0000,0000,,I activate XYZ-Dragon Cannon’s effect!
+Dialogue: 0,0:18:44.18,0:18:49.23,Default,,0000,0000,0000,,I discard a card from my hand to destroy a card on your field!
+Dialogue: 0,0:18:56.77,0:19:02.08,Default,,0000,0000,0000,,Since the Tokens are destroyed, KC-1 Crayton’s attack points decrease!
+Dialogue: 0,0:19:02.78,0:19:08.07,Default,,0000,0000,0000,,XYZ-Dragon Cannon attacks KC-1 Crayton!
+Dialogue: 0,0:19:08.39,0:19:13.17,Default,,0000,0000,0000,,Destroy it!  XYZ Hyper Cannon!
+Dialogue: 0,0:19:34.76,0:19:40.11,Default,,0000,0000,0000,,Kaiba, the anger and hatred you felt was throughout the battlefield.
+Dialogue: 0,0:19:40.11,0:19:42.89,Default,,0000,0000,0000,,That’s where we lived.
+Dialogue: 0,0:19:42.89,0:19:46.21,Default,,0000,0000,0000,,All I did was play my turn!
+Dialogue: 0,0:19:46.21,0:19:47.70,Default,,0000,0000,0000,,This is a duel!
+Dialogue: 0,0:19:47.70,0:19:51.22,Default,,0000,0000,0000,,For me, it was reality.
+Dialogue: 0,0:19:52.41,0:20:00.02,Default,,0000,0000,0000,,On the battlefield, I prayed for a world free of weapons.
+Dialogue: 0,0:20:00.23,0:20:04.12,Default,,0000,0000,0000,,For a peaceful world without war.
+Dialogue: 0,0:20:04.71,0:20:07.13,Default,,0000,0000,0000,,But that’s impossible.
+Dialogue: 0,0:20:07.13,0:20:11.64,Default,,0000,0000,0000,,There will always be people like Gozaburo Kaiba.
+Dialogue: 0,0:20:11.64,0:20:14.80,Default,,0000,0000,0000,,From now and forever!
+Dialogue: 0,0:20:15.35,0:20:19.69,Default,,0000,0000,0000,,There’ll always be weapons.  People won’t stop having wars.
+Dialogue: 0,0:20:19.69,0:20:23.32,Default,,0000,0000,0000,,In that case, I’ll get rid of the world!
+Dialogue: 0,0:20:23.32,0:20:27.64,Default,,0000,0000,0000,,And rebuild a world without war from scratch!
+Dialogue: 0,0:20:27.64,0:20:30.15,Default,,0000,0000,0000,,That’s what I realized-
+Dialogue: 0,0:20:30.15,0:20:33.99,Default,,0000,0000,0000,,Actually, Doma made me realize!
+Dialogue: 0,0:20:33.99,0:20:38.07,Default,,0000,0000,0000,,That I need your soul to achieve this world!
+Dialogue: 0,0:20:45.24,0:20:46.51,Default,,0000,0000,0000,,Mokuba!
+Dialogue: 0,0:20:57.38,0:20:58.14,Default,,0000,0000,0000,,Oh yeah!
+Dialogue: 0,0:21:07.28,0:21:08.43,Default,,0000,0000,0000,,Mokuba!
+Dialogue: 0,0:21:08.43,0:21:09.60,Default,,0000,0000,0000,,Kaiba!
+Dialogue: 0,0:21:09.60,0:21:11.76,Default,,0000,0000,0000,,The match isn’t over yet!
+Dialogue: 0,0:21:12.99,0:21:17.17,Default,,0000,0000,0000,,I’ll play my special card next turn to end you.
+Dialogue: 0,0:21:17.17,0:21:22.40,Default,,0000,0000,0000,,And I’ll steal your soul to return this world to nothing!
+Dialogue: 0,0:21:33.39,0:21:34.88,Default,,0000,0000,0000,,My turn!
+Dialogue: 0,0:21:34.88,0:21:36.15,Default,,0000,0000,0000,,I draw!
+Dialogue: 0,0:21:53.05,0:22:01.96,Default,,0000,0000,0000,,The streets flow by, colored in red
+Dialogue: 0,0:22:02.46,0:22:10.35,Default,,0000,0000,0000,,If you notice your pain, it changes to joy
+Dialogue: 0,0:22:12.03,0:22:21.46,Default,,0000,0000,0000,,People learn of friendship every time they wipe their tears
+Dialogue: 0,0:22:22.07,0:22:30.98,Default,,0000,0000,0000,,With the warm strength you gave me, I’ll change them into kindness
+Dialogue: 0,0:22:31.55,0:22:40.01,Default,,0000,0000,0000,,My overflowing emotions don’t stop
+Dialogue: 0,0:22:40.79,0:22:45.52,Default,,0000,0000,0000,,I’ll live feeling them
+Dialogue: 0,0:22:46.13,0:22:50.70,Default,,0000,0000,0000,,For me to be me
+Dialogue: 0,0:22:50.70,0:22:59.16,Default,,0000,0000,0000,,Overflowing friendship heals me
+Dialogue: 0,0:22:59.84,0:23:04.80,Default,,0000,0000,0000,,Our chance meeting was real
+Dialogue: 0,0:23:05.32,0:23:14.53,Default,,0000,0000,0000,,We’ll both understand that someday
+Dialogue: 0,0:23:19.45,0:23:25.88,Default,,0000,0000,0000,,Due to Amelda’s attack, Kaiba’s plane is out of control and losing altitude.
+Dialogue: 0,0:23:25.88,0:23:29.04,Default,,0000,0000,0000,,Mokuba can’t regain control on his own!
+Dialogue: 0,0:23:29.04,0:23:34.82,Default,,0000,0000,0000,,But Kaiba can’t escape from the Seal unless he defeats Amelda in a duel.
+Dialogue: 0,0:23:34.82,0:23:38.31,Default,,0000,0000,0000,,And Amelda is about to summon his special card!
+Dialogue: 0,0:23:38.31,0:23:40.77,Default,,0000,0000,0000,,That monster is...!
+Dialogue: 0,0:23:40.77,0:23:43.78,Default,,0000,0000,0000,,Next time on Yu-Gi-Oh!:\NAir Fortress Ziggurat
+Dialogue: 0,0:23:43.78,0:23:45.44,Default,,0000,0000,0000,,Duel, standby!

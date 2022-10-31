@@ -1,0 +1,387 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: 4kmedia  [http://www.crunchyroll.com/user/4kmedia]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 480
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,EquitanSans-Regular,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,25,1
+Style: 5Ds,Trebuchet MS,24,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0030,1
+Style: 5Ds song,Trebuchet MS,24,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0015,1
+Style: Yu-Gi-Oh Yellow,Trebuchet MS,28,&H0000FFFF,&H0000FFFF,&H00232323,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+Style: Yu-Gi-Oh,Trebuchet MS,28,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:10.07,0:00:15.95,Default,,0000,0000,0000,,Full energy is troubled because there’s no place to go
+Dialogue: 0,0:00:16.37,0:00:22.50,Default,,0000,0000,0000,,A slight shake destroys boredom
+Dialogue: 0,0:00:22.50,0:00:28.59,Default,,0000,0000,0000,,I Ride, On the White Line  OH, OH, OH
+Dialogue: 0,0:00:28.59,0:00:34.47,Default,,0000,0000,0000,,Sit Down  At the place I trust  OH, OH, OH
+Dialogue: 0,0:00:34.47,0:00:37.76,Default,,0000,0000,0000,,We can go even if we’re lost
+Dialogue: 0,0:00:37.76,0:00:43.85,Default,,0000,0000,0000,,Everyone receives freedom and passion
+Dialogue: 0,0:00:43.85,0:00:50.02,Default,,0000,0000,0000,,We were born to shine, and our journey continues
+Dialogue: 0,0:00:50.02,0:00:56.28,Default,,0000,0000,0000,,Your soul is the key that supports our uncertain days
+Dialogue: 0,0:00:56.28,0:01:02.20,Default,,0000,0000,0000,,The best growth creates an unstoppable WILD DRIVE
+Dialogue: 0,0:01:02.20,0:01:08.46,Default,,0000,0000,0000,,We still quietly knock on the door
+Dialogue: 0,0:01:17.99,0:01:23.89,Default,,0000,0000,0000,,I take over Kaiba’s duel, and Noa’s Spirit Monsters attack me one after another.
+Dialogue: 0,0:01:23.89,0:01:26.69,Default,,0000,0000,0000,,If I let my guard down, I’ll lose instantly.
+Dialogue: 0,0:01:26.69,0:01:31.40,Default,,0000,0000,0000,,I used Cyber Jar to make a comeback, but Noa’s Deck Master’s ability stopped it.
+Dialogue: 0,0:01:31.40,0:01:34.78,Default,,0000,0000,0000,,The difference in our life points keeps growing.
+Dialogue: 0,0:01:34.78,0:01:37.36,Default,,0000,0000,0000,,But I knew I’d be at a disadvantage.
+Dialogue: 0,0:01:37.36,0:01:40.60,Default,,0000,0000,0000,,I can’t afford to lose this duel!
+Dialogue: 0,0:01:41.70,0:01:47.71,Default,,0000,0000,0000,,10000 Life Points vs 100!!
+Dialogue: 0,0:01:51.04,0:01:52.96,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:01:52.96,0:01:54.92,Default,,0000,0000,0000,,It’s over, Yugi!
+Dialogue: 0,0:01:55.57,0:01:57.59,Default,,0000,0000,0000,,I activate my trap card!
+Dialogue: 0,0:02:03.10,0:02:04.85,Default,,0000,0000,0000,,I won.
+Dialogue: 0,0:02:04.85,0:02:07.31,Default,,0000,0000,0000,,I totally won!
+Dialogue: 0,0:02:07.31,0:02:08.41,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:02:08.41,0:02:09.27,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:02:14.41,0:02:15.69,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:02:17.07,0:02:18.91,Default,,0000,0000,0000,,What’s wrong, Noa?
+Dialogue: 0,0:02:18.91,0:02:20.47,Default,,0000,0000,0000,,I’m still alive.
+Dialogue: 0,0:02:20.47,0:02:23.89,Default,,0000,0000,0000,,Impossible!  I pulverized Kuriboh!
+Dialogue: 0,0:02:23.89,0:02:26.03,Default,,0000,0000,0000,,Look at my field.
+Dialogue: 0,0:02:26.62,0:02:28.43,Default,,0000,0000,0000,,A trap card!
+Dialogue: 0,0:02:28.43,0:02:32.25,Default,,0000,0000,0000,,That’s right.  Nutrient Z!
+Dialogue: 0,0:02:32.25,0:02:41.17,Default,,0000,0000,0000,,When I take at least 2000 points of damage, I gain 4000 life points first.
+Dialogue: 0,0:02:41.17,0:02:46.53,Default,,0000,0000,0000,,So even after taking damage, my life points increase to 1800.
+Dialogue: 0,0:02:48.11,0:02:49.56,Default,,0000,0000,0000,,Too bad.
+Dialogue: 0,0:02:49.56,0:02:52.40,Default,,0000,0000,0000,,Your prediction was wrong!
+Dialogue: 0,0:02:57.71,0:03:04.37,Default,,0000,0000,0000,,But by surviving, you will witness a horrifying reality.
+Dialogue: 0,0:03:04.37,0:03:05.49,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:03:05.49,0:03:10.16,Default,,0000,0000,0000,,I still dealt you damage during the battle.
+Dialogue: 0,0:03:10.16,0:03:13.85,Default,,0000,0000,0000,,Therefore, my Deck Master’s ability activates.
+Dialogue: 0,0:03:13.85,0:03:15.42,Default,,0000,0000,0000,,I regain life points.
+Dialogue: 0,0:03:15.42,0:03:20.03,Default,,0000,0000,0000,,I activate the Quick-Play Spell, Sebek’s Blessing.
+Dialogue: 0,0:03:20.03,0:03:23.55,Default,,0000,0000,0000,,When my monster attacks you directly...
+Dialogue: 0,0:03:23.55,0:03:27.73,Default,,0000,0000,0000,,...I gain life points equal to the damage you took.
+Dialogue: 0,0:03:28.40,0:03:31.83,Default,,0000,0000,0000,,Now return, Yamata Dragon!
+Dialogue: 0,0:03:35.33,0:03:38.36,Default,,0000,0000,0000,,Spring of Rebirth’s effect activates!
+Dialogue: 0,0:03:41.25,0:03:42.74,Default,,0000,0000,0000,,How’s that, Yugi?
+Dialogue: 0,0:03:42.74,0:03:45.15,Default,,0000,0000,0000,,11,000 life points?
+Dialogue: 0,0:03:45.15,0:03:48.20,Default,,0000,0000,0000,,How can he erase so many life points?
+Dialogue: 0,0:03:50.71,0:03:54.98,Default,,0000,0000,0000,,Kaiba, Mokuba, Otogi...
+Dialogue: 0,0:03:54.98,0:03:57.96,Default,,0000,0000,0000,,I vowed to carry on their bond.
+Dialogue: 0,0:03:58.38,0:04:00.88,Default,,0000,0000,0000,,I can’t afford to lose.
+Dialogue: 0,0:04:00.88,0:04:02.88,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:04:03.25,0:04:07.81,Default,,0000,0000,0000,,I summon Alpha The Magnet Warrior in attack position!
+Dialogue: 0,0:04:07.81,0:04:10.06,Default,,0000,0000,0000,,Attack Noa directly!
+Dialogue: 0,0:04:10.40,0:04:12.06,Default,,0000,0000,0000,,Magnet Sword!
+Dialogue: 0,0:04:14.85,0:04:18.85,Default,,0000,0000,0000,,That weak attack doesn’t hurt at all.
+Dialogue: 0,0:04:20.57,0:04:21.90,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:04:21.90,0:04:23.49,Default,,0000,0000,0000,,My turn.
+Dialogue: 0,0:04:23.49,0:04:29.08,Default,,0000,0000,0000,,But before that, Yugi, I’ll further your countdown to despair!
+Dialogue: 0,0:04:34.37,0:04:36.29,Default,,0000,0000,0000,,Honda!
+Dialogue: 0,0:04:36.77,0:04:38.19,Default,,0000,0000,0000,,Honda!
+Dialogue: 0,0:04:38.19,0:04:40.00,Default,,0000,0000,0000,,Noa!  How dare you!
+Dialogue: 0,0:04:40.00,0:04:45.22,Default,,0000,0000,0000,,Every time it’s my turn, you lose a friend.
+Dialogue: 0,0:04:45.22,0:04:48.13,Default,,0000,0000,0000,,What you’re doing is pointless!
+Dialogue: 0,0:04:48.13,0:04:51.64,Default,,0000,0000,0000,,We still believe in Yugi!
+Dialogue: 0,0:04:51.64,0:04:53.45,Default,,0000,0000,0000,,Don’t worry.
+Dialogue: 0,0:04:53.45,0:04:57.14,Default,,0000,0000,0000,,I’ll let you watch your sister’s demise.
+Dialogue: 0,0:04:58.88,0:04:59.98,Default,,0000,0000,0000,,Brother...
+Dialogue: 0,0:04:59.98,0:05:01.53,Default,,0000,0000,0000,,Stop this, Noa!
+Dialogue: 0,0:05:01.53,0:05:04.45,Default,,0000,0000,0000,,Saving them is simple.
+Dialogue: 0,0:05:04.45,0:05:07.01,Default,,0000,0000,0000,,Just defeat me.
+Dialogue: 0,0:05:07.01,0:05:08.35,Default,,0000,0000,0000,,Easy, right?
+Dialogue: 0,0:05:08.35,0:05:10.87,Default,,0000,0000,0000,,Try it, Yugi!
+Dialogue: 0,0:05:10.87,0:05:13.04,Default,,0000,0000,0000,,Try it, Yugi!
+Dialogue: 0,0:05:14.50,0:05:17.07,Default,,0000,0000,0000,,My turn.  I draw.
+Dialogue: 0,0:05:18.65,0:05:22.05,Default,,0000,0000,0000,,I summon the Spirit Monster, Inaba White Rabbit.
+Dialogue: 0,0:05:22.95,0:05:29.05,Default,,0000,0000,0000,,This card can attack you directly, even if you have monsters on your field.
+Dialogue: 0,0:05:29.05,0:05:30.47,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:05:30.47,0:05:33.06,Default,,0000,0000,0000,,Attack Yugi directly!
+Dialogue: 0,0:05:42.82,0:05:45.47,Default,,0000,0000,0000,,Return, White Rabbit!
+Dialogue: 0,0:05:45.47,0:05:53.24,Default,,0000,0000,0000,,Due to my Deck Master’s ability and Spring of Rebirth, I gain life points again.
+Dialogue: 0,0:05:53.24,0:05:55.46,Default,,0000,0000,0000,,Noa gained life points again.
+Dialogue: 0,0:05:55.46,0:05:56.73,Default,,0000,0000,0000,,Brother...
+Dialogue: 0,0:05:56.73,0:05:58.47,Default,,0000,0000,0000,,It’s fine, Shizuka.
+Dialogue: 0,0:05:58.47,0:05:59.96,Default,,0000,0000,0000,,Yugi will win.
+Dialogue: 0,0:06:00.91,0:06:02.44,Default,,0000,0000,0000,,My turn.
+Dialogue: 0,0:06:02.44,0:06:04.30,Default,,0000,0000,0000,,I set a card.
+Dialogue: 0,0:06:04.30,0:06:09.55,Default,,0000,0000,0000,,Then I tribute Alpha The Magnet Warrior.
+Dialogue: 0,0:06:09.55,0:06:12.47,Default,,0000,0000,0000,,To summon Dark Magician Girl!
+Dialogue: 0,0:06:15.73,0:06:23.16,Default,,0000,0000,0000,,She gains 300 attack points for every Dark Magician in my graveyard.
+Dialogue: 0,0:06:24.15,0:06:27.32,Default,,0000,0000,0000,,Go, Dark Magician Girl!
+Dialogue: 0,0:06:27.32,0:06:29.36,Default,,0000,0000,0000,,Attack Noa directly!
+Dialogue: 0,0:06:32.80,0:06:34.80,Default,,0000,0000,0000,,What’s wrong, Yugi?
+Dialogue: 0,0:06:34.80,0:06:38.62,Default,,0000,0000,0000,,That’s not good enough to save your friend’s sister.
+Dialogue: 0,0:06:38.62,0:06:40.79,Default,,0000,0000,0000,,What’ll you try next?
+Dialogue: 0,0:06:40.79,0:06:44.05,Default,,0000,0000,0000,,I... end my turn.
+Dialogue: 0,0:06:44.41,0:06:45.89,Default,,0000,0000,0000,,Brother...
+Dialogue: 0,0:06:49.98,0:06:53.89,Default,,0000,0000,0000,,My turn!  Countdown to despair!
+Dialogue: 0,0:06:55.49,0:06:57.52,Default,,0000,0000,0000,,Brother!  Watch out!
+Dialogue: 0,0:07:00.06,0:07:01.52,Default,,0000,0000,0000,,Shizuka!
+Dialogue: 0,0:07:01.52,0:07:03.23,Default,,0000,0000,0000,,Shizuka!
+Dialogue: 0,0:07:03.23,0:07:05.19,Default,,0000,0000,0000,,Brother...
+Dialogue: 0,0:07:05.61,0:07:06.65,Default,,0000,0000,0000,,Shizuka!
+Dialogue: 0,0:07:11.69,0:07:13.77,Default,,0000,0000,0000,,Shizuka!
+Dialogue: 0,0:07:14.16,0:07:17.11,Default,,0000,0000,0000,,I’m sorry, Jonouchi.
+Dialogue: 0,0:07:17.59,0:07:21.25,Default,,0000,0000,0000,,Yugi, revel in your helplessness.
+Dialogue: 0,0:07:21.75,0:07:22.96,Default,,0000,0000,0000,,My turn.
+Dialogue: 0,0:07:22.96,0:07:26.88,Default,,0000,0000,0000,,I summon the Spirit Monster, Inaba White Rabbit!
+Dialogue: 0,0:07:27.75,0:07:31.34,Default,,0000,0000,0000,,Noa, I was waiting for this moment.
+Dialogue: 0,0:07:31.34,0:07:35.83,Default,,0000,0000,0000,,I activate the trap card, Dark Renewal!
+Dialogue: 0,0:07:36.26,0:07:37.71,Default,,0000,0000,0000,,A trap?
+Dialogue: 0,0:07:37.71,0:07:43.64,Default,,0000,0000,0000,,Dark Renewal activates when you summon a monster.
+Dialogue: 0,0:07:43.64,0:07:48.60,Default,,0000,0000,0000,,In exchange for the monster you summoned and one of my monsters...
+Dialogue: 0,0:07:48.60,0:07:51.65,Default,,0000,0000,0000,,...I can resurrect a Spellcaster from the graveyard.
+Dialogue: 0,0:07:52.18,0:07:53.07,Default,,0000,0000,0000,,So, Noa...
+Dialogue: 0,0:07:53.07,0:07:56.02,Default,,0000,0000,0000,,I tribute your Inaba White Rabbit!
+Dialogue: 0,0:07:56.02,0:07:56.74,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:07:57.11,0:07:59.66,Default,,0000,0000,0000,,And my defending monster!
+Dialogue: 0,0:07:59.66,0:08:02.21,Default,,0000,0000,0000,,The monster I’ll resurrect is...
+Dialogue: 0,0:08:03.92,0:08:06.35,Default,,0000,0000,0000,,Come out, Dark Magician!
+Dialogue: 0,0:08:13.55,0:08:15.26,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:08:15.26,0:08:22.27,Default,,0000,0000,0000,,Since your Spirit Monster doesn’t return to your hand, your life restoration combo doesn’t activate!
+Dialogue: 0,0:08:22.91,0:08:27.40,Default,,0000,0000,0000,,I set a card and end my turn.
+Dialogue: 0,0:08:27.87,0:08:30.35,Default,,0000,0000,0000,,Are you sure, Noa?
+Dialogue: 0,0:08:30.35,0:08:32.36,Default,,0000,0000,0000,,Your field is empty.
+Dialogue: 0,0:08:33.64,0:08:35.29,Default,,0000,0000,0000,,Just wait, everyone.
+Dialogue: 0,0:08:35.29,0:08:37.28,Default,,0000,0000,0000,,I’ll restore you to normal.
+Dialogue: 0,0:08:37.67,0:08:38.45,Default,,0000,0000,0000,,I draw!
+Dialogue: 0,0:08:40.40,0:08:45.63,Default,,0000,0000,0000,,Noa, I’ll show you the true power of my deck!
+Dialogue: 0,0:08:45.63,0:08:47.84,Default,,0000,0000,0000,,I activate my spell card!
+Dialogue: 0,0:08:48.79,0:08:51.30,Default,,0000,0000,0000,,Black Magic Ritual!
+Dialogue: 0,0:08:55.34,0:09:01.81,Default,,0000,0000,0000,,I tribute my Level 8 Valkyrion the Magna Warrior from my hand.
+Dialogue: 0,0:09:04.88,0:09:08.31,Default,,0000,0000,0000,,My tribute fuels the ritual!
+Dialogue: 0,0:09:08.31,0:09:12.23,Default,,0000,0000,0000,,Appear from the chaos of darkness!
+Dialogue: 0,0:09:12.74,0:09:15.87,Default,,0000,0000,0000,,Magician of Black Chaos!
+Dialogue: 0,0:09:18.24,0:09:19.41,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:09:28.23,0:09:35.22,Default,,0000,0000,0000,,Dark Magician, Dark Magician Girl and Magician of Black Chaos!
+Dialogue: 0,0:09:35.90,0:09:39.14,Default,,0000,0000,0000,,The Three Musketeers of black magic are here!
+Dialogue: 0,0:09:39.14,0:09:41.09,Default,,0000,0000,0000,,Three Magicians!
+Dialogue: 0,0:09:41.09,0:09:44.50,Default,,0000,0000,0000,,7300 total attack points!
+Dialogue: 0,0:09:44.50,0:09:46.10,Default,,0000,0000,0000,,He can turn the tables!
+Dialogue: 0,0:09:46.10,0:09:48.91,Default,,0000,0000,0000,,Go!  Three Musketeers of dark magic!
+Dialogue: 0,0:09:48.91,0:09:51.13,Default,,0000,0000,0000,,Attack Noa directly!
+Dialogue: 0,0:09:52.78,0:09:56.07,Default,,0000,0000,0000,,Take this!  Triple Black Magic!
+Dialogue: 0,0:10:17.22,0:10:20.30,Default,,0000,0000,0000,,Just kidding.  Not good enough.
+Dialogue: 0,0:10:20.30,0:10:25.09,Default,,0000,0000,0000,,I activate the trap card, Chaos Barrier Field!
+Dialogue: 0,0:10:26.14,0:10:27.27,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:10:27.27,0:10:32.75,Default,,0000,0000,0000,,This trap card activates when your monster attacks.
+Dialogue: 0,0:10:32.75,0:10:40.88,Default,,0000,0000,0000,,Your strongest and weakest monsters must battle, and the Battle Phase ends.
+Dialogue: 0,0:10:41.17,0:10:43.91,Default,,0000,0000,0000,,My barrier will be...
+Dialogue: 0,0:10:44.73,0:10:46.81,Default,,0000,0000,0000,,Dark Magician Girl.
+Dialogue: 0,0:10:46.81,0:10:50.31,Default,,0000,0000,0000,,Take Magician of Black Chaos’s attack!
+Dialogue: 0,0:10:50.67,0:10:52.34,Default,,0000,0000,0000,,Magician Girl!
+Dialogue: 0,0:10:52.34,0:10:55.39,Default,,0000,0000,0000,,Your Battle Phase ends.
+Dialogue: 0,0:10:56.31,0:11:01.31,Default,,0000,0000,0000,,And I regain life points equal to the damage you took.
+Dialogue: 0,0:11:02.14,0:11:04.74,Default,,0000,0000,0000,,Noa gained life points again.
+Dialogue: 0,0:11:05.60,0:11:08.09,Default,,0000,0000,0000,,You’re impressive, Yugi.
+Dialogue: 0,0:11:08.09,0:11:11.52,Default,,0000,0000,0000,,Your judgment and actions to strike at weaknesses.
+Dialogue: 0,0:11:11.52,0:11:15.86,Default,,0000,0000,0000,,When you think about it, we don’t need to be enemies.
+Dialogue: 0,0:11:16.23,0:11:22.37,Default,,0000,0000,0000,,If you promise to help me, I’ll free your friends.
+Dialogue: 0,0:11:22.37,0:11:23.64,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:11:23.64,0:11:26.33,Default,,0000,0000,0000,,Except Seto and Mokuba.
+Dialogue: 0,0:11:26.33,0:11:27.95,Default,,0000,0000,0000,,They’ll be back to normal?
+Dialogue: 0,0:11:29.37,0:11:30.41,Default,,0000,0000,0000,,Shizuka.
+Dialogue: 0,0:11:30.41,0:11:33.33,Default,,0000,0000,0000,,Seto is your enemy.
+Dialogue: 0,0:11:33.33,0:11:37.88,Default,,0000,0000,0000,,So you shouldn’t care what happens to Seto.
+Dialogue: 0,0:11:37.88,0:11:40.80,Default,,0000,0000,0000,,Don’t you want your friends back?
+Dialogue: 0,0:11:46.92,0:11:48.14,Default,,0000,0000,0000,,No, Yugi!
+Dialogue: 0,0:11:48.93,0:11:50.06,Default,,0000,0000,0000,,Jonouchi...
+Dialogue: 0,0:11:50.06,0:11:51.65,Default,,0000,0000,0000,,Jonouchi.
+Dialogue: 0,0:11:51.65,0:11:55.16,Default,,0000,0000,0000,,Kaiba may be our enemy.
+Dialogue: 0,0:11:55.16,0:12:00.07,Default,,0000,0000,0000,,But he cares about his brother like how I care about my sister.
+Dialogue: 0,0:12:00.07,0:12:03.49,Default,,0000,0000,0000,,Otogi, Honda, even Shizuka would say the same thing!
+Dialogue: 0,0:12:03.49,0:12:05.09,Default,,0000,0000,0000,,Yugi, fight!
+Dialogue: 0,0:12:05.09,0:12:06.12,Default,,0000,0000,0000,,Please fight!
+Dialogue: 0,0:12:06.12,0:12:07.79,Default,,0000,0000,0000,,And win!
+Dialogue: 0,0:12:07.79,0:12:09.87,Default,,0000,0000,0000,,Jonouchi...
+Dialogue: 0,0:12:09.87,0:12:13.99,Default,,0000,0000,0000,,Nobody asked for your lame opinion, lame-o!
+Dialogue: 0,0:12:13.99,0:12:15.79,Default,,0000,0000,0000,,My turn!
+Dialogue: 0,0:12:19.76,0:12:20.72,Default,,0000,0000,0000,,Jonouchi!
+Dialogue: 0,0:12:22.22,0:12:23.93,Default,,0000,0000,0000,,Jonouchi!
+Dialogue: 0,0:12:25.76,0:12:28.56,Default,,0000,0000,0000,,Noa!  I feel sorry for you!
+Dialogue: 0,0:12:28.56,0:12:29.47,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:12:29.47,0:12:33.29,Default,,0000,0000,0000,,Even though you’re smarter, your heart is still immature.
+Dialogue: 0,0:12:33.29,0:12:35.79,Default,,0000,0000,0000,,You hate what you don’t have.
+Dialogue: 0,0:12:35.79,0:12:38.11,Default,,0000,0000,0000,,You’re nothing but a selfish child!
+Dialogue: 0,0:12:39.21,0:12:43.19,Default,,0000,0000,0000,,Ordinary people can’t understand my greatness.
+Dialogue: 0,0:12:43.19,0:12:46.89,Default,,0000,0000,0000,,Victory only comes to the chosen ones.
+Dialogue: 0,0:12:46.89,0:12:49.93,Default,,0000,0000,0000,,Yugi, I choose you.
+Dialogue: 0,0:12:49.93,0:12:52.00,Default,,0000,0000,0000,,Say that you’ll cooperate with me!
+Dialogue: 0,0:12:52.73,0:12:55.42,Default,,0000,0000,0000,,You use power to manipulate people.
+Dialogue: 0,0:12:55.42,0:12:59.56,Default,,0000,0000,0000,,So no one will accept you!
+Dialogue: 0,0:12:59.56,0:13:01.34,Default,,0000,0000,0000,,You’re a fool, Noa!
+Dialogue: 0,0:13:01.34,0:13:03.94,Default,,0000,0000,0000,,Did you call me a fool?
+Dialogue: 0,0:13:03.94,0:13:08.52,Default,,0000,0000,0000,,It’s sad that you’re such an idiot!
+Dialogue: 0,0:13:08.52,0:13:10.96,Default,,0000,0000,0000,,You’ll get what you asked for!
+Dialogue: 0,0:13:10.96,0:13:11.56,Default,,0000,0000,0000,,I draw!
+Dialogue: 0,0:13:11.94,0:13:13.48,Default,,0000,0000,0000,,I set a monster in defense.
+Dialogue: 0,0:13:14.31,0:13:16.94,Default,,0000,0000,0000,,I also set another card.
+Dialogue: 0,0:13:16.94,0:13:23.61,Default,,0000,0000,0000,,Since you’re close to death, I’ll tell you what this card is.
+Dialogue: 0,0:13:23.61,0:13:27.92,Default,,0000,0000,0000,,The card I’ll set is Ground Breaking.
+Dialogue: 0,0:13:27.92,0:13:33.20,Default,,0000,0000,0000,,It lets me bring one Spirit Monster in my graveyard back to my hand.
+Dialogue: 0,0:13:33.20,0:13:36.67,Default,,0000,0000,0000,,I’ll retrieve Inaba White Rabbit, of course.
+Dialogue: 0,0:13:37.05,0:13:39.59,Default,,0000,0000,0000,,You only have 300 life points.
+Dialogue: 0,0:13:39.59,0:13:44.63,Default,,0000,0000,0000,,Inaba White Rabbit has 700 attack points, so the duel will end when it attacks you.
+Dialogue: 0,0:13:44.99,0:13:47.05,Default,,0000,0000,0000,,With my victory.
+Dialogue: 0,0:13:48.29,0:13:50.47,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:13:50.47,0:13:53.10,Default,,0000,0000,0000,,The battle isn’t over yet!  I draw!
+Dialogue: 0,0:13:55.02,0:13:58.94,Default,,0000,0000,0000,,I activate the trap card, Ground Breaking!
+Dialogue: 0,0:13:59.41,0:14:03.48,Default,,0000,0000,0000,,Inaba White Rabbit returns from the graveyard to my hand.
+Dialogue: 0,0:14:03.48,0:14:04.99,Default,,0000,0000,0000,,I don’t think so!
+Dialogue: 0,0:14:05.73,0:14:08.45,Default,,0000,0000,0000,,The spell card, Card Destruction!
+Dialogue: 0,0:14:09.07,0:14:14.87,Default,,0000,0000,0000,,After you discard your entire hand, draw the same number of cards from your deck.
+Dialogue: 0,0:14:14.87,0:14:17.24,Default,,0000,0000,0000,,Magician of Black Chaos!
+Dialogue: 0,0:14:17.24,0:14:18.79,Default,,0000,0000,0000,,Attack the defending monster!
+Dialogue: 0,0:14:19.21,0:14:21.56,Default,,0000,0000,0000,,Chaos Magic!  Death Ultima!
+Dialogue: 0,0:14:22.69,0:14:24.17,Default,,0000,0000,0000,,I caught you!
+Dialogue: 0,0:14:24.17,0:14:26.54,Default,,0000,0000,0000,,Otohime’s effect activates!
+Dialogue: 0,0:14:26.54,0:14:30.21,Default,,0000,0000,0000,,She switches your monster’s battle position.
+Dialogue: 0,0:14:30.21,0:14:33.54,Default,,0000,0000,0000,,Dark Magician switches to defense position!
+Dialogue: 0,0:14:35.89,0:14:38.81,Default,,0000,0000,0000,,This ends Dark Magician’s Battle Phase.
+Dialogue: 0,0:14:39.81,0:14:45.63,Default,,0000,0000,0000,,Since my Spirit Monster was destroyed, my trap card activates!  Vessel of Illusion!
+Dialogue: 0,0:14:45.63,0:14:48.92,Default,,0000,0000,0000,,I Special Summon a Token to tribute.
+Dialogue: 0,0:14:48.92,0:14:52.39,Default,,0000,0000,0000,,I summon Otohime again in defense position.
+Dialogue: 0,0:14:53.62,0:14:55.53,Default,,0000,0000,0000,,It’s my turn, but...
+Dialogue: 0,0:14:55.53,0:14:59.70,Default,,0000,0000,0000,,Isn’t it sad that no one will watch our duel anymore?
+Dialogue: 0,0:15:00.35,0:15:01.39,Default,,0000,0000,0000,,Anzu!
+Dialogue: 0,0:15:01.39,0:15:04.57,Default,,0000,0000,0000,,If you have any last words, let me hear it.
+Dialogue: 0,0:15:05.16,0:15:08.61,Default,,0000,0000,0000,,I know!  How about something angry towards Yugi?
+Dialogue: 0,0:15:08.61,0:15:10.01,Default,,0000,0000,0000,,Whatever!
+Dialogue: 0,0:15:10.01,0:15:13.44,Default,,0000,0000,0000,,Yugi will win!
+Dialogue: 0,0:15:13.44,0:15:16.28,Default,,0000,0000,0000,,I always trust Yugi!
+Dialogue: 0,0:15:16.49,0:15:17.45,Default,,0000,0000,0000,,Anzu...
+Dialogue: 0,0:15:18.93,0:15:23.67,Default,,0000,0000,0000,,In that case, I’ll get rid of you at the end of my turn.
+Dialogue: 0,0:15:23.67,0:15:26.79,Default,,0000,0000,0000,,You’ll probably change your mind by then.
+Dialogue: 0,0:15:27.26,0:15:29.16,Default,,0000,0000,0000,,Just like this card.
+Dialogue: 0,0:15:29.73,0:15:32.16,Default,,0000,0000,0000,,The spell card, Change of Heart!
+Dialogue: 0,0:15:32.16,0:15:35.66,Default,,0000,0000,0000,,I gain control of one of your monsters until the end of the turn.
+Dialogue: 0,0:15:35.66,0:15:37.60,Default,,0000,0000,0000,,I choose...
+Dialogue: 0,0:15:38.64,0:15:39.91,Default,,0000,0000,0000,,Dark Magician!
+Dialogue: 0,0:15:40.69,0:15:44.87,Default,,0000,0000,0000,,How does it feel when your deck’s icon becomes your enemy?
+Dialogue: 0,0:15:45.33,0:15:48.35,Default,,0000,0000,0000,,I tribute Dark Magician and Otohime.
+Dialogue: 0,0:15:48.77,0:15:54.72,Default,,0000,0000,0000,,I summon the Spirit Monster with the most attack points!  Hino-Kagu-Tsuchi!
+Dialogue: 0,0:16:03.61,0:16:05.53,Default,,0000,0000,0000,,And a Spirit Equip Spell!
+Dialogue: 0,0:16:05.87,0:16:07.13,Default,,0000,0000,0000,,Flaming Fist!
+Dialogue: 0,0:16:07.89,0:16:11.47,Default,,0000,0000,0000,,It adds 200 attack points for one turn.
+Dialogue: 0,0:16:11.69,0:16:13.65,Default,,0000,0000,0000,,Go!  Hino-Kagu-Tsuchi!
+Dialogue: 0,0:16:13.65,0:16:15.32,Default,,0000,0000,0000,,Crimson Annihilation Fist!
+Dialogue: 0,0:16:24.35,0:16:31.25,Default,,0000,0000,0000,,Due to my Deck Master’s ability and Flaming Fist, I regain 700 life points.
+Dialogue: 0,0:16:32.02,0:16:36.06,Default,,0000,0000,0000,,I activate the Continuous Spell, Spiritual Energy Settle Machine.
+Dialogue: 0,0:16:36.06,0:16:38.27,Default,,0000,0000,0000,,I discard one card from my hand.
+Dialogue: 0,0:16:38.63,0:16:44.40,Default,,0000,0000,0000,,This card allows Spirit Monsters to stay on the field even after the turn is over.
+Dialogue: 0,0:16:45.39,0:16:48.67,Default,,0000,0000,0000,,I have exactly a hundred times as many life points than you.
+Dialogue: 0,0:16:49.09,0:16:51.61,Default,,0000,0000,0000,,And you think you can make a comeback?
+Dialogue: 0,0:16:53.41,0:16:55.35,Default,,0000,0000,0000,,Yugi, please stand up!
+Dialogue: 0,0:16:55.91,0:16:56.78,Default,,0000,0000,0000,,Fool.
+Dialogue: 0,0:16:56.92,0:16:57.77,Default,,0000,0000,0000,,Vanish!
+Dialogue: 0,0:16:58.99,0:17:01.01,Default,,0000,0000,0000,,Yugi...
+Dialogue: 0,0:17:03.67,0:17:04.87,Default,,0000,0000,0000,,Anzu!
+Dialogue: 0,0:17:06.63,0:17:08.93,Default,,0000,0000,0000,,Everyone is now gone.
+Dialogue: 0,0:17:08.93,0:17:14.37,Default,,0000,0000,0000,,Yugi, this really will be your last turn.
+Dialogue: 0,0:17:14.77,0:17:19.32,Default,,0000,0000,0000,,He has Hino-Kagu-Tsuchi with 2800 attack points.
+Dialogue: 0,0:17:19.32,0:17:21.79,Default,,0000,0000,0000,,But I have no monsters on my field.
+Dialogue: 0,0:17:21.79,0:17:24.32,Default,,0000,0000,0000,,And zero cards in my hand.
+Dialogue: 0,0:17:24.69,0:17:25.89,Default,,0000,0000,0000,,It’s impossible.
+Dialogue: 0,0:17:25.89,0:17:28.05,Default,,0000,0000,0000,,Am I going to lose?
+Dialogue: 0,0:17:28.05,0:17:30.84,Default,,0000,0000,0000,,I no longer have any friends who believe in me-
+Dialogue: 0,0:17:32.27,0:17:33.39,Default,,0000,0000,0000,,Partner!
+Dialogue: 0,0:17:33.39,0:17:36.70,Default,,0000,0000,0000,,My other self, I’m still here.
+Dialogue: 0,0:17:36.70,0:17:40.45,Default,,0000,0000,0000,,And not just me.  C’mon.
+Dialogue: 0,0:17:43.23,0:17:46.55,Default,,0000,0000,0000,,This is the room in my heart.
+Dialogue: 0,0:17:46.55,0:17:51.99,Default,,0000,0000,0000,,My other self, we haven’t found the room containing your memories yet.
+Dialogue: 0,0:17:51.99,0:17:54.91,Default,,0000,0000,0000,,But there’s a new room in here.
+Dialogue: 0,0:17:54.91,0:17:56.24,Default,,0000,0000,0000,,A new room?
+Dialogue: 0,0:17:56.76,0:17:57.49,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:18:00.31,0:18:02.19,Default,,0000,0000,0000,,This is the new room?
+Dialogue: 0,0:18:02.19,0:18:02.62,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:18:04.23,0:18:05.45,Default,,0000,0000,0000,,Jonouchi!
+Dialogue: 0,0:18:06.09,0:18:06.99,Default,,0000,0000,0000,,Anzu!
+Dialogue: 0,0:18:07.67,0:18:11.01,Default,,0000,0000,0000,,Honda!  Otogi!  Shizuka!
+Dialogue: 0,0:18:11.01,0:18:12.42,Default,,0000,0000,0000,,I see!  This room is...
+Dialogue: 0,0:18:13.09,0:18:17.40,Default,,0000,0000,0000,,This memory room was created when you met us.
+Dialogue: 0,0:18:17.40,0:18:18.36,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:18:18.36,0:18:21.47,Default,,0000,0000,0000,,No one has left your side.
+Dialogue: 0,0:18:21.47,0:18:24.53,Default,,0000,0000,0000,,That’s right.  We’re always with you.
+Dialogue: 0,0:18:24.79,0:18:26.64,Default,,0000,0000,0000,,And cheering for you.
+Dialogue: 0,0:18:27.74,0:18:32.06,Default,,0000,0000,0000,,But there’s no way I can win.
+Dialogue: 0,0:18:32.06,0:18:32.94,Default,,0000,0000,0000,,Yugi.
+Dialogue: 0,0:18:33.64,0:18:36.61,Default,,0000,0000,0000,,I’ve accepted you as my eternal rival.
+Dialogue: 0,0:18:37.01,0:18:38.92,Default,,0000,0000,0000,,Kaiba.  Mokuba.
+Dialogue: 0,0:18:40.15,0:18:43.11,Default,,0000,0000,0000,,You’re going to stay here and whine?
+Dialogue: 0,0:18:43.11,0:18:43.86,Default,,0000,0000,0000,,Kaiba...
+Dialogue: 0,0:18:44.07,0:18:47.35,Default,,0000,0000,0000,,Our souls have combined into that deck.
+Dialogue: 0,0:18:47.35,0:18:49.63,Default,,0000,0000,0000,,So it’s the strongest deck there is.
+Dialogue: 0,0:18:49.87,0:18:53.82,Default,,0000,0000,0000,,The deck still has a chance to win.
+Dialogue: 0,0:18:53.82,0:18:57.67,Default,,0000,0000,0000,,The deck has a chance to make a comeback...
+Dialogue: 0,0:18:57.89,0:18:59.45,Default,,0000,0000,0000,,Fight, Yugi.
+Dialogue: 0,0:18:59.45,0:19:01.44,Default,,0000,0000,0000,,Believe in our deck.
+Dialogue: 0,0:19:05.49,0:19:08.45,Default,,0000,0000,0000,,We still have a chance.
+Dialogue: 0,0:19:09.56,0:19:11.65,Default,,0000,0000,0000,,You’re going to keep fighting?
+Dialogue: 0,0:19:11.65,0:19:15.12,Default,,0000,0000,0000,,Noa!  I still have things to protect!
+Dialogue: 0,0:19:15.41,0:19:16.64,Default,,0000,0000,0000,,I draw a card!
+Dialogue: 0,0:19:17.25,0:19:18.99,Default,,0000,0000,0000,,Card of Sanctity!
+Dialogue: 0,0:19:18.99,0:19:24.69,Default,,0000,0000,0000,,We both draw until we have six cards in our hands.
+Dialogue: 0,0:19:33.19,0:19:34.21,Default,,0000,0000,0000,,Yugi.
+Dialogue: 0,0:19:34.69,0:19:36.05,Default,,0000,0000,0000,,Take this, Yugi.
+Dialogue: 0,0:19:36.27,0:19:37.76,Default,,0000,0000,0000,,We entrust you...
+Dialogue: 0,0:19:37.76,0:19:38.94,Default,,0000,0000,0000,,...with our hopes.
+Dialogue: 0,0:19:38.94,0:19:40.81,Default,,0000,0000,0000,,Here, Yugi.
+Dialogue: 0,0:19:40.81,0:19:41.85,Default,,0000,0000,0000,,Counting on you.
+Dialogue: 0,0:19:43.13,0:19:45.63,Default,,0000,0000,0000,,These cards contain their hopes.
+Dialogue: 0,0:19:46.77,0:19:52.29,Default,,0000,0000,0000,,Noa, let me tell you my first and last prediction for this duel.
+Dialogue: 0,0:19:52.53,0:19:55.29,Default,,0000,0000,0000,,You won’t take another turn!
+Dialogue: 0,0:19:55.29,0:19:57.80,Default,,0000,0000,0000,,The spell card, Monster Reborn!
+Dialogue: 0,0:19:57.80,0:19:59.73,Default,,0000,0000,0000,,The resurrecting monster is...
+Dialogue: 0,0:20:00.02,0:20:02.71,Default,,0000,0000,0000,,Blue-Eyes White Dragon!
+Dialogue: 0,0:20:04.55,0:20:05.77,Default,,0000,0000,0000,,Blue-Eyes!
+Dialogue: 0,0:20:05.77,0:20:08.43,Default,,0000,0000,0000,,Noa!  Me and Mokuba’s anger will strike you!
+Dialogue: 0,0:20:08.43,0:20:12.33,Default,,0000,0000,0000,,Kaiba, your fight wasn’t meaningless!
+Dialogue: 0,0:20:12.33,0:20:15.39,Default,,0000,0000,0000,,Burst Stream of Destruction!
+Dialogue: 0,0:20:16.71,0:20:20.10,Default,,0000,0000,0000,,Next is the spell card, Polymerization!
+Dialogue: 0,0:20:20.65,0:20:26.72,Default,,0000,0000,0000,,I fuse two Blue-Eyes in my hand with the Blue-Eyes on my field!
+Dialogue: 0,0:20:28.21,0:20:29.33,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:20:29.33,0:20:30.46,Default,,0000,0000,0000,,Come out!
+Dialogue: 0,0:20:30.46,0:20:33.10,Default,,0000,0000,0000,,The strongest servant in Kaiba’s Deck!
+Dialogue: 0,0:20:36.96,0:20:39.05,Default,,0000,0000,0000,,Blue-Eyes Ultimate Dragon!
+Dialogue: 0,0:20:39.51,0:20:40.97,Default,,0000,0000,0000,,And another spell card!
+Dialogue: 0,0:20:40.97,0:20:44.71,Default,,0000,0000,0000,,I use Quick Attack and attack Hino-Kagu-Tsuchi!
+Dialogue: 0,0:20:44.71,0:20:47.11,Default,,0000,0000,0000,,Ultimate Burst!
+Dialogue: 0,0:20:53.10,0:20:55.02,Default,,0000,0000,0000,,I’m far from defeated!
+Dialogue: 0,0:20:55.02,0:21:00.07,Default,,0000,0000,0000,,Noa, I told you that you won’t get another turn.
+Dialogue: 0,0:21:00.07,0:21:01.19,Default,,0000,0000,0000,,De-Fusion!
+Dialogue: 0,0:21:02.17,0:21:08.30,Default,,0000,0000,0000,,Due to De-Fusion, the three Blue-Eyes can still conduct their Battle Phase.
+Dialogue: 0,0:21:09.03,0:21:11.74,Default,,0000,0000,0000,,No way...  Can I do anything?
+Dialogue: 0,0:21:11.74,0:21:15.45,Default,,0000,0000,0000,,Noa!  The anger for toying with our bond!
+Dialogue: 0,0:21:15.97,0:21:18.33,Default,,0000,0000,0000,,And Kaiba and Mokuba’s sorrow!
+Dialogue: 0,0:21:18.33,0:21:21.13,Default,,0000,0000,0000,,I’ll end them both with this single strike!
+Dialogue: 0,0:21:21.59,0:21:23.55,Default,,0000,0000,0000,,Go, Blue-Eyes!
+Dialogue: 0,0:21:23.77,0:21:28.18,Default,,0000,0000,0000,,Burst Stream of Destruction!
+Dialogue: 0,0:21:30.25,0:21:34.69,Default,,0000,0000,0000,,No way!  Is this the strength of their bond?
+Dialogue: 0,0:21:39.48,0:21:41.63,Default,,0000,0000,0000,,Hooray!  Yugi won!
+Dialogue: 0,0:21:41.63,0:21:44.25,Default,,0000,0000,0000,,Everyone’s back to normal!
+Dialogue: 0,0:21:44.25,0:21:47.85,Default,,0000,0000,0000,,Huh?  Honda, why are you still a monkey?
+Dialogue: 0,0:21:47.85,0:21:54.54,Default,,0000,0000,0000,,Noa!  Give Honda his body back and free us from this virtual world!
+Dialogue: 0,0:21:54.54,0:21:57.17,Default,,0000,0000,0000,,What?  No one can escape?
+Dialogue: 0,0:21:57.17,0:22:00.66,Default,,0000,0000,0000,,Noa, you don’t control this world?
+Dialogue: 0,0:22:00.66,0:22:03.01,Default,,0000,0000,0000,,Next time on Yu-Gi-Oh!:\NKaiba Family’s Darkness
+Dialogue: 0,0:22:03.01,0:22:04.72,Default,,0000,0000,0000,,Duel, standby!
+Dialogue: 0,0:22:06.67,0:22:14.57,Default,,0000,0000,0000,,The sun never sets\NIt rises forever
+Dialogue: 0,0:22:14.57,0:22:23.52,Default,,0000,0000,0000,,Don’t let a dream end as a dream
+Dialogue: 0,0:22:24.20,0:22:28.49,Default,,0000,0000,0000,,The straight rail and harsh route
+Dialogue: 0,0:22:28.49,0:22:32.12,Default,,0000,0000,0000,,Whether to go or not \Nall of yourself
+Dialogue: 0,0:22:32.89,0:22:40.43,Default,,0000,0000,0000,,I’m tired of counting on my fingers inside this cage
+Dialogue: 0,0:22:40.43,0:22:44.00,Default,,0000,0000,0000,,Respect! Boys  Show me how you act tough
+Dialogue: 0,0:22:44.00,0:22:48.77,Default,,0000,0000,0000,,Draw a map, even if it’s sloppy
+Dialogue: 0,0:22:48.77,0:22:58.88,Default,,0000,0000,0000,,And walk it without stopping
+Dialogue: 0,0:22:58.88,0:23:06.28,Default,,0000,0000,0000,,The sun never sets\NIf I can be like you
+Dialogue: 0,0:23:06.72,0:23:15.46,Default,,0000,0000,0000,,Create freedom by exceeding common ideas
+Dialogue: 0,0:23:15.46,0:23:23.44,Default,,0000,0000,0000,,I want to trust myself\NSometimes I’ll lose my way but
+Dialogue: 0,0:23:23.44,0:23:33.28,Default,,0000,0000,0000,,I hide it in my heart...\NSecret Paradise

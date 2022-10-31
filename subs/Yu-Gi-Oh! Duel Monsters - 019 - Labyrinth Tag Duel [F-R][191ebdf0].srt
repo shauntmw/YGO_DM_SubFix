@@ -1,0 +1,312 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: 4kmedia  [http://www.crunchyroll.com/user/4kmedia]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 480
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,EquitanSans-Regular,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,25,1
+Style: Yu-Gi-Oh Yellow,Trebuchet MS,28,&H0000FFFF,&H0000FFFF,&H00232323,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+Style: Yu-Gi-Oh,Trebuchet MS,28,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:03.80,0:00:10.70,Default,,0000,0000,0000,,Yugi Muto assembled the Millennium Puzzle \Nand became the guardian of the Shadow Games.
+Dialogue: 0,0:00:11.99,0:00:17.06,Default,,0000,0000,0000,,Pegasus has a Millennium Item \Nof his own - the Millennium Eye.
+Dialogue: 0,0:00:17.06,0:00:21.60,Default,,0000,0000,0000,,Yugi accepts Pegasus’s challenge \Nand goes to Duelist Kingdom.
+Dialogue: 0,0:00:23.45,0:00:28.00,Default,,0000,0000,0000,,Pegasus stole his grandfather Sugoroku’s \Nsoul, and Yugi intends to rescue him.
+Dialogue: 0,0:00:28.54,0:00:33.84,Default,,0000,0000,0000,,He battles alongside his trusted \Nfriends and with his other self.
+Dialogue: 0,0:00:39.03,0:00:44.10,Default,,0000,0000,0000,,I can’t finish reading the magazine pages
+Dialogue: 0,0:00:46.02,0:00:51.01,Default,,0000,0000,0000,,I get the feeling that I must read it
+Dialogue: 0,0:00:52.90,0:00:57.76,Default,,0000,0000,0000,,Game cartridges are stacked \Nin the corner of the room
+Dialogue: 0,0:00:59.72,0:01:04.46,Default,,0000,0000,0000,,Is there no meaning if I don’t play them?
+Dialogue: 0,0:01:06.96,0:01:09.56,Default,,0000,0000,0000,,You’re on the other side of the table
+Dialogue: 0,0:01:10.01,0:01:12.93,Default,,0000,0000,0000,,I’m talking to you, but...
+Dialogue: 0,0:01:13.53,0:01:19.85,Default,,0000,0000,0000,,You don’t change your \Nfacial expression at all
+Dialogue: 0,0:01:20.80,0:01:26.11,Default,,0000,0000,0000,,Even though I’m this close to you
+Dialogue: 0,0:01:26.61,0:01:33.38,Default,,0000,0000,0000,,These feelings don’t reach \Nyou, don’t reach you
+Dialogue: 0,0:01:33.80,0:01:39.83,Default,,0000,0000,0000,,What is truly precious?
+Dialogue: 0,0:01:42.07,0:01:44.91,Default,,0000,0000,0000,,This spell card swaps \Nattack and defense points!
+Dialogue: 0,0:01:49.73,0:01:52.52,Default,,0000,0000,0000,,The Zombies have 0 attack points!
+Dialogue: 0,0:01:52.76,0:01:54.67,Default,,0000,0000,0000,,Here I go, you zombie freak!
+Dialogue: 0,0:01:54.67,0:01:57.39,Default,,0000,0000,0000,,Ultimate Screw Knuckle!
+Dialogue: 0,0:01:58.79,0:01:59.93,Default,,0000,0000,0000,,Jonouchi!
+Dialogue: 0,0:02:00.40,0:02:02.35,Default,,0000,0000,0000,,I did it, Yugi.
+Dialogue: 0,0:02:02.35,0:02:03.64,Default,,0000,0000,0000,,Let’s go.
+Dialogue: 0,0:02:03.64,0:02:04.47,Default,,0000,0000,0000,,Boss...
+Dialogue: 0,0:02:05.93,0:02:07.44,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:02:09.90,0:02:14.03,Default,,0000,0000,0000,,Now they’ll never get out of the cave!
+Dialogue: 0,0:02:15.81,0:02:22.16,Default,,0000,0000,0000,,Labyrinth Tag Duel
+Dialogue: 0,0:02:31.12,0:02:33.39,Default,,0000,0000,0000,,Damn!  It won’t even budge!
+Dialogue: 0,0:02:33.39,0:02:36.04,Default,,0000,0000,0000,,We have to find another exit.
+Dialogue: 0,0:02:36.04,0:02:39.39,Default,,0000,0000,0000,,How are we supposed to do that?
+Dialogue: 0,0:02:39.39,0:02:40.72,Default,,0000,0000,0000,,Well...
+Dialogue: 0,0:02:42.12,0:02:43.52,Default,,0000,0000,0000,,Bakura?
+Dialogue: 0,0:02:46.99,0:02:50.32,Default,,0000,0000,0000,,I think Pegasus’s castle is this way.
+Dialogue: 0,0:02:50.32,0:02:51.71,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:02:52.71,0:02:53.72,Default,,0000,0000,0000,,Let’s go.
+Dialogue: 0,0:03:18.12,0:03:19.52,Default,,0000,0000,0000,,Big brother...
+Dialogue: 0,0:03:23.85,0:03:26.52,Default,,0000,0000,0000,,Don’t worry about me.
+Dialogue: 0,0:03:26.94,0:03:29.79,Default,,0000,0000,0000,,I’m fine.
+Dialogue: 0,0:03:31.05,0:03:35.45,Default,,0000,0000,0000,,You always protected me.
+Dialogue: 0,0:03:45.59,0:03:51.43,Default,,0000,0000,0000,,When we were together, I \Nalways had a great time.
+Dialogue: 0,0:03:51.43,0:03:53.12,Default,,0000,0000,0000,,Always.
+Dialogue: 0,0:04:01.90,0:04:07.52,Default,,0000,0000,0000,,I want to see you, big brother.
+Dialogue: 0,0:04:10.59,0:04:13.92,Default,,0000,0000,0000,,Bakura, are you sure this is the right way?
+Dialogue: 0,0:04:13.92,0:04:15.65,Default,,0000,0000,0000,,We’ve been walking for a while.
+Dialogue: 0,0:04:15.65,0:04:18.85,Default,,0000,0000,0000,,And the path is getting narrower.
+Dialogue: 0,0:04:18.85,0:04:21.59,Default,,0000,0000,0000,,The walls look different too.
+Dialogue: 0,0:04:21.59,0:04:26.12,Default,,0000,0000,0000,,They used to be rough, but not anymore.
+Dialogue: 0,0:04:26.12,0:04:28.84,Default,,0000,0000,0000,,This is definitely man-made.
+Dialogue: 0,0:04:28.84,0:04:33.01,Default,,0000,0000,0000,,It feels like we’re walking in a maze.
+Dialogue: 0,0:04:37.48,0:04:39.12,Default,,0000,0000,0000,,What’s going on?
+Dialogue: 0,0:04:39.12,0:04:40.65,Default,,0000,0000,0000,,Which way should we go?
+Dialogue: 0,0:04:40.65,0:04:41.72,Default,,0000,0000,0000,,This way.
+Dialogue: 0,0:04:41.99,0:04:43.59,Default,,0000,0000,0000,,The exit is this way!
+Dialogue: 0,0:04:43.59,0:04:45.39,Default,,0000,0000,0000,,Bakura, wait up!
+Dialogue: 0,0:04:45.39,0:04:47.22,Default,,0000,0000,0000,,Are you okay, Bakura?
+Dialogue: 0,0:04:47.22,0:04:48.72,Default,,0000,0000,0000,,Is this really the right way?
+Dialogue: 0,0:04:55.19,0:04:56.32,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:05:09.48,0:05:11.45,Default,,0000,0000,0000,,What’s up with this room?
+Dialogue: 0,0:05:24.92,0:05:25.85,Default,,0000,0000,0000,,We are...
+Dialogue: 0,0:05:25.85,0:05:27.59,Default,,0000,0000,0000,,...guardians of the underground dungeon.
+Dialogue: 0,0:05:28.60,0:05:30.85,Default,,0000,0000,0000,,We are the Labyrinth Brothers.
+Dialogue: 0,0:05:30.85,0:05:32.52,Default,,0000,0000,0000,,Labyrinth Brothers?
+Dialogue: 0,0:05:32.52,0:05:35.02,Default,,0000,0000,0000,,Is this a Hong Kong action movie?
+Dialogue: 0,0:05:36.84,0:05:40.12,Default,,0000,0000,0000,,They have Star Chips!  They \Nmust be Player Killers!
+Dialogue: 0,0:05:40.12,0:05:43.79,Default,,0000,0000,0000,,It’s been awhile since travelers \Ngot lost inside the labyrinth.
+Dialogue: 0,0:05:43.79,0:05:47.12,Default,,0000,0000,0000,,But it wouldn’t be a labyrinth \Nif you didn’t get lost.
+Dialogue: 0,0:05:47.85,0:05:51.79,Default,,0000,0000,0000,,Lost ones, you wish to \Nlearn the correct path.
+Dialogue: 0,0:05:52.29,0:05:53.54,Default,,0000,0000,0000,,The correct path.
+Dialogue: 0,0:05:53.54,0:05:54.76,Default,,0000,0000,0000,,In that case...
+Dialogue: 0,0:05:54.76,0:05:55.93,Default,,0000,0000,0000,,...if you want to know the answer...
+Dialogue: 0,0:05:56.15,0:05:58.63,Default,,0000,0000,0000,,Defeat us in a duel!
+Dialogue: 0,0:06:00.61,0:06:02.59,Default,,0000,0000,0000,,Is that a Duel Ring?
+Dialogue: 0,0:06:05.95,0:06:09.61,Default,,0000,0000,0000,,One of those doors leads to the correct path.
+Dialogue: 0,0:06:09.61,0:06:12.27,Default,,0000,0000,0000,,If you defeat us, you get to choose one.
+Dialogue: 0,0:06:12.27,0:06:16.11,Default,,0000,0000,0000,,If you do not escape, you will \Nwander the labyrinth for eternity.
+Dialogue: 0,0:06:16.32,0:06:21.02,Default,,0000,0000,0000,,So if we don’t win this \Nduel, we can never leave?
+Dialogue: 0,0:06:21.02,0:06:24.82,Default,,0000,0000,0000,,This duel will be a special two-on-two match.
+Dialogue: 0,0:06:24.82,0:06:26.90,Default,,0000,0000,0000,,Two duelists, step forward.
+Dialogue: 0,0:06:26.90,0:06:28.48,Default,,0000,0000,0000,,Two-on-two?
+Dialogue: 0,0:06:28.48,0:06:30.14,Default,,0000,0000,0000,,A tag match.
+Dialogue: 0,0:06:30.76,0:06:33.13,Default,,0000,0000,0000,,Be careful.  It could be a trap.
+Dialogue: 0,0:06:39.37,0:06:43.82,Default,,0000,0000,0000,,Jonouchi, we must accept this duel.
+Dialogue: 0,0:06:43.82,0:06:46.81,Default,,0000,0000,0000,,Yeah!  I’m looking forward to it!
+Dialogue: 0,0:06:50.27,0:06:54.19,Default,,0000,0000,0000,,Welcome to our Labyrinth Field.
+Dialogue: 0,0:06:54.19,0:06:57.65,Default,,0000,0000,0000,,Huh?  This doesn’t look \Nlike a Labyrinth Field.
+Dialogue: 0,0:06:58.31,0:06:59.60,Default,,0000,0000,0000,,You’ll see soon enough.
+Dialogue: 0,0:06:59.60,0:07:01.79,Default,,0000,0000,0000,,Wager your Star Chips.
+Dialogue: 0,0:07:03.56,0:07:04.80,Default,,0000,0000,0000,,I wager two.
+Dialogue: 0,0:07:04.80,0:07:08.23,Default,,0000,0000,0000,,I wager four.  That’s a total of six Chips.
+Dialogue: 0,0:07:08.23,0:07:09.30,Default,,0000,0000,0000,,Understood.
+Dialogue: 0,0:07:09.30,0:07:10.94,Default,,0000,0000,0000,,Let’s do this, Jonouchi!
+Dialogue: 0,0:07:10.94,0:07:14.61,Default,,0000,0000,0000,,If we win this duel, we’ll \Nboth have ten Star Chips.
+Dialogue: 0,0:07:14.61,0:07:16.54,Default,,0000,0000,0000,,We can enter Pegasus’s castle.
+Dialogue: 0,0:07:16.54,0:07:17.56,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:07:17.56,0:07:18.90,Default,,0000,0000,0000,,That won’t happen.
+Dialogue: 0,0:07:18.90,0:07:21.56,Default,,0000,0000,0000,,We’re Player Killers of the labyrinth.
+Dialogue: 0,0:07:21.56,0:07:24.41,Default,,0000,0000,0000,,We won’t let you get back to the surface.
+Dialogue: 0,0:07:24.41,0:07:26.19,Default,,0000,0000,0000,,Do your best, you two!
+Dialogue: 0,0:07:26.19,0:07:28.52,Default,,0000,0000,0000,,Beat them so we can get out of here!
+Dialogue: 0,0:07:30.22,0:07:32.46,Default,,0000,0000,0000,,Start the duel!
+Dialogue: 0,0:07:32.46,0:07:36.22,Default,,0000,0000,0000,,It’s my turn!  I play this card!
+Dialogue: 0,0:07:36.22,0:07:38.03,Default,,0000,0000,0000,,Labyrinth Wall!
+Dialogue: 0,0:07:38.27,0:07:41.23,Default,,0000,0000,0000,,Labyrinth Wall?  Those are walls of a maze.
+Dialogue: 0,0:07:45.78,0:07:46.54,Default,,0000,0000,0000,,What’s that?
+Dialogue: 0,0:07:46.54,0:07:47.24,Default,,0000,0000,0000,,What’s going on?
+Dialogue: 0,0:07:58.67,0:07:59.98,Default,,0000,0000,0000,,What’s this?
+Dialogue: 0,0:07:59.98,0:08:05.43,Default,,0000,0000,0000,,Labyrinth Wall creates a Labyrinth Field.
+Dialogue: 0,0:08:05.43,0:08:09.39,Default,,0000,0000,0000,,Welcome to our Labyrinth Field.
+Dialogue: 0,0:08:28.74,0:08:29.80,Default,,0000,0000,0000,,Mokuba...
+Dialogue: 0,0:08:37.70,0:08:42.67,Default,,0000,0000,0000,,Since my turn is done, \NI’ll explain the rules.
+Dialogue: 0,0:08:43.13,0:08:46.90,Default,,0000,0000,0000,,Each player begins with \N2000 Life Points as usual.
+Dialogue: 0,0:08:46.90,0:08:53.65,Default,,0000,0000,0000,,But if either teammate loses all \Ntheir Life Points, that team loses.
+Dialogue: 0,0:08:53.65,0:08:57.64,Default,,0000,0000,0000,,So if I lose, so does Yugi.
+Dialogue: 0,0:08:57.64,0:09:01.55,Default,,0000,0000,0000,,Each team alternate turns, as do the players.
+Dialogue: 0,0:09:01.55,0:09:06.62,Default,,0000,0000,0000,,Next, I’ll explain how to \Nsolve this Labyrinth Field.
+Dialogue: 0,0:09:06.62,0:09:12.76,Default,,0000,0000,0000,,All monsters played on the field \Nwill be similar to chess pieces.
+Dialogue: 0,0:09:13.12,0:09:20.20,Default,,0000,0000,0000,,If the monster is in attack position, it can move \Nthe same number of spaces as its Level during that turn.
+Dialogue: 0,0:09:22.36,0:09:26.32,Default,,0000,0000,0000,,But if it loses in battle, it \Ncan’t escape the labyrinth.
+Dialogue: 0,0:09:26.32,0:09:34.22,Default,,0000,0000,0000,,If you win and exit the labyrinth, \Nyou can open one of the two doors.
+Dialogue: 0,0:09:36.01,0:09:39.74,Default,,0000,0000,0000,,It’s your choice which door to go for.
+Dialogue: 0,0:09:39.74,0:09:42.41,Default,,0000,0000,0000,,Choose the door that you think is correct.
+Dialogue: 0,0:09:42.41,0:09:44.76,Default,,0000,0000,0000,,Hey, that’s not fair!
+Dialogue: 0,0:09:44.76,0:09:46.50,Default,,0000,0000,0000,,Our lives are on the line!
+Dialogue: 0,0:09:46.50,0:09:49.73,Default,,0000,0000,0000,,Give us a hint on which door is correct!
+Dialogue: 0,0:09:50.72,0:09:51.73,Default,,0000,0000,0000,,Fine.
+Dialogue: 0,0:09:51.73,0:09:53.53,Default,,0000,0000,0000,,Starting now...
+Dialogue: 0,0:09:53.74,0:09:56.53,Default,,0000,0000,0000,,...one of us will tell the truth.
+Dialogue: 0,0:09:57.28,0:10:00.81,Default,,0000,0000,0000,,And the other will only tell lies.
+Dialogue: 0,0:10:04.08,0:10:05.83,Default,,0000,0000,0000,,Oh my.
+Dialogue: 0,0:10:08.85,0:10:15.05,Default,,0000,0000,0000,,Yugi boy, don’t be angry over \Nthis unexpected surprise.
+Dialogue: 0,0:10:28.80,0:10:33.25,Default,,0000,0000,0000,,Starting now, one of us will tell the truth.
+Dialogue: 0,0:10:33.25,0:10:36.50,Default,,0000,0000,0000,,And the other will only tell lies.
+Dialogue: 0,0:10:42.57,0:10:43.43,Default,,0000,0000,0000,,Hey.
+Dialogue: 0,0:10:44.36,0:10:46.90,Default,,0000,0000,0000,,Were there any lies in what you just said?
+Dialogue: 0,0:10:47.33,0:10:49.46,Default,,0000,0000,0000,,No.  That’s the truth.
+Dialogue: 0,0:10:51.60,0:10:56.55,Default,,0000,0000,0000,,The correct door is my Mei door.
+Dialogue: 0,0:10:56.55,0:11:01.65,Default,,0000,0000,0000,,No,the correct door is my Kyu door.
+Dialogue: 0,0:11:02.74,0:11:05.47,Default,,0000,0000,0000,,Which one of them is telling the truth?
+Dialogue: 0,0:11:05.95,0:11:06.99,Default,,0000,0000,0000,,Wait a sec.
+Dialogue: 0,0:11:07.33,0:11:11.04,Default,,0000,0000,0000,,I heard a similar riddle before.
+Dialogue: 0,0:11:11.57,0:11:17.96,Default,,0000,0000,0000,,A man stands at a fork in a road.  One road leads to a \Ntown of truth-tellers, and the other leads to a town of liars.
+Dialogue: 0,0:11:17.96,0:11:23.61,Default,,0000,0000,0000,,A traveler asks a villager for directions, \Nbut he doesn’t know which town he’s from.
+Dialogue: 0,0:11:24.17,0:11:29.74,Default,,0000,0000,0000,,The traveler wants to go to the town of \Ntruth-tellers, but he’s only allowed to ask one question.
+Dialogue: 0,0:11:30.17,0:11:34.33,Default,,0000,0000,0000,,The riddle is what he should \Nask.  The answer is...
+Dialogue: 0,0:11:34.67,0:11:37.30,Default,,0000,0000,0000,,“Take me to your town.”
+Dialogue: 0,0:11:37.83,0:11:42.50,Default,,0000,0000,0000,,If the villager is a truth-teller, he’ll \Ntake him to his own town of truth-tellers.
+Dialogue: 0,0:11:42.50,0:11:46.91,Default,,0000,0000,0000,,If he’s a liar, he’ll lie and take \Nhim to the town of truth-tellers.
+Dialogue: 0,0:11:47.23,0:11:50.94,Default,,0000,0000,0000,,In that case, answer my question!
+Dialogue: 0,0:11:50.94,0:11:51.83,Default,,0000,0000,0000,,Fine.
+Dialogue: 0,0:11:51.83,0:11:54.87,Default,,0000,0000,0000,,You each get to ask one question.
+Dialogue: 0,0:11:54.87,0:12:01.39,Default,,0000,0000,0000,,If one of the doors is correct, \Ntell me which door you’re guarding.
+Dialogue: 0,0:12:01.39,0:12:03.83,Default,,0000,0000,0000,,You... and you.
+Dialogue: 0,0:12:03.83,0:12:05.92,Default,,0000,0000,0000,,Which door are you guarding?
+Dialogue: 0,0:12:08.64,0:12:13.84,Default,,0000,0000,0000,,The truth-teller and the liar will \Nboth point to the correct door.
+Dialogue: 0,0:12:19.75,0:12:21.01,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:12:22.95,0:12:24.43,Default,,0000,0000,0000,,I did it, Yugi!
+Dialogue: 0,0:12:24.43,0:12:26.97,Default,,0000,0000,0000,,The Kyu door is the correct one!
+Dialogue: 0,0:12:26.97,0:12:29.47,Default,,0000,0000,0000,,Since we know which door \Nwe want, we got this!
+Dialogue: 0,0:12:32.10,0:12:36.26,Default,,0000,0000,0000,,Is the Kyu door really the correct one?
+Dialogue: 0,0:12:36.54,0:12:38.41,Default,,0000,0000,0000,,What’s wrong, Yugi?
+Dialogue: 0,0:12:38.41,0:12:39.83,Default,,0000,0000,0000,,You’re still suspicious?
+Dialogue: 0,0:12:39.83,0:12:43.70,Default,,0000,0000,0000,,From one point of view, \Nyour answer is correct.
+Dialogue: 0,0:12:44.75,0:12:49.43,Default,,0000,0000,0000,,However, I’m not sure you can \Ntrust what they say so easily.
+Dialogue: 0,0:12:49.91,0:12:51.43,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:12:51.71,0:12:56.26,Default,,0000,0000,0000,,I also know about the \Ntruth-telling town riddle.
+Dialogue: 0,0:12:56.26,0:13:00.72,Default,,0000,0000,0000,,But it’s dangerous to apply \Nthat to this situation.
+Dialogue: 0,0:13:02.06,0:13:09.96,Default,,0000,0000,0000,,The riddle would be different if the \Ntraveler met two villagers instead of one.
+Dialogue: 0,0:13:09.96,0:13:18.54,Default,,0000,0000,0000,,And if the two villagers said that one was from the \Ntruth-teller’s town and the other was from the liar’s town.
+Dialogue: 0,0:13:19.57,0:13:21.57,Default,,0000,0000,0000,,That part is suspicious.
+Dialogue: 0,0:13:23.83,0:13:29.52,Default,,0000,0000,0000,,If one was a liar, they’ll both say that \Nthey’re from the truth-teller’s town.
+Dialogue: 0,0:13:29.89,0:13:33.89,Default,,0000,0000,0000,,There’s also the possibility \Nthat they’re both liars.
+Dialogue: 0,0:13:34.41,0:13:39.16,Default,,0000,0000,0000,,If so, there’s no guarantee that \Nthere’s a town on either road.
+Dialogue: 0,0:13:40.09,0:13:41.90,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:13:42.10,0:13:43.90,Default,,0000,0000,0000,,Let’s continue the game.
+Dialogue: 0,0:13:43.90,0:13:46.27,Default,,0000,0000,0000,,Don’t be fooled by their words.
+Dialogue: 0,0:13:46.65,0:13:49.40,Default,,0000,0000,0000,,We’ll eventually figure \Nout which door is correct.
+Dialogue: 0,0:13:49.40,0:13:53.61,Default,,0000,0000,0000,,You’re right.  There’s no point \Nworrying about it for now.
+Dialogue: 0,0:13:56.35,0:13:57.79,Default,,0000,0000,0000,,Let’s continue the duel.
+Dialogue: 0,0:13:58.52,0:14:01.90,Default,,0000,0000,0000,,To defeat our opponents, \Nwe must enter the dungeon.
+Dialogue: 0,0:14:02.67,0:14:03.61,Default,,0000,0000,0000,,My turn.
+Dialogue: 0,0:14:03.61,0:14:06.94,Default,,0000,0000,0000,,I play Beaver Warrior in attack position.
+Dialogue: 0,0:14:10.86,0:14:13.30,Default,,0000,0000,0000,,You can’t attack us.
+Dialogue: 0,0:14:13.61,0:14:16.26,Default,,0000,0000,0000,,Move your monster equal to its Level.
+Dialogue: 0,0:14:16.45,0:14:18.01,Default,,0000,0000,0000,,It’s Level 4.
+Dialogue: 0,0:14:18.01,0:14:20.27,Default,,0000,0000,0000,,Beaver Warrior, move four spaces.
+Dialogue: 0,0:14:24.57,0:14:28.36,Default,,0000,0000,0000,,You’ll learn how terrifying \Nthe Labyrinth Field is.
+Dialogue: 0,0:14:28.36,0:14:30.11,Default,,0000,0000,0000,,It’s my turn.
+Dialogue: 0,0:14:30.11,0:14:38.01,Default,,0000,0000,0000,,I play Shadow Ghoul and Polymerization \Nto fuse it with Labyrinth Wall.
+Dialogue: 0,0:14:38.67,0:14:39.94,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:14:41.92,0:14:43.07,Default,,0000,0000,0000,,What’s this?
+Dialogue: 0,0:14:46.49,0:14:50.37,Default,,0000,0000,0000,,Wall Shadow, Labyrinth Slash!
+Dialogue: 0,0:14:52.37,0:14:54.17,Default,,0000,0000,0000,,Beaver Warrior is destroyed.
+Dialogue: 0,0:14:57.52,0:14:59.63,Default,,0000,0000,0000,,What is that?
+Dialogue: 0,0:15:04.59,0:15:05.91,Default,,0000,0000,0000,,Wall Shadow?
+Dialogue: 0,0:15:05.91,0:15:08.94,Default,,0000,0000,0000,,That wasn’t fair!  You can’t do that!
+Dialogue: 0,0:15:08.94,0:15:10.14,Default,,0000,0000,0000,,It was perfectly fair.
+Dialogue: 0,0:15:10.14,0:15:13.61,Default,,0000,0000,0000,,Wall Shadow didn’t move any \Nspaces.  It moved on the wall.
+Dialogue: 0,0:15:13.61,0:15:16.99,Default,,0000,0000,0000,,There are no spaces on the wall.
+Dialogue: 0,0:15:18.38,0:15:25.67,Default,,0000,0000,0000,,Wall Shadow can freely move along the labyrinth \Nwalls and destroy its enemy with a single swipe.
+Dialogue: 0,0:15:26.47,0:15:28.41,Default,,0000,0000,0000,,It’s a powerful enemy.
+Dialogue: 0,0:15:28.90,0:15:33.52,Default,,0000,0000,0000,,This labyrinth is like a giant \Nmonster that you’re trapped inside.
+Dialogue: 0,0:15:33.52,0:15:37.34,Default,,0000,0000,0000,,Correct.  You’ll never escape \Nthis labyrinth alive.
+Dialogue: 0,0:15:38.04,0:15:39.85,Default,,0000,0000,0000,,It’s my turn.
+Dialogue: 0,0:15:40.05,0:15:42.36,Default,,0000,0000,0000,,I play Axe Raider in attack position.
+Dialogue: 0,0:15:43.72,0:15:46.50,Default,,0000,0000,0000,,I set another card on the field.
+Dialogue: 0,0:15:50.71,0:15:57.90,Default,,0000,0000,0000,,But since it can’t attack an enemy that \Nit can’t see, it won’t move this turn.
+Dialogue: 0,0:15:57.90,0:16:01.00,Default,,0000,0000,0000,,It’ll wait here and stay away from the wall.
+Dialogue: 0,0:16:01.00,0:16:05.00,Default,,0000,0000,0000,,Therefore, it’ll be ready to attack \Nat any moment.  How’s that?
+Dialogue: 0,0:16:05.18,0:16:07.42,Default,,0000,0000,0000,,Good, Jonouchi.
+Dialogue: 0,0:16:07.42,0:16:12.54,Default,,0000,0000,0000,,As long as you stay away from the wall, \Nyou can avoid Wall Shadow’s attacks.
+Dialogue: 0,0:16:12.54,0:16:15.98,Default,,0000,0000,0000,,Yugi, watch my strategy.
+Dialogue: 0,0:16:15.98,0:16:19.96,Default,,0000,0000,0000,,I hope Jonouchi doesn’t screw up.
+Dialogue: 0,0:16:19.96,0:16:23.34,Default,,0000,0000,0000,,Don’t worry.  Yugi will back him up.
+Dialogue: 0,0:16:23.34,0:16:24.81,Default,,0000,0000,0000,,I hope you’re right.
+Dialogue: 0,0:16:25.43,0:16:30.32,Default,,0000,0000,0000,,In a tag match, they can gang \Nup on the weaker of the two.
+Dialogue: 0,0:16:30.32,0:16:32.21,Default,,0000,0000,0000,,My turn.
+Dialogue: 0,0:16:32.21,0:16:34.27,Default,,0000,0000,0000,,I set one card.
+Dialogue: 0,0:16:34.27,0:16:36.87,Default,,0000,0000,0000,,This is the trap card Jirai Gumo.
+Dialogue: 0,0:16:38.02,0:16:45.70,Default,,0000,0000,0000,,If you enter the labyrinth and land on \Ncertain spaces, Jirai Gumo will destroy it.
+Dialogue: 0,0:16:46.14,0:16:51.25,Default,,0000,0000,0000,,I also play Labyrinth Tank in attack \Nposition and move it seven spaces.
+Dialogue: 0,0:16:59.02,0:17:02.23,Default,,0000,0000,0000,,You can no longer escape from this labyrinth.
+Dialogue: 0,0:17:02.23,0:17:03.71,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:17:03.71,0:17:04.71,Default,,0000,0000,0000,,It’s my turn.
+Dialogue: 0,0:17:07.76,0:17:10.41,Default,,0000,0000,0000,,I play Celtic Guardian in attack position.
+Dialogue: 0,0:17:12.97,0:17:15.51,Default,,0000,0000,0000,,It moves four spaces into the labyrinth.
+Dialogue: 0,0:17:16.69,0:17:21.43,Default,,0000,0000,0000,,Celtic Guardian has fewer attack \Npoints than Wall Shadow.
+Dialogue: 0,0:17:21.43,0:17:22.81,Default,,0000,0000,0000,,It’ll also be destroyed.
+Dialogue: 0,0:17:22.81,0:17:25.23,Default,,0000,0000,0000,,You fool.  It’s my turn.
+Dialogue: 0,0:17:25.23,0:17:27.23,Default,,0000,0000,0000,,Wall Shadow attacks.
+Dialogue: 0,0:17:27.23,0:17:29.02,Default,,0000,0000,0000,,Attack Celtic Guardian!
+Dialogue: 0,0:17:31.79,0:17:33.52,Default,,0000,0000,0000,,It’ll die in vain.
+Dialogue: 0,0:17:33.52,0:17:36.24,Default,,0000,0000,0000,,Celtic Guardian is finished!
+Dialogue: 0,0:17:40.87,0:17:41.97,Default,,0000,0000,0000,,You fell for it.
+Dialogue: 0,0:17:41.97,0:17:43.16,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:17:44.94,0:17:46.23,Default,,0000,0000,0000,,What’s this?
+Dialogue: 0,0:17:46.63,0:17:48.44,Default,,0000,0000,0000,,Kunai with Chain.
+Dialogue: 0,0:17:48.76,0:17:52.59,Default,,0000,0000,0000,,Impossible!  He captured Wall Shadow?
+Dialogue: 0,0:17:53.83,0:17:59.39,Default,,0000,0000,0000,,I set the card Kunai with Chain, \Nwhich captures an attacking monster.
+Dialogue: 0,0:17:59.39,0:18:02.63,Default,,0000,0000,0000,,I played this trap card to help Yugi.
+Dialogue: 0,0:18:02.63,0:18:09.07,Default,,0000,0000,0000,,Celtic Guardian also gains 500 attack \Npoints, so it’s now stronger than Wall Shadow.
+Dialogue: 0,0:18:16.20,0:18:18.41,Default,,0000,0000,0000,,Wall Shadow is destroyed!
+Dialogue: 0,0:18:20.21,0:18:21.52,Default,,0000,0000,0000,,They did it!
+Dialogue: 0,0:18:21.52,0:18:24.76,Default,,0000,0000,0000,,Yeah.  They’re a good combo.
+Dialogue: 0,0:18:24.76,0:18:28.95,Default,,0000,0000,0000,,Jonouchi, you really have become stronger.
+Dialogue: 0,0:18:28.95,0:18:32.23,Default,,0000,0000,0000,,This battle has only begun.
+Dialogue: 0,0:18:32.88,0:18:35.16,Default,,0000,0000,0000,,That’s right!  Let’s continue the duel!
+Dialogue: 0,0:18:35.61,0:18:39.66,Default,,0000,0000,0000,,We’ll show you that we’re \Nthe greatest tag team.
+Dialogue: 0,0:18:39.66,0:18:41.21,Default,,0000,0000,0000,,Let’s go, Yugi!
+Dialogue: 0,0:18:41.21,0:18:44.43,Default,,0000,0000,0000,,Yeah!  We’ll win with the power of teamwork!
+Dialogue: 0,0:18:50.90,0:18:52.71,Default,,0000,0000,0000,,Fantastic.
+Dialogue: 0,0:18:52.71,0:18:54.87,Default,,0000,0000,0000,,That was wonderful.
+Dialogue: 0,0:18:54.87,0:18:57.79,Default,,0000,0000,0000,,I can’t wait to see what happens next.
+Dialogue: 0,0:19:00.50,0:19:01.65,Default,,0000,0000,0000,,Pardon me.
+Dialogue: 0,0:19:02.92,0:19:05.70,Default,,0000,0000,0000,,We’ve been searching for Kaiba...
+Dialogue: 0,0:19:06.06,0:19:10.09,Default,,0000,0000,0000,,I can tell that you haven’t found him yet.
+Dialogue: 0,0:19:10.09,0:19:11.82,Default,,0000,0000,0000,,I’m terribly sorry.
+Dialogue: 0,0:19:11.82,0:19:14.32,Default,,0000,0000,0000,,We are continuing our search.
+Dialogue: 0,0:19:14.32,0:19:16.36,Default,,0000,0000,0000,,Please wait a bit longer.
+Dialogue: 0,0:19:17.32,0:19:18.85,Default,,0000,0000,0000,,I don’t mind.
+Dialogue: 0,0:19:18.85,0:19:23.03,Default,,0000,0000,0000,,Kaiba boy will come here sooner or later.
+Dialogue: 0,0:19:23.81,0:19:25.21,Default,,0000,0000,0000,,He definitely will.
+Dialogue: 0,0:19:31.74,0:19:33.52,Default,,0000,0000,0000,,Pull yourself together!
+Dialogue: 0,0:19:33.52,0:19:37.34,Default,,0000,0000,0000,,I can’t lose heart.  It’ll be fine.
+Dialogue: 0,0:19:37.34,0:19:40.05,Default,,0000,0000,0000,,My brother will come for me.
+Dialogue: 0,0:19:40.05,0:19:40.76,Default,,0000,0000,0000,,That’s right.
+Dialogue: 0,0:19:41.62,0:19:43.58,Default,,0000,0000,0000,,Give it back!
+Dialogue: 0,0:19:43.58,0:19:47.89,Default,,0000,0000,0000,,My brother has always come for me.
+Dialogue: 0,0:19:53.85,0:19:56.81,Default,,0000,0000,0000,,Big brother, I won’t give in.
+Dialogue: 0,0:19:57.79,0:20:00.41,Default,,0000,0000,0000,,I won’t give him the key.
+Dialogue: 0,0:20:01.03,0:20:04.81,Default,,0000,0000,0000,,I’ll protect Kaiba Corporation.
+Dialogue: 0,0:20:09.07,0:20:12.27,Default,,0000,0000,0000,,I’m coming, Mokuba.
+Dialogue: 0,0:20:26.10,0:20:32.31,Default,,0000,0000,0000,,Yugi and Jonouchi destroy the traps in \Nthe Labyrinth Field with their combos.
+Dialogue: 0,0:20:32.31,0:20:37.05,Default,,0000,0000,0000,,You’re awesome!  With your teamwork, \Nyou’ll quickly escape this labyrinth!
+Dialogue: 0,0:20:37.05,0:20:40.03,Default,,0000,0000,0000,,But they won’t let us win so easily.
+Dialogue: 0,0:20:40.03,0:20:43.64,Default,,0000,0000,0000,,Look!  A gigantic monster is \Ncoming out of the three boxes!
+Dialogue: 0,0:20:43.64,0:20:46.93,Default,,0000,0000,0000,,That’s Gate Guardian, the \NLabyrinth Brothers’ trump card!
+Dialogue: 0,0:20:46.93,0:20:50.60,Default,,0000,0000,0000,,Next time on Yu-Gi-Oh!:\NThree Gods Combine!\NGate Guardian
+Dialogue: 0,0:20:50.60,0:20:52.43,Default,,0000,0000,0000,,Duel, standby!
+Dialogue: 0,0:20:54.76,0:21:03.16,Default,,0000,0000,0000,,The flask glistens
+Dialogue: 0,0:21:04.20,0:21:11.01,Default,,0000,0000,0000,,Wait for me in the science classroom
+Dialogue: 0,0:21:11.50,0:21:19.99,Default,,0000,0000,0000,,If we put our cold hands together
+Dialogue: 0,0:21:20.69,0:21:27.76,Default,,0000,0000,0000,,And rub them together, they become warm
+Dialogue: 0,0:21:29.46,0:21:33.59,Default,,0000,0000,0000,,Shower of happiness
+Dialogue: 0,0:21:33.88,0:21:37.71,Default,,0000,0000,0000,,I will shower you with it
+Dialogue: 0,0:21:38.03,0:21:45.98,Default,,0000,0000,0000,,I will support you even when you feel lonely
+Dialogue: 0,0:21:46.18,0:21:50.22,Default,,0000,0000,0000,,Shower of happiness
+Dialogue: 0,0:21:50.48,0:21:54.34,Default,,0000,0000,0000,,You are not alone
+Dialogue: 0,0:21:54.72,0:22:01.06,Default,,0000,0000,0000,,You’re protected by a \Ngiant ring of friendship

@@ -1,0 +1,351 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: 4kmedia  [http://www.crunchyroll.com/user/4kmedia]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 480
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,EquitanSans-Regular,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,25,1
+Style: note,Arial,20,&H0014F2F5,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Yu-Gi-Oh Yellow,Trebuchet MS,28,&H0000FFFF,&H0000FFFF,&H00232323,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+Style: Yu-Gi-Oh,Trebuchet MS,28,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:11.39,0:00:19.83,Default,,0000,0000,0000,,A light so bright that it can’t be hidden\NBreaks the silence and resurrects in this world
+Dialogue: 0,0:00:21.45,0:00:30.52,Default,,0000,0000,0000,,The dry land quakes violently\NSparks clash as we risk our lives
+Dialogue: 0,0:00:32.18,0:00:38.39,Default,,0000,0000,0000,,Let a miracle occur, just one more time
+Dialogue: 0,0:00:38.39,0:00:45.44,Default,,0000,0000,0000,,The power to regain the pages of memories I lost long ago
+Dialogue: 0,0:00:46.35,0:00:53.65,Default,,0000,0000,0000,,The trusting heart pierces the darkness\NSearch for the place where the soul rests
+Dialogue: 0,0:00:53.65,0:00:59.70,Default,,0000,0000,0000,,The sharp glint in my unblinking eye burns
+Dialogue: 0,0:01:00.08,0:01:07.42,Default,,0000,0000,0000,,Two souls - light and shadow\NTo the future shown in the crystal
+Dialogue: 0,0:01:07.42,0:01:13.76,Default,,0000,0000,0000,,Now moving  Overflowing in red  eyes
+Dialogue: 0,0:01:27.27,0:01:32.17,Default,,0000,0000,0000,,In exchange for plane fare, we entered the KC Grand Prix duel tournament.
+Dialogue: 0,0:01:32.17,0:01:38.18,Default,,0000,0000,0000,,I don’t like being used as a promotional tool for Kaiba, but it’s nice to duel for fun.
+Dialogue: 0,0:01:38.82,0:01:43.48,Default,,0000,0000,0000,,My opponent is the annoying Sieg Lloyd.
+Dialogue: 0,0:01:43.86,0:01:48.92,Default,,0000,0000,0000,,He looks down on others, but I’ll put him in his place in this duel!
+Dialogue: 0,0:01:51.00,0:01:57.01,Default,,0000,0000,0000,,Goddess of Monster Destruction
+Dialogue: 0,0:02:01.47,0:02:03.50,Default,,0000,0000,0000,,I activate my spell card!
+Dialogue: 0,0:02:05.38,0:02:07.39,Default,,0000,0000,0000,,Ride of the Valkyries!
+Dialogue: 0,0:02:10.77,0:02:16.18,Default,,0000,0000,0000,,This card Special Summons all Valkyries in my hand.
+Dialogue: 0,0:02:17.32,0:02:20.74,Default,,0000,0000,0000,,Descend, my fighting maidens!
+Dialogue: 0,0:02:33.48,0:02:36.46,Default,,0000,0000,0000,,He instantly summoned four monsters!
+Dialogue: 0,0:02:36.46,0:02:39.77,Default,,0000,0000,0000,,It’s too late to regret this.
+Dialogue: 0,0:02:39.77,0:02:40.68,Default,,0000,0000,0000,,Watch!
+Dialogue: 0,0:02:40.68,0:02:44.10,Default,,0000,0000,0000,,I activate Valkyrie Zweite’s effect!
+Dialogue: 0,0:02:44.10,0:02:49.60,Default,,0000,0000,0000,,When it’s summoned, one of your monsters is destroyed.
+Dialogue: 0,0:02:55.78,0:02:59.74,Default,,0000,0000,0000,,I activate Valkyrie Erste’s effect.
+Dialogue: 0,0:02:59.74,0:03:03.23,Default,,0000,0000,0000,,By removing one of your monsters from play-
+Dialogue: 0,0:03:03.23,0:03:06.70,Default,,0000,0000,0000,,Of course I’m talking about your Jinzo.
+Dialogue: 0,0:03:07.35,0:03:12.63,Default,,0000,0000,0000,,My monster uses those attack points to attack with this turn.
+Dialogue: 0,0:03:12.63,0:03:13.75,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:03:13.75,0:03:16.46,Default,,0000,0000,0000,,You have no time to mourn for your monster.
+Dialogue: 0,0:03:16.46,0:03:20.93,Default,,0000,0000,0000,,Valkyrie Erste, attack him directly!
+Dialogue: 0,0:03:20.93,0:03:22.84,Default,,0000,0000,0000,,Watch out, Jonouchi!
+Dialogue: 0,0:03:23.76,0:03:24.93,Default,,0000,0000,0000,,Jonouchi!
+Dialogue: 0,0:03:26.64,0:03:30.71,Default,,0000,0000,0000,,The three Valkyrie Zweites also attack you directly!
+Dialogue: 0,0:03:35.36,0:03:37.47,Default,,0000,0000,0000,,Jonouchi!
+Dialogue: 0,0:03:37.47,0:03:40.79,Default,,0000,0000,0000,,I told you that you’re no match for me.
+Dialogue: 0,0:03:43.78,0:03:45.91,Default,,0000,0000,0000,,Too bad, but I haven’t lost yet!
+Dialogue: 0,0:03:45.91,0:03:47.65,Default,,0000,0000,0000,,Jonouchi!
+Dialogue: 0,0:03:47.65,0:03:50.82,Default,,0000,0000,0000,,Impossible!  You should have no life points left!
+Dialogue: 0,0:03:50.82,0:03:55.23,Default,,0000,0000,0000,,During your first attack, I activated this!
+Dialogue: 0,0:03:55.23,0:03:57.96,Default,,0000,0000,0000,,The spell card, Hyper Refresh!
+Dialogue: 0,0:03:57.96,0:04:00.53,Default,,0000,0000,0000,,I can activate it when I have no monsters...
+Dialogue: 0,0:04:00.53,0:04:06.15,Default,,0000,0000,0000,,...and your monsters’ total attack points are greater than my life points.
+Dialogue: 0,0:04:06.15,0:04:08.56,Default,,0000,0000,0000,,It doubles my life points!
+Dialogue: 0,0:04:09.88,0:04:12.89,Default,,0000,0000,0000,,How’s that!  I’m pretty tough!
+Dialogue: 0,0:04:14.10,0:04:15.89,Default,,0000,0000,0000,,Your resistance is pointless.
+Dialogue: 0,0:04:15.89,0:04:18.32,Default,,0000,0000,0000,,I set one card.
+Dialogue: 0,0:04:18.32,0:04:20.49,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:04:20.49,0:04:27.19,Default,,0000,0000,0000,,The Valkyries I Special Summoned using Ride of the Valkyries return to my deck at the end of the turn.
+Dialogue: 0,0:04:29.57,0:04:33.64,Default,,0000,0000,0000,,Take a break, my Valkyries.
+Dialogue: 0,0:04:34.48,0:04:39.46,Default,,0000,0000,0000,,You may act cool, but you have no monsters on your field to protect you!
+Dialogue: 0,0:04:39.46,0:04:41.17,Default,,0000,0000,0000,,I’ll end you next turn!
+Dialogue: 0,0:04:46.31,0:04:49.63,Default,,0000,0000,0000,,Cutting data influx.  Protocol shutdown.
+Dialogue: 0,0:04:49.63,0:04:51.16,Default,,0000,0000,0000,,Erasing memory.
+Dialogue: 0,0:04:51.16,0:04:54.19,Default,,0000,0000,0000,,Access standby.  Download complete.
+Dialogue: 0,0:04:54.19,0:04:56.53,Default,,0000,0000,0000,,I won’t let you do whatever you want!
+Dialogue: 0,0:05:01.63,0:05:02.83,Default,,0000,0000,0000,,It’s back to normal.
+Dialogue: 0,0:05:02.83,0:05:05.43,Default,,0000,0000,0000,,Okay!  My turn!
+Dialogue: 0,0:05:06.62,0:05:09.15,Default,,0000,0000,0000,,- It stopped!\N-The system’s restored!
+Dialogue: 0,0:05:09.15,0:05:10.71,Default,,0000,0000,0000,,It’s fixed!
+Dialogue: 0,0:05:14.19,0:05:15.48,Default,,0000,0000,0000,,It stopped.
+Dialogue: 0,0:05:15.48,0:05:17.46,Default,,0000,0000,0000,,It’s finally quiet.
+Dialogue: 0,0:05:17.46,0:05:19.13,Default,,0000,0000,0000,,Something is definitely wrong.
+Dialogue: 0,0:05:19.13,0:05:21.75,Default,,0000,0000,0000,,I’m going to my brother!
+Dialogue: 0,0:05:22.31,0:05:27.29,Default,,0000,0000,0000,,This was a simple trick for Kaiba to fix.
+Dialogue: 0,0:05:27.29,0:05:30.19,Default,,0000,0000,0000,,But will he be able to find me?
+Dialogue: 0,0:05:32.62,0:05:39.23,Default,,0000,0000,0000,,You need great intellect and skill to break into Kaiba Corporation’s main computer.
+Dialogue: 0,0:05:40.98,0:05:42.53,Default,,0000,0000,0000,,It bothers me.
+Dialogue: 0,0:05:49.01,0:05:53.51,Default,,0000,0000,0000,,Isono, carefully check Sieg Lloyd’s background.
+Dialogue: 0,0:05:53.51,0:05:57.46,Default,,0000,0000,0000,,Especially if there’s a connection with Germany’s Schroeder family.
+Dialogue: 0,0:05:57.46,0:05:59.19,Default,,0000,0000,0000,,The Schroeder family?
+Dialogue: 0,0:05:59.19,0:06:06.53,Default,,0000,0000,0000,,I met him a long time ago at a lame party that Gozaburo held to form economic ties in Europe.
+Dialogue: 0,0:06:07.89,0:06:12.53,Default,,0000,0000,0000,,He would’ve been able to do these things.
+Dialogue: 0,0:06:14.66,0:06:17.61,Default,,0000,0000,0000,,Go for it, Jonouchi!
+Dialogue: 0,0:06:18.05,0:06:20.52,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:06:21.65,0:06:25.58,Default,,0000,0000,0000,,I summon Swordsman of Landstar in attack position!
+Dialogue: 0,0:06:26.76,0:06:27.69,Default,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:06:27.69,0:06:30.43,Default,,0000,0000,0000,,Swordsman of Landstar attacks you directly!
+Dialogue: 0,0:06:30.95,0:06:33.69,Default,,0000,0000,0000,,I activate my trap card.
+Dialogue: 0,0:06:34.16,0:06:36.08,Default,,0000,0000,0000,,Fricka’s Mediation.
+Dialogue: 0,0:06:36.08,0:06:40.99,Default,,0000,0000,0000,,By removing Wotan’s Judgment in my graveyard from play...
+Dialogue: 0,0:06:40.99,0:06:43.76,Default,,0000,0000,0000,,...I negate battle damage this turn.
+Dialogue: 0,0:06:44.94,0:06:47.87,Default,,0000,0000,0000,,I won’t let you touch me anymore.
+Dialogue: 0,0:06:47.87,0:06:51.40,Default,,0000,0000,0000,,I set one card and end my turn.
+Dialogue: 0,0:06:53.07,0:06:54.41,Default,,0000,0000,0000,,My turn.
+Dialogue: 0,0:06:57.41,0:07:00.31,Default,,0000,0000,0000,,It seems fate loves me.
+Dialogue: 0,0:07:02.05,0:07:05.05,Default,,0000,0000,0000,,I activate a spell card from my hand.
+Dialogue: 0,0:07:05.44,0:07:07.15,Default,,0000,0000,0000,,Nibelung’s Treasure.
+Dialogue: 0,0:07:07.15,0:07:13.90,Default,,0000,0000,0000,,It lets me take Nibelung’s Ring from my deck and place it on your field.
+Dialogue: 0,0:07:13.90,0:07:17.55,Default,,0000,0000,0000,,I equip Nibelung’s Ring on your monster.
+Dialogue: 0,0:07:18.69,0:07:21.37,Default,,0000,0000,0000,,And I draw five cards.
+Dialogue: 0,0:07:22.09,0:07:23.82,Default,,0000,0000,0000,,What’s with this ring?
+Dialogue: 0,0:07:23.82,0:07:27.49,Default,,0000,0000,0000,,I activate a spell card from my hand.
+Dialogue: 0,0:07:27.49,0:07:31.13,Default,,0000,0000,0000,,The three goddess sisters who control destiny...
+Dialogue: 0,0:07:31.79,0:07:35.23,Default,,0000,0000,0000,,Spin the threads of the past, present and future.
+Dialogue: 0,0:07:35.23,0:07:37.75,Default,,0000,0000,0000,,The three Norn sisters, come forth!
+Dialogue: 0,0:07:37.75,0:07:41.48,Default,,0000,0000,0000,,The Continuous Spells, Goddess Urd’s Verdict!
+Dialogue: 0,0:07:41.48,0:07:44.19,Default,,0000,0000,0000,,Goddess Verdande’s Guidance!
+Dialogue: 0,0:07:44.65,0:07:47.13,Default,,0000,0000,0000,,Goddess Skuld’s Oracle!
+Dialogue: 0,0:07:47.82,0:07:49.56,Default,,0000,0000,0000,,Three goddesses?
+Dialogue: 0,0:07:49.56,0:07:52.56,Default,,0000,0000,0000,,Goddess Skuld controls the future.
+Dialogue: 0,0:07:52.56,0:07:55.00,Default,,0000,0000,0000,,Show me what future comes!
+Dialogue: 0,0:07:57.94,0:08:04.96,Default,,0000,0000,0000,,Once per turn, I can see the top three cards in your deck and rearrange them.
+Dialogue: 0,0:08:04.96,0:08:06.69,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:08:06.69,0:08:09.84,Default,,0000,0000,0000,,What’s he going to do by looking at his opponent’s deck?
+Dialogue: 0,0:08:14.89,0:08:17.94,Default,,0000,0000,0000,,I’ll change the order of those three cards.
+Dialogue: 0,0:08:17.94,0:08:20.93,Default,,0000,0000,0000,,Put the second card on top.
+Dialogue: 0,0:08:22.22,0:08:25.36,Default,,0000,0000,0000,,What’s he planning to do?
+Dialogue: 0,0:08:25.36,0:08:29.18,Default,,0000,0000,0000,,Next, Goddess Verdande controls the present.
+Dialogue: 0,0:08:30.30,0:08:36.08,Default,,0000,0000,0000,,Once per turn, I guess the type of the top card in your deck.
+Dialogue: 0,0:08:36.08,0:08:37.82,Default,,0000,0000,0000,,If I’m correct...
+Dialogue: 0,0:08:38.46,0:08:41.70,Default,,0000,0000,0000,,It must be set on your field.
+Dialogue: 0,0:08:41.70,0:08:42.35,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:08:42.35,0:08:46.78,Default,,0000,0000,0000,,The top card in your deck is a monster card!
+Dialogue: 0,0:08:46.78,0:08:49.79,Default,,0000,0000,0000,,You know because you saw it!
+Dialogue: 0,0:08:49.79,0:08:53.01,Default,,0000,0000,0000,,The monster is summoned facedown in defense position.
+Dialogue: 0,0:08:53.81,0:08:54.72,Default,,0000,0000,0000,,Fine!
+Dialogue: 0,0:08:56.82,0:08:59.43,Default,,0000,0000,0000,,Urd controls the past.
+Dialogue: 0,0:08:59.43,0:09:01.99,Default,,0000,0000,0000,,Show me how this fool looks.
+Dialogue: 0,0:09:02.84,0:09:07.37,Default,,0000,0000,0000,,Once per turn, I guess your set card.
+Dialogue: 0,0:09:07.37,0:09:11.43,Default,,0000,0000,0000,,If I’m correct, that card is removed from play.
+Dialogue: 0,0:09:11.43,0:09:12.31,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:09:12.31,0:09:13.56,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:09:13.56,0:09:15.31,Default,,0000,0000,0000,,Of course he’ll get it right!
+Dialogue: 0,0:09:15.31,0:09:16.94,Default,,0000,0000,0000,,This isn’t fair!
+Dialogue: 0,0:09:16.94,0:09:20.65,Default,,0000,0000,0000,,The set card is Panther Warrior.
+Dialogue: 0,0:09:21.69,0:09:23.85,Default,,0000,0000,0000,,Go to Valhalla!
+Dialogue: 0,0:09:26.50,0:09:28.80,Default,,0000,0000,0000,,My Panther Warrior...
+Dialogue: 0,0:09:28.80,0:09:32.09,Default,,0000,0000,0000,,First Jinzo, now Panther Warrior!
+Dialogue: 0,0:09:32.09,0:09:34.05,Default,,0000,0000,0000,,All his powerful monsters!
+Dialogue: 0,0:09:34.05,0:09:35.77,Default,,0000,0000,0000,,This is bad!
+Dialogue: 0,0:09:36.34,0:09:38.77,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:09:38.77,0:09:43.06,Default,,0000,0000,0000,,What’s wrong?  Learned how powerless you are against my gods?
+Dialogue: 0,0:09:43.47,0:09:46.86,Default,,0000,0000,0000,,Damn!  Such annoying moves!
+Dialogue: 0,0:09:46.86,0:09:49.17,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:09:49.17,0:09:52.29,Default,,0000,0000,0000,,Nibelung’s Ring now activates!
+Dialogue: 0,0:09:52.29,0:09:53.45,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:09:53.45,0:09:58.76,Default,,0000,0000,0000,,You no longer control the monster equipped with that card.
+Dialogue: 0,0:09:59.40,0:10:02.72,Default,,0000,0000,0000,,But you can draw two cards during your Draw Phase.
+Dialogue: 0,0:10:02.72,0:10:04.94,Default,,0000,0000,0000,,Doesn’t that benefit me?
+Dialogue: 0,0:10:04.94,0:10:06.62,Default,,0000,0000,0000,,What are you thinking?
+Dialogue: 0,0:10:07.55,0:10:08.59,Default,,0000,0000,0000,,You think it does?
+Dialogue: 0,0:10:12.38,0:10:15.02,Default,,0000,0000,0000,,There’s no point feeling confused!
+Dialogue: 0,0:10:15.02,0:10:15.67,Default,,0000,0000,0000,,I draw!
+Dialogue: 0,0:10:16.13,0:10:18.35,Default,,0000,0000,0000,,You’ve been cursed by the gods.
+Dialogue: 0,0:10:18.76,0:10:20.85,Default,,0000,0000,0000,,You can no longer escape!
+Dialogue: 0,0:10:20.85,0:10:21.51,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:10:21.97,0:10:24.51,Default,,0000,0000,0000,,Due to Nibelung’s Ring’s effect...
+Dialogue: 0,0:10:24.51,0:10:29.95,Default,,0000,0000,0000,,...if you drew a monster card, you must discard one monster.
+Dialogue: 0,0:10:29.95,0:10:31.55,Default,,0000,0000,0000,,Say what?
+Dialogue: 0,0:10:31.55,0:10:34.35,Default,,0000,0000,0000,,Goddess Skuld sees the future.
+Dialogue: 0,0:10:34.35,0:10:40.01,Default,,0000,0000,0000,,One of your cards is a monster card - Knight of Dark Dragon.
+Dialogue: 0,0:10:41.38,0:10:43.79,Default,,0000,0000,0000,,Send it to the graveyard.
+Dialogue: 0,0:10:45.55,0:10:49.47,Default,,0000,0000,0000,,If nothing changes, Jonouchi can’t use his monster cards.
+Dialogue: 0,0:10:50.24,0:10:55.20,Default,,0000,0000,0000,,His deck uses Goddess combos to remove cards from his opponent’s deck...
+Dialogue: 0,0:10:55.20,0:11:00.46,Default,,0000,0000,0000,,...make sure they can’t be revived, and use Nibelung’s Ring to send more monsters to the graveyard.
+Dialogue: 0,0:11:00.46,0:11:02.47,Default,,0000,0000,0000,,It’s a card destruction deck.
+Dialogue: 0,0:11:19.65,0:11:23.85,Default,,0000,0000,0000,,Even if I draw a monster card, it’ll be removed before it comes to my hand.
+Dialogue: 0,0:11:23.85,0:11:26.40,Default,,0000,0000,0000,,And he knows what cards are in my hand.
+Dialogue: 0,0:11:26.40,0:11:31.19,Default,,0000,0000,0000,,Unless I can draw a card without him knowing what it is, I can’t win.
+Dialogue: 0,0:11:31.70,0:11:34.46,Default,,0000,0000,0000,,I activate a spell card from my hand!
+Dialogue: 0,0:11:35.66,0:11:39.07,Default,,0000,0000,0000,,The Continuous Spell, Dangerous Machine Type-6!
+Dialogue: 0,0:11:39.63,0:11:43.23,Default,,0000,0000,0000,,During each of my Standby Phases, I pull the slot machine!
+Dialogue: 0,0:11:43.23,0:11:46.50,Default,,0000,0000,0000,,Depending on the number I get, a different effect activates!
+Dialogue: 0,0:11:46.50,0:11:49.00,Default,,0000,0000,0000,,I’m luckier than most people!
+Dialogue: 0,0:11:49.00,0:11:51.40,Default,,0000,0000,0000,,They say luck is a part of skill!
+Dialogue: 0,0:11:51.40,0:11:53.39,Default,,0000,0000,0000,,He shouldn’t admit that.
+Dialogue: 0,0:11:53.39,0:11:57.06,Default,,0000,0000,0000,,You think you can win with luck only?
+Dialogue: 0,0:11:57.06,0:11:59.83,Default,,0000,0000,0000,,When fate loves me?
+Dialogue: 0,0:11:59.83,0:12:03.30,Default,,0000,0000,0000,,You’re gonna find out next turn!
+Dialogue: 0,0:12:03.30,0:12:04.48,Default,,0000,0000,0000,,I end my turn!
+Dialogue: 0,0:12:04.48,0:12:07.07,Default,,0000,0000,0000,,My turn.  I draw.
+Dialogue: 0,0:12:07.50,0:12:10.28,Default,,0000,0000,0000,,I activate the three sister goddesses’ effects.
+Dialogue: 0,0:12:11.95,0:12:15.03,Default,,0000,0000,0000,,Place the second card on top.
+Dialogue: 0,0:12:17.46,0:12:22.14,Default,,0000,0000,0000,,The top card is the monster card, Goblin Attack Force.
+Dialogue: 0,0:12:28.22,0:12:30.14,Default,,0000,0000,0000,,Another monster is gone.
+Dialogue: 0,0:12:30.14,0:12:31.88,Default,,0000,0000,0000,,Jonouchi...
+Dialogue: 0,0:12:31.88,0:12:36.07,Default,,0000,0000,0000,,I set a card and end my turn.
+Dialogue: 0,0:12:36.07,0:12:39.06,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:12:39.06,0:12:41.40,Default,,0000,0000,0000,,You must’ve drawn a monster card.
+Dialogue: 0,0:12:41.40,0:12:43.30,Default,,0000,0000,0000,,Discard it.
+Dialogue: 0,0:12:44.08,0:12:50.47,Default,,0000,0000,0000,,But my Continuous Spell, Dangerous Machine Type-6 activates!
+Dialogue: 0,0:12:53.43,0:12:54.44,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:12:54.44,0:12:58.14,Default,,0000,0000,0000,,3 lets me draw a card.
+Dialogue: 0,0:12:58.14,0:13:01.42,Default,,0000,0000,0000,,And the other card I drew was also a monster card!
+Dialogue: 0,0:13:03.14,0:13:07.08,Default,,0000,0000,0000,,I summon Sasuke Samurai in attack position!
+Dialogue: 0,0:13:10.71,0:13:12.73,Default,,0000,0000,0000,,No matter what you do, it’s pointless.
+Dialogue: 0,0:13:13.68,0:13:17.24,Default,,0000,0000,0000,,I activate my Continuous Trap, Loge’s Flame.
+Dialogue: 0,0:13:18.83,0:13:19.76,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:13:20.22,0:13:26.71,Default,,0000,0000,0000,,As long as it’s on the field, monsters with 2000 or lower attack points can’t attack.
+Dialogue: 0,0:13:26.71,0:13:29.71,Default,,0000,0000,0000,,But I’ll also activate my set card!
+Dialogue: 0,0:13:30.39,0:13:31.96,Default,,0000,0000,0000,,Graceful Dice!
+Dialogue: 0,0:13:31.96,0:13:37.59,Default,,0000,0000,0000,,A monster with 500 or lower attack points has it multiplied by the number I roll!
+Dialogue: 0,0:13:39.28,0:13:42.98,Default,,0000,0000,0000,,Let’s see who’s luckier - me or you!
+Dialogue: 0,0:13:43.54,0:13:45.43,Default,,0000,0000,0000,,If he rolls a 5 or 6, he wins!
+Dialogue: 0,0:13:45.43,0:13:46.12,Default,,0000,0000,0000,,Please work!
+Dialogue: 0,0:13:51.96,0:13:55.73,Default,,0000,0000,0000,,Fate loves me instead of you.
+Dialogue: 0,0:14:00.54,0:14:01.99,Default,,0000,0000,0000,,No way...
+Dialogue: 0,0:14:01.99,0:14:04.84,Default,,0000,0000,0000,,I couldn’t do a thing.
+Dialogue: 0,0:14:07.32,0:14:10.98,Default,,0000,0000,0000,,Darling, are you watching?  I won!
+Dialogue: 0,0:14:15.61,0:14:19.18,Default,,0000,0000,0000,,Damn!  I can’t believe I lost at luck!
+Dialogue: 0,0:14:19.18,0:14:23.08,Default,,0000,0000,0000,,But on the bright side, he didn’t see what this trap card was.
+Dialogue: 0,0:14:23.72,0:14:27.06,Default,,0000,0000,0000,,I set a card and end my turn!
+Dialogue: 0,0:14:28.01,0:14:29.73,Default,,0000,0000,0000,,My turn.  I draw.
+Dialogue: 0,0:14:29.73,0:14:31.77,Default,,0000,0000,0000,,I activate my goddess combo.
+Dialogue: 0,0:14:33.50,0:14:35.85,Default,,0000,0000,0000,,Place the second card on top.
+Dialogue: 0,0:14:40.54,0:14:44.91,Default,,0000,0000,0000,,Another monster’s soul is sent to Valhalla.
+Dialogue: 0,0:14:45.82,0:14:48.20,Default,,0000,0000,0000,,I activate my spell card!
+Dialogue: 0,0:14:48.20,0:14:49.91,Default,,0000,0000,0000,,Swan Maiden!
+Dialogue: 0,0:14:49.91,0:14:54.50,Default,,0000,0000,0000,,It Special Summons a Valkyrie from my hand.
+Dialogue: 0,0:14:56.16,0:14:58.86,Default,,0000,0000,0000,,Valkyrie Erste, attack!
+Dialogue: 0,0:14:59.80,0:15:01.10,Default,,0000,0000,0000,,Jonouchi!
+Dialogue: 0,0:15:01.10,0:15:02.03,Default,,0000,0000,0000,,Jonouchi!
+Dialogue: 0,0:15:02.03,0:15:04.10,Default,,0000,0000,0000,,It’s truly over this time.
+Dialogue: 0,0:15:06.63,0:15:08.10,Default,,0000,0000,0000,,I don’t think so!
+Dialogue: 0,0:15:08.10,0:15:11.25,Default,,0000,0000,0000,,I activate my trap, Silver Dollar!
+Dialogue: 0,0:15:12.08,0:15:17.74,Default,,0000,0000,0000,,It erases the damage to a monster with 1000 or lower attack points!
+Dialogue: 0,0:15:18.78,0:15:21.72,Default,,0000,0000,0000,,How’s that!  I won’t lose that easily!
+Dialogue: 0,0:15:23.21,0:15:26.09,Default,,0000,0000,0000,,But hope never lasts for long.
+Dialogue: 0,0:15:26.09,0:15:30.37,Default,,0000,0000,0000,,Fine.  I’ll set one card and end my turn.
+Dialogue: 0,0:15:30.37,0:15:32.10,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:15:34.25,0:15:36.56,Default,,0000,0000,0000,,One of them is a monster card.
+Dialogue: 0,0:15:37.51,0:15:41.70,Default,,0000,0000,0000,,But I activate Dangerous Machine Type-6’s effect!
+Dialogue: 0,0:15:46.37,0:15:47.48,Default,,0000,0000,0000,,It’s another 3!
+Dialogue: 0,0:15:47.48,0:15:48.64,Default,,0000,0000,0000,,I draw one card!
+Dialogue: 0,0:15:49.71,0:15:52.93,Default,,0000,0000,0000,,All right!  I haven’t run out of luck yet!
+Dialogue: 0,0:15:52.93,0:15:56.58,Default,,0000,0000,0000,,I activate the spell card, Roll of Fate from my hand!
+Dialogue: 0,0:15:57.41,0:16:03.53,Default,,0000,0000,0000,,I draw cards equal to the number I roll, and remove the same amount from my deck!
+Dialogue: 0,0:16:04.48,0:16:06.19,Default,,0000,0000,0000,,All right!  It’s a 6!
+Dialogue: 0,0:16:08.22,0:16:09.14,Default,,0000,0000,0000,,I’ll use this!
+Dialogue: 0,0:16:09.80,0:16:11.16,Default,,0000,0000,0000,,The spell card, Giant Trunade!
+Dialogue: 0,0:16:11.16,0:16:15.23,Default,,0000,0000,0000,,All spell and trap cards return to our hands!
+Dialogue: 0,0:16:18.27,0:16:21.31,Default,,0000,0000,0000,,I activate the trap, Apple of Enlightenment!
+Dialogue: 0,0:16:21.31,0:16:23.13,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:16:23.13,0:16:25.21,Default,,0000,0000,0000,,Traps should have returned to the hand!
+Dialogue: 0,0:16:25.21,0:16:29.22,Default,,0000,0000,0000,,Apple of Enlightenment activates when it’s removed from the field.
+Dialogue: 0,0:16:29.22,0:16:32.48,Default,,0000,0000,0000,,It lets me draw a card from my deck.
+Dialogue: 0,0:16:32.48,0:16:37.60,Default,,0000,0000,0000,,When Loge’s Flame leaves the field, its effect also activates.
+Dialogue: 0,0:16:38.22,0:16:42.02,Default,,0000,0000,0000,,Come with the flames, Valkyrie Brunhilde!
+Dialogue: 0,0:16:43.76,0:16:49.44,Default,,0000,0000,0000,,Brunhilde gains 300 attack points for every Warrior and Dragon-Type monster.
+Dialogue: 0,0:16:50.90,0:16:52.64,Default,,0000,0000,0000,,I don’t think so!
+Dialogue: 0,0:16:52.64,0:16:57.94,Default,,0000,0000,0000,,I tribute Swordsman of Landstar to summon Maximum Six in attack position!
+Dialogue: 0,0:16:59.08,0:17:04.08,Default,,0000,0000,0000,,And when it’s Tribute Summoned, I roll a die!
+Dialogue: 0,0:17:04.79,0:17:07.96,Default,,0000,0000,0000,,It gains attack points equal to the number I roll times 200!
+Dialogue: 0,0:17:07.96,0:17:10.45,Default,,0000,0000,0000,,I rolled a 6, so it gains 1200!
+Dialogue: 0,0:17:11.76,0:17:15.81,Default,,0000,0000,0000,,I activate the spell card, Star Blaster from my hand!
+Dialogue: 0,0:17:16.78,0:17:19.44,Default,,0000,0000,0000,,I tribute a monster and roll a die.
+Dialogue: 0,0:17:19.44,0:17:25.11,Default,,0000,0000,0000,,I Special Summon a monster whose Level equals what I roll plus the tributed’s monster’s Level!
+Dialogue: 0,0:17:30.64,0:17:34.70,Default,,0000,0000,0000,,Sasuke Samurai is Level 2, and I rolled a 5.
+Dialogue: 0,0:17:34.70,0:17:36.66,Default,,0000,0000,0000,,So I can summon a Level 7 monster!
+Dialogue: 0,0:17:36.66,0:17:39.99,Default,,0000,0000,0000,,Come, Red-Eyes B. Dragon!
+Dialogue: 0,0:17:43.02,0:17:45.32,Default,,0000,0000,0000,,Wow, Jonouchi!
+Dialogue: 0,0:17:45.32,0:17:47.47,Default,,0000,0000,0000,,He’s attacking using dice!
+Dialogue: 0,0:17:47.47,0:17:50.77,Default,,0000,0000,0000,,Maximum Six attacks Brunhilde!
+Dialogue: 0,0:17:54.83,0:17:57.78,Default,,0000,0000,0000,,What?  Why wasn’t it destroyed?
+Dialogue: 0,0:17:57.78,0:18:00.97,Default,,0000,0000,0000,,It’s Brunhilde’s effect.
+Dialogue: 0,0:18:00.97,0:18:05.64,Default,,0000,0000,0000,,When it’s attacked, it can lower its defense points by 1000 to avoid destruction.
+Dialogue: 0,0:18:06.89,0:18:07.82,Default,,0000,0000,0000,,Red-Eyes!
+Dialogue: 0,0:18:17.85,0:18:21.74,Default,,0000,0000,0000,,I set the Dangerous Machine Type-6 that returned to my hand.
+Dialogue: 0,0:18:22.29,0:18:26.96,Default,,0000,0000,0000,,I set one card and end my turn.
+Dialogue: 0,0:18:26.96,0:18:30.91,Default,,0000,0000,0000,,How’s that!  Your fate is like a candle in the wind!
+Dialogue: 0,0:18:30.91,0:18:32.46,Default,,0000,0000,0000,,Nice, Jonouchi!
+Dialogue: 0,0:18:32.46,0:18:33.62,Default,,0000,0000,0000,,He did it!
+Dialogue: 0,0:18:37.00,0:18:40.09,Default,,0000,0000,0000,,No one’s ever made me this serious.
+Dialogue: 0,0:18:40.09,0:18:42.31,Default,,0000,0000,0000,,I’ll show you no mercy!
+Dialogue: 0,0:18:42.31,0:18:44.02,Default,,0000,0000,0000,,It’s my turn!  I draw!
+Dialogue: 0,0:18:44.88,0:18:48.26,Default,,0000,0000,0000,,I activate the Equip Spell, Enchanted Sword Nothung!
+Dialogue: 0,0:18:49.48,0:18:53.35,Default,,0000,0000,0000,,I equip it on Brunhilde to raise its attack points by 400!
+Dialogue: 0,0:18:53.89,0:18:57.11,Default,,0000,0000,0000,,Nothung is no ordinary sword.
+Dialogue: 0,0:18:57.11,0:18:59.03,Default,,0000,0000,0000,,This sword slays dragons.
+Dialogue: 0,0:18:59.03,0:18:59.95,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:18:59.95,0:19:00.77,Default,,0000,0000,0000,,That’s right.
+Dialogue: 0,0:19:01.52,0:19:07.98,Default,,0000,0000,0000,,All Dragon-Type monsters on your field are destroyed and removed from play.
+Dialogue: 0,0:19:07.98,0:19:09.54,Default,,0000,0000,0000,,Red-Eyes!
+Dialogue: 0,0:19:10.66,0:19:14.60,Default,,0000,0000,0000,,I activate the spell card, Rainbow Bridge Bifrost!
+Dialogue: 0,0:19:15.44,0:19:22.79,Default,,0000,0000,0000,,For each of your monsters that was removed from play, my Valkyrie gains 500 attack points!
+Dialogue: 0,0:19:22.79,0:19:24.53,Default,,0000,0000,0000,,I see!
+Dialogue: 0,0:19:25.21,0:19:32.67,Default,,0000,0000,0000,,His strategy was to remove Jonouchi’s monsters from play to increase his Valkyrie’s attack points.
+Dialogue: 0,0:19:41.74,0:19:43.42,Default,,0000,0000,0000,,I don’t think so!
+Dialogue: 0,0:19:43.42,0:19:46.28,Default,,0000,0000,0000,,I flip over my set card, Compensation Mediation!
+Dialogue: 0,0:19:47.71,0:19:49.45,Default,,0000,0000,0000,,You still defy your fate?
+Dialogue: 0,0:19:49.45,0:19:57.06,Default,,0000,0000,0000,,Be quiet!  You shuffle this card with two of your cards, and then I choose a card.
+Dialogue: 0,0:19:57.06,0:20:01.73,Default,,0000,0000,0000,,If I pick this card, the battle ends!
+Dialogue: 0,0:20:03.15,0:20:05.72,Default,,0000,0000,0000,,I won’t lose this final test!
+Dialogue: 0,0:20:05.72,0:20:07.44,Default,,0000,0000,0000,,Then choose.
+Dialogue: 0,0:20:07.88,0:20:10.23,Default,,0000,0000,0000,,Your fate is on the line.
+Dialogue: 0,0:20:11.97,0:20:13.88,Default,,0000,0000,0000,,Jonouchi...
+Dialogue: 0,0:20:14.61,0:20:16.36,Default,,0000,0000,0000,,I choose...
+Dialogue: 0,0:20:16.99,0:20:18.70,Default,,0000,0000,0000,,That one!
+Dialogue: 0,0:20:27.97,0:20:30.14,Default,,0000,0000,0000,,Your luck ran out.
+Dialogue: 0,0:20:30.80,0:20:32.60,Default,,0000,0000,0000,,Go, Brunhilde!
+Dialogue: 0,0:20:32.60,0:20:34.86,Default,,0000,0000,0000,,Along with the warriors’ souls!
+Dialogue: 0,0:20:42.58,0:20:43.74,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:20:43.74,0:20:46.10,Default,,0000,0000,0000,,Jonouchi lost.
+Dialogue: 0,0:20:47.83,0:20:52.78,Default,,0000,0000,0000,,I told you.  Fate loves me.
+Dialogue: 0,0:20:56.95,0:20:59.49,Default,,0000,0000,0000,,The winner is Sieg Lloyd!
+Dialogue: 0,0:20:59.49,0:21:02.59,Default,,0000,0000,0000,,The Top 4 is now set!
+Dialogue: 0,0:21:02.59,0:21:05.16,Default,,0000,0000,0000,,Too bad for Jonouchi.
+Dialogue: 0,0:21:07.72,0:21:09.03,Default,,0000,0000,0000,,Jonouchi...
+Dialogue: 0,0:21:09.03,0:21:12.81,Default,,0000,0000,0000,,Why did you choose the wrong card at the very end?
+Dialogue: 0,0:21:12.81,0:21:15.03,Default,,0000,0000,0000,,That’s not like you, Jonouchi.
+Dialogue: 0,0:21:15.03,0:21:20.20,Default,,0000,0000,0000,,Maybe because he didn’t have to risk his life in this duel.
+Dialogue: 0,0:21:20.20,0:21:23.57,Default,,0000,0000,0000,,I see!  He only powers up when he’s in danger!
+Dialogue: 0,0:21:23.57,0:21:25.51,Default,,0000,0000,0000,,Enough of that!
+Dialogue: 0,0:21:25.51,0:21:29.04,Default,,0000,0000,0000,,Show me some sympathy!
+Dialogue: 0,0:21:30.10,0:21:32.16,Default,,0000,0000,0000,,C’mon!  Stop running!
+Dialogue: 0,0:21:32.16,0:21:34.21,Default,,0000,0000,0000,,You almost won, Jonouchi.
+Dialogue: 0,0:21:34.21,0:21:35.80,Default,,0000,0000,0000,,It was a good duel.
+Dialogue: 0,0:21:35.80,0:21:39.29,Default,,0000,0000,0000,,Yeah.  His opponent was powerful.
+Dialogue: 0,0:21:53.38,0:22:08.00,Default,,0000,0000,0000,,Right now, we don’t need a map
+Dialogue: 0,0:22:08.16,0:22:23.72,Default,,0000,0000,0000,,The miracle that tore through the darkness is in my hand
+Dialogue: 0,0:22:24.44,0:22:29.56,Default,,0000,0000,0000,,Without a goal in mind
+Dialogue: 0,0:22:30.88,0:22:38.13,Default,,0000,0000,0000,,We just step towards our dream
+Dialogue: 0,0:22:38.52,0:22:43.77,Default,,0000,0000,0000,,EYE’S  As you sense it
+Dialogue: 0,0:22:43.96,0:22:52.24,Default,,0000,0000,0000,,Your eye will find it
+Dialogue: 0,0:22:52.60,0:22:58.05,Default,,0000,0000,0000,,Oh! EYE’S  What you wish for
+Dialogue: 0,0:22:58.84,0:23:06.19,Default,,0000,0000,0000,,Will touch your soul
+Dialogue: 0,0:23:06.38,0:23:09.45,Default,,0000,0000,0000,,In a duel
+Dialogue: 0,0:23:19.65,0:23:21.96,Default,,0000,0000,0000,,Jonouchi lost.
+Dialogue: 0,0:23:21.96,0:23:26.93,Default,,0000,0000,0000,,I guess he can’t do his best unless something’s on the line.
+Dialogue: 0,0:23:26.93,0:23:30.63,Default,,0000,0000,0000,,Stop moping and let’s go cheer for Rebecca!
+Dialogue: 0,0:23:30.63,0:23:33.77,Default,,0000,0000,0000,,It’s Rebecca’s semifinal match.
+Dialogue: 0,0:23:33.77,0:23:36.39,Default,,0000,0000,0000,,What?  Yugi’s grandpa is missing?
+Dialogue: 0,0:23:36.39,0:23:41.75,Default,,0000,0000,0000,,He pulled his back, so he shouldn’t be able to walk.  Where did he go?
+Dialogue: 0,0:23:41.75,0:23:44.25,Default,,0000,0000,0000,,Next time on Yu-Gi-Oh!:\NRebecca vs Leon\NGenius vs Genius
+Dialogue: 0,0:23:44.25,0:23:45.90,Default,,0000,0000,0000,,Duel, standby!
+Dialogue: 0,0:23:45.90,0:23:47.90,Default,,0000,0000,0000,,

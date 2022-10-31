@@ -1,0 +1,323 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: 4kmedia  [http://www.crunchyroll.com/user/4kmedia]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 480
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,EquitanSans-Regular,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,25,1
+Style: note,Arial,20,&H0014F2F5,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Yu-Gi-Oh Yellow,Trebuchet MS,28,&H0000FFFF,&H0000FFFF,&H00232323,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+Style: Yu-Gi-Oh,Trebuchet MS,28,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:11.41,0:00:19.83,Default,,0000,0000,0000,,A light so bright that it can’t be hidden\NBreaks the silence and resurrects in this world
+Dialogue: 0,0:00:21.45,0:00:30.71,Default,,0000,0000,0000,,The dry land quakes violently\NSparks clash as we risk our lives
+Dialogue: 0,0:00:32.20,0:00:38.39,Default,,0000,0000,0000,,Let a miracle occur, just one more time
+Dialogue: 0,0:00:38.39,0:00:45.48,Default,,0000,0000,0000,,The power to regain the pages of memories I lost long ago
+Dialogue: 0,0:00:46.35,0:00:53.65,Default,,0000,0000,0000,,The trusting heart pierces the darkness\NSearch for the place where the soul rests
+Dialogue: 0,0:00:53.65,0:00:59.72,Default,,0000,0000,0000,,The sharp glint in my unblinking eye burns
+Dialogue: 0,0:01:00.08,0:01:07.42,Default,,0000,0000,0000,,Two souls - light and shadow\NTo the future shown in the crystal
+Dialogue: 0,0:01:07.42,0:01:13.78,Default,,0000,0000,0000,,Now moving  Overflowing in red  eyes
+Dialogue: 0,0:01:26.83,0:01:31.85,Default,,0000,0000,0000,,Jonouchi duels Sieg for a spot in the KC Grand Prix semifinals.
+Dialogue: 0,0:01:31.85,0:01:37.70,Default,,0000,0000,0000,,Sieg’s goddess combo removed Jonouchi’s monsters from play.
+Dialogue: 0,0:01:38.16,0:01:40.73,Default,,0000,0000,0000,,But Jonouchi kept fighting!
+Dialogue: 0,0:01:40.73,0:01:46.14,Default,,0000,0000,0000,,Despite his many troubles, he was one step away from defeating Sieg.
+Dialogue: 0,0:01:46.14,0:01:50.38,Default,,0000,0000,0000,,Unfortunately, he lost.  But he dueled well!
+Dialogue: 0,0:01:51.04,0:01:57.05,Default,,0000,0000,0000,,Rebecca vs Leon\NGenius vs Genius
+Dialogue: 0,0:02:23.63,0:02:29.90,Default,,0000,0000,0000,,Master Seto, Sieg’s background check yielded disappointing results.
+Dialogue: 0,0:02:29.90,0:02:31.42,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:02:31.82,0:02:39.59,Default,,0000,0000,0000,,We were able to gather his duelist data and his tournament results.
+Dialogue: 0,0:02:39.59,0:02:45.55,Default,,0000,0000,0000,,But nothing about Sieg Lloyd’s personal history.
+Dialogue: 0,0:02:45.55,0:02:49.27,Default,,0000,0000,0000,,Nor anything about his connection to the Schroeders.
+Dialogue: 0,0:02:49.27,0:02:54.94,Default,,0000,0000,0000,,How can a no-name enter duel tournaments worldwide?
+Dialogue: 0,0:02:54.94,0:03:00.89,Default,,0000,0000,0000,,After speaking to several duel tournament organizers...
+Dialogue: 0,0:03:00.89,0:03:09.87,Default,,0000,0000,0000,,...they allowed him to compete after receiving letters of recommendation from the host country’s officials.
+Dialogue: 0,0:03:10.38,0:03:11.79,Default,,0000,0000,0000,,Officials?
+Dialogue: 0,0:03:11.79,0:03:16.71,Default,,0000,0000,0000,,We’ve tried contacting them, but they’re not easy to deal with.
+Dialogue: 0,0:03:17.93,0:03:20.20,Default,,0000,0000,0000,,There are other methods.
+Dialogue: 0,0:03:20.20,0:03:22.22,Default,,0000,0000,0000,,Show me the list.
+Dialogue: 0,0:03:30.76,0:03:33.08,Default,,0000,0000,0000,,Contact this guy again.
+Dialogue: 0,0:03:33.08,0:03:36.43,Default,,0000,0000,0000,,Tell him I still have a particular memo.
+Dialogue: 0,0:03:36.43,0:03:38.76,Default,,0000,0000,0000,,That’ll change his attitude.
+Dialogue: 0,0:03:43.16,0:03:47.08,Default,,0000,0000,0000,,I’ll catch you by the tail, you rat.
+Dialogue: 0,0:03:54.42,0:03:58.49,Default,,0000,0000,0000,,Jonouchi lost.  That means...
+Dialogue: 0,0:03:59.29,0:04:03.22,Default,,0000,0000,0000,,Hooray!  Yugi will come cheer for me!  Yes!
+Dialogue: 0,0:04:09.80,0:04:13.14,Default,,0000,0000,0000,,Damn.  I missed at the very end.
+Dialogue: 0,0:04:13.14,0:04:15.96,Default,,0000,0000,0000,,Get over it.
+Dialogue: 0,0:04:15.96,0:04:16.60,Default,,0000,0000,0000,,Get off!
+Dialogue: 0,0:04:17.50,0:04:18.86,Default,,0000,0000,0000,,It’s unacceptable!
+Dialogue: 0,0:04:18.86,0:04:20.78,Default,,0000,0000,0000,,Enough already.
+Dialogue: 0,0:04:21.21,0:04:23.61,Default,,0000,0000,0000,,Let’s go cheer for Rebecca.
+Dialogue: 0,0:04:23.61,0:04:26.22,Default,,0000,0000,0000,,Enough about Rebecca!
+Dialogue: 0,0:04:26.22,0:04:27.74,Default,,0000,0000,0000,,Cheer me up first!
+Dialogue: 0,0:04:27.74,0:04:29.28,Default,,0000,0000,0000,,Sheesh.
+Dialogue: 0,0:04:29.28,0:04:35.33,Default,,0000,0000,0000,,Your opponent’s deck was full of limited edition cards you’ve never seen.
+Dialogue: 0,0:04:35.33,0:04:36.77,Default,,0000,0000,0000,,But you still did well-
+Dialogue: 0,0:04:36.77,0:04:37.71,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:04:38.14,0:04:40.55,Default,,0000,0000,0000,,Big trouble, Yugi!
+Dialogue: 0,0:04:40.55,0:04:42.51,Default,,0000,0000,0000,,Professor Hopkins?
+Dialogue: 0,0:04:42.51,0:04:45.22,Default,,0000,0000,0000,,What’s got you flustered?
+Dialogue: 0,0:04:45.22,0:04:48.14,Default,,0000,0000,0000,,Sugoroku is missing.
+Dialogue: 0,0:04:48.89,0:04:50.18,Default,,0000,0000,0000,,Grandpa?
+Dialogue: 0,0:04:50.18,0:04:51.06,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:04:51.06,0:04:55.48,Default,,0000,0000,0000,,Isn’t he in the hospital after hurting his back?
+Dialogue: 0,0:04:55.48,0:04:57.26,Default,,0000,0000,0000,,He was, but….
+Dialogue: 0,0:05:00.86,0:05:04.28,Default,,0000,0000,0000,,Arthur, it’s so painful...
+Dialogue: 0,0:05:04.28,0:05:05.76,Default,,0000,0000,0000,,Just wait, Sugoroku.
+Dialogue: 0,0:05:05.76,0:05:08.32,Default,,0000,0000,0000,,I’ll call the doctor.
+Dialogue: 0,0:05:13.72,0:05:14.94,Default,,0000,0000,0000,,Doctor.
+Dialogue: 0,0:05:16.00,0:05:17.62,Default,,0000,0000,0000,,Rebecca!
+Dialogue: 0,0:05:19.08,0:05:21.13,Default,,0000,0000,0000,,Nice move, Rebecca!
+Dialogue: 0,0:05:23.09,0:05:26.07,Default,,0000,0000,0000,,Nice!  Well done, Rebecca!
+Dialogue: 0,0:05:26.07,0:05:28.00,Default,,0000,0000,0000,,That’s my granddaughter-
+Dialogue: 0,0:05:28.00,0:05:30.51,Default,,0000,0000,0000,,Oh yeah.  The doctor.
+Dialogue: 0,0:05:33.16,0:05:35.24,Default,,0000,0000,0000,,What’s wrong, Mr. Muto?
+Dialogue: 0,0:05:38.02,0:05:39.45,Default,,0000,0000,0000,,Sugoroku!
+Dialogue: 0,0:05:40.36,0:05:43.07,Default,,0000,0000,0000,,Because I didn’t keep my eye on him.
+Dialogue: 0,0:05:43.07,0:05:45.85,Default,,0000,0000,0000,,Maybe he went to get a bite to eat.
+Dialogue: 0,0:05:45.85,0:05:50.24,Default,,0000,0000,0000,,But with his bad back, he can’t walk on his own.
+Dialogue: 0,0:05:50.24,0:05:53.23,Default,,0000,0000,0000,,So someone helped him?
+Dialogue: 0,0:05:53.23,0:05:54.31,Default,,0000,0000,0000,,But who?
+Dialogue: 0,0:05:54.72,0:05:56.71,Default,,0000,0000,0000,,Maybe he was kidnapped.
+Dialogue: 0,0:05:56.75,0:05:58.92,Default,,0000,0000,0000,,Don’t say that!
+Dialogue: 0,0:06:00.88,0:06:04.85,Default,,0000,0000,0000,,Mokuba did say there’s an intruder.
+Dialogue: 0,0:06:04.85,0:06:06.58,Default,,0000,0000,0000,,You’re overthinking it.
+Dialogue: 0,0:06:06.58,0:06:08.80,Default,,0000,0000,0000,,What’s the point of kidnapping Grandpa?
+Dialogue: 0,0:06:08.80,0:06:11.01,Default,,0000,0000,0000,,I hope you’re right.
+Dialogue: 0,0:06:11.80,0:06:13.72,Default,,0000,0000,0000,,Let’s go search for him.
+Dialogue: 0,0:06:13.72,0:06:14.83,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:06:16.03,0:06:17.89,Default,,0000,0000,0000,,Okay, fine.
+Dialogue: 0,0:06:17.89,0:06:19.96,Default,,0000,0000,0000,,Sorry for the trouble.
+Dialogue: 0,0:06:19.96,0:06:21.06,Default,,0000,0000,0000,,Don’t worry about it.
+Dialogue: 0,0:06:21.06,0:06:25.23,Default,,0000,0000,0000,,Professor, please go cheer for Rebecca.
+Dialogue: 0,0:06:25.23,0:06:30.14,Default,,0000,0000,0000,,As soon as we find Grandpa, we’ll head over to cheer for Becky.
+Dialogue: 0,0:06:30.14,0:06:32.38,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:06:33.48,0:06:36.08,Default,,0000,0000,0000,,Wish Rebecca good luck for me.
+Dialogue: 0,0:06:36.08,0:06:36.75,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:06:36.75,0:06:40.23,Default,,0000,0000,0000,,Let’s split up and search!
+Dialogue: 0,0:06:45.64,0:06:47.29,Default,,0000,0000,0000,,Where is everyone?
+Dialogue: 0,0:06:47.29,0:06:49.93,Default,,0000,0000,0000,,They’re not coming to cheer for me?
+Dialogue: 0,0:06:49.93,0:06:50.97,Default,,0000,0000,0000,,Rebecca!
+Dialogue: 0,0:06:51.81,0:06:53.05,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:06:53.05,0:06:54.60,Default,,0000,0000,0000,,Grandpa!
+Dialogue: 0,0:06:56.31,0:06:58.09,Default,,0000,0000,0000,,Good job, Rebecca.
+Dialogue: 0,0:06:58.09,0:06:59.88,Default,,0000,0000,0000,,You made the semifinals.
+Dialogue: 0,0:06:59.88,0:07:03.43,Default,,0000,0000,0000,,Yeah!  But Yugi hasn’t arrived yet.
+Dialogue: 0,0:07:03.43,0:07:04.38,Default,,0000,0000,0000,,They’re late.
+Dialogue: 0,0:07:04.38,0:07:08.21,Default,,0000,0000,0000,,Well, I just saw them.
+Dialogue: 0,0:07:08.21,0:07:11.03,Default,,0000,0000,0000,,They’ll be late because of an emergency.
+Dialogue: 0,0:07:11.03,0:07:14.04,Default,,0000,0000,0000,,But they promised to come cheer for you.
+Dialogue: 0,0:07:14.04,0:07:15.28,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:07:15.28,0:07:17.98,Default,,0000,0000,0000,,Be reasonable, Rebecca.
+Dialogue: 0,0:07:17.98,0:07:19.21,Default,,0000,0000,0000,,They’ll come soon.
+Dialogue: 0,0:07:19.21,0:07:20.38,Default,,0000,0000,0000,,But…
+Dialogue: 0,0:07:20.65,0:07:24.05,Default,,0000,0000,0000,,And Yugi wished you luck.
+Dialogue: 0,0:07:24.39,0:07:27.49,Default,,0000,0000,0000,,Really?  Then I can wait a bit.
+Dialogue: 0,0:07:27.49,0:07:29.79,Default,,0000,0000,0000,,Good.  Let’s go.
+Dialogue: 0,0:07:31.56,0:07:36.31,Default,,0000,0000,0000,,Wow!  I feel like I’ve become a giant!
+Dialogue: 0,0:07:39.27,0:07:41.23,Default,,0000,0000,0000,,I’m dueling here?
+Dialogue: 0,0:07:44.68,0:07:46.54,Default,,0000,0000,0000,,Gulliver?
+Dialogue: 0,0:07:46.54,0:07:49.12,Default,,0000,0000,0000,,He looks so lifelike!
+Dialogue: 0,0:07:51.07,0:07:52.61,Default,,0000,0000,0000,,I fell asleep.
+Dialogue: 0,0:07:53.04,0:07:54.53,Default,,0000,0000,0000,,Leon?
+Dialogue: 0,0:07:54.53,0:07:56.05,Default,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:07:56.70,0:08:01.43,Default,,0000,0000,0000,,I felt like I was in a fairy tale, so I guess I got too comfortable.
+Dialogue: 0,0:08:01.43,0:08:02.93,Default,,0000,0000,0000,,You’re such a kid.
+Dialogue: 0,0:08:02.93,0:08:05.06,Default,,0000,0000,0000,,Huh?  Where’s Yugi?
+Dialogue: 0,0:08:05.06,0:08:07.50,Default,,0000,0000,0000,,They can’t come to root for you?
+Dialogue: 0,0:08:07.50,0:08:10.50,Default,,0000,0000,0000,,They’re coming!  They’re just late!
+Dialogue: 0,0:08:10.50,0:08:14.64,Default,,0000,0000,0000,,What about your friends and family, Leon?
+Dialogue: 0,0:08:14.64,0:08:17.89,Default,,0000,0000,0000,,Well...  They’re all too busy.
+Dialogue: 0,0:08:17.89,0:08:19.88,Default,,0000,0000,0000,,I’m used to being alone!
+Dialogue: 0,0:08:19.88,0:08:21.06,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:08:21.71,0:08:23.05,Default,,0000,0000,0000,,You’re not alone.
+Dialogue: 0,0:08:24.07,0:08:27.81,Default,,0000,0000,0000,,Who do you think will win?  Rebecca or Leon?
+Dialogue: 0,0:08:27.81,0:08:29.41,Default,,0000,0000,0000,,Rebecca for sure!
+Dialogue: 0,0:08:29.41,0:08:30.95,Default,,0000,0000,0000,,I think Leon!
+Dialogue: 0,0:08:30.95,0:08:32.43,Default,,0000,0000,0000,,Rebecca’s a genius!
+Dialogue: 0,0:08:32.43,0:08:34.28,Default,,0000,0000,0000,,Good luck, Leon!
+Dialogue: 0,0:08:34.28,0:08:36.23,Default,,0000,0000,0000,,Don’t lose, Rebecca!
+Dialogue: 0,0:08:36.23,0:08:41.26,Default,,0000,0000,0000,,Rebecca and Leon, your dueling brought them here.
+Dialogue: 0,0:08:41.26,0:08:45.03,Default,,0000,0000,0000,,Look how many are cheering for you, Leon.
+Dialogue: 0,0:08:45.03,0:08:46.60,Default,,0000,0000,0000,,So you’re not alone.
+Dialogue: 0,0:08:49.73,0:08:53.91,Default,,0000,0000,0000,,It’d be better if Yugi was also cheering for me.
+Dialogue: 0,0:08:53.92,0:08:57.84,Default,,0000,0000,0000,,No chance.  Yugi is cheering for me.
+Dialogue: 0,0:08:57.84,0:08:59.25,Default,,0000,0000,0000,,You’re so lucky.
+Dialogue: 0,0:09:00.12,0:09:03.52,Default,,0000,0000,0000,,Where is Sugoroku anyway?
+Dialogue: 0,0:09:25.75,0:09:28.92,Default,,0000,0000,0000,,Where is Grandpa?
+Dialogue: 0,0:09:31.32,0:09:33.72,Default,,0000,0000,0000,,We have a lost guest.
+Dialogue: 0,0:09:33.72,0:09:38.29,Default,,0000,0000,0000,,An elderly man in overalls is waiting in front of the entrance gate.
+Dialogue: 0,0:09:38.29,0:09:39.72,Default,,0000,0000,0000,,I repeat…
+Dialogue: 0,0:09:39.72,0:09:42.92,Default,,0000,0000,0000,,Overalls?  Could that be Grandpa?
+Dialogue: 0,0:09:48.27,0:09:50.32,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:09:50.32,0:09:51.39,Default,,0000,0000,0000,,Everyone!
+Dialogue: 0,0:09:51.39,0:09:55.22,Default,,0000,0000,0000,,You heard the missing person announcement too?
+Dialogue: 0,0:09:55.22,0:09:58.59,Default,,0000,0000,0000,,Yeah.  But Grandpa isn’t here.
+Dialogue: 0,0:09:58.59,0:09:59.64,Default,,0000,0000,0000,,What’s going on?
+Dialogue: 0,0:10:02.54,0:10:03.57,Default,,0000,0000,0000,,What’s that?
+Dialogue: 0,0:10:08.85,0:10:09.84,Default,,0000,0000,0000,,What’s this?
+Dialogue: 0,0:10:09.84,0:10:11.81,Default,,0000,0000,0000,,It’s a map.
+Dialogue: 0,0:10:11.81,0:10:14.82,Default,,0000,0000,0000,,It’s a map of Kaiba Land.
+Dialogue: 0,0:10:14.82,0:10:17.19,Default,,0000,0000,0000,,Then what’s this X?
+Dialogue: 0,0:10:17.19,0:10:18.51,Default,,0000,0000,0000,,Can it be?
+Dialogue: 0,0:10:18.51,0:10:22.10,Default,,0000,0000,0000,,That’s where Grandpa is?
+Dialogue: 0,0:10:22.10,0:10:24.07,Default,,0000,0000,0000,,Grandpa...
+Dialogue: 0,0:10:24.07,0:10:27.07,Default,,0000,0000,0000,,Something’s not right.
+Dialogue: 0,0:10:27.07,0:10:33.37,Default,,0000,0000,0000,,Why would they call us here just so we can find that map?
+Dialogue: 0,0:10:33.37,0:10:34.51,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:10:34.51,0:10:37.06,Default,,0000,0000,0000,,This is a trap.
+Dialogue: 0,0:10:38.68,0:10:41.38,Default,,0000,0000,0000,,What kind of trap, Otogi?
+Dialogue: 0,0:10:41.38,0:10:44.00,Default,,0000,0000,0000,,I don’t know.
+Dialogue: 0,0:10:57.84,0:11:02.17,Default,,0000,0000,0000,,We’ll now begin the semifinals!
+Dialogue: 0,0:11:02.17,0:11:06.34,Default,,0000,0000,0000,,In the A Block, it’s Sieg Lloyd vs Barry Ginger!
+Dialogue: 0,0:11:06.34,0:11:09.78,Default,,0000,0000,0000,,They’ll duel in the special planetarium stage!
+Dialogue: 0,0:11:14.16,0:11:18.52,Default,,0000,0000,0000,,In the B Block, it’s Rebecca Hopkins vs Leon Wilson!
+Dialogue: 0,0:11:18.99,0:11:22.33,Default,,0000,0000,0000,,They’ll duel in the Miniature Land stage!
+Dialogue: 0,0:11:24.31,0:11:28.26,Default,,0000,0000,0000,,Who will return to the Duel Ring for the finals?
+Dialogue: 0,0:11:28.90,0:11:31.54,Default,,0000,0000,0000,,Start the semifinals!
+Dialogue: 0,0:11:35.21,0:11:37.17,Default,,0000,0000,0000,,Duel!
+Dialogue: 0,0:11:39.57,0:11:41.30,Default,,0000,0000,0000,,Duel!
+Dialogue: 0,0:11:41.30,0:11:43.47,Default,,0000,0000,0000,,Good luck, Leon!
+Dialogue: 0,0:11:43.47,0:11:45.45,Default,,0000,0000,0000,,C’mon, Rebecca!
+Dialogue: 0,0:11:45.45,0:11:47.77,Default,,0000,0000,0000,,Here I go, Leon.
+Dialogue: 0,0:11:47.77,0:11:49.75,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:11:49.75,0:11:53.65,Default,,0000,0000,0000,,I activate Graceful Charity from my hand!
+Dialogue: 0,0:11:55.62,0:12:00.56,Default,,0000,0000,0000,,I draw three cards from my deck and discard two.
+Dialogue: 0,0:12:03.01,0:12:05.92,Default,,0000,0000,0000,,I’ll discard these two.
+Dialogue: 0,0:12:05.93,0:12:07.81,Default,,0000,0000,0000,,Marie the Fallen One.
+Dialogue: 0,0:12:07.81,0:12:14.00,Default,,0000,0000,0000,,As long as it’s in my graveyard, I gain 200 life points during each of my Standby Phases.
+Dialogue: 0,0:12:16.77,0:12:20.96,Default,,0000,0000,0000,,I summon Fire Princess from my hand in attack position!
+Dialogue: 0,0:12:21.84,0:12:25.76,Default,,0000,0000,0000,,I set one card and end my turn.
+Dialogue: 0,0:12:25.76,0:12:28.31,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:12:28.31,0:12:32.24,Default,,0000,0000,0000,,I wonder how Leon duels.
+Dialogue: 0,0:12:32.83,0:12:35.67,Default,,0000,0000,0000,,I summon Forest Wolf in attack position!
+Dialogue: 0,0:12:39.35,0:12:43.06,Default,,0000,0000,0000,,Forest Wolf attacks Fire Princess!
+Dialogue: 0,0:12:52.37,0:12:57.99,Default,,0000,0000,0000,,Forest Wolf likes to eat, but it takes time to digest.
+Dialogue: 0,0:12:57.99,0:13:00.91,Default,,0000,0000,0000,,My monster is inside its stomach?
+Dialogue: 0,0:13:02.37,0:13:07.13,Default,,0000,0000,0000,,I activate the spell card, Curse of Thorns from my hand!
+Dialogue: 0,0:13:17.41,0:13:22.35,Default,,0000,0000,0000,,Curse of Thorns seals monsters that activate their effects from the graveyard.
+Dialogue: 0,0:13:22.35,0:13:24.74,Default,,0000,0000,0000,,Not bad, Leon.
+Dialogue: 0,0:13:24.74,0:13:26.83,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:13:30.85,0:13:38.17,Default,,0000,0000,0000,,He not only broke Rebecca’s combo on his first turn, but he also took her life points.
+Dialogue: 0,0:13:38.17,0:13:40.81,Default,,0000,0000,0000,,Leon is very strong.
+Dialogue: 0,0:13:40.81,0:13:43.79,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:13:43.79,0:13:47.19,Default,,0000,0000,0000,,I summon Luster Dragon in attack position!
+Dialogue: 0,0:13:50.39,0:13:56.09,Default,,0000,0000,0000,,I’ll show you that there are lots of attack variations.
+Dialogue: 0,0:13:56.09,0:13:59.53,Default,,0000,0000,0000,,Luster Dragon attacks Forest Wolf!
+Dialogue: 0,0:14:00.11,0:14:01.82,Default,,0000,0000,0000,,Sapphire Spark!
+Dialogue: 0,0:14:09.77,0:14:16.37,Default,,0000,0000,0000,,When Forest Wolf is destroyed, the monster in its stomach is Special Summoned to its owner’s field.
+Dialogue: 0,0:14:16.37,0:14:18.39,Default,,0000,0000,0000,,Nicely done, Rebecca.
+Dialogue: 0,0:14:18.39,0:14:19.79,Default,,0000,0000,0000,,I’m not done.
+Dialogue: 0,0:14:19.79,0:14:23.17,Default,,0000,0000,0000,,Fire Princess attacks you directly!
+Dialogue: 0,0:14:28.79,0:14:30.25,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:14:30.25,0:14:33.19,Default,,0000,0000,0000,,I see why you’re the American champion.
+Dialogue: 0,0:14:33.19,0:14:36.03,Default,,0000,0000,0000,,But I won’t lose!
+Dialogue: 0,0:14:36.03,0:14:38.37,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:14:38.37,0:14:42.40,Default,,0000,0000,0000,,I summon Glife the Phantom Bird in attack position!
+Dialogue: 0,0:14:44.56,0:14:47.49,Default,,0000,0000,0000,,Glife the Phantom Bird is a Level 4 monster.
+Dialogue: 0,0:14:47.49,0:14:51.41,Default,,0000,0000,0000,,If I activate Gravity Bind, it can’t attack.
+Dialogue: 0,0:14:55.17,0:14:56.32,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:14:56.32,0:15:02.74,Default,,0000,0000,0000,,When Glife the Phantom Bird is summoned, it destroys one of your spell or trap cards.
+Dialogue: 0,0:15:03.92,0:15:07.09,Default,,0000,0000,0000,,Glife the Phantom Bird attacks Fire Princess!
+Dialogue: 0,0:15:15.36,0:15:20.69,Default,,0000,0000,0000,,I activate the Continuous Spell, Gingerbread House from my hand!
+Dialogue: 0,0:15:20.69,0:15:22.64,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:15:25.57,0:15:27.16,Default,,0000,0000,0000,,Gingerbread House?
+Dialogue: 0,0:15:27.16,0:15:29.53,Default,,0000,0000,0000,,What is that card?
+Dialogue: 0,0:15:29.53,0:15:31.55,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:15:48.79,0:15:52.89,Default,,0000,0000,0000,,Luster Dragon gained attack points.  Why?
+Dialogue: 0,0:15:52.89,0:15:54.87,Default,,0000,0000,0000,,You shouldn’t eat too much.
+Dialogue: 0,0:15:57.80,0:16:04.74,Default,,0000,0000,0000,,During your Standby Phase, Gingerbread House raises your monster’s attack points by 600.
+Dialogue: 0,0:16:04.74,0:16:10.76,Default,,0000,0000,0000,,But if your monster has 2500 or more attack points, it explodes.
+Dialogue: 0,0:16:10.76,0:16:15.19,Default,,0000,0000,0000,,And I regain 500 life points.
+Dialogue: 0,0:16:16.21,0:16:18.19,Default,,0000,0000,0000,,What’s with his cards?
+Dialogue: 0,0:16:18.19,0:16:21.17,Default,,0000,0000,0000,,They’re all rare cards that I’ve never seen before.
+Dialogue: 0,0:16:21.17,0:16:26.13,Default,,0000,0000,0000,,I activate the spell card, The Shallow Grave from my hand!
+Dialogue: 0,0:16:27.38,0:16:32.84,Default,,0000,0000,0000,,We both Special Summon a monster from our graveyards in defense position!
+Dialogue: 0,0:16:32.84,0:16:36.55,Default,,0000,0000,0000,,I Special Summon Luster Dragon!
+Dialogue: 0,0:16:36.55,0:16:39.93,Default,,0000,0000,0000,,I’ll resurrect Forest Wolf!
+Dialogue: 0,0:16:41.91,0:16:44.61,Default,,0000,0000,0000,,I tribute Luster Dragon!
+Dialogue: 0,0:16:46.05,0:16:49.99,Default,,0000,0000,0000,,I summon Luster Dragon #2 in attack position!
+Dialogue: 0,0:16:51.99,0:16:53.95,Default,,0000,0000,0000,,Here I go, Leon!
+Dialogue: 0,0:16:53.95,0:16:57.20,Default,,0000,0000,0000,,Luster Dragon #2 attacks Glife the Phantom Bird!
+Dialogue: 0,0:16:57.20,0:16:59.50,Default,,0000,0000,0000,,Emerald Flame!
+Dialogue: 0,0:17:07.67,0:17:09.67,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:17:09.67,0:17:12.61,Default,,0000,0000,0000,,You’re incredible, Rebecca.
+Dialogue: 0,0:17:12.61,0:17:15.37,Default,,0000,0000,0000,,This is an exciting duel.
+Dialogue: 0,0:17:15.37,0:17:17.91,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:17:17.91,0:17:20.93,Default,,0000,0000,0000,,I switch Forest Wolf to attack position!
+Dialogue: 0,0:17:23.35,0:17:27.29,Default,,0000,0000,0000,,I summon Prinzessin from my hand in attack position!
+Dialogue: 0,0:17:38.26,0:17:43.95,Default,,0000,0000,0000,,Prinzessin’s effect Special Summons Pumpkin Carriage in defense position!
+Dialogue: 0,0:17:44.87,0:17:49.17,Default,,0000,0000,0000,,And I activate the Equip Spell, Glass Slippers from my deck!
+Dialogue: 0,0:17:49.17,0:17:51.12,Default,,0000,0000,0000,,W-What?
+Dialogue: 0,0:17:52.23,0:17:59.14,Default,,0000,0000,0000,,When Pumpkin Carriage is on the field, Prinzessin can attack you directly.
+Dialogue: 0,0:17:59.14,0:18:00.05,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:18:00.05,0:18:03.28,Default,,0000,0000,0000,,Prinzessin attacks you directly!
+Dialogue: 0,0:18:03.73,0:18:05.40,Default,,0000,0000,0000,,Glass Kick!
+Dialogue: 0,0:18:10.23,0:18:17.68,Default,,0000,0000,0000,,When Prinzessin successfully attacks, Glass Slippers is equipped on to your monster!
+Dialogue: 0,0:18:18.10,0:18:19.59,Default,,0000,0000,0000,,For what?
+Dialogue: 0,0:18:20.19,0:18:26.29,Default,,0000,0000,0000,,The monster wearing Glass Slippers can’t attack Prinzessin.
+Dialogue: 0,0:18:26.80,0:18:30.28,Default,,0000,0000,0000,,And loses 1000 attack points.
+Dialogue: 0,0:18:31.84,0:18:33.00,Default,,0000,0000,0000,,No way...
+Dialogue: 0,0:18:33.53,0:18:36.97,Default,,0000,0000,0000,,Forest Wolf attacks Luster Dragon #2!
+Dialogue: 0,0:18:46.73,0:18:51.03,Default,,0000,0000,0000,,When the monster equipped with Glass Slippers is destroyed...
+Dialogue: 0,0:18:51.03,0:18:54.73,Default,,0000,0000,0000,,...Glass Slippers is equipped on Prinzessin again.
+Dialogue: 0,0:18:54.73,0:18:58.99,Default,,0000,0000,0000,,And Prinzessin gains 1000 attack points.
+Dialogue: 0,0:19:00.41,0:19:04.29,Default,,0000,0000,0000,,I set one card and end my turn.
+Dialogue: 0,0:19:04.29,0:19:07.29,Default,,0000,0000,0000,,What’s with these strange cards?
+Dialogue: 0,0:19:07.29,0:19:10.97,Default,,0000,0000,0000,,Only certain people must get these cards.
+Dialogue: 0,0:19:10.97,0:19:14.47,Default,,0000,0000,0000,,But I’m not planning to lose here!
+Dialogue: 0,0:19:14.47,0:19:17.14,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:19:17.14,0:19:22.02,Default,,0000,0000,0000,,I activate the spell card, Tribute to The Doomed from my hand!
+Dialogue: 0,0:19:23.00,0:19:27.33,Default,,0000,0000,0000,,I discard a card from my hand to destroy a monster on the field!
+Dialogue: 0,0:19:30.13,0:19:34.71,Default,,0000,0000,0000,,I activate the spell card, Stamping Destruction!
+Dialogue: 0,0:19:34.72,0:19:40.89,Default,,0000,0000,0000,,It destroys a spell card on the field, and the owner takes 500 points of damage!
+Dialogue: 0,0:19:46.56,0:19:50.50,Default,,0000,0000,0000,,Luster Dragon #2 attacks Prinzessin!
+Dialogue: 0,0:19:53.17,0:19:57.85,Default,,0000,0000,0000,,I flip over my set card, Mirror Force!
+Dialogue: 0,0:20:04.61,0:20:07.05,Default,,0000,0000,0000,,N-No way...
+Dialogue: 0,0:20:08.02,0:20:09.98,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:20:09.98,0:20:12.98,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:20:12.98,0:20:16.12,Default,,0000,0000,0000,,Prinzessin attacks you directly!
+Dialogue: 0,0:20:24.33,0:20:26.76,Default,,0000,0000,0000,,He’s tough.
+Dialogue: 0,0:20:27.86,0:20:29.27,Default,,0000,0000,0000,,Yugi...
+Dialogue: 0,0:20:32.71,0:20:35.71,Default,,0000,0000,0000,,The winner is Sieg Lloyd!
+Dialogue: 0,0:20:38.58,0:20:41.59,Default,,0000,0000,0000,,What’s taking so long, Kaiba?
+Dialogue: 0,0:20:41.59,0:20:44.97,Default,,0000,0000,0000,,I’m right here.
+Dialogue: 0,0:20:55.93,0:20:56.97,Default,,0000,0000,0000,,This way!
+Dialogue: 0,0:20:56.97,0:20:59.98,Default,,0000,0000,0000,,Is he really here?
+Dialogue: 0,0:20:59.98,0:21:03.91,Default,,0000,0000,0000,,That map is our only clue, so we have to check it out!
+Dialogue: 0,0:21:03.91,0:21:06.83,Default,,0000,0000,0000,,I hope you’re okay, Sugoroku!
+Dialogue: 0,0:21:07.54,0:21:08.77,Default,,0000,0000,0000,,Grandpa…
+Dialogue: 0,0:21:14.95,0:21:15.65,Default,,0000,0000,0000,,Here!
+Dialogue: 0,0:21:21.59,0:21:24.59,Default,,0000,0000,0000,,Sugoroku is in here?
+Dialogue: 0,0:21:27.06,0:21:29.35,Default,,0000,0000,0000,,Be careful, Yugi.
+Dialogue: 0,0:21:53.63,0:22:08.25,Default,,0000,0000,0000,,Right now, we don’t need a map
+Dialogue: 0,0:22:08.41,0:22:23.97,Default,,0000,0000,0000,,The miracle that tore through the darkness is in my hand
+Dialogue: 0,0:22:24.69,0:22:29.81,Default,,0000,0000,0000,,Without a goal in mind
+Dialogue: 0,0:22:31.13,0:22:38.38,Default,,0000,0000,0000,,We just step towards our dream
+Dialogue: 0,0:22:38.77,0:22:44.02,Default,,0000,0000,0000,,EYE’S  As you sense it
+Dialogue: 0,0:22:44.21,0:22:52.49,Default,,0000,0000,0000,,Your eye will find it
+Dialogue: 0,0:22:52.85,0:22:58.30,Default,,0000,0000,0000,,Oh! EYE’S  What you wish for
+Dialogue: 0,0:22:59.09,0:23:06.44,Default,,0000,0000,0000,,Will touch your soul
+Dialogue: 0,0:23:06.63,0:23:09.70,Default,,0000,0000,0000,,In a duel
+Dialogue: 0,0:23:17.33,0:23:20.59,Default,,0000,0000,0000,,The KC Grand Prix semifinals have started!
+Dialogue: 0,0:23:20.59,0:23:24.21,Default,,0000,0000,0000,,Sieg has already made the finals.
+Dialogue: 0,0:23:24.21,0:23:29.09,Default,,0000,0000,0000,,But Rebecca and Leon continue their fierce duel.
+Dialogue: 0,0:23:29.09,0:23:37.35,Default,,0000,0000,0000,,We want to go cheer for them, but Yugi’s missing grandpa is in a weird situation.
+Dialogue: 0,0:23:37.35,0:23:42.37,Default,,0000,0000,0000,,Yugi has to duel too, so wait a bit longer, Rebecca!
+Dialogue: 0,0:23:42.37,0:23:45.03,Default,,0000,0000,0000,,Next time on Yu-Gi-Oh!:\NLeon in Fairyland
+Dialogue: 0,0:23:45.03,0:23:46.29,Default,,0000,0000,0000,,Duel, standby!
+Dialogue: 0,0:23:46.17,0:23:48.17,Default,,0000,0000,0000,,

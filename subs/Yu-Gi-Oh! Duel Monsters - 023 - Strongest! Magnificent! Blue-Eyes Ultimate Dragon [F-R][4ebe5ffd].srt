@@ -1,0 +1,289 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: 4kmedia  [http://www.crunchyroll.com/user/4kmedia]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 480
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,EquitanSans-Regular,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,25,1
+Style: Yu-Gi-Oh Yellow,Trebuchet MS,28,&H0000FFFF,&H0000FFFF,&H00232323,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+Style: Yu-Gi-Oh,Trebuchet MS,28,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:03.80,0:00:10.70,Default,,0000,0000,0000,,Yugi Muto assembled the Millennium Puzzle and became the guardian of the Shadow Games.
+Dialogue: 0,0:00:11.99,0:00:17.06,Default,,0000,0000,0000,,Pegasus has a Millennium Item of his own - the Millennium Eye.
+Dialogue: 0,0:00:17.06,0:00:21.60,Default,,0000,0000,0000,,Yugi accepts Pegasus’s challenge and goes to Duelist Kingdom.
+Dialogue: 0,0:00:23.45,0:00:27.60,Default,,0000,0000,0000,,Pegasus stole his grandfather Sugoroku’s soul, and Yugi intends to rescue him.
+Dialogue: 0,0:00:28.54,0:00:33.84,Default,,0000,0000,0000,,He battles alongside his trusted friends and with his other self.
+Dialogue: 0,0:00:39.03,0:00:44.10,Default,,0000,0000,0000,,I can’t finish reading the magazine pages
+Dialogue: 0,0:00:46.02,0:00:51.01,Default,,0000,0000,0000,,I get the feeling that I must read it
+Dialogue: 0,0:00:52.90,0:00:57.76,Default,,0000,0000,0000,,Game cartridges are stacked in the corner of the room
+Dialogue: 0,0:00:59.72,0:01:04.46,Default,,0000,0000,0000,,Is there no meaning if I don’t play them?
+Dialogue: 0,0:01:06.37,0:01:09.56,Default,,0000,0000,0000,,You’re on the other side of the table
+Dialogue: 0,0:01:09.96,0:01:12.93,Default,,0000,0000,0000,,I’m talking to you, but...
+Dialogue: 0,0:01:13.51,0:01:19.93,Default,,0000,0000,0000,,You don’t change your facial expression at all
+Dialogue: 0,0:01:20.85,0:01:25.98,Default,,0000,0000,0000,,Even though I’m this close to you
+Dialogue: 0,0:01:26.68,0:01:33.45,Default,,0000,0000,0000,,These feelings don’t reach you, don’t reach you
+Dialogue: 0,0:01:33.87,0:01:40.19,Default,,0000,0000,0000,,What is truly precious?
+Dialogue: 0,0:01:45.90,0:01:49.33,Default,,0000,0000,0000,,Here we go, Yugi!  We’ll determine who’s superior!
+Dialogue: 0,0:01:49.33,0:01:50.10,Default,,0000,0000,0000,,Duel!
+Dialogue: 0,0:01:56.06,0:01:59.55,Default,,0000,0000,0000,,I activate the trap card Ancient Lamp!
+Dialogue: 0,0:02:04.81,0:02:05.68,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:02:06.94,0:02:11.17,Default,,0000,0000,0000,,Ancient Lamp reflects the attack back at your monster.
+Dialogue: 0,0:02:13.97,0:02:17.05,Default,,0000,0000,0000,,Kaiba, you trapped me.
+Dialogue: 0,0:02:18.27,0:02:22.13,Default,,0000,0000,0000,,Yugi, I haven’t caught you in my real trap yet.
+Dialogue: 0,0:02:22.35,0:02:27.33,Default,,0000,0000,0000,,The most powerful monster is already stirring to life in my hand.
+Dialogue: 0,0:02:27.77,0:02:31.43,Default,,0000,0000,0000,,My goal is to fuse my three Blue-Eyes together!
+Dialogue: 0,0:02:39.21,0:02:45.22,Default,,0000,0000,0000,,Strongest!  Magnificent!\NBlue-Eyes Ultimate Dragon
+Dialogue: 0,0:02:48.27,0:02:49.53,Default,,0000,0000,0000,,What’s going on?
+Dialogue: 0,0:02:49.53,0:02:52.42,Default,,0000,0000,0000,,Kaiba trapped Yugi.
+Dialogue: 0,0:02:52.73,0:02:54.45,Default,,0000,0000,0000,,He’s really good.
+Dialogue: 0,0:02:54.45,0:02:55.83,Default,,0000,0000,0000,,The duel is only getting started!
+Dialogue: 0,0:02:56.33,0:02:59.13,Default,,0000,0000,0000,,Do your best, the other Yugi.
+Dialogue: 0,0:03:06.17,0:03:08.91,Default,,0000,0000,0000,,This match is still in its opening stages.
+Dialogue: 0,0:03:09.40,0:03:11.87,Default,,0000,0000,0000,,It’s about to get wild.
+Dialogue: 0,0:03:12.17,0:03:15.81,Default,,0000,0000,0000,,Kaiba, it’s time we settle things.
+Dialogue: 0,0:03:16.13,0:03:18.55,Default,,0000,0000,0000,,I will defeat you.
+Dialogue: 0,0:03:19.07,0:03:24.99,Default,,0000,0000,0000,,My equation for victory will be complete when I’ve drawn all three Blue-Eyes White Dragons.
+Dialogue: 0,0:03:25.21,0:03:27.79,Default,,0000,0000,0000,,My goal is to fuse three Blue-Eyes together.
+Dialogue: 0,0:03:28.03,0:03:30.59,Default,,0000,0000,0000,,Tough!  Invincible!  Powerful!
+Dialogue: 0,0:03:31.21,0:03:36.03,Default,,0000,0000,0000,,Yugi, that equation will yield only one answer.
+Dialogue: 0,0:03:36.03,0:03:37.63,Default,,0000,0000,0000,,Your defeat!
+Dialogue: 0,0:03:38.10,0:03:40.07,Default,,0000,0000,0000,,Here I go!  It’s my turn!
+Dialogue: 0,0:03:45.37,0:03:47.91,Default,,0000,0000,0000,,I drew De-Spell.
+Dialogue: 0,0:03:48.30,0:03:50.92,Default,,0000,0000,0000,,I’ll add this card on La Jinn.
+Dialogue: 0,0:03:53.38,0:03:56.62,Default,,0000,0000,0000,,I call out La Jinn the Mystical Genie of the Lamp again!
+Dialogue: 0,0:04:00.01,0:04:03.91,Default,,0000,0000,0000,,One spell card on your field is destroyed.
+Dialogue: 0,0:04:06.10,0:04:06.96,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:04:15.97,0:04:17.73,Default,,0000,0000,0000,,I destroyed a nice card.
+Dialogue: 0,0:04:18.01,0:04:22.21,Default,,0000,0000,0000,,Swords of Revealing Light can seal away monsters for three turns.
+Dialogue: 0,0:04:22.21,0:04:24.13,Default,,0000,0000,0000,,It’s a troublesome card.
+Dialogue: 0,0:04:25.53,0:04:26.81,Default,,0000,0000,0000,,My turn!
+Dialogue: 0,0:04:27.12,0:04:32.37,Default,,0000,0000,0000,,Is there any way Yugi can defeat that La Jinn-Ancient Lamp combo?
+Dialogue: 0,0:04:32.37,0:04:34.19,Default,,0000,0000,0000,,It’s fine.  I’m sure there is!
+Dialogue: 0,0:04:35.00,0:04:38.20,Default,,0000,0000,0000,,Good.  I drew Mystic Box.
+Dialogue: 0,0:04:38.71,0:04:42.23,Default,,0000,0000,0000,,I can now destroy his La Jinn-Ancient Lamp combo.
+Dialogue: 0,0:04:43.30,0:04:44.71,Default,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:04:52.89,0:04:55.59,Default,,0000,0000,0000,,Go ahead and attack La Jinn.
+Dialogue: 0,0:04:55.59,0:04:58.42,Default,,0000,0000,0000,,Make sure you don’t fall into another trap.
+Dialogue: 0,0:04:58.65,0:05:02.78,Default,,0000,0000,0000,,I broke your La Jinn-Ancient Lamp combo, Kaiba!
+Dialogue: 0,0:05:04.45,0:05:07.36,Default,,0000,0000,0000,,The spell card The Eye of Truth!
+Dialogue: 0,0:05:07.67,0:05:09.59,Default,,0000,0000,0000,,The Eye of Truth?
+Dialogue: 0,0:05:09.80,0:05:14.50,Default,,0000,0000,0000,,This spell card reveals your entire hand.
+Dialogue: 0,0:05:18.29,0:05:19.17,Default,,0000,0000,0000,,That’s...
+Dialogue: 0,0:05:19.61,0:05:22.41,Default,,0000,0000,0000,,He already has one Blue-Eyes in his hand!
+Dialogue: 0,0:05:22.63,0:05:28.11,Default,,0000,0000,0000,,Damn that Kaiba!  He did have a Blue-Eyes hidden in his hand!
+Dialogue: 0,0:05:28.35,0:05:30.41,Default,,0000,0000,0000,,That leaves two more in his deck.
+Dialogue: 0,0:05:30.41,0:05:32.59,Default,,0000,0000,0000,,Three Blue-Eyes?
+Dialogue: 0,0:05:32.59,0:05:35.51,Default,,0000,0000,0000,,No one can beat a deck that powerful.
+Dialogue: 0,0:05:35.51,0:05:39.02,Default,,0000,0000,0000,,Yugi can!  He’ll win like always!
+Dialogue: 0,0:05:39.53,0:05:43.83,Default,,0000,0000,0000,,Why won’t Kaiba attack with his Blue-Eyes?
+Dialogue: 0,0:05:44.27,0:05:47.71,Default,,0000,0000,0000,,Yugi, how dare you reveal my hand!
+Dialogue: 0,0:05:47.71,0:05:49.32,Default,,0000,0000,0000,,How humiliating!
+Dialogue: 0,0:05:50.79,0:05:56.92,Default,,0000,0000,0000,,In order to fuse my three Blue-Eyes, I must first draw Polymerization.
+Dialogue: 0,0:05:57.99,0:06:05.28,Default,,0000,0000,0000,,I promise to fuse my three Blue-Eyes and humilate you right back.
+Dialogue: 0,0:06:05.71,0:06:10.33,Default,,0000,0000,0000,,I get it.  If I was Kaiba, I would try to fuse my three Blue-Eyes.
+Dialogue: 0,0:06:10.33,0:06:14.81,Default,,0000,0000,0000,,He is definitely trying to fuse his three Blue-Eyes.
+Dialogue: 0,0:06:15.19,0:06:19.76,Default,,0000,0000,0000,,But I don’t have anything in my hand right now that can destroy Blue-Eyes.
+Dialogue: 0,0:06:20.13,0:06:22.49,Default,,0000,0000,0000,,I’ll have to break Kaiba’s combo first.
+Dialogue: 0,0:06:22.97,0:06:24.50,Default,,0000,0000,0000,,Mystic Box!
+Dialogue: 0,0:06:33.16,0:06:34.04,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:06:34.13,0:06:38.55,Default,,0000,0000,0000,,Mystic Box is a spell card that destroys your combo.
+Dialogue: 0,0:06:38.55,0:06:42.57,Default,,0000,0000,0000,,I’ll use the first box to sacrifice your Ancient Lamp.
+Dialogue: 0,0:06:50.63,0:06:52.40,Default,,0000,0000,0000,,My Ancient Lamp!
+Dialogue: 0,0:06:52.61,0:06:55.07,Default,,0000,0000,0000,,Come on out, Dark Magician!
+Dialogue: 0,0:07:05.09,0:07:06.44,Default,,0000,0000,0000,,Black Magic!
+Dialogue: 0,0:07:09.59,0:07:11.45,Default,,0000,0000,0000,,La Jinn is destroyed.
+Dialogue: 0,0:07:13.95,0:07:15.75,Default,,0000,0000,0000,,How dare you!
+Dialogue: 0,0:07:16.17,0:07:19.92,Default,,0000,0000,0000,,Kaiba, I won’t let you fuse your three Blue-Eyes together!
+Dialogue: 0,0:07:19.92,0:07:23.69,Default,,0000,0000,0000,,I’ll drop your life points to 0 before that!
+Dialogue: 0,0:07:25.00,0:07:27.57,Default,,0000,0000,0000,,So you’ve figured out my plan, Yugi.
+Dialogue: 0,0:07:28.07,0:07:30.37,Default,,0000,0000,0000,,But don’t underestimate me, Yugi.
+Dialogue: 0,0:07:30.37,0:07:35.07,Default,,0000,0000,0000,,My equation for victory is more perfect than you can imagine.
+Dialogue: 0,0:07:36.95,0:07:41.67,Default,,0000,0000,0000,,It’s already over for you, so I’ll just enjoy the game until then.
+Dialogue: 0,0:07:42.27,0:07:44.32,Default,,0000,0000,0000,,Here I go.  It’s my turn!
+Dialogue: 0,0:07:45.79,0:07:48.15,Default,,0000,0000,0000,,I’ll show you a terrifying combo.
+Dialogue: 0,0:07:48.15,0:07:50.82,Default,,0000,0000,0000,,This is the ultimate killer combo.
+Dialogue: 0,0:07:51.23,0:07:53.91,Default,,0000,0000,0000,,I place Saggi the Dark Clown in defense position.
+Dialogue: 0,0:07:54.47,0:07:57.40,Default,,0000,0000,0000,,I set the other card on the Sub-Card Stage.
+Dialogue: 0,0:08:09.33,0:08:11.11,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:08:11.73,0:08:14.40,Default,,0000,0000,0000,,Saggi has 1500 defense points.
+Dialogue: 0,0:08:14.40,0:08:20.28,Default,,0000,0000,0000,,I can easily defeat it with Dark Magician, but something feels fishy.
+Dialogue: 0,0:08:20.69,0:08:24.97,Default,,0000,0000,0000,,Yugi, your only option is to attack Saggi.
+Dialogue: 0,0:08:24.97,0:08:29.09,Default,,0000,0000,0000,,I’ll keep Saggi on the field until you attack it.
+Dialogue: 0,0:08:29.53,0:08:32.10,Default,,0000,0000,0000,,You’re caught in my hellish trap.
+Dialogue: 0,0:08:32.53,0:08:33.53,Default,,0000,0000,0000,,It’s my turn!
+Dialogue: 0,0:08:36.99,0:08:38.11,Default,,0000,0000,0000,,This is a good card.
+Dialogue: 0,0:08:38.67,0:08:40.43,Default,,0000,0000,0000,,Gaia the Fierce Knight.
+Dialogue: 0,0:08:40.63,0:08:43.67,Default,,0000,0000,0000,,Gaia defeated Saggi in battle before.
+Dialogue: 0,0:08:44.29,0:08:46.88,Default,,0000,0000,0000,,Okay, I change my main monster!
+Dialogue: 0,0:08:47.75,0:08:49.97,Default,,0000,0000,0000,,I battle using Gaia the Fierce Knight!
+Dialogue: 0,0:08:54.09,0:08:56.01,Default,,0000,0000,0000,,Attack Saggi!
+Dialogue: 0,0:08:59.91,0:09:01.35,Default,,0000,0000,0000,,Spiral Shaver!
+Dialogue: 0,0:09:05.13,0:09:07.67,Default,,0000,0000,0000,,Saggi the Dark Clown is destroyed!
+Dialogue: 0,0:09:08.60,0:09:09.83,Default,,0000,0000,0000,,You fell for it!
+Dialogue: 0,0:09:14.70,0:09:15.61,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:09:16.13,0:09:17.93,Default,,0000,0000,0000,,Gaia the Fierce Knight is...
+Dialogue: 0,0:09:19.43,0:09:21.01,Default,,0000,0000,0000,,It’s not just Gaia.
+Dialogue: 0,0:09:23.83,0:09:25.53,Default,,0000,0000,0000,,Dark Magician too.
+Dialogue: 0,0:09:25.83,0:09:27.39,Default,,0000,0000,0000,,What’s going on?
+Dialogue: 0,0:09:29.00,0:09:30.73,Default,,0000,0000,0000,,It’s due to this card.
+Dialogue: 0,0:09:31.00,0:09:33.62,Default,,0000,0000,0000,,Crush Card Virus.
+Dialogue: 0,0:09:33.85,0:09:35.13,Default,,0000,0000,0000,,What is that?
+Dialogue: 0,0:09:35.35,0:09:39.87,Default,,0000,0000,0000,,I infected Saggi the Dark Clown with a death virus.
+Dialogue: 0,0:09:39.87,0:09:45.37,Default,,0000,0000,0000,,When your monster attacked Saggi, the virus activated.
+Dialogue: 0,0:09:45.60,0:09:50.61,Default,,0000,0000,0000,,Crush Card Virus infects all the cards in your deck.
+Dialogue: 0,0:09:52.83,0:09:54.11,Default,,0000,0000,0000,,Oh no!
+Dialogue: 0,0:09:54.57,0:10:00.95,Default,,0000,0000,0000,,Due to Crush Card Virus’s effect, you can’t use any monsters with at least 1500 attack points.
+Dialogue: 0,0:10:00.95,0:10:03.96,Default,,0000,0000,0000,,Your deck is as good as destroyed.
+Dialogue: 0,0:10:23.60,0:10:24.60,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:10:26.29,0:10:32.34,Default,,0000,0000,0000,,All you can do is wait for defeat.
+Dialogue: 0,0:10:32.53,0:10:38.20,Default,,0000,0000,0000,,Yugi, you’re about to feel a duel that will turn your blood into ice.
+Dialogue: 0,0:10:39.30,0:10:44.29,Default,,0000,0000,0000,,Damn that Kaiba!  He’s playing crazy cards!
+Dialogue: 0,0:10:44.29,0:10:46.82,Default,,0000,0000,0000,,What’s going to happen to Yugi?
+Dialogue: 0,0:10:46.82,0:10:52.40,Default,,0000,0000,0000,,Yugi has no choice but to fight using weak monsters and spell cards.
+Dialogue: 0,0:10:52.40,0:10:56.77,Default,,0000,0000,0000,,But Kaiba has three Blue-Eyes!
+Dialogue: 0,0:10:57.76,0:10:58.64,Default,,0000,0000,0000,,Yugi...
+Dialogue: 0,0:11:03.92,0:11:09.60,Default,,0000,0000,0000,,How scary.  Kaiba plays dirty.
+Dialogue: 0,0:11:09.60,0:11:14.60,Default,,0000,0000,0000,,Since he lost his high Level monsters, Yugi is like a plucked chicken.
+Dialogue: 0,0:11:14.98,0:11:20.16,Default,,0000,0000,0000,,I’ll just watch and see how Kaiba finishes him off.
+Dialogue: 0,0:11:20.38,0:11:21.76,Default,,0000,0000,0000,,My turn.
+Dialogue: 0,0:11:21.76,0:11:24.66,Default,,0000,0000,0000,,But neither of us have a monster on our fields.
+Dialogue: 0,0:11:25.00,0:11:27.89,Default,,0000,0000,0000,,Draw a card and set it in your Disk.
+Dialogue: 0,0:11:27.89,0:11:31.71,Default,,0000,0000,0000,,But my monster will crush it in an instant.
+Dialogue: 0,0:11:33.31,0:11:36.89,Default,,0000,0000,0000,,I drew Summoned Skull.
+Dialogue: 0,0:11:36.89,0:11:39.84,Default,,0000,0000,0000,,It has over 1500 attack points.
+Dialogue: 0,0:11:40.92,0:11:43.68,Default,,0000,0000,0000,,Even if I play it, it will be destroyed.
+Dialogue: 0,0:11:43.68,0:11:44.55,Default,,0000,0000,0000,,What’s the matter, Yugi?
+Dialogue: 0,0:11:45.00,0:11:48.79,Default,,0000,0000,0000,,I’ll keep passing my turn until you draw a card that you can play.
+Dialogue: 0,0:11:50.92,0:11:54.70,Default,,0000,0000,0000,,My only choice is to play Silver Fang in defense position.
+Dialogue: 0,0:12:02.96,0:12:07.04,Default,,0000,0000,0000,,Your deck contains nothing but weak little runts.
+Dialogue: 0,0:12:08.68,0:12:11.84,Default,,0000,0000,0000,,It’s my second Blue-Eyes White Dragon.
+Dialogue: 0,0:12:12.08,0:12:17.08,Default,,0000,0000,0000,,Yugi, keep playing your weak monsters in defense position to evade me.
+Dialogue: 0,0:12:17.58,0:12:24.12,Default,,0000,0000,0000,,Meanwhile, I’ll gather Polymerization and all three Blue-Eyes White Dragons into my hand.
+Dialogue: 0,0:12:24.12,0:12:28.42,Default,,0000,0000,0000,,I’ll fuse my three Blue-Eyes to create the ultimate monster.
+Dialogue: 0,0:12:28.78,0:12:34.19,Default,,0000,0000,0000,,Until that moment, I’ll keep Blue-Eyes in my hand.
+Dialogue: 0,0:12:37.92,0:12:40.11,Default,,0000,0000,0000,,Battle Ox in attack position!
+Dialogue: 0,0:12:41.24,0:12:43.61,Default,,0000,0000,0000,,Annihilate Silver Fang!
+Dialogue: 0,0:12:46.98,0:12:48.78,Default,,0000,0000,0000,,Axe Crusher!
+Dialogue: 0,0:12:50.50,0:12:52.48,Default,,0000,0000,0000,,Silver Fang is destroyed.
+Dialogue: 0,0:12:54.20,0:12:57.15,Default,,0000,0000,0000,,Damn!  He’s just torturing him!
+Dialogue: 0,0:12:57.42,0:13:01.36,Default,,0000,0000,0000,,The other Yugi has always won.
+Dialogue: 0,0:13:01.39,0:13:02.89,Default,,0000,0000,0000,,There’s no way he’ll lose now.
+Dialogue: 0,0:13:04.66,0:13:08.67,Default,,0000,0000,0000,,I still have plenty of other high Level monsters.
+Dialogue: 0,0:13:09.00,0:13:16.41,Default,,0000,0000,0000,,But you don’t even have the power to survive my Battle Ox.
+Dialogue: 0,0:13:16.66,0:13:19.14,Default,,0000,0000,0000,,Yugi, it’s your turn.
+Dialogue: 0,0:13:19.52,0:13:20.62,Default,,0000,0000,0000,,It’s no good.
+Dialogue: 0,0:13:20.62,0:13:25.38,Default,,0000,0000,0000,,I don’t have any cards that can stand up to Battle Ox, much less Blue-Eyes.
+Dialogue: 0,0:13:25.68,0:13:27.90,Default,,0000,0000,0000,,Play your next card.
+Dialogue: 0,0:13:28.09,0:13:32.06,Default,,0000,0000,0000,,I know it’ll be another defensive monster that I’ll wipe away.
+Dialogue: 0,0:13:32.39,0:13:35.04,Default,,0000,0000,0000,,All I can do is draw a card.
+Dialogue: 0,0:13:35.04,0:13:39.46,Default,,0000,0000,0000,,I won’t give up until my life points reach 0!
+Dialogue: 0,0:13:40.14,0:13:41.80,Default,,0000,0000,0000,,It’s Griffore.
+Dialogue: 0,0:13:42.30,0:13:44.88,Default,,0000,0000,0000,,All right!  I can use this card!
+Dialogue: 0,0:13:53.21,0:13:54.73,Default,,0000,0000,0000,,Griffore!
+Dialogue: 0,0:13:56.48,0:14:00.62,Default,,0000,0000,0000,,Griffore?  Another weakling in defense position.
+Dialogue: 0,0:14:01.08,0:14:04.12,Default,,0000,0000,0000,,My Battle Ox will bury it quickly!
+Dialogue: 0,0:14:05.46,0:14:09.13,Default,,0000,0000,0000,,I didn’t place Griffore in defense position, Kaiba.
+Dialogue: 0,0:14:09.58,0:14:10.46,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:14:10.96,0:14:12.84,Default,,0000,0000,0000,,Horn of the Unicorn.
+Dialogue: 0,0:14:13.02,0:14:15.29,Default,,0000,0000,0000,,I’ll use this card in a combo attack!
+Dialogue: 0,0:14:15.82,0:14:17.68,Default,,0000,0000,0000,,Griffore Arrow!
+Dialogue: 0,0:14:22.66,0:14:24.64,Default,,0000,0000,0000,,Battle Ox is destroyed!
+Dialogue: 0,0:14:27.20,0:14:30.26,Default,,0000,0000,0000,,All right!  You scared yet, Kaiba?
+Dialogue: 0,0:14:30.26,0:14:31.15,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:14:31.36,0:14:34.18,Default,,0000,0000,0000,,Yugi is starting to show his true skills.
+Dialogue: 0,0:14:34.18,0:14:35.82,Default,,0000,0000,0000,,We’re counting on you, Yugi!
+Dialogue: 0,0:14:36.89,0:14:41.06,Default,,0000,0000,0000,,I should thank you for destroying my Battle Ox.
+Dialogue: 0,0:14:41.52,0:14:45.78,Default,,0000,0000,0000,,Let’s hope this turn didn’t cause you to lose.
+Dialogue: 0,0:14:47.16,0:14:48.40,Default,,0000,0000,0000,,My turn!
+Dialogue: 0,0:14:49.30,0:14:53.40,Default,,0000,0000,0000,,Now I have three Blue-Eyes White Dragon cards.
+Dialogue: 0,0:14:53.68,0:14:56.91,Default,,0000,0000,0000,,First, I’ll use a spell card in my hand.
+Dialogue: 0,0:14:57.76,0:15:00.02,Default,,0000,0000,0000,,Gift of The Mystical Elf.
+Dialogue: 0,0:15:13.98,0:15:19.53,Default,,0000,0000,0000,,Gift of The Mystical Elf raises my life points by 300.
+Dialogue: 0,0:15:20.10,0:15:30.54,Default,,0000,0000,0000,,Since he had Gift of The Mystical Elf, Kaiba used Battle Ox to get me to play my monster in attack position.
+Dialogue: 0,0:15:33.38,0:15:37.26,Default,,0000,0000,0000,,I’ll place one Blue-Eyes on the field this turn.
+Dialogue: 0,0:15:37.26,0:15:40.12,Default,,0000,0000,0000,,It will take one more turn to fuse the three together.
+Dialogue: 0,0:15:40.50,0:15:42.80,Default,,0000,0000,0000,,I finally got you cornered, Yugi!
+Dialogue: 0,0:15:44.80,0:15:47.09,Default,,0000,0000,0000,,Come out, Blue-Eyes!
+Dialogue: 0,0:15:58.04,0:16:00.54,Default,,0000,0000,0000,,Here I go, Yugi!  I hope you’re prepared!
+Dialogue: 0,0:16:01.06,0:16:03.77,Default,,0000,0000,0000,,Burst Stream of Destruction!
+Dialogue: 0,0:16:24.62,0:16:26.90,Default,,0000,0000,0000,,Your weakling is destroyed.
+Dialogue: 0,0:16:27.14,0:16:29.34,Default,,0000,0000,0000,,You managed to keep some life points.
+Dialogue: 0,0:16:29.34,0:16:31.80,Default,,0000,0000,0000,,It’s your turn!
+Dialogue: 0,0:16:37.16,0:16:39.98,Default,,0000,0000,0000,,Giant Soldier of Stone in defense position!
+Dialogue: 0,0:16:40.50,0:16:41.98,Default,,0000,0000,0000,,I end my turn!
+Dialogue: 0,0:16:42.70,0:16:44.22,Default,,0000,0000,0000,,It’s my turn!
+Dialogue: 0,0:16:46.62,0:16:52.68,Default,,0000,0000,0000,,Yugi, since the first time I met you, I’ve had an insatiable hunger to defeat you.
+Dialogue: 0,0:16:52.68,0:16:54.29,Default,,0000,0000,0000,,I’ve thirsted for victory.
+Dialogue: 0,0:16:56.58,0:17:01.04,Default,,0000,0000,0000,,I can finally escape from those pains.
+Dialogue: 0,0:17:01.04,0:17:04.64,Default,,0000,0000,0000,,I’ll show you how painful those yearnings can be!
+Dialogue: 0,0:17:25.40,0:17:28.32,Default,,0000,0000,0000,,Blue-Eyes Ultimate Dragon!
+Dialogue: 0,0:17:28.32,0:17:32.44,Default,,0000,0000,0000,,This is the fusion of three Blue-Eyes?
+Dialogue: 0,0:17:34.58,0:17:37.36,Default,,0000,0000,0000,,How’s that!  Behold, Yugi.
+Dialogue: 0,0:17:37.78,0:17:42.54,Default,,0000,0000,0000,,Witness the splendor of the most powerful ultimate monster!
+Dialogue: 0,0:17:42.54,0:17:45.08,Default,,0000,0000,0000,,He fused three Blue-Eyes together!
+Dialogue: 0,0:17:45.08,0:17:47.84,Default,,0000,0000,0000,,It has 4500 attack points?
+Dialogue: 0,0:17:47.84,0:17:49.28,Default,,0000,0000,0000,,That punk!
+Dialogue: 0,0:17:49.42,0:17:53.78,Default,,0000,0000,0000,,Kaiba was aiming to complete this ultimate dragon all along.
+Dialogue: 0,0:17:57.60,0:17:59.42,Default,,0000,0000,0000,,This match is over.
+Dialogue: 0,0:17:59.42,0:18:04.56,Default,,0000,0000,0000,,No miracle in the world can turn the tables.
+Dialogue: 0,0:18:04.88,0:18:07.70,Default,,0000,0000,0000,,Goddess of victory, I have just one wish.
+Dialogue: 0,0:18:07.83,0:18:09.88,Default,,0000,0000,0000,,Please help Yugi!
+Dialogue: 0,0:18:12.30,0:18:19.31,Default,,0000,0000,0000,,How can I fight against Blue-Eyes Ultimate Dragon and its 4500 attack points?
+Dialogue: 0,0:18:19.60,0:18:26.48,Default,,0000,0000,0000,,I don’t have many life points left, and I have nothing in my hand that can stand up to Ultimate Dragon.
+Dialogue: 0,0:18:26.70,0:18:29.54,Default,,0000,0000,0000,,Yugi, I hope you’re prepared.
+Dialogue: 0,0:18:29.56,0:18:35.26,Default,,0000,0000,0000,,Defeat was my cross to bear, but I now pass it on to you.
+Dialogue: 0,0:18:35.42,0:18:38.84,Default,,0000,0000,0000,,The weight of humilation will have you down on your knees!
+Dialogue: 0,0:18:40.10,0:18:44.02,Default,,0000,0000,0000,,Here comes Blue-Eyes Ultimate Dragon’s attack!
+Dialogue: 0,0:18:44.62,0:18:46.68,Default,,0000,0000,0000,,Ultimate Burst!
+Dialogue: 0,0:18:55.34,0:18:57.45,Default,,0000,0000,0000,,My victory is assured.
+Dialogue: 0,0:18:57.66,0:18:59.45,Default,,0000,0000,0000,,If I don’t do something, I’ll lose!
+Dialogue: 0,0:18:59.66,0:19:02.42,Default,,0000,0000,0000,,Yugi, it’s your turn!
+Dialogue: 0,0:19:02.42,0:19:05.74,Default,,0000,0000,0000,,If you’ve not giving up, draw your next card.
+Dialogue: 0,0:19:10.22,0:19:13.34,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:19:13.34,0:19:14.80,Default,,0000,0000,0000,,Don’t give up!
+Dialogue: 0,0:19:14.80,0:19:19.30,Default,,0000,0000,0000,,The entrance to Pegasus’s castle is right in front of our eyes!
+Dialogue: 0,0:19:19.54,0:19:23.85,Default,,0000,0000,0000,,If you give up, that door will remain closed forever!
+Dialogue: 0,0:19:30.46,0:19:31.74,Default,,0000,0000,0000,,Grandpa...
+Dialogue: 0,0:19:38.95,0:19:39.82,Default,,0000,0000,0000,,I...
+Dialogue: 0,0:19:39.82,0:19:42.06,Default,,0000,0000,0000,,I won’t give up!
+Dialogue: 0,0:19:42.34,0:19:46.18,Default,,0000,0000,0000,,Good.  Oppose me to the end.
+Dialogue: 0,0:19:46.18,0:19:52.50,Default,,0000,0000,0000,,Yugi, even if you muster up all your strength, I’ll crush you easily!
+Dialogue: 0,0:19:52.74,0:19:57.94,Default,,0000,0000,0000,,If I can’t survive his next attack, I’ll lose.
+Dialogue: 0,0:19:58.16,0:19:59.71,Default,,0000,0000,0000,,This turn will decide everything!
+Dialogue: 0,0:20:01.18,0:20:01.89,Default,,0000,0000,0000,,Yugi.
+Dialogue: 0,0:20:02.93,0:20:03.68,Default,,0000,0000,0000,,Yugi.
+Dialogue: 0,0:20:04.72,0:20:05.72,Default,,0000,0000,0000,,Yugi.
+Dialogue: 0,0:20:07.84,0:20:09.40,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:20:12.08,0:20:15.36,Default,,0000,0000,0000,,No matter what card you draw, it won’t help.
+Dialogue: 0,0:20:17.31,0:20:21.24,Default,,0000,0000,0000,,I bet everything on this draw!
+Dialogue: 0,0:20:26.37,0:20:31.02,Default,,0000,0000,0000,,Yugi escapes from a desperate pinch with a Monster Reborn combo attack.
+Dialogue: 0,0:20:31.02,0:20:35.21,Default,,0000,0000,0000,,Now put the pressure on Kaiba’s Ultimate Dragon!
+Dialogue: 0,0:20:35.21,0:20:39.34,Default,,0000,0000,0000,,What are you doing, Kaiba?  It’s dangerous to step back any further!
+Dialogue: 0,0:20:39.34,0:20:45.14,Default,,0000,0000,0000,,What?  You’ll jump off the castle when your life points reach 0?
+Dialogue: 0,0:20:45.14,0:20:48.87,Default,,0000,0000,0000,,Next time on Yu-Gi-Oh!:\NKuribohs Multiply!\NShocking Finale
+Dialogue: 0,0:20:48.87,0:20:50.82,Default,,0000,0000,0000,,Duel, standby!
+Dialogue: 0,0:20:54.85,0:21:03.25,Default,,0000,0000,0000,,The flask glistens
+Dialogue: 0,0:21:04.29,0:21:11.10,Default,,0000,0000,0000,,Wait for me in the science classroom
+Dialogue: 0,0:21:11.59,0:21:20.07,Default,,0000,0000,0000,,If we put our cold hands together
+Dialogue: 0,0:21:20.77,0:21:27.85,Default,,0000,0000,0000,,And rub them together, they become warm
+Dialogue: 0,0:21:29.55,0:21:33.68,Default,,0000,0000,0000,,Shower of happiness
+Dialogue: 0,0:21:33.97,0:21:37.79,Default,,0000,0000,0000,,I will shower you with it
+Dialogue: 0,0:21:38.12,0:21:46.06,Default,,0000,0000,0000,,I will support you even when you feel lonely
+Dialogue: 0,0:21:46.26,0:21:50.30,Default,,0000,0000,0000,,Shower of happiness
+Dialogue: 0,0:21:50.57,0:21:54.43,Default,,0000,0000,0000,,You are not alone
+Dialogue: 0,0:21:54.81,0:22:01.15,Default,,0000,0000,0000,,You’re protected by a giant ring of friendship

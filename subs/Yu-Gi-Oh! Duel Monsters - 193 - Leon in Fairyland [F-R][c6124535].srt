@@ -1,0 +1,338 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: 4kmedia  [http://www.crunchyroll.com/user/4kmedia]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 480
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,EquitanSans-Regular,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,25,1
+Style: note,Arial,20,&H0014F2F5,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Yu-Gi-Oh Yellow,Trebuchet MS,28,&H0000FFFF,&H0000FFFF,&H00232323,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+Style: Yu-Gi-Oh,Trebuchet MS,28,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:11.38,0:00:19.83,Default,,0000,0000,0000,,A light so bright that it can’t be hidden\NBreaks the silence and resurrects in this world
+Dialogue: 0,0:00:21.45,0:00:30.51,Default,,0000,0000,0000,,The dry land quakes violently\NSparks clash as we risk our lives
+Dialogue: 0,0:00:32.17,0:00:38.39,Default,,0000,0000,0000,,Let a miracle occur, just one more time
+Dialogue: 0,0:00:38.39,0:00:45.48,Default,,0000,0000,0000,,The power to regain the pages of memories I lost long ago
+Dialogue: 0,0:00:46.35,0:00:53.65,Default,,0000,0000,0000,,The trusting heart pierces the darkness\NSearch for the place where the soul rests
+Dialogue: 0,0:00:53.65,0:00:59.69,Default,,0000,0000,0000,,The sharp glint in my unblinking eye burns
+Dialogue: 0,0:01:00.08,0:01:07.42,Default,,0000,0000,0000,,Two souls - light and shadow\NTo the future shown in the crystal
+Dialogue: 0,0:01:07.42,0:01:13.75,Default,,0000,0000,0000,,Now moving  Overflowing in red  eyes
+Dialogue: 0,0:01:26.86,0:01:29.57,Default,,0000,0000,0000,,The KC Grand Prix semifinals have started.
+Dialogue: 0,0:01:29.57,0:01:33.98,Default,,0000,0000,0000,,Sieg quickly qualifies for the finals.
+Dialogue: 0,0:01:33.98,0:01:40.68,Default,,0000,0000,0000,,Rebecca and Leon use all their strategies in a fierce duel, neither side backing down.
+Dialogue: 0,0:01:40.68,0:01:47.53,Default,,0000,0000,0000,,I want to go cheer for her, but someone kidnapped my Grandpa!
+Dialogue: 0,0:01:47.53,0:01:51.04,Default,,0000,0000,0000,,Just wait, Grandpa!  We’re coming to rescue you!
+Dialogue: 0,0:01:51.04,0:01:57.05,Default,,0000,0000,0000,,Leon in Fairyland
+Dialogue: 0,0:02:23.80,0:02:25.58,Default,,0000,0000,0000,,Looks delicious!
+Dialogue: 0,0:02:26.18,0:02:28.46,Default,,0000,0000,0000,,Shark fin soup!  Shrimp with chili sauce!
+Dialogue: 0,0:02:28.46,0:02:30.92,Default,,0000,0000,0000,,There’s also Peking Duck!
+Dialogue: 0,0:02:46.43,0:02:47.87,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:02:49.09,0:02:50.46,Default,,0000,0000,0000,,That’s...
+Dialogue: 0,0:02:50.46,0:02:51.44,Default,,0000,0000,0000,,Vivian?
+Dialogue: 0,0:03:06.83,0:03:08.60,Default,,0000,0000,0000,,How’s she doing that?
+Dialogue: 0,0:03:09.78,0:03:10.83,Default,,0000,0000,0000,,Over there!
+Dialogue: 0,0:03:16.74,0:03:17.80,Default,,0000,0000,0000,,Grandpa!
+Dialogue: 0,0:03:18.36,0:03:20.25,Default,,0000,0000,0000,,Sugoroku?
+Dialogue: 0,0:03:20.25,0:03:22.26,Default,,0000,0000,0000,,What are you doing, Grandpa?
+Dialogue: 0,0:03:22.26,0:03:24.69,Default,,0000,0000,0000,,Well...  Umm...
+Dialogue: 0,0:03:32.81,0:03:36.27,Default,,0000,0000,0000,,Grandpa, that hurt!
+Dialogue: 0,0:03:37.18,0:03:39.78,Default,,0000,0000,0000,,I’m sorry, Vivi.
+Dialogue: 0,0:03:39.78,0:03:41.14,Default,,0000,0000,0000,,Vivi?
+Dialogue: 0,0:03:41.14,0:03:44.16,Default,,0000,0000,0000,,Grandpa!  Tell us what’s going on!
+Dialogue: 0,0:03:44.16,0:03:46.78,Default,,0000,0000,0000,,We were worried about you!
+Dialogue: 0,0:03:46.78,0:03:50.29,Default,,0000,0000,0000,,Well it’s...  Umm...
+Dialogue: 0,0:03:50.29,0:03:52.88,Default,,0000,0000,0000,,Forget about Grandpa!
+Dialogue: 0,0:03:52.88,0:03:55.47,Default,,0000,0000,0000,,This is an issue between Yugi and me.
+Dialogue: 0,0:04:06.18,0:04:07.54,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:04:08.39,0:04:12.06,Default,,0000,0000,0000,,This is the true arena for the KC Grand Prix’s finals!
+Dialogue: 0,0:04:12.06,0:04:15.35,Default,,0000,0000,0000,,The sacred ground where Yugi and I will duel!
+Dialogue: 0,0:04:18.40,0:04:19.87,Default,,0000,0000,0000,,You kiddin’ me?
+Dialogue: 0,0:04:19.87,0:04:23.41,Default,,0000,0000,0000,,You lost to Rebecca in the first round!
+Dialogue: 0,0:04:23.41,0:04:27.91,Default,,0000,0000,0000,,Only the winner of the KC Grand Prix can duel Yugi!
+Dialogue: 0,0:04:28.70,0:04:30.34,Default,,0000,0000,0000,,Silence!
+Dialogue: 0,0:04:30.34,0:04:35.33,Default,,0000,0000,0000,,As long as both parties want to duel, they can duel anytime, anywhere!
+Dialogue: 0,0:04:35.33,0:04:36.92,Default,,0000,0000,0000,,Right, Yugi?
+Dialogue: 0,0:04:37.30,0:04:40.50,Default,,0000,0000,0000,,Sorry, but I won’t duel you.
+Dialogue: 0,0:04:41.99,0:04:43.99,Default,,0000,0000,0000,,Don’t say that, Yugi.
+Dialogue: 0,0:04:43.99,0:04:46.36,Default,,0000,0000,0000,,Please duel against Vivi.
+Dialogue: 0,0:04:48.49,0:04:51.50,Default,,0000,0000,0000,,Grandpa, did she seduce you?
+Dialogue: 0,0:04:52.14,0:04:55.65,Default,,0000,0000,0000,,No, I have a good reason.
+Dialogue: 0,0:05:07.35,0:05:08.66,Default,,0000,0000,0000,,Mr. Rock?
+Dialogue: 0,0:05:08.66,0:05:11.64,Default,,0000,0000,0000,,No, I mean Sugoroku Muto.
+Dialogue: 0,0:05:13.16,0:05:14.16,Default,,0000,0000,0000,,You’re...
+Dialogue: 0,0:05:14.71,0:05:19.64,Default,,0000,0000,0000,,Sugoroku, you’re Yugi’s grandfather, right?
+Dialogue: 0,0:05:20.71,0:05:22.67,Default,,0000,0000,0000,,Yes I am.
+Dialogue: 0,0:05:22.67,0:05:27.40,Default,,0000,0000,0000,,Wow!  Can you do me a favor?
+Dialogue: 0,0:05:27.40,0:05:32.22,Default,,0000,0000,0000,,Even if I wanted to, my back hurts.
+Dialogue: 0,0:05:32.22,0:05:35.69,Default,,0000,0000,0000,,If I fix your back, will you do it?
+Dialogue: 0,0:05:36.60,0:05:38.19,Default,,0000,0000,0000,,Of course!
+Dialogue: 0,0:05:38.19,0:05:40.84,Default,,0000,0000,0000,,Really?  That’s a promise!
+Dialogue: 0,0:05:49.93,0:05:52.20,Default,,0000,0000,0000,,My back doesn’t hurt anymore.
+Dialogue: 0,0:05:54.16,0:05:58.92,Default,,0000,0000,0000,,Vivi fixed my back, so I owe her.
+Dialogue: 0,0:05:58.92,0:06:01.19,Default,,0000,0000,0000,,That can’t be the whole story.
+Dialogue: 0,0:06:01.19,0:06:03.62,Default,,0000,0000,0000,,He clearly has a secret motive.
+Dialogue: 0,0:06:03.62,0:06:04.92,Default,,0000,0000,0000,,How dare you!
+Dialogue: 0,0:06:04.92,0:06:07.90,Default,,0000,0000,0000,,Grandpa, you’re dishonorable!
+Dialogue: 0,0:06:09.36,0:06:11.92,Default,,0000,0000,0000,,I’m no longer your student!
+Dialogue: 0,0:06:11.92,0:06:13.43,Default,,0000,0000,0000,,Grandpa...
+Dialogue: 0,0:06:13.43,0:06:15.93,Default,,0000,0000,0000,,So you won’t duel her?
+Dialogue: 0,0:06:15.93,0:06:19.22,Default,,0000,0000,0000,,Unacceptable!  Not after coming this far!
+Dialogue: 0,0:06:24.81,0:06:26.69,Default,,0000,0000,0000,,My back...
+Dialogue: 0,0:06:26.69,0:06:29.16,Default,,0000,0000,0000,,What did you do?
+Dialogue: 0,0:06:29.16,0:06:31.71,Default,,0000,0000,0000,,I returned him to his original state.
+Dialogue: 0,0:06:31.71,0:06:33.70,Default,,0000,0000,0000,,Are you okay, Grandpa?
+Dialogue: 0,0:06:33.70,0:06:39.71,Default,,0000,0000,0000,,Yugi!  If you want me to fix your grandpa’s back, duel me!
+Dialogue: 0,0:06:40.52,0:06:42.42,Default,,0000,0000,0000,,That’s dirty!
+Dialogue: 0,0:06:42.42,0:06:46.36,Default,,0000,0000,0000,,I’ll do anything for love.
+Dialogue: 0,0:06:48.44,0:06:50.84,Default,,0000,0000,0000,,A love that grows from dueling.
+Dialogue: 0,0:06:50.84,0:06:52.93,Default,,0000,0000,0000,,Isn’t that beautiful?
+Dialogue: 0,0:06:52.93,0:06:55.40,Default,,0000,0000,0000,,You’re an idiot!
+Dialogue: 0,0:06:55.40,0:06:56.89,Default,,0000,0000,0000,,Don’t do it, Yugi.
+Dialogue: 0,0:06:56.89,0:06:59.04,Default,,0000,0000,0000,,You don’t have to duel her.
+Dialogue: 0,0:07:02.98,0:07:04.22,Default,,0000,0000,0000,,Grandpa...
+Dialogue: 0,0:07:04.80,0:07:05.83,Default,,0000,0000,0000,,Partner.
+Dialogue: 0,0:07:05.83,0:07:07.33,Default,,0000,0000,0000,,My other self.
+Dialogue: 0,0:07:07.33,0:07:09.92,Default,,0000,0000,0000,,Our only choice is to help him.
+Dialogue: 0,0:07:09.92,0:07:10.95,Default,,0000,0000,0000,,Sorry about this.
+Dialogue: 0,0:07:20.00,0:07:21.68,Default,,0000,0000,0000,,For Grandpa...
+Dialogue: 0,0:07:23.69,0:07:25.21,Default,,0000,0000,0000,,I’ll duel you!
+Dialogue: 0,0:07:25.21,0:07:27.02,Default,,0000,0000,0000,,That’s the spirit!
+Dialogue: 0,0:07:27.02,0:07:29.16,Default,,0000,0000,0000,,But there’s one condition.
+Dialogue: 0,0:07:29.16,0:07:32.72,Default,,0000,0000,0000,,Yugi, if you lose, you become my servant.
+Dialogue: 0,0:07:32.72,0:07:34.97,Default,,0000,0000,0000,,My love servant.
+Dialogue: 0,0:07:34.97,0:07:36.69,Default,,0000,0000,0000,,What’s with you!
+Dialogue: 0,0:07:36.69,0:07:39.31,Default,,0000,0000,0000,,This is the real finals?  Whatever!
+Dialogue: 0,0:07:39.31,0:07:41.14,Default,,0000,0000,0000,,Servant?  Whatever!
+Dialogue: 0,0:07:41.14,0:07:43.85,Default,,0000,0000,0000,,Stop talking nonsense!
+Dialogue: 0,0:07:43.85,0:07:45.48,Default,,0000,0000,0000,,Anzu...
+Dialogue: 0,0:07:45.48,0:07:48.69,Default,,0000,0000,0000,,I don’t mind.  Because I’m going to win!
+Dialogue: 0,0:07:48.69,0:07:50.36,Default,,0000,0000,0000,,Yugi...
+Dialogue: 0,0:07:50.36,0:07:51.47,Default,,0000,0000,0000,,That’s right.
+Dialogue: 0,0:07:51.47,0:07:54.70,Default,,0000,0000,0000,,End this quick so we can go root for Becky.
+Dialogue: 0,0:07:54.70,0:07:57.14,Default,,0000,0000,0000,,Keep talking!
+Dialogue: 0,0:07:57.14,0:08:01.17,Default,,0000,0000,0000,,I’ll show you China’s 4000 years of dueling!
+Dialogue: 0,0:08:06.64,0:08:07.69,Default,,0000,0000,0000,,Duel!
+Dialogue: 0,0:08:16.72,0:08:19.03,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:08:19.72,0:08:23.09,Default,,0000,0000,0000,,I activate Pot of Greed from my hand!
+Dialogue: 0,0:08:23.09,0:08:25.58,Default,,0000,0000,0000,,I draw two cards from my deck!
+Dialogue: 0,0:08:26.23,0:08:31.27,Default,,0000,0000,0000,,I summon Witch of the Black Forest in attack position!
+Dialogue: 0,0:08:33.74,0:08:38.12,Default,,0000,0000,0000,,Witch of the Black Forest, destroy Pumpkin Carriage!
+Dialogue: 0,0:08:41.22,0:08:45.37,Default,,0000,0000,0000,,Now Prinzessin can’t attack me directly.
+Dialogue: 0,0:08:45.37,0:08:46.75,Default,,0000,0000,0000,,I end my turn!
+Dialogue: 0,0:08:46.75,0:08:49.16,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:08:49.52,0:08:52.92,Default,,0000,0000,0000,,Prinzessin attacks Witch of the Black Forest!
+Dialogue: 0,0:09:03.35,0:09:06.35,Default,,0000,0000,0000,,Witch of the Black Forest’s effect activates!
+Dialogue: 0,0:09:06.35,0:09:08.56,Default,,0000,0000,0000,,When it’s placed in the graveyard...
+Dialogue: 0,0:09:08.56,0:09:13.82,Default,,0000,0000,0000,,...I add a monster with 1500 or lower defense points from my deck to my hand.
+Dialogue: 0,0:09:13.82,0:09:15.32,Default,,0000,0000,0000,,I’m not done!
+Dialogue: 0,0:09:15.32,0:09:18.75,Default,,0000,0000,0000,,I summon Tom Thumb in defense position!
+Dialogue: 0,0:09:18.75,0:09:21.29,Default,,0000,0000,0000,,I also set one card.
+Dialogue: 0,0:09:21.29,0:09:22.97,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:09:23.62,0:09:25.79,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:09:25.79,0:09:29.62,Default,,0000,0000,0000,,I summon Ruby Dragon in attack position!
+Dialogue: 0,0:09:32.46,0:09:37.22,Default,,0000,0000,0000,,I activate the spell card, Dragon’s Gunfire from my hand!
+Dialogue: 0,0:09:40.47,0:09:47.97,Default,,0000,0000,0000,,Dragon’s Gunfire destroys a faceup monster with 800 or lower defense points!
+Dialogue: 0,0:09:54.61,0:09:59.41,Default,,0000,0000,0000,,Next, Ruby Dragon attacks Tom Thumb!
+Dialogue: 0,0:10:00.45,0:10:02.91,Default,,0000,0000,0000,,I flip over my set card!
+Dialogue: 0,0:10:02.91,0:10:05.12,Default,,0000,0000,0000,,Negate Attack!
+Dialogue: 0,0:10:07.10,0:10:10.56,Default,,0000,0000,0000,,It negates your attack and ends the Battle Phase.
+Dialogue: 0,0:10:11.16,0:10:14.13,Default,,0000,0000,0000,,I set two cards and end my turn.
+Dialogue: 0,0:10:14.13,0:10:16.48,Default,,0000,0000,0000,,He really is tough!
+Dialogue: 0,0:10:20.59,0:10:22.78,Default,,0000,0000,0000,,Yugi, where are you?
+Dialogue: 0,0:10:22.78,0:10:24.27,Default,,0000,0000,0000,,Rebecca!  Don’t lose!
+Dialogue: 0,0:10:24.27,0:10:25.14,Default,,0000,0000,0000,,Do your best!
+Dialogue: 0,0:10:25.14,0:10:26.64,Default,,0000,0000,0000,,Fight!
+Dialogue: 0,0:10:26.64,0:10:29.60,Default,,0000,0000,0000,,Oh yeah.  I’m not alone.
+Dialogue: 0,0:10:29.60,0:10:31.36,Default,,0000,0000,0000,,They’re cheering for me.
+Dialogue: 0,0:10:32.15,0:10:33.86,Default,,0000,0000,0000,,Rebecca, do your best!
+Dialogue: 0,0:10:35.08,0:10:36.20,Default,,0000,0000,0000,,I won’t lose!
+Dialogue: 0,0:10:37.16,0:10:38.91,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:10:38.91,0:10:43.87,Default,,0000,0000,0000,,I activate the spell card, Giant’s Training from my hand!
+Dialogue: 0,0:10:43.87,0:10:48.74,Default,,0000,0000,0000,,I tribute Tom Thumb, which has been on my field for at least one turn.
+Dialogue: 0,0:10:48.74,0:10:52.13,Default,,0000,0000,0000,,I summon Globerman in attack position!
+Dialogue: 0,0:10:52.13,0:10:55.18,Default,,0000,0000,0000,,Globerman attacks Ruby Dragon!
+Dialogue: 0,0:11:10.35,0:11:12.02,Default,,0000,0000,0000,,I flip over my set card!
+Dialogue: 0,0:11:12.02,0:11:13.56,Default,,0000,0000,0000,,Rope of Life!
+Dialogue: 0,0:11:13.56,0:11:16.30,Default,,0000,0000,0000,,When a battle sends a monster to the graveyard...
+Dialogue: 0,0:11:16.30,0:11:18.72,Default,,0000,0000,0000,,...I discard my hand to activate it!
+Dialogue: 0,0:11:18.72,0:11:23.53,Default,,0000,0000,0000,,I Special Summon the monster and raise its attack points by 800!
+Dialogue: 0,0:11:23.53,0:11:25.44,Default,,0000,0000,0000,,I have 0 cards in my hand!
+Dialogue: 0,0:11:25.44,0:11:28.56,Default,,0000,0000,0000,,I Special Summon Ruby Dragon!
+Dialogue: 0,0:11:31.08,0:11:33.04,Default,,0000,0000,0000,,I flip over another set card!
+Dialogue: 0,0:11:33.04,0:11:34.96,Default,,0000,0000,0000,,Adamantine Sword Revival!
+Dialogue: 0,0:11:34.96,0:11:39.55,Default,,0000,0000,0000,,I tribute a Special Summoned Dragon-Type monster!
+Dialogue: 0,0:11:39.55,0:11:43.76,Default,,0000,0000,0000,,I Special Summon Diamond Head Dragon from my deck!
+Dialogue: 0,0:11:52.77,0:12:01.53,Default,,0000,0000,0000,,Diamond Head Dragon’s attack points are equal to the tributed monster’s attack points plus 1000!
+Dialogue: 0,0:12:01.53,0:12:03.94,Default,,0000,0000,0000,,3400 attack points.
+Dialogue: 0,0:12:03.94,0:12:05.16,Default,,0000,0000,0000,,How’s that?
+Dialogue: 0,0:12:05.16,0:12:06.53,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:12:07.20,0:12:08.98,Default,,0000,0000,0000,,I won’t lose!
+Dialogue: 0,0:12:26.57,0:12:28.47,Default,,0000,0000,0000,,This is delicious!
+Dialogue: 0,0:12:28.47,0:12:30.71,Default,,0000,0000,0000,,This mapo tofu is exquisite!
+Dialogue: 0,0:12:32.15,0:12:34.43,Default,,0000,0000,0000,,What are you doing!
+Dialogue: 0,0:12:34.43,0:12:36.57,Default,,0000,0000,0000,,Cheer for Yugi!
+Dialogue: 0,0:12:36.57,0:12:39.53,Default,,0000,0000,0000,,C’mon, we know Yugi is going to win.
+Dialogue: 0,0:12:40.57,0:12:42.11,Default,,0000,0000,0000,,Anzu, eat up.
+Dialogue: 0,0:12:42.11,0:12:43.49,Default,,0000,0000,0000,,It’s delicious!
+Dialogue: 0,0:12:44.35,0:12:45.55,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:12:45.55,0:12:46.45,Default,,0000,0000,0000,,Delish!
+Dialogue: 0,0:12:48.19,0:12:51.55,Default,,0000,0000,0000,,It seems Vivian drew a key card!
+Dialogue: 0,0:12:51.55,0:12:58.91,Default,,0000,0000,0000,,I tribute Master Kyonshee and Kung Fu Nyan Nyan and activate the spell card, Luminous Clouds.
+Dialogue: 0,0:13:00.07,0:13:03.51,Default,,0000,0000,0000,,I Special Summon Dragon Lady in attack position!
+Dialogue: 0,0:13:03.51,0:13:08.07,Default,,0000,0000,0000,,I can’t Special Summon other monsters this turn.
+Dialogue: 0,0:13:08.07,0:13:09.47,Default,,0000,0000,0000,,However...
+Dialogue: 0,0:13:09.47,0:13:13.27,Default,,0000,0000,0000,,I activate the Equip Spell, Lightning Saber from my hand!
+Dialogue: 0,0:13:15.75,0:13:19.40,Default,,0000,0000,0000,,Dragon Lady gains 300 attack points!
+Dialogue: 0,0:13:20.23,0:13:24.53,Default,,0000,0000,0000,,Dragon Lady attacks Dark Magician!
+Dialogue: 0,0:13:33.75,0:13:35.71,Default,,0000,0000,0000,,What?  It attacked twice?
+Dialogue: 0,0:13:35.71,0:13:43.01,Default,,0000,0000,0000,,When equipped with Lightning Saber, it can halve its attack points to attack again.
+Dialogue: 0,0:13:43.01,0:13:44.95,Default,,0000,0000,0000,,I end my turn.
+Dialogue: 0,0:13:44.95,0:13:47.21,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:13:48.37,0:13:52.95,Default,,0000,0000,0000,,I summon Big Shield Gardna in defense position!
+Dialogue: 0,0:13:53.97,0:13:56.99,Default,,0000,0000,0000,,I set one card and end my turn.
+Dialogue: 0,0:13:57.49,0:13:59.61,Default,,0000,0000,0000,,Is Yugi okay?
+Dialogue: 0,0:13:59.61,0:14:01.09,Default,,0000,0000,0000,,He seems to be losing.
+Dialogue: 0,0:14:01.09,0:14:04.23,Default,,0000,0000,0000,,Say what!  No he’s not!
+Dialogue: 0,0:14:04.23,0:14:06.87,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:14:06.87,0:14:10.33,Default,,0000,0000,0000,,Dragon Lady attacks Big Shield Gardna!
+Dialogue: 0,0:14:12.29,0:14:14.26,Default,,0000,0000,0000,,I flip over my set card!
+Dialogue: 0,0:14:14.26,0:14:16.77,Default,,0000,0000,0000,,Mirror Force!
+Dialogue: 0,0:14:16.77,0:14:19.44,Default,,0000,0000,0000,,My Quick-Play Spell, Snowfall Sword!
+Dialogue: 0,0:14:19.44,0:14:23.44,Default,,0000,0000,0000,,I can activate it when a Warrior has an Equip Spell!
+Dialogue: 0,0:14:23.44,0:14:27.78,Default,,0000,0000,0000,,It negates and destroys your spell or trap!
+Dialogue: 0,0:14:37.91,0:14:39.68,Default,,0000,0000,0000,,Isn’t this bad?
+Dialogue: 0,0:14:39.68,0:14:43.16,Default,,0000,0000,0000,,The second attack will attack him directly.
+Dialogue: 0,0:14:43.16,0:14:47.67,Default,,0000,0000,0000,,I activate the spell card, Flying Dragon Whirl from my hand!
+Dialogue: 0,0:14:47.67,0:14:52.41,Default,,0000,0000,0000,,By sending four Dragons in my deck to the graveyard...
+Dialogue: 0,0:14:52.41,0:14:55.46,Default,,0000,0000,0000,,...Dragon Lady gains 1200 attack points!
+Dialogue: 0,0:15:01.42,0:15:02.38,Default,,0000,0000,0000,,Oh no!
+Dialogue: 0,0:15:02.38,0:15:03.41,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:15:03.41,0:15:06.51,Default,,0000,0000,0000,,Dragon Lady attacks you directly!
+Dialogue: 0,0:15:07.41,0:15:09.72,Default,,0000,0000,0000,,Oh my!  I won!
+Dialogue: 0,0:15:13.92,0:15:15.49,Default,,0000,0000,0000,,Are you sure?
+Dialogue: 0,0:15:19.57,0:15:25.15,Default,,0000,0000,0000,,By discarding Kuriboh from my hand, I take 0 damage!
+Dialogue: 0,0:15:28.38,0:15:31.17,Default,,0000,0000,0000,,I was so close!
+Dialogue: 0,0:15:31.17,0:15:33.39,Default,,0000,0000,0000,,I have to wait until my next turn.
+Dialogue: 0,0:15:33.39,0:15:34.70,Default,,0000,0000,0000,,I end my turn!
+Dialogue: 0,0:15:35.09,0:15:36.67,Default,,0000,0000,0000,,You won’t get another turn.
+Dialogue: 0,0:15:37.69,0:15:41.17,Default,,0000,0000,0000,,I’ll defeat you this turn, Vivian!
+Dialogue: 0,0:15:41.17,0:15:43.09,Default,,0000,0000,0000,,T-There’s no way you can-
+Dialogue: 0,0:15:43.09,0:15:45.17,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:15:46.42,0:15:51.26,Default,,0000,0000,0000,,I summon Skilled Dark Magician in attack position!
+Dialogue: 0,0:15:53.78,0:15:56.19,Default,,0000,0000,0000,,I activate Pot of Greed!
+Dialogue: 0,0:15:56.19,0:15:58.75,Default,,0000,0000,0000,,I draw two cards from my deck!
+Dialogue: 0,0:16:01.23,0:16:05.23,Default,,0000,0000,0000,,I activate Emblem of Dragon Destroyer from my hand!
+Dialogue: 0,0:16:05.23,0:16:09.00,Default,,0000,0000,0000,,I add Buster Blader from my graveyard to my hand!
+Dialogue: 0,0:16:11.41,0:16:12.71,Default,,0000,0000,0000,,What’s that light?
+Dialogue: 0,0:16:12.71,0:16:14.69,Default,,0000,0000,0000,,It’s a Spell Counter.
+Dialogue: 0,0:16:14.69,0:16:17.95,Default,,0000,0000,0000,,It gains one every time a spell card is activated.
+Dialogue: 0,0:16:18.91,0:16:19.95,Default,,0000,0000,0000,,I’m not done.
+Dialogue: 0,0:16:19.95,0:16:23.95,Default,,0000,0000,0000,,I activate the spell card, Monster Reincarnation from my hand!
+Dialogue: 0,0:16:23.95,0:16:27.96,Default,,0000,0000,0000,,I can return a monster in the graveyard to the deck!
+Dialogue: 0,0:16:28.71,0:16:31.47,Default,,0000,0000,0000,,I choose Dark Magician!
+Dialogue: 0,0:16:32.95,0:16:36.73,Default,,0000,0000,0000,,When Skilled Dark Magician has 3 Spell Counters...
+Dialogue: 0,0:16:36.73,0:16:43.97,Default,,0000,0000,0000,,...I can tribute it to Special Summon Dark Magician in attack position!
+Dialogue: 0,0:16:43.97,0:16:49.27,Default,,0000,0000,0000,,I fuse Dark Magician on my field with Buster Blader in my hand!
+Dialogue: 0,0:16:55.98,0:17:01.23,Default,,0000,0000,0000,,Come forth, Dark Paladin!
+Dialogue: 0,0:17:04.22,0:17:13.23,Default,,0000,0000,0000,,Dark Paladin gains 500 attack points for every Dragon on the field and in our graveyards!
+Dialogue: 0,0:17:13.23,0:17:19.23,Default,,0000,0000,0000,,No way!  I just sent four dragons to the graveyard!
+Dialogue: 0,0:17:22.75,0:17:26.11,Default,,0000,0000,0000,,Dark Paladin attacks Dragon Lady!
+Dialogue: 0,0:17:28.02,0:17:30.11,Default,,0000,0000,0000,,Super Magical Wave Slash!
+Dialogue: 0,0:17:38.49,0:17:40.09,Default,,0000,0000,0000,,He did it!
+Dialogue: 0,0:17:40.09,0:17:41.50,Default,,0000,0000,0000,,As expected!
+Dialogue: 0,0:17:47.08,0:17:50.50,Default,,0000,0000,0000,,As you promised, please fix my grandpa’s back.
+Dialogue: 0,0:17:53.55,0:17:55.55,Default,,0000,0000,0000,,Yugi...
+Dialogue: 0,0:18:04.25,0:18:05.17,Default,,0000,0000,0000,,Rebecca!
+Dialogue: 0,0:18:06.00,0:18:07.08,Default,,0000,0000,0000,,Darling!
+Dialogue: 0,0:18:07.08,0:18:08.06,Default,,0000,0000,0000,,We came too!
+Dialogue: 0,0:18:08.06,0:18:10.03,Default,,0000,0000,0000,,Rebecca, do your best!
+Dialogue: 0,0:18:10.03,0:18:10.82,Default,,0000,0000,0000,,Everyone!
+Dialogue: 0,0:18:11.78,0:18:12.79,Default,,0000,0000,0000,,Yugi!
+Dialogue: 0,0:18:12.79,0:18:15.32,Default,,0000,0000,0000,,Are you okay, Rebecca?
+Dialogue: 0,0:18:15.32,0:18:17.30,Default,,0000,0000,0000,,You only have 100 life points.
+Dialogue: 0,0:18:17.30,0:18:18.79,Default,,0000,0000,0000,,I’ll be fine!
+Dialogue: 0,0:18:18.79,0:18:21.08,Default,,0000,0000,0000,,Because my darling’s here to cheer me on!
+Dialogue: 0,0:18:21.08,0:18:22.38,Default,,0000,0000,0000,,Do your best!
+Dialogue: 0,0:18:23.03,0:18:25.37,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:18:25.37,0:18:29.71,Default,,0000,0000,0000,,Diamond Head Dragon attacks Globerman!
+Dialogue: 0,0:18:36.99,0:18:38.34,Default,,0000,0000,0000,,She did it!
+Dialogue: 0,0:18:38.34,0:18:39.99,Default,,0000,0000,0000,,This match is up for grabs!
+Dialogue: 0,0:18:39.99,0:18:40.99,Default,,0000,0000,0000,,Rebecca!
+Dialogue: 0,0:18:41.31,0:18:43.99,Default,,0000,0000,0000,,I set one card and end my turn!
+Dialogue: 0,0:18:44.91,0:18:47.31,Default,,0000,0000,0000,,The set card is Dragon’s Rage.
+Dialogue: 0,0:18:47.31,0:18:57.11,Default,,0000,0000,0000,,My monster can deal piercing damage if its attack points are higher than his defense points.
+Dialogue: 0,0:18:57.77,0:19:03.27,Default,,0000,0000,0000,,As long as he doesn’t summon a monster with 2500 or higher defense points, I win.
+Dialogue: 0,0:19:03.27,0:19:05.53,Default,,0000,0000,0000,,My turn!  I draw!
+Dialogue: 0,0:19:06.09,0:19:10.12,Default,,0000,0000,0000,,I activate the spell card, Gold Moon Coin from my hand!
+Dialogue: 0,0:19:10.12,0:19:11.52,Default,,0000,0000,0000,,I’ll give you this.
+Dialogue: 0,0:19:12.17,0:19:17.16,Default,,0000,0000,0000,,I can activate Gold Moon Coin by giving you the remaining cards in my hand.
+Dialogue: 0,0:19:17.63,0:19:21.65,Default,,0000,0000,0000,,Then I draw the same number of cards from my deck.
+Dialogue: 0,0:19:22.68,0:19:24.66,Default,,0000,0000,0000,,Spinning Wheel Spindle?
+Dialogue: 0,0:19:24.66,0:19:29.52,Default,,0000,0000,0000,,But you can use this card to destroy my monster.
+Dialogue: 0,0:19:29.52,0:19:36.99,Default,,0000,0000,0000,,If you summon a monster with at least 900 attack points next turn, I’ll lose anyway.
+Dialogue: 0,0:19:36.99,0:19:39.46,Default,,0000,0000,0000,,So I’ll bet on the future.
+Dialogue: 0,0:19:39.46,0:19:40.45,Default,,0000,0000,0000,,Leon...
+Dialogue: 0,0:19:40.45,0:19:41.75,Default,,0000,0000,0000,,Leon...
+Dialogue: 0,0:19:42.27,0:19:46.46,Default,,0000,0000,0000,,I sense quiet - but incredible - spirit from him.
+Dialogue: 0,0:19:46.46,0:19:48.95,Default,,0000,0000,0000,,Here I go, Rebecca!
+Dialogue: 0,0:19:48.95,0:19:53.46,Default,,0000,0000,0000,,I activate the spell card, 100-Year Awakening from my hand!
+Dialogue: 0,0:19:53.46,0:19:54.82,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:19:55.43,0:19:58.43,Default,,0000,0000,0000,,I tribute Curse of Thorns.
+Dialogue: 0,0:20:00.93,0:20:04.47,Default,,0000,0000,0000,,To Special Summon Thorn Princess from my deck!
+Dialogue: 0,0:20:04.47,0:20:06.43,Default,,0000,0000,0000,,Thorn Princess?
+Dialogue: 0,0:20:06.44,0:20:08.64,Default,,0000,0000,0000,,W-What’s going to happen?
+Dialogue: 0,0:20:15.45,0:20:18.32,Default,,0000,0000,0000,,I activate Thorn Princess’s effect!
+Dialogue: 0,0:20:18.32,0:20:21.99,Default,,0000,0000,0000,,When it’s summoned, I gain control of one of your monsters!
+Dialogue: 0,0:20:21.99,0:20:23.32,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:20:30.25,0:20:34.03,Default,,0000,0000,0000,,Diamond Head Dragon attacks you directly!
+Dialogue: 0,0:20:38.60,0:20:40.05,Default,,0000,0000,0000,,Rebecca!
+Dialogue: 0,0:20:44.11,0:20:48.61,Default,,0000,0000,0000,,Master Seto, we’ve finished our investigation on Sieg Lloyd.
+Dialogue: 0,0:20:49.51,0:20:53.12,Default,,0000,0000,0000,,Like I thought, you’re the rat.
+Dialogue: 0,0:20:56.20,0:20:58.63,Default,,0000,0000,0000,,I’m sorry, Rebecca.
+Dialogue: 0,0:20:58.63,0:21:00.46,Default,,0000,0000,0000,,Why are you apologizing?
+Dialogue: 0,0:21:01.12,0:21:02.62,Default,,0000,0000,0000,,Congrats.
+Dialogue: 0,0:21:02.62,0:21:06.03,Default,,0000,0000,0000,,Make sure you win the finals so you can duel Yugi.
+Dialogue: 0,0:21:06.86,0:21:08.26,Default,,0000,0000,0000,,Rebecca...
+Dialogue: 0,0:21:08.26,0:21:11.19,Default,,0000,0000,0000,,Sometimes, she’s all right.
+Dialogue: 0,0:21:11.19,0:21:12.87,Default,,0000,0000,0000,,She’s more gracious than you.
+Dialogue: 0,0:21:17.11,0:21:19.61,Default,,0000,0000,0000,,Rebecca, you did well.
+Dialogue: 0,0:21:19.61,0:21:21.30,Default,,0000,0000,0000,,Darling...
+Dialogue: 0,0:21:24.32,0:21:27.63,Default,,0000,0000,0000,,Darling, I lost because you came late!
+Dialogue: 0,0:21:30.03,0:21:31.12,Default,,0000,0000,0000,,I’m sorry.
+Dialogue: 0,0:21:31.12,0:21:34.12,Default,,0000,0000,0000,,Rebecca still has much to improve.
+Dialogue: 0,0:21:34.19,0:21:35.65,Default,,0000,0000,0000,,You’re one to talk!
+Dialogue: 0,0:21:36.43,0:21:37.63,Default,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:21:53.63,0:22:08.25,Default,,0000,0000,0000,,Right now, we don’t need a map
+Dialogue: 0,0:22:08.41,0:22:23.97,Default,,0000,0000,0000,,The miracle that tore through the darkness is in my hand
+Dialogue: 0,0:22:24.69,0:22:29.81,Default,,0000,0000,0000,,Without a goal in mind
+Dialogue: 0,0:22:31.13,0:22:38.38,Default,,0000,0000,0000,,We just step towards our dream
+Dialogue: 0,0:22:38.77,0:22:44.02,Default,,0000,0000,0000,,EYE’S  As you sense it
+Dialogue: 0,0:22:44.21,0:22:52.49,Default,,0000,0000,0000,,Your eye will find it
+Dialogue: 0,0:22:52.85,0:22:58.30,Default,,0000,0000,0000,,Oh! EYE’S  What you wish for
+Dialogue: 0,0:22:59.09,0:23:06.44,Default,,0000,0000,0000,,Will touch your soul
+Dialogue: 0,0:23:06.63,0:23:09.70,Default,,0000,0000,0000,,In a duel
+Dialogue: 0,0:23:17.82,0:23:21.15,Default,,0000,0000,0000,,First Jonouchi, now Rebecca has lost.
+Dialogue: 0,0:23:21.15,0:23:26.47,Default,,0000,0000,0000,,The KC Grand Prix finals will be Leon vs Sieg.
+Dialogue: 0,0:23:26.47,0:23:28.05,Default,,0000,0000,0000,,What an unexpected development.
+Dialogue: 0,0:23:28.05,0:23:31.89,Default,,0000,0000,0000,,Of course we’re rooting for Leon.
+Dialogue: 0,0:23:31.89,0:23:34.18,Default,,0000,0000,0000,,Win it for all of us!
+Dialogue: 0,0:23:34.18,0:23:37.97,Default,,0000,0000,0000,,Huh?  Kaiba got in between them.
+Dialogue: 0,0:23:37.97,0:23:41.18,Default,,0000,0000,0000,,Is Kaiba planning to duel?
+Dialogue: 0,0:23:41.18,0:23:45.03,Default,,0000,0000,0000,,Next time on Yu-Gi-Oh!:\NKaiba Steps In!\NGrand Prix Finals
+Dialogue: 0,0:23:45.03,0:23:46.35,Default,,0000,0000,0000,,Duel, standby!
+Dialogue: 0,0:23:46.35,0:23:48.35,Default,,0000,0000,0000,,

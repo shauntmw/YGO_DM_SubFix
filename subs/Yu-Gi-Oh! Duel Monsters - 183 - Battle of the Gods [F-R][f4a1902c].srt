@@ -1,0 +1,242 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: 4kmedia  [http://www.crunchyroll.com/user/4kmedia]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 480
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,EquitanSans-Regular,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,25,1
+Style: note,Arial,20,&H0014F2F5,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Yu-Gi-Oh Yellow,Trebuchet MS,28,&H0000FFFF,&H0000FFFF,&H00232323,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+Style: Yu-Gi-Oh,Trebuchet MS,28,&H00D7D7DB,&H0000FFFF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,51,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:17.37,0:00:23.50,Default,,0000,0000,0000,,Before I knew it, I abandoned happiness to survive
+Dialogue: 0,0:00:24.17,0:00:30.64,Default,,0000,0000,0000,,Lying to myself, I danced clinging on to illusions
+Dialogue: 0,0:00:31.30,0:00:37.05,Default,,0000,0000,0000,,At the edge of my vision when I close my eyes
+Dialogue: 0,0:00:37.72,0:00:43.10,Default,,0000,0000,0000,,I was searching for your smile
+Dialogue: 0,0:00:44.23,0:00:50.66,Default,,0000,0000,0000,,With our memories fading
+Dialogue: 0,0:00:51.15,0:00:57.74,Default,,0000,0000,0000,,We hold on to our dreams and run  Yeah
+Dialogue: 0,0:00:58.12,0:01:04.64,Default,,0000,0000,0000,,These feelings that I shut away in my heart
+Dialogue: 0,0:01:05.21,0:01:11.88,Default,,0000,0000,0000,,I’ll now grasp them again
+Dialogue: 0,0:01:29.55,0:01:34.65,Default,,0000,0000,0000,,The Legendary Knights defeated Dartz and freed my friends’ souls.
+Dialogue: 0,0:01:34.65,0:01:43.79,Default,,0000,0000,0000,,But Dartz sacrificed himself and the remaining souls to revive the god of Orichalcos.
+Dialogue: 0,0:01:43.79,0:01:49.58,Default,,0000,0000,0000,,As Atlantis rose into the sky, the giant god of Orichalcos also appeared.
+Dialogue: 0,0:01:49.58,0:01:54.01,Default,,0000,0000,0000,,Is there any way to defeat it?
+Dialogue: 0,0:01:54.01,0:02:00.01,Default,,0000,0000,0000,,Battle of the Gods
+Dialogue: 0,0:02:03.76,0:02:05.31,Default,,0000,0000,0000,,This light...
+Dialogue: 0,0:02:14.27,0:02:18.07,Default,,0000,0000,0000,,Everyone!  Now’s the time to lend our strength to our master!
+Dialogue: 0,0:02:25.37,0:02:26.62,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:02:42.54,0:02:44.26,Default,,0000,0000,0000,,Duel Monsters!
+Dialogue: 0,0:02:45.24,0:02:47.85,Default,,0000,0000,0000,,Yugi!  Chump!  Don’t waste time!
+Dialogue: 0,0:02:47.85,0:02:50.27,Default,,0000,0000,0000,,It’s our chance to rebuild our team!
+Dialogue: 0,0:02:50.27,0:02:52.98,Default,,0000,0000,0000,,Don’t call me a chump!
+Dialogue: 0,0:02:52.98,0:02:55.02,Default,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:02:55.38,0:02:56.55,Default,,0000,0000,0000,,Gearfried!
+Dialogue: 0,0:02:56.55,0:02:57.88,Default,,0000,0000,0000,,Rocket Warrior!
+Dialogue: 0,0:02:57.88,0:02:59.72,Default,,0000,0000,0000,,Gilford the Lightning!
+Dialogue: 0,0:03:01.18,0:03:04.35,Default,,0000,0000,0000,,Come out, XYZ-Dragon Cannon!
+Dialogue: 0,0:03:05.18,0:03:06.37,Default,,0000,0000,0000,,Blade Knight!
+Dialogue: 0,0:03:06.37,0:03:08.54,Default,,0000,0000,0000,,Kaiser Sea Horse!
+Dialogue: 0,0:03:08.54,0:03:10.83,Default,,0000,0000,0000,,Black Luster Soldier!
+Dialogue: 0,0:03:11.86,0:03:13.60,Default,,0000,0000,0000,,Buster Blader!
+Dialogue: 0,0:03:13.60,0:03:15.80,Default,,0000,0000,0000,,Valkyrion the Magna Warrior!
+Dialogue: 0,0:03:23.47,0:03:24.72,Default,,0000,0000,0000,,Work this time!
+Dialogue: 0,0:03:36.40,0:03:38.84,Default,,0000,0000,0000,,All right!  Keep pushing!
+Dialogue: 0,0:03:50.38,0:03:53.37,Default,,0000,0000,0000,,Gearfried!  Gilford the Lightning!
+Dialogue: 0,0:03:58.05,0:03:59.55,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:04:04.74,0:04:05.97,Default,,0000,0000,0000,,They’re all gone!
+Dialogue: 0,0:04:18.65,0:04:19.90,Default,,0000,0000,0000,,Critias!
+Dialogue: 0,0:04:19.90,0:04:21.40,Default,,0000,0000,0000,,Hermos!
+Dialogue: 0,0:04:21.96,0:04:23.91,Default,,0000,0000,0000,,The Legendary Knights are...
+Dialogue: 0,0:04:35.01,0:04:37.92,Default,,0000,0000,0000,,Damn!  Nothing works!
+Dialogue: 0,0:04:44.86,0:04:46.68,Default,,0000,0000,0000,,Let me go!
+Dialogue: 0,0:04:49.23,0:04:50.39,Default,,0000,0000,0000,,Master!
+Dialogue: 0,0:05:02.41,0:05:04.43,Default,,0000,0000,0000,,Legendary duelists.
+Dialogue: 0,0:05:04.43,0:05:05.23,Default,,0000,0000,0000,,Dartz!
+Dialogue: 0,0:05:05.59,0:05:08.47,Default,,0000,0000,0000,,This god will never run out of power.
+Dialogue: 0,0:05:08.47,0:05:16.53,Default,,0000,0000,0000,,Because the source of its power is the darkness in the captured souls’ hearts.
+Dialogue: 0,0:05:16.53,0:05:20.74,Default,,0000,0000,0000,,Can’t you hear their voices inside me?
+Dialogue: 0,0:05:21.25,0:05:23.30,Default,,0000,0000,0000,,The captured souls...
+Dialogue: 0,0:05:26.10,0:05:27.50,Default,,0000,0000,0000,,These voices…
+Dialogue: 0,0:05:28.81,0:05:30.75,Default,,0000,0000,0000,,Rafael!  Haga!
+Dialogue: 0,0:05:34.24,0:05:35.26,Default,,0000,0000,0000,,Amelda!
+Dialogue: 0,0:05:39.06,0:05:41.89,Default,,0000,0000,0000,,Mai!  Valon!  Ryuzaki!
+Dialogue: 0,0:05:41.89,0:05:46.62,Default,,0000,0000,0000,,I sense the darkness in Mai, Valon and everyone’s hearts.
+Dialogue: 0,0:05:47.51,0:05:51.01,Default,,0000,0000,0000,,They’re getting stronger again?
+Dialogue: 0,0:05:52.29,0:05:59.40,Default,,0000,0000,0000,,Yes.  Humans can’t defeat the darkness in their hearts.
+Dialogue: 0,0:05:59.40,0:06:02.59,Default,,0000,0000,0000,,You may deny the darkness in your hearts.
+Dialogue: 0,0:06:02.59,0:06:07.53,Default,,0000,0000,0000,,But as long as there’s even a sliver, it’ll keep reviving.
+Dialogue: 0,0:06:07.53,0:06:13.86,Default,,0000,0000,0000,,So everything we’ve done is in vain?
+Dialogue: 0,0:06:13.86,0:06:16.02,Default,,0000,0000,0000,,No way!  I don’t believe it!
+Dialogue: 0,0:06:16.02,0:06:17.82,Default,,0000,0000,0000,,I’ll never believe it!
+Dialogue: 0,0:06:17.82,0:06:19.28,Default,,0000,0000,0000,,Jonouchi!
+Dialogue: 0,0:06:19.63,0:06:21.31,Default,,0000,0000,0000,,Mai!  Valon!
+Dialogue: 0,0:06:21.31,0:06:22.27,Default,,0000,0000,0000,,It’s not true!
+Dialogue: 0,0:06:22.27,0:06:28.21,Default,,0000,0000,0000,,It was only for a moment, but we understood each other!
+Dialogue: 0,0:06:28.21,0:06:32.78,Default,,0000,0000,0000,,Amelda, you’re going to die pointlessly?
+Dialogue: 0,0:06:34.39,0:06:37.74,Default,,0000,0000,0000,,Nameless Pharaoh, Seto and Jonouchi.
+Dialogue: 0,0:06:37.74,0:06:41.02,Default,,0000,0000,0000,,Fall victim to my god.
+Dialogue: 0,0:06:41.39,0:06:43.69,Default,,0000,0000,0000,,Yugi!  Kaiba!
+Dialogue: 0,0:06:44.43,0:06:46.02,Default,,0000,0000,0000,,Jonouchi!
+Dialogue: 0,0:06:47.34,0:06:48.82,Default,,0000,0000,0000,,Dammit!
+Dialogue: 0,0:06:51.62,0:06:52.94,Default,,0000,0000,0000,,Dartz!
+Dialogue: 0,0:06:54.35,0:06:55.98,Default,,0000,0000,0000,,Master!
+Dialogue: 0,0:07:09.02,0:07:10.27,Default,,0000,0000,0000,,Partner!
+Dialogue: 0,0:07:10.27,0:07:13.32,Default,,0000,0000,0000,,My other self, don’t give up!
+Dialogue: 0,0:07:13.72,0:07:19.85,Default,,0000,0000,0000,,If you can hear everyone’s grief, then they can hear our souls yell too.
+Dialogue: 0,0:07:19.85,0:07:22.83,Default,,0000,0000,0000,,Our yell...  I see!
+Dialogue: 0,0:07:22.83,0:07:25.34,Default,,0000,0000,0000,,Rafael!  Mai!
+Dialogue: 0,0:07:25.34,0:07:28.94,Default,,0000,0000,0000,,Haga.  Ryuzaki.  Everyone!
+Dialogue: 0,0:07:30.25,0:07:35.21,Default,,0000,0000,0000,,Listen.  It’s not easy to overcome the darkness in your hearts.
+Dialogue: 0,0:07:35.21,0:07:40.38,Default,,0000,0000,0000,,But I learned something from this fight and your sacrifices.
+Dialogue: 0,0:07:41.61,0:07:48.69,Default,,0000,0000,0000,,Our friendship created a vessel of memories inside us, and that can never vanish.
+Dialogue: 0,0:07:49.74,0:07:54.32,Default,,0000,0000,0000,,I’m fine breaking many times.
+Dialogue: 0,0:07:56.07,0:08:05.03,Default,,0000,0000,0000,,Because if we truly believe in that vessel, we can keep being reborn.
+Dialogue: 0,0:08:05.03,0:08:08.98,Default,,0000,0000,0000,,We can always walk inside the light of our souls!
+Dialogue: 0,0:08:09.76,0:08:17.09,Default,,0000,0000,0000,,Everyone, remember those who fought for you and shared in your struggles!
+Dialogue: 0,0:09:32.97,0:09:37.29,Default,,0000,0000,0000,,My god’s revival is complete.
+Dialogue: 0,0:09:48.61,0:09:50.11,Default,,0000,0000,0000,,What’s that?
+Dialogue: 0,0:09:53.03,0:09:55.75,Default,,0000,0000,0000,,I see!  My master’s deck still has…
+Dialogue: 0,0:09:57.07,0:09:57.82,Default,,0000,0000,0000,,Everyone!
+Dialogue: 0,0:10:07.55,0:10:12.34,Default,,0000,0000,0000,,Yugi!  My remaning strength…
+Dialogue: 0,0:10:12.34,0:10:16.40,Default,,0000,0000,0000,,I’ll let you have it!
+Dialogue: 0,0:10:29.93,0:10:30.83,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:10:32.16,0:10:33.82,Default,,0000,0000,0000,,I feel it.
+Dialogue: 0,0:10:34.58,0:10:37.84,Default,,0000,0000,0000,,I feel everyone’s emotions.
+Dialogue: 0,0:10:37.84,0:10:41.96,Default,,0000,0000,0000,,The new energy that you awakened!
+Dialogue: 0,0:10:51.14,0:10:55.42,Default,,0000,0000,0000,,After 3,000 years, I order in the name of the Pharaoh!
+Dialogue: 0,0:10:58.14,0:10:59.41,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:11:00.34,0:11:04.42,Default,,0000,0000,0000,,Resurrect!  The three gods, come forth!
+Dialogue: 0,0:11:18.99,0:11:23.49,Default,,0000,0000,0000,,Resurrect!  The three gods, come forth!
+Dialogue: 0,0:11:45.52,0:11:46.98,Default,,0000,0000,0000,,That’s...
+Dialogue: 0,0:11:48.21,0:11:51.84,Default,,0000,0000,0000,,Obelisk!  Slifer!  Ra!
+Dialogue: 0,0:11:53.02,0:11:54.97,Default,,0000,0000,0000,,They’ve resurrected!
+Dialogue: 0,0:11:55.40,0:11:57.38,Default,,0000,0000,0000,,The three gods!
+Dialogue: 0,0:11:57.92,0:12:02.39,Default,,0000,0000,0000,,Impossible!  The God Cards have revived?
+Dialogue: 0,0:12:27.89,0:12:29.84,Default,,0000,0000,0000,,My other self...
+Dialogue: 0,0:12:44.42,0:12:45.35,Default,,0000,0000,0000,,Dartz!
+Dialogue: 0,0:12:45.67,0:12:48.37,Default,,0000,0000,0000,,Nameless Pharaoh!
+Dialogue: 0,0:12:48.37,0:12:53.75,Default,,0000,0000,0000,,The Orichalcos god will vanquish the Duel Monsters gods!
+Dialogue: 0,0:13:24.74,0:13:26.68,Default,,0000,0000,0000,,The gods are fighting.
+Dialogue: 0,0:13:26.68,0:13:30.27,Default,,0000,0000,0000,,In the sky above us.
+Dialogue: 0,0:13:31.33,0:13:33.27,Default,,0000,0000,0000,,My other self...
+Dialogue: 0,0:13:40.89,0:13:46.10,Default,,0000,0000,0000,,Duel Monsters, you keep interfering with me!
+Dialogue: 0,0:13:46.10,0:13:48.18,Default,,0000,0000,0000,,This strike will end you!
+Dialogue: 0,0:13:58.00,0:14:00.39,Default,,0000,0000,0000,,Go, Obelisk!
+Dialogue: 0,0:14:00.39,0:14:02.63,Default,,0000,0000,0000,,God Hand Crusher!
+Dialogue: 0,0:14:06.81,0:14:08.14,Default,,0000,0000,0000,,Slifer!
+Dialogue: 0,0:14:09.05,0:14:11.37,Default,,0000,0000,0000,,Thunder Force!
+Dialogue: 0,0:14:13.97,0:14:15.02,Default,,0000,0000,0000,,Ra!
+Dialogue: 0,0:14:16.42,0:14:18.38,Default,,0000,0000,0000,,God Blaze Cannon!
+Dialogue: 0,0:14:52.81,0:14:57.43,Default,,0000,0000,0000,,Dartz!  We won’t succumb to the darkness in our hearts!
+Dialogue: 0,0:15:13.26,0:15:15.23,Default,,0000,0000,0000,,Impossible!
+Dialogue: 0,0:15:33.21,0:15:35.97,Default,,0000,0000,0000,,Did the three gods win?
+Dialogue: 0,0:15:35.97,0:15:39.96,Default,,0000,0000,0000,,Then all the captured souls will be free!
+Dialogue: 0,0:15:56.02,0:15:59.21,Default,,0000,0000,0000,,Mai, wake up.  Mai.
+Dialogue: 0,0:16:01.62,0:16:03.96,Default,,0000,0000,0000,,Valon!  Are we…
+Dialogue: 0,0:16:03.96,0:16:10.00,Default,,0000,0000,0000,,They freed us from the darkness in our hearts.
+Dialogue: 0,0:16:13.69,0:16:17.55,Default,,0000,0000,0000,,Yugi...  Kaiba...  Jonouchi...
+Dialogue: 0,0:16:18.63,0:16:20.58,Default,,0000,0000,0000,,Let’s go back, Mai.
+Dialogue: 0,0:16:20.58,0:16:21.59,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:16:29.80,0:16:31.37,Default,,0000,0000,0000,,Brother...
+Dialogue: 0,0:16:31.37,0:16:32.57,Default,,0000,0000,0000,,Brother...
+Dialogue: 0,0:16:33.09,0:16:34.32,Default,,0000,0000,0000,,Brother!
+Dialogue: 0,0:16:36.60,0:16:37.69,Default,,0000,0000,0000,,Mirko.
+Dialogue: 0,0:16:37.69,0:16:39.04,Default,,0000,0000,0000,,Brother!
+Dialogue: 0,0:16:39.61,0:16:41.56,Default,,0000,0000,0000,,Sonia!  Julien!
+Dialogue: 0,0:16:42.60,0:16:44.57,Default,,0000,0000,0000,,Father!  Mother!
+Dialogue: 0,0:16:45.02,0:16:46.47,Default,,0000,0000,0000,,Brother.
+Dialogue: 0,0:16:47.00,0:16:49.88,Default,,0000,0000,0000,,Our souls will always be…
+Dialogue: 0,0:16:49.88,0:16:51.16,Default,,0000,0000,0000,,…with you.
+Dialogue: 0,0:16:51.16,0:16:52.57,Default,,0000,0000,0000,,Forever.
+Dialogue: 0,0:16:53.10,0:16:55.58,Default,,0000,0000,0000,,Sonia...  Julien...
+Dialogue: 0,0:16:56.12,0:16:58.08,Default,,0000,0000,0000,,Mirko.
+Dialogue: 0,0:16:58.08,0:16:59.54,Default,,0000,0000,0000,,Brother.
+Dialogue: 0,0:17:04.09,0:17:05.44,Default,,0000,0000,0000,,Mirko...
+Dialogue: 0,0:17:22.71,0:17:27.10,Default,,0000,0000,0000,,Father, Mother, Sonia, Julien.
+Dialogue: 0,0:17:29.39,0:17:32.57,Default,,0000,0000,0000,,Amelda, let’s go back.
+Dialogue: 0,0:17:32.57,0:17:33.51,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:17:45.02,0:17:46.02,Default,,0000,0000,0000,,Where am I?
+Dialogue: 0,0:17:46.43,0:17:48.56,Default,,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:17:49.03,0:17:50.03,Default,,0000,0000,0000,,Oh yeah...
+Dialogue: 0,0:17:50.03,0:17:54.53,Default,,0000,0000,0000,,The Nameless Pharaoh saved me.
+Dialogue: 0,0:17:54.97,0:18:00.54,Default,,0000,0000,0000,,Those lights...  They’re going home.
+Dialogue: 0,0:18:09.54,0:18:11.58,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:18:14.86,0:18:16.66,Default,,0000,0000,0000,,My other self!
+Dialogue: 0,0:18:16.66,0:18:17.70,Default,,0000,0000,0000,,Partner.
+Dialogue: 0,0:18:21.13,0:18:22.95,Default,,0000,0000,0000,,This place is crumbling!
+Dialogue: 0,0:18:22.95,0:18:24.87,Default,,0000,0000,0000,,Yeah!  Hurry!
+Dialogue: 0,0:18:34.47,0:18:36.14,Default,,0000,0000,0000,,It’s still there!
+Dialogue: 0,0:18:36.63,0:18:39.41,Default,,0000,0000,0000,,That leads back to our world!
+Dialogue: 0,0:18:39.41,0:18:40.97,Default,,0000,0000,0000,,Jump in!
+Dialogue: 0,0:18:42.91,0:18:44.42,Default,,0000,0000,0000,,Wait, partner!
+Dialogue: 0,0:18:45.91,0:18:47.48,Default,,0000,0000,0000,,My other self?
+Dialogue: 0,0:18:47.48,0:18:49.42,Default,,0000,0000,0000,,I sense...
+Dialogue: 0,0:18:55.35,0:18:56.36,Default,,0000,0000,0000,,Dartz!
+Dialogue: 0,0:19:10.22,0:19:11.20,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:19:11.20,0:19:15.43,Default,,0000,0000,0000,,He survived the three gods’ attacks!
+Dialogue: 0,0:19:16.22,0:19:17.65,Default,,0000,0000,0000,,Timaeus!
+Dialogue: 0,0:19:26.94,0:19:27.94,Default,,0000,0000,0000,,Timaeus!
+Dialogue: 0,0:19:27.94,0:19:29.86,Default,,0000,0000,0000,,Come back, Timaeus!
+Dialogue: 0,0:19:32.25,0:19:34.00,Default,,0000,0000,0000,,My other self.
+Dialogue: 0,0:19:34.00,0:19:36.38,Default,,0000,0000,0000,,What is that?
+Dialogue: 0,0:19:36.88,0:19:40.32,Default,,0000,0000,0000,,It’s nothing like the monsters I know!
+Dialogue: 0,0:19:41.16,0:19:43.15,Default,,0000,0000,0000,,Nameless Pharaoh.
+Dialogue: 0,0:19:43.46,0:19:44.54,Default,,0000,0000,0000,,Dartz!
+Dialogue: 0,0:19:45.07,0:19:47.56,Default,,0000,0000,0000,,None of your attacks will work.
+Dialogue: 0,0:19:47.56,0:19:51.56,Default,,0000,0000,0000,,This giant snake is the god of Orichalcos.
+Dialogue: 0,0:19:52.13,0:19:53.06,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:19:53.06,0:19:54.06,Default,,0000,0000,0000,,It is?
+Dialogue: 0,0:19:54.06,0:19:59.44,Default,,0000,0000,0000,,It’s the manifestation of the planet’s malice towards humans.
+Dialogue: 0,0:19:59.44,0:20:02.56,Default,,0000,0000,0000,,The hate for what humans did to this planet.
+Dialogue: 0,0:20:02.99,0:20:04.47,Default,,0000,0000,0000,,The planet’s hate?
+Dialogue: 0,0:20:04.47,0:20:05.56,Default,,0000,0000,0000,,So…
+Dialogue: 0,0:20:05.87,0:20:15.05,Default,,0000,0000,0000,,Yes.  Until either this planet or the humans are gone, the darkness in the planet’s heart won’t vanish.
+Dialogue: 0,0:20:15.05,0:20:18.14,Default,,0000,0000,0000,,That’s what this monster is.
+Dialogue: 0,0:20:19.86,0:20:23.16,Default,,0000,0000,0000,,Run, partner!  I’ll stop it!
+Dialogue: 0,0:20:23.16,0:20:25.08,Default,,0000,0000,0000,,My other self!
+Dialogue: 0,0:20:27.98,0:20:33.22,Default,,0000,0000,0000,,Unless I defeat it, history will repeat itself!
+Dialogue: 0,0:20:35.73,0:20:39.97,Default,,0000,0000,0000,,You’re the one who brought my soul here!
+Dialogue: 0,0:20:45.96,0:20:51.96,Default,,0000,0000,0000,,Partner, I learned something when I gained everyone’s power in this battle.
+Dialogue: 0,0:20:51.96,0:20:54.52,Default,,0000,0000,0000,,A Pharaoh’s duty and responsibility.
+Dialogue: 0,0:20:54.52,0:20:56.38,Default,,0000,0000,0000,,It’s clear now.
+Dialogue: 0,0:20:56.38,0:21:01.32,Default,,0000,0000,0000,,My duty as a Pharaoh is to remove the darkness in this planet’s heart!
+Dialogue: 0,0:21:01.32,0:21:03.26,Default,,0000,0000,0000,,A Pharaoh’s duty...
+Dialogue: 0,0:21:03.88,0:21:07.76,Default,,0000,0000,0000,,Bring it on!  I’ll take your anger and hatred!
+Dialogue: 0,0:21:08.42,0:21:10.76,Default,,0000,0000,0000,,I’ll take everything!
+Dialogue: 0,0:21:10.76,0:21:14.46,Default,,0000,0000,0000,,Darkness in the planet’s heart!  Possess me!
+Dialogue: 0,0:21:22.51,0:21:24.44,Default,,0000,0000,0000,,My other self!
+Dialogue: 0,0:21:38.01,0:21:39.16,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:21:53.08,0:22:01.96,Default,,0000,0000,0000,,The streets flow by, colored in red
+Dialogue: 0,0:22:02.49,0:22:10.10,Default,,0000,0000,0000,,If you notice your pain, it changes to joy
+Dialogue: 0,0:22:12.06,0:22:21.49,Default,,0000,0000,0000,,People learn of friendship every time they wipe their tears
+Dialogue: 0,0:22:22.10,0:22:30.98,Default,,0000,0000,0000,,With the warm strength you gave me, I’ll change them into kindness
+Dialogue: 0,0:22:31.70,0:22:40.04,Default,,0000,0000,0000,,My overflowing emotions don’t stop
+Dialogue: 0,0:22:40.82,0:22:45.55,Default,,0000,0000,0000,,I’ll live feeling them
+Dialogue: 0,0:22:46.16,0:22:50.70,Default,,0000,0000,0000,,For me to be me
+Dialogue: 0,0:22:50.70,0:22:59.19,Default,,0000,0000,0000,,Overflowing friendship heals me
+Dialogue: 0,0:22:59.87,0:23:04.83,Default,,0000,0000,0000,,Our chance meeting was real
+Dialogue: 0,0:23:05.35,0:23:14.49,Default,,0000,0000,0000,,We’ll both understand that someday
+Dialogue: 0,0:23:18.37,0:23:22.71,Default,,0000,0000,0000,,The three gods - Obelisk, Slifer and Ra - resurrected and attacked.
+Dialogue: 0,0:23:22.71,0:23:26.59,Default,,0000,0000,0000,,They stopped the god of Orichalcos and Dartz’s plans!
+Dialogue: 0,0:23:26.59,0:23:31.22,Default,,0000,0000,0000,,But that didn’t undo the curse that this planet put on humans.
+Dialogue: 0,0:23:31.22,0:23:34.31,Default,,0000,0000,0000,,Yugi takes on the giant snake’s attack.
+Dialogue: 0,0:23:34.31,0:23:38.05,Default,,0000,0000,0000,,If he loses, Yugi will become another Dartz.
+Dialogue: 0,0:23:38.05,0:23:42.22,Default,,0000,0000,0000,,This planet and our futures are in Yugi’s hands.
+Dialogue: 0,0:23:42.22,0:23:45.03,Default,,0000,0000,0000,,Next time on Yu-Gi-Oh!:\NWalk Inside the Light
+Dialogue: 0,0:23:45.03,0:23:46.23,Default,,0000,0000,0000,,Duel, standby!
+Dialogue: 0,0:23:46.23,0:23:48.23,Default,,0000,0000,0000,,
